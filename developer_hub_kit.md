@@ -29,16 +29,21 @@ The most important element of a developer hub is access to each of the APIs. Usu
 A Terms of Service (ToS) provides the legal framework by which the API provider conveys any rules or regulations that developers need to know. Developers agree to the terms set out in the ToS by their use of the API itself and thus enable the API producer to regulate use of their API if necessary. Common elements include but are not limited to attribution, modification, false representation, right to limit, right to terminate, and indemnification. This is a particularly good area to review the Terms of Service of other government APIs and consider re-using their material instead of starting from scratch. This element is often composed of static page content.
 
 ### .Gov Examples  
-* [Department of Labor](http://developer.dol.gov/terms-service)
-* [Census Bureau](http://www.census.gov/developers/tos/terms.html)
-* [Economic Research Service - USDA](http://www.ers.usda.gov/developer/api-terms-of-service.aspx)
-* [Energy Information Administration](http://www.eia.gov/beta/api/tos.cfm)
-* [Federal Motor Carrier Safety Administration](https://mobile.fmcsa.dot.gov/developer/tou.page?cid=1140526)
-* [Federal Communications Commission](http://www.fcc.gov/developers/api-terms-of-service)
+* [Department of Labor](http://developer.dol.gov/terms-service)*
+* [Bureau of Economic Analysis - Commerce](http://www.bea.gov/API/_pdf/bea_api_tos.pdf)*
+* [Census Bureau - Commerce](http://www.census.gov/developers/tos/terms.html)*
+* [Agricultural Marketing Service - USDA](http://search.ams.usda.gov/farmersmarkets/v1/APITOS.html)
+* [Economic Research Service - USDA](http://www.ers.usda.gov/developer/api-terms-of-service.aspx)*
+* [Energy Information Administration](http://www.eia.gov/beta/api/tos.cfm)*
+* [Federal Motor Carrier Safety Administration](https://mobile.fmcsa.dot.gov/developer/tou.page?cid=1140526)*
+* [Federal Communications Commission](http://www.fcc.gov/developers/api-terms-of-service)*
 * [National Institute on Drug Abuse](http://www.drugabuse.gov/developers/nmassist/apiterms)
 * [HealthFinder.gov](http://healthfinder.gov/developer/Term_of_Use.aspx)
-* [USA.gov](http://www.usa.gov/About/developer-resources/terms-of-service.shtml)
+* [HealthIndicators.gov](http://www.healthindicators.gov/PoliciesAndRegulations/APITermsOfService)
+* [USA.gov](http://www.usa.gov/About/developer-resources/terms-of-service.shtml)* 
  
+*(*Indicates a common ToS)*
+
 ## Status Dashboard  
 As agency API efforts become more complex and developers grow more dependent on the services, the status of each service becomes increasingly important. The goal of such a dashboard is to provide information on the current status of each API as well as planned future status changes (e.g., downtime during a system upgrade). The dashboard can be manually maintained, with upcoming or current system updates written out. A straightforward application can also be used to check the server response codes for each API on a regular basis (~every 5 minutes) and automatically change an API’s status on the dashboard. This has the benefit of ensuring quick updates for developers, whose applications may rely on this news. Even with an automated dashboard, there is also a need for the API producer to provide human updates in the event of downtime in order to communicate with interested developers.
 
