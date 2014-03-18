@@ -1,10 +1,9 @@
 
 
 
-
 ## Trainings available to agencies 
 
-18F offers a range of in-person or remote trainings for federal agencies to help them better understand and use APIs.  
+18F offers a range of in-person or remote trainings for federal agencies to help them better understand and use APIs. If you are interested in one or more of the below trainings, contact Gray Brooks at GSA.    
 
 
 ### API training for executives
