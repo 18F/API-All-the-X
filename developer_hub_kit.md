@@ -1,4 +1,3 @@
-
 * auto-gen TOC:
 {:toc}
 
@@ -32,6 +31,7 @@ A Terms of Service (ToS) provides the legal framework by which the API provider 
 ### .Gov Examples  
 * [Department of Labor](http://developer.dol.gov/terms-service)
 * [Census Bureau](http://www.census.gov/developers/tos/terms.html)
+* [Economic Research Service - USDA](http://www.ers.usda.gov/developer/api-terms-of-service.aspx)
 * [Energy Information Administration](http://www.eia.gov/beta/api/tos.cfm)
 * [Federal Motor Carrier Safety Administration](https://mobile.fmcsa.dot.gov/developer/tou.page?cid=1140526)
 * [Federal Communications Commission](http://www.fcc.gov/developers/api-terms-of-service)
