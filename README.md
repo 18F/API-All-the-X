@@ -16,6 +16,7 @@ Project Overview of API Engagement.  Please suggest further projects, ask questi
 * [Simple API](http://labs.data.gov/#simple-api)  
 
 ### Resources 
+* [API Release Kit](https://github.com/18F/API-All-the-X/blob/master/api_release_kit.md)
 * [API Standards](https://github.com/18F/api-standards)  
 * [Education](http://www.howto.gov/api)
 * [Index of Resources](http://gsa.github.io/Open-Data-Collaboration-Sandbox/api_index/)
