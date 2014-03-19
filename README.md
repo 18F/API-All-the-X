@@ -3,6 +3,8 @@ API-All-the-X
 
 Project Overview of API Engagement.  Please suggest further projects, ask questions in the issues tracker, and make pull requests.  
 
+![API all the things!](https://f.cloud.github.com/assets/282759/2463212/ac0e49c4-af89-11e3-9140-300cbb92ce41.jpg)
+
 ### Community 
 * [US Government API Listserve](https://groups.google.com/forum/#!forum/us-government-apis)
 * [DC API Meetup](www.meetup.com/DC-Web-API-User-Group/)
