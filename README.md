@@ -16,6 +16,7 @@ Project Overview of API Engagement.  Please suggest further projects, ask questi
 * [Simple API](http://labs.data.gov/#simple-api)  
 
 ### Resources 
+* [API Contract Language](https://github.com/GSA/API-Resources/tree/master/Procurement)
 * [API Release Kit](https://github.com/18F/API-All-the-X/blob/master/api_release_kit.md)
 * [API Standards](https://github.com/18F/api-standards)  
 * [Developer Hub Kit](https://github.com/18F/API-All-the-X/blob/master/developer_hub_kit.md)
