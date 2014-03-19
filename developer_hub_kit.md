@@ -35,7 +35,12 @@ A Terms of Service (ToS) provides the legal framework by which the API provider 
 * [Agricultural Marketing Service - USDA](http://search.ams.usda.gov/farmersmarkets/v1/APITOS.html)
 * [Economic Research Service - USDA](http://www.ers.usda.gov/developer/api-terms-of-service.aspx)*
 * [Energy Information Administration](http://www.eia.gov/beta/api/tos.cfm)*
+* [Bureau of Justice Statistics - DOJ](http://www.bjs.gov/developer/ncvs/termsofservice.cfm)
+* [Office of Justice Programs](http://data.ojp.gov/developer/awards/termsofservice.html)*
+* [Federal Emergency Management Agency](http://www.fema.gov/openfema-api-terms-conditions)*
 * [Federal Motor Carrier Safety Administration](https://mobile.fmcsa.dot.gov/developer/tou.page?cid=1140526)*
+* [Federal Railroad Administration](https://safetydata.fra.dot.gov/MasterWebService/Terms.aspx)*
+* [General Services Administration](http://www.gsa.gov/portal/content/162631)*
 * [Federal Communications Commission](http://www.fcc.gov/developers/api-terms-of-service)*
 * [National Institute on Drug Abuse](http://www.drugabuse.gov/developers/nmassist/apiterms)
 * [HealthFinder.gov](http://healthfinder.gov/developer/Term_of_Use.aspx)
