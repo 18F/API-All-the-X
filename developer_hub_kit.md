@@ -43,9 +43,16 @@ A Terms of Service (ToS) provides the legal framework by which the API provider 
 * [General Services Administration](http://www.gsa.gov/portal/content/162631)*
 * [Federal Communications Commission](http://www.fcc.gov/developers/api-terms-of-service)*
 * [National Institute on Drug Abuse](http://www.drugabuse.gov/developers/nmassist/apiterms)
+* [Pillbox API - NIH](http://pillbox.nlm.nih.gov/API-documentation.html)*
 * [HealthFinder.gov](http://healthfinder.gov/developer/Term_of_Use.aspx)
 * [HealthIndicators.gov](http://www.healthindicators.gov/PoliciesAndRegulations/APITermsOfService)
+* [Regulations.gov](http://www.regulations.gov/#!developers;page=termsOfService)*
+* [PACER - US Courts](http://www.pacer.gov/cmecf/developer/disclaimer.html)*
+* [Sustainable Facilities Tool - GSA](http://sftool.gov/developers/TermsOfUse)*
 * [USA.gov](http://www.usa.gov/About/developer-resources/terms-of-service.shtml)* 
+* [Go.USA.gov](https://go.usa.gov/api#terms)*
+* [My.USA.gov](https://my.usa.gov/terms-of-service)*
+* [USASearch](http://search.digitalgov.gov/tos.html)*
  
 *(*Indicates a common ToS)*
 
