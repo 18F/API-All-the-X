@@ -38,6 +38,7 @@ A Terms of Service (ToS) provides the legal framework by which the API provider 
 * [Bureau of Justice Statistics - DOJ](http://www.bjs.gov/developer/ncvs/termsofservice.cfm)
 * [Office of Justice Programs](http://data.ojp.gov/developer/awards/termsofservice.html)*
 * [Federal Emergency Management Agency](http://www.fema.gov/openfema-api-terms-conditions)*
+* [Federal Housing Finance Agency](http://www.fhfa.gov/weblink/ToS.pdf)*
 * [Federal Motor Carrier Safety Administration](https://mobile.fmcsa.dot.gov/developer/tou.page?cid=1140526)*
 * [Federal Railroad Administration](https://safetydata.fra.dot.gov/MasterWebService/Terms.aspx)*
 * [General Services Administration](http://www.gsa.gov/portal/content/162631)*
