@@ -5,7 +5,7 @@ Project Overview of API Engagement.  Please suggest further projects, ask questi
 
 ### Community 
 * [US Government API Listserve](https://groups.google.com/forum/#!forum/us-government-apis)
-* [DC API Meetup](www.meetup.com/DC-Web-API-User-Group/)
+* [DC API Meetup](http://www.meetup.com/DC-Web-API-User-Group/)
 
 ### Tools 
 * [API.Data.gov](http://api.data.gov)  
