@@ -21,6 +21,7 @@ Project Overview of API Engagement.  Please suggest further projects, ask questi
 * [API Standards](https://github.com/18F/api-standards)  
 * [Developer Hub Kit](https://github.com/18F/API-All-the-X/blob/master/developer_hub_kit.md)
 * [Education](http://www.howto.gov/api)
+ * [API Highlights]()
 * [Index of Resources](http://gsa.github.io/Open-Data-Collaboration-Sandbox/api_index/)
 * Legal FAQ
 * [Model Developer Terms of Service](https://github.com/GSA/API-Resources/tree/master/developer_tos)
@@ -32,6 +33,7 @@ Project Overview of API Engagement.  Please suggest further projects, ask questi
 
 ### Status  
 * [Agency Progress](https://github.com/GSA/slash-developer-pages)
+* [Gov APIs in the News]()
 
 
 ### Other Materials...
