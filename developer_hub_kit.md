@@ -50,6 +50,7 @@ A Terms of Service (ToS) provides the legal framework by which the API provider 
 * [Regulations.gov](http://www.regulations.gov/#!developers;page=termsOfService)*
 * [PACER - US Courts](http://www.pacer.gov/cmecf/developer/disclaimer.html)*
 * [Sustainable Facilities Tool - GSA](http://sftool.gov/developers/TermsOfUse)*
+* [TreasuryDirect.gov](http://www.treasurydirect.gov/webapis/webapisterms.htm)
 * [USA.gov](http://www.usa.gov/About/developer-resources/terms-of-service.shtml)* 
 * [Go.USA.gov](https://go.usa.gov/api#terms)*
 * [My.USA.gov](https://my.usa.gov/terms-of-service)*
