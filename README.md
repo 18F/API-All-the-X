@@ -22,6 +22,7 @@ Project Overview of API Engagement.  Please suggest further projects, ask questi
 * [Developer Hub Kit](https://github.com/18F/API-All-the-X/blob/master/developer_hub_kit.md)
 * [Education](http://www.howto.gov/api)
  * [API Highlights]()
+ * [Best Practices](https://github.com/18F/API-All-the-X/blob/master/best_practices.md)
 * [Index of Resources](http://gsa.github.io/Open-Data-Collaboration-Sandbox/api_index/)
 * Legal FAQ
 * [Model Developer Terms of Service](https://github.com/GSA/API-Resources/tree/master/developer_tos)
