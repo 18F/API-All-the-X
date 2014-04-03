@@ -11,3 +11,5 @@
 * [How to Set up an API Working Group at Your Agency]()
 * [What Does The End Look Like?  A Model for Agencies]()
 * [Agency Maturity Model]()
+* [Case Studies](https://github.com/18F/API-All-the-X/tree/master/education/case_studies)
+* [Videos and Webinars](https://github.com/18F/API-All-the-X/tree/master/education)
