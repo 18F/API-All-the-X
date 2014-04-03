@@ -34,7 +34,7 @@ Project Overview of API Engagement.  Please suggest further projects, ask questi
  * [Videos & Webinars](https://github.com/18F/API-All-the-X/tree/master/education)
 * [Legal FAQ](https://github.com/18F/API-All-the-X/blob/master/resources/legal_FAQ.md)
 * [Model Developer Terms of Service](https://github.com/GSA/API-Resources/tree/master/developer_tos)
-* [Security FAQ]https://github.com/18F/API-All-the-X/blob/master/resources/legal_FAQ.md()
+* [Security FAQ](https://github.com/18F/API-All-the-X/blob/master/resources/legal_FAQ.md)
 * [The Stack - API Software Recipes](https://github.com/18F/API-All-the-X/blob/master/collaboration/api_recipes.md)
 * [Third Party Services - Free and/or government-friendly ToS](https://github.com/18F/API-All-the-X/blob/master/resources/third_party_services.md)
 
