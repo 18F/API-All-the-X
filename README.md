@@ -46,6 +46,7 @@ Project Overview of API Engagement.  Please suggest further projects, ask questi
 ### Status  
 * [Agency Progress](https://github.com/GSA/slash-developer-pages)
 * [Gov APIs in the News](https://github.com/18F/API-All-the-X/blob/master/collaboration/gov_apis_in_the_news.md)
+* [API Program Planning Notes](https://github.com/18F/API-All-the-X/wiki/API-Program-Vision)
 
 
 ### Other Materials...
