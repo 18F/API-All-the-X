@@ -1,7 +1,6 @@
 
 
 
-
 ### Scenario B
 *Agency uses the below text as the scope of work for a task within a larger system creation/maintenance contract.  This task could be included from the start or added as a modification to the contract.*  
 
