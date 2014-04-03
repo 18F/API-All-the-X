@@ -26,14 +26,15 @@ Project Overview of API Engagement.  Please suggest further projects, ask questi
 * [API Standards - US Government](https://github.com/GSA/API-Resources/blob/master/API_Standards/US_Government_API_Standards.md)
 * [Content APIs](https://github.com/GSA/.Gov-Content-as-an-API)
 * [Developer Hub Kit](https://github.com/18F/API-All-the-X/blob/master/developer_hub_kit.md)
+* [Developer Hub - Re-Usable Template](https://github.com/gbinal/Developer-Hub-in-a-Box)
 * [Education](https://github.com/18F/API-All-the-X/tree/master/education)
- * [API Highlights]()
+ * [API Highlights](https://github.com/18F/API-All-the-X/blob/master/collaboration/api_highlights.md)
  * [Best Practices](https://github.com/18F/API-All-the-X/blob/master/best_practices.md)
- * [Case Studies]()
- * [Videos & Webinars]()
-* [Legal FAQ]()
+ * [Case Studies](https://github.com/18F/API-All-the-X/tree/master/education/case_studies)
+ * [Videos & Webinars](https://github.com/18F/API-All-the-X/tree/master/education)
+* [Legal FAQ](https://github.com/18F/API-All-the-X/blob/master/resources/legal_FAQ.md)
 * [Model Developer Terms of Service](https://github.com/GSA/API-Resources/tree/master/developer_tos)
-* [Security FAQ]()
+* [Security FAQ]https://github.com/18F/API-All-the-X/blob/master/resources/legal_FAQ.md()
 * [The Stack - API Software Recipes](https://github.com/18F/API-All-the-X/blob/master/collaboration/api_recipes.md)
 * [Third Party Services - Free and/or government-friendly ToS](https://github.com/18F/API-All-the-X/blob/master/resources/third_party_services.md)
 
@@ -44,7 +45,7 @@ Project Overview of API Engagement.  Please suggest further projects, ask questi
 
 ### Status  
 * [Agency Progress](https://github.com/GSA/slash-developer-pages)
-* [Gov APIs in the News]()
+* [Gov APIs in the News](https://github.com/18F/API-All-the-X/blob/master/collaboration/gov_apis_in_the_news.md)
 
 
 ### Other Materials...
