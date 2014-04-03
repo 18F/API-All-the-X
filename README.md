@@ -4,8 +4,9 @@ API-All-the-X
 Project Overview of API Engagement.  Please suggest further projects, ask questions in the issues tracker, and make pull requests.  
 
 ### Community 
-* [US Government API Listserve](https://groups.google.com/forum/#!forum/us-government-apis)
 * [DC API Meetup](http://www.meetup.com/DC-Web-API-User-Group/)
+* [Internal Hackathons](https://github.com/18F/API-All-the-X/blob/master/internal_hackathons.md)
+* [US Government API Listserve](https://groups.google.com/forum/#!forum/us-government-apis)
 
 ### Tools 
 * [API.Data.gov](http://api.data.gov)  
@@ -19,18 +20,24 @@ Project Overview of API Engagement.  Please suggest further projects, ask questi
 * [API Contract Language](https://github.com/18F/API-All-the-X/blob/master/procurement_language.md)
 * [API Release Kit](https://github.com/18F/API-All-the-X/blob/master/api_release_kit.md)
 * [API Standards](https://github.com/18F/api-standards)  
+* [Content APIs]()
 * [Developer Hub Kit](https://github.com/18F/API-All-the-X/blob/master/developer_hub_kit.md)
 * [Education](http://www.howto.gov/api)
  * [API Highlights]()
  * [Best Practices](https://github.com/18F/API-All-the-X/blob/master/best_practices.md)
+ * [Case Studies]()
+ * [Videos & Webinars]()
 * [Index of Resources](http://gsa.github.io/Open-Data-Collaboration-Sandbox/api_index/)
-* Legal FAQ
+* [Legal FAQ]()
 * [Model Developer Terms of Service](https://github.com/GSA/API-Resources/tree/master/developer_tos)
-* Security FAQ
+* [Security FAQ]()
+* [The Stack - API Software Recipes](https://github.com/18F/API-All-the-X/blob/master/collaboration/api_recipes.md)
+* [Third Party Services - Free and/or government-friendly ToS]()
 
 ### Support
-* [Training Options](https://github.com/18F/API-All-the-X/blob/master/api_training.md)
 * [Direct Support Options](https://github.com/18F/API-All-the-X/blob/master/agency_support.md)
+* [Training Options](https://github.com/18F/API-All-the-X/blob/master/api_training.md)
+* [API Usability Program]()
 
 ### Status  
 * [Agency Progress](https://github.com/GSA/slash-developer-pages)
