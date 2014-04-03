@@ -1,0 +1,15 @@
+
+
+* [Introduction](https://github.com/18F/API-All-the-X/blob/master/education/introduction.md)
+* [Benefits of APIs]()
+* [API Basics]()
+* [How to Get Started with APIs]()
+* [Resources and Tools]()
+* [How to Make APIs - An Overview]()
+* [API Analytics]()
+* [API Design and Documentation]()
+* [API Security]()
+* [Producint APIs through Socrata]()
+* [How to Set up an API Working Group at Your Agency]()
+* [What Does The End Look Like?  A Model for Agencies]()
+* [Agency Maturity Model]()
