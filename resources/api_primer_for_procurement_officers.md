@@ -7,7 +7,7 @@
 
 3. Why are API’s important?  API’s standardize the transactions of understandable groupings of information between machines, thus increasing the speed and dependability of communications between those machines.  Increased speed and reliability increase efficiency and lower costs.  Additionally, the standardization of transactions creates economies where the amount of reuse is great. The effective purchase, use and maintenance of API’s will allow the Government to “Buy once, use many times” to quote an OMB mantra.
 
-4. When should API’s be part of a requirement?  The Office of Management and Budget (OMB) through the White House’s Digital Government Strategy has established API’s as a “new default” tool for opening government content and data effectively, efficiently, and accessibly to agencies and citizens. There are a large number of scenarios where Agencies should include API’s as part of their requirements.  Here are some common examples seen across Government:
+4. When should API’s be part of a requirement?  The Office of Management and Budget (OMB) through the White House’s Digital Government Strategy has established API’s as a “new default” tool for opening government content and data effectively, efficiently, and accessibly to agencies and citizens. There are a large number of scenarios where Agencies should include API’s as part of their requirements.  Here are some common examples seen across Government:  
 * Any contract where the objective is to share or report information,
 * Any contract where machines need to communicate with one another and share transactional information,
 * A system development contract where API’s are part of the larger system,
