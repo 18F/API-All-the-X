@@ -21,6 +21,7 @@ Project Overview of API Engagement.  Please suggest further projects, ask questi
 
 ### Resources 
 * [API Contract Language](https://github.com/18F/API-All-the-X/blob/master/collaboration/procurement_language.md)
+ * [API Primer for Procurement Officers](https://github.com/18F/API-All-the-X/blob/master/resources/api_primer_for_procurement_officers.md)
 * [API Release Kit](https://github.com/18F/API-All-the-X/blob/master/api_release_kit.md)
 * [API Standards - 18F](https://github.com/18F/api-standards)  
 * [API Standards - US Government](https://github.com/GSA/API-Resources/blob/master/API_Standards/US_Government_API_Standards.md)
