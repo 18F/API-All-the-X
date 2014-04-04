@@ -8,20 +8,20 @@
 ### Governance
 
 **Governance:**
-"How well the API lifecycle is governed in terms of: 
-- Responsibility and ownership 
-- Effectiveness measurement and metrics
-- Enterprise policies and guidance
-- Compliance and control mechanisms
-- Formal communication channels"
-**Requirements Management:**	
-Extent to which requirements for Mobile APIs are clearly articulated and managed
-**Quality Assurance/ V&V / Compliance/Audit:**	
-Extent to which policies, requirements, standards and processes are reviewed and enforced
-**Product Management:**	
-Extent to which the longer term evolution of Mobile APIs are being formally managed so they continue to support mission/business goals and support consumer needs
-**Developer Engagement:**	
-Extent to which an organization actively engages the developer community in defining and using Mobile APIs
+"How well the API lifecycle is governed in terms of:   
+- Responsibility and ownership   
+- Effectiveness measurement and metrics  
+- Enterprise policies and guidance  
+- Compliance and control mechanisms  
+- Formal communication channels"  
+**Requirements Management:**	  
+Extent to which requirements for Mobile APIs are clearly articulated and managed  
+**Quality Assurance/ V&V / Compliance/Audit:**	  
+Extent to which policies, requirements, standards and processes are reviewed and enforced  
+**Product Management:**	  
+Extent to which the longer term evolution of Mobile APIs are being formally managed so they continue to support mission/business goals and support consumer needs  
+**Developer Engagement:**	  
+Extent to which an organization actively engages the developer community in defining and using Mobile APIs  
 
 
 | Dimension Name                            | None                                                                                                                                           | Basic                                                                                                                                                      | Intermediate                                                                                                                                                              | Advanced                                                                                                                                                                                                          |
@@ -35,15 +35,15 @@ Extent to which an organization actively engages the developer community in defi
 
 ### Architecture
 
-**Compliance with Standards:**	
-Extent to which standards compliance is coordinated across the enterprise
-**Technology:**	
+**Compliance with Standards:**	  
+Extent to which standards compliance is coordinated across the enterprise  
+**Technology:**	  
 "Richardson Maturity Model for building RESTful APIs ( you can google this. But here is a good description: 
-http://vpmouttou.wordpre/2012/02/08/richardson-maturity-model-rmm-distilled-notes-for-restful-design/)"
-**Software Development Kit (SDK):**	
-Extent to which software development kits are provided to consumers to simplify implementation and ensure complaince with policy and standards (also see "Sharing APIs") below)
-**Security:**	
-How well the API deployment is taking security into consideration (network level, data level, user identity level, process and policy level, etc)
+http://vpmouttou.wordpre/2012/02/08/richardson-maturity-model-rmm-distilled-notes-for-restful-design/)"  
+**Software Development Kit (SDK):**	  
+Extent to which software development kits are provided to consumers to simplify implementation and ensure complaince with policy and standards (also see "Sharing APIs") below)  
+**Security:**	  
+How well the API deployment is taking security into consideration (network level, data level, user identity level, process and policy level, etc)  
 
 | Dimension Name                            | None                                                                                                                                           | Basic                                                                                                                                                      | Intermediate                                                                                                                                                              | Advanced                                                                                                                                                                                                          |
 |-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -55,14 +55,14 @@ How well the API deployment is taking security into consideration (network level
 
 ### Management
 
-**Service Level:**	
-Level of enterprise commitment to the availability and performance of the APIs to the consumers
-**Incident and problem management:**	
-Maturity of incident and problem mgmt wrt Mobile APIs
-**Change and configuration management:**
-Maturity of change and configuration mgmt wrt Mobile APIs
-**Capacity planning:**
-Extent to which usage of Mobile APIs is measured
+**Service Level:**	  
+Level of enterprise commitment to the availability and performance of the APIs to the consumers  
+**Incident and problem management:**	  
+Maturity of incident and problem mgmt wrt Mobile APIs  
+**Change and configuration management:**  
+Maturity of change and configuration mgmt wrt Mobile APIs  
+**Capacity planning:**  
+Extent to which usage of Mobile APIs is measured  
 
 | Dimension Name                            | None                                                                                                                                           | Basic                                                                                                                                                      | Intermediate                                                                                                                                                              | Advanced                                                                                                                                                                                                          |
 |-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -74,14 +74,14 @@ Extent to which usage of Mobile APIs is measured
 ### Level of Adoption
 
 
-**Sharing of APIs:**
-Extent to which Mobile APIs are documented, shared and discoverable by potential consumers
-**Implementation maturity:**	
-Level of maturity to support  more demanding scenarios and greater levels of adoption
-**Scope of consumption:**	
-How wide an audience is benefitting from services provided via APIs
-**Data sharing functionality:**	
-Level of enterprise data sharing allowed via APIs
+**Sharing of APIs:**  
+Extent to which Mobile APIs are documented, shared and discoverable by potential consumers  
+**Implementation maturity:**	  
+Level of maturity to support  more demanding scenarios and greater levels of adoption  
+**Scope of consumption:**	  
+How wide an audience is benefitting from services provided via APIs  
+**Data sharing functionality:**	  
+Level of enterprise data sharing allowed via APIs  
 
 | Dimension Name                            | None                                                                                                                                           | Basic                                                                                                                                                      | Intermediate                                                                                                                                                              | Advanced                                                                                                                                                                                                          |
 |-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
