@@ -20,6 +20,7 @@ Project Overview of API Engagement.  Please suggest further projects, ask questi
 
 
 ### Resources 
+* [Agency Checklist](https://github.com/18F/API-All-the-X/blob/master/resources/api_checklist.md)
 * [API Contract Language](https://github.com/18F/API-All-the-X/blob/master/collaboration/procurement_language.md)
  * [API Primer for Procurement Officers](https://github.com/18F/API-All-the-X/blob/master/resources/api_primer_for_procurement_officers.md)
 * [API Release Kit](https://github.com/18F/API-All-the-X/blob/master/api_release_kit.md)
