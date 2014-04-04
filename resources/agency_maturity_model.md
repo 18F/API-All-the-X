@@ -9,11 +9,12 @@
 
 **Governance:**
 "How well the API lifecycle is governed in terms of:   
-- Responsibility and ownership   
-- Effectiveness measurement and metrics  
-- Enterprise policies and guidance  
-- Compliance and control mechanisms  
-- Formal communication channels"  
+* Responsibility and ownership   
+* Effectiveness measurement and metrics  
+* Enterprise policies and guidance  
+* Compliance and control mechanisms  
+* Formal communication channels"    
+  
 **Requirements Management:**	  
 Extent to which requirements for Mobile APIs are clearly articulated and managed  
 **Quality Assurance/ V&V / Compliance/Audit:**	  
