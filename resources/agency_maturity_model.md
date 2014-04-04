@@ -1,9 +1,7 @@
 ## Background
-
-
+This document attempts to provide a description of an agency API program at different stages of development.  This can assist an agency in determining its current state and to clarify a vision for further progress.  
 
 ## Maturity Model
-
 
 ### Governance
 
