@@ -5,3 +5,4 @@
 * [Share sample contract language](https://github.com/18F/API-All-the-X/blob/master/collaboration/procurement_language.md)
 * [Add examples of good precedence](https://github.com/18F/API-All-the-X/blob/master/collaboration/api_highlights.md)
 * [Share a case study](https://github.com/18F/API-All-the-X/tree/master/education/case_studies)
+* [Share agency blogposts](https://github.com/18F/API-All-the-X/blob/master/collaboration/government_api_blogposts.md)
