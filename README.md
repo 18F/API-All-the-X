@@ -42,14 +42,15 @@ Project Overview of API Engagement.  Please suggest further projects, ask questi
 * [Third Party Services - Free and/or government-friendly ToS](https://github.com/18F/API-All-the-X/blob/master/resources/third_party_services.md)
 
 ### Support
+* [API Usability Program](http://graybrooks.com/API-Usability-Testing/)
 * [Direct Support Options](https://github.com/18F/API-All-the-X/blob/master/agency_support.md)
 * [Training Options](https://github.com/18F/API-All-the-X/blob/master/api_training.md)
-* [API Usability Program](http://graybrooks.com/API-Usability-Testing/)
 
 ### Status  
 * [Agency Progress](https://github.com/GSA/slash-developer-pages)
-* [Gov APIs in the News](https://github.com/18F/API-All-the-X/blob/master/collaboration/gov_apis_in_the_news.md)
 * [API Program Planning Notes](https://github.com/18F/API-All-the-X/wiki/API-Program-Vision)
+* [Government APIs in the News](https://github.com/18F/API-All-the-X/blob/master/collaboration/gov_apis_in_the_news.md)
+* [Government API Blogposts](https://github.com/18F/API-All-the-X/blob/master/collaboration/government_api_blogposts.md)
 
 
 ### Other Materials...
