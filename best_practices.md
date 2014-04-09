@@ -6,6 +6,7 @@ There are several collections of best practices for API producers, each of which
 ### Make a Hub
 * Create a central developer hub with a path to each of your APIs and all related resources.
 * Make your hub findable by using a common URL:  www.agency.gov/developer
+ * The url of www.agency.gov/developers should also work.  
 * Every API in your central hub should have a homepage with  links to all of its related resources.
 * Offer clear and user friendly navigation throughout the developer hub.  
 
