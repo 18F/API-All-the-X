@@ -1,5 +1,12 @@
+
+### April 8, 2014
+* [18F Shows What Is Possible In Government With FBOpen API - APIEvangelist.com](http://apievangelist.com/2014/04/08/18f-shows-what-is-possible-in-government-with-fbopen-api/)
+
 ### April 4, 2014
 * [18F Counts On APIs To Help Government Improve Service Delivery - ProgrammableWeb](http://blog.programmableweb.com/2014/04/04/18f-counts-on-apis-to-help-government-improve-service-delivery/)
+
+### March 31, 2014
+* [Should Government Provide Download Or API Of Government Data Resources? - APIEvangelist.com](http://apievangelist.com/2014/03/31/should-government-provide-download-or-api-of-government-data-resources/)
 
 ### March 17, 2014
 * [Free the Data: The Debate Over APIs and Open Government - Techpresident](https://techpresident.com/news/24829/free-data-debate-over-apis-and-open-government)
@@ -15,3 +22,4 @@
 
 ### April 12, 2013
 * [Helping software communicate with other software - WJLA Channel 8](http://www.wjla.com/blogs/capital-insider/2013/04/helping-software-communicate-with-other-software-18550.html)
+
