@@ -42,6 +42,7 @@ Project Overview of API Engagement.  Please suggest further projects, ask questi
 * [Security FAQ](https://github.com/18F/API-All-the-X/blob/master/resources/legal_FAQ.md)
 * [The Stack - API Software Recipes](https://github.com/18F/API-All-the-X/blob/master/collaboration/api_recipes.md)
 * [Third Party Services - Free and/or government-friendly ToS](https://github.com/18F/API-All-the-X/blob/master/resources/third_party_services.md)
+* [Write APIs - Notes](https://github.com/18F/API-All-the-X/blob/master/collaboration/write_apis-notes.md)
 
 ### Support
 * [API Usability Program](http://graybrooks.com/API-Usability-Testing/)
