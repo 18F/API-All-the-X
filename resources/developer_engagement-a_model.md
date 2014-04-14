@@ -1,4 +1,3 @@
-
 ## What does developer engagement look like?  
 
 * Have a GitHub account for your agency.  
@@ -11,3 +10,8 @@
 * Offer a means by which developers can subscribe to updates.  
 * Reach out to existing users of the data for their input on future development.  
 * Host hackathons.  
+* Generate content that tells the story of your agency's data and points back to it.  
+* Respond to comments on your content.  
+* Ask the developer community what data they most want but don't have and what improvements to existing data would be most useful to them.  Then, follow through on that and report back that you have.  
+* Attend third-party developer events, such as local meetups and open government conferences.  
+* At other events, present on your data and ask for feedback, then make a targeted point to respond to it.  
