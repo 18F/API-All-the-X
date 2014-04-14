@@ -31,6 +31,7 @@ Project Overview of API Engagement.  Please suggest further projects, ask questi
 * [API Standards - US Government](https://github.com/GSA/API-Resources/blob/master/API_Standards/US_Government_API_Standards.md)
 * [Complete API model](https://github.com/18F/API-All-the-X/blob/master/resources/complete_API_model.md)
 * [Content APIs](https://github.com/GSA/.Gov-Content-as-an-API)
+* [Developer Engagement - A Model](https://github.com/18F/API-All-the-X/blob/master/resources/developer_engagement-a_model.md)
 * [Developer Hub Kit](https://github.com/18F/API-All-the-X/blob/master/developer_hub_kit.md)
 * [Developer Hub - Re-Usable Template](https://github.com/gbinal/Developer-Hub-in-a-Box)
 * [Education](https://github.com/18F/API-All-the-X/tree/master/education)
