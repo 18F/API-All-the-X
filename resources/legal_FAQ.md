@@ -1,4 +1,3 @@
-
 **Q)**  Is it legal for a federal agency to offer public APIs?
 
 **A)**  *Yes.  An API is basically an extension of the agency's website.  Visitors may visit it and retrieve information.  In fact, recent guidance from the Office of Management and Budget have encouraged agencies to publish APIs.*    
@@ -19,3 +18,7 @@
 
 
 **A)** 
+
+
+### Notes 
+Process http://ben.balter.com/api-legal-considerations/
