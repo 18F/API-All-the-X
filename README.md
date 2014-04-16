@@ -45,6 +45,7 @@ Overview of the /Developer Program, a project of [18F](http://18f.gsa.gov) API E
 * [Security FAQ](https://github.com/18F/API-All-the-X/blob/master/resources/legal_FAQ.md)
 * [The Stack - API Software Recipes](https://github.com/18F/API-All-the-X/blob/master/collaboration/api_recipes.md)
 * [Third Party Services - Free and/or government-friendly ToS](https://github.com/18F/API-All-the-X/blob/master/resources/third_party_services.md)
+* [What are APIs? - Anecdotes and Metaphors](https://github.com/18F/API-All-the-X/blob/master/resources/what_are_APIs-anecdotes_and_metaphors.md)
 * [Write APIs - Notes](https://github.com/18F/API-All-the-X/blob/master/collaboration/write_apis-notes.md)
 
 ### Support
