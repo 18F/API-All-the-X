@@ -1,7 +1,7 @@
 * [Introduction](https://github.com/18F/API-All-the-X/blob/master/education/introduction.md)
 * [Benefits of APIs]()
 * [API Basics]()
-* [How to Get Started with APIs]()
+* [How to Get Started with APIs](https://github.com/18F/API-All-the-X/blob/master/education/how_to_get_started_with_apis.md)
 * [Resources and Tools]()
 * [How to Make APIs - An Overview]()
 * [How to Make APIs - Advanced](https://github.com/18F/API-All-the-X/blob/master/education/how_to_make_APIs-advanced.md)
