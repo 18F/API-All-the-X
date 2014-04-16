@@ -1,8 +1,10 @@
 
 
 
+### Department of Education
+* [How Can the Department of Education Increase Innovation, Transparency and Access to Data?](http://www.ed.gov/blog/2014/04/how-can-the-department-of-education-increase-innovation-transparency-and-access-to-data/)
 
-## ADLNET
+### ADLNET
 * [The Road to the Experience API V1.0 release – Target date announced](http://www.adlnet.gov/the-road-to-1-0/)
 * [An Open Source Success Story – A Community-Developed Specification](http://www.adlnet.gov/an-open-source-success-story-a-community-developed-specification/)
 
