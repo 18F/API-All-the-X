@@ -1,4 +1,3 @@
-
 ### April 8, 2014
 * [18F Shows What Is Possible In Government With FBOpen API - APIEvangelist.com](http://apievangelist.com/2014/04/08/18f-shows-what-is-possible-in-government-with-fbopen-api/)
 
@@ -23,3 +22,6 @@
 ### April 12, 2013
 * [Helping software communicate with other software - WJLA Channel 8](http://www.wjla.com/blogs/capital-insider/2013/04/helping-software-communicate-with-other-software-18550.html)
 
+
+### October 25, 2012
+ [APIs Can Save Money and Make Government More Efficient - APIEvangelist](https://github.com/18F/API-All-the-X/blob/master/education/benefits_of_apis.md).  
