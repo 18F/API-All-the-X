@@ -23,5 +23,17 @@ _Under Construction_
 
 * Tumblr's [section 17](http://www.tumblr.com/policy/en/terms_of_service)
 
-
-
+## Notes To Process
+* http://blog.programmableweb.com/2012/09/05/freemium-api-tools-why-vendors-offer-them-what-you-should-know/
+* Apigee
+ * http://blog.cobia.net/cobiacomm/2012/08/23/free-api-management-with-limits-or-freely-open-api-management/
+* 3scale
+ * http://www.google.com/url?q=http%3A%2F%2Fwww.3scale.net%2F2012%2F06%2F3scale-democratizes-apis-with-new-free-self-service-api-management-infrastructure%2F&sa=D&sntz=1&usg=AFQjCNGL90GnGNo0lxpo-4VNFFsgN4ChgQ
+* Mulesoft
+* SOA
+* Mashape
+* WSO-2
+* Temboo
+* Mashery
+* fedapi.com
+* apihub.com
