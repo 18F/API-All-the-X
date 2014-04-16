@@ -2,3 +2,7 @@
 
 * DOE's [API Visualizer](http://en.openei.org/apps/api-browser/)
 * [Terms of Service Collaboration](https://groups.google.com/forum/#!topic/us-government-apis/0yix5bEWbFo)
+* [Federal Register consuming the Regulations.gov API](https://www.federalregister.gov/blog/2012/04/in-synch-with-regulations-gov)
+* FCC repurposes Census data to create their [census block API](http://www.broadbandmap.gov/developer), one of its most popular web services.  
+* TSA repurposes the sunrise/sunset data from NWS for the APIs used in its Mobile App
+* ? Possible DOE app gallery built off of API for mobile apps ? 
