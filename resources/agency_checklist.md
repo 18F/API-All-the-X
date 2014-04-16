@@ -10,6 +10,7 @@
   * Does the hub offer a [front-facing feedback mechanism](http://www.howto.gov/mobile/apis-in-government/api-developer-kit#public-feedback-mechanism)?
   * Does the hub offer a link to your GitHub account?
   * Does the hub offer a link to [your agency’s data hub, maps hub, or other relevant sections](http://www.howto.gov/mobile/apis-in-government/api-developer-kit#link-to-agency-data-hub)? 
+  * Do those sections offer a link to the developer hub?  
   * Does the hub offer a link to [other agency developer hubs](http://www.howto.gov/mobile/apis-in-government/api-developer-kit#link-to-other-agency-developer-hubs)? 
   * For departments, does the hub offer links to your agencys' developer hubs?  For sub-cabinet agencies, does the hub offer a link to your department's developer hub?  
   * Does the hub offer a link to [all government GitHub accounts](http://www.howto.gov/mobile/apis-in-government/api-developer-kit#link-to-all-gov-github-accounts)? 
