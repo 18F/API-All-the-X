@@ -27,3 +27,11 @@
 ## Producing APIs through CKAN
 
 ...
+
+
+Through:  
+[php and mysql](http://www.brenelz.com/blog/how-to-create-a-simple-api-with-php-and-mysql/)
+[WSO2 data services server](http://wso2.com/products/data-services-server/)
+[Apify.co](http://apify.co/) - [hosted](http://apify.heroku.com/resources)
+
+
