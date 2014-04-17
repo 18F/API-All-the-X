@@ -109,6 +109,9 @@
 ### December 4, 2012
 * [Brooks: APIs are not a fad - Fierce Mobile Government](http://www.fiercemobilegovernment.com/story/brooks-apis-are-not-fad/2012-12-04)
 
+### November 15, 2012
+* [Bringing Government into the 21st Century - Mashery](http://www.mashery.com/blog/bringing-government-21st-century)
+
 ### November 14, 2012
 * [JSON preferred over XML for government APIs - Fierce Mobile Government](http://www.fiercemobilegovernment.com/story/json-preferred-over-xml-government-apis/2012-11-14)
 
@@ -184,6 +187,9 @@
 
 ### May 29, 2012
 * [FCC GIO: APIs key to offsetting smaller IT budgets - Fedscoop](http://fedscoop.com/fcc-gio-apis-key-to-offsetting-smaller-it-budgets/)
+
+### May 23, 2012
+* [Federal CTO and CIO Stress Importance of APIs and Open Data - Mashery](http://www.mashery.com/blog/federal-cto-and-cio-stress-importance-apis-and-open-data)
 
 ### April 25, 2012
 * [Government for the people: APIs are making government more transparent - Mashery](http://www.mashery.com/blog/government-people-apis-are-making-government-more-transparent)
