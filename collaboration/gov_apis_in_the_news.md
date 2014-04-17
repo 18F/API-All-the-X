@@ -1,3 +1,15 @@
+
+### April 16, 2014
+* [External API Deployments Using Sync One Possible Future Of Government API Deployments - APIEvangelist.com](http://apievangelist.com/2014/04/16/external-api-deployments-using-sync-one-possible-future-of-government-api-deployments/)
+* [US Department of Education Seeks Higher-Ed APIs - ProgrammableWeb](http://blog.programmableweb.com/2014/04/16/us-department-of-education-seeks-higher-ed-apis/)
+
+
+### April 14, 2014
+* [Liberate Government Data By Deploying Web APIs With Solr - APIEvangelist.com](http://apievangelist.com/2014/04/14/liberate-government-data-by-deploying-web-apis-with-solr/)
+
+### April 9, 2014
+* [OpenData 500 Launch Demonstrates Open Data API Value - ProgrammableWeb](http://blog.programmableweb.com/2014/04/09/opendata-500-launch-demonstrates-open-data-api-value/)
+
 ### April 8, 2014
 * [18F Shows What Is Possible In Government With FBOpen API - APIEvangelist.com](http://apievangelist.com/2014/04/08/18f-shows-what-is-possible-in-government-with-fbopen-api/)
 
@@ -10,17 +22,54 @@
 ### March 31, 2014
 * [Should Government Provide Download Or API Of Government Data Resources? - APIEvangelist.com](http://apievangelist.com/2014/03/31/should-government-provide-download-or-api-of-government-data-resources/)
 
+### March 20, 2014
+* [US Government Urged to Standardize Internal API ToS - ProgrammableWeb](http://blog.programmableweb.com/2014/03/20/u-s-government-urged-to-standardize-internal-api-tos/)
+
 ### March 17, 2014
 * [Free the Data: The Debate Over APIs and Open Government - Techpresident](https://techpresident.com/news/24829/free-data-debate-over-apis-and-open-government)
 
 ### March 17, 2014
 * [The Recent Rise of Government Open Data APIs - ProgrammableWeb](http://blog.programmableweb.com/2013/07/30/the-recent-rise-of-government-open-data-apis/)
 
+### January 3, 2014
+* [Open Government Strategy Continues with US Currency Production API - ProgrammableWeb](http://blog.programmableweb.com/2014/01/03/opendata-gov-continues-api-strategy-annual-production-figures-of-us-currency/)
+
+### November 7, 2013 
+* [The Federal API Shutdown: 21 Days Later - ProgrammableWeb](http://blog.programmableweb.com/2013/11/07/the-federal-api-shutdown-21-days-later/)
+
+### November 4, 2013 
+* [Write Now: White House Opens Beta Access to We The People API - ProgrammableWeb](http://blog.programmableweb.com/2013/11/04/write-now-white-house-opens-beta-access-to-we-the-people-api/)
+
+### October 25, 2013 
+* [API Strategy and Practice: Government and Public Open Data Panel Summary - ProgrammableWeb](http://blog.programmableweb.com/2013/10/25/api-strategy-and-practice-government-and-public-open-data-panel-summary/)
+
+### October 24, 2013 
+* [Government Open Data: How To Get Involved - ProgrammableWeb](http://blog.programmableweb.com/2013/10/24/government-open-data-how-to-get-involved/)
+
+### October 8, 2013 
+* [Federal Shutdown Imperils Apps That Depend on Government APIs - ProgrammableWeb](http://blog.programmableweb.com/2013/10/08/federal-shutdown-imperils-apps-that-depend-on-government-apis/)
+
 ### October 7, 2013 
 * [What Data.gov's closure means for government APIs - Fierce Mobile Government](http://www.fiercegovernmentit.com/story/what-datagovs-closure-means-government-apis/2013-10-07)
 
+### October 4, 2013 
+* [US Government Shutdown Affects OpenData APIs - ProgrammableWeb](http://blog.programmableweb.com/2013/10/04/us-government-shutdown-affects-opendata-apis/)
+
+### October 2, 2013 
+* [Government Shutdown Sets Off Data and API Scramble - ProgrammableWeb](http://techpresident.com/news/24394/shutdown-sets-data-and-api-scramble)
+
+### October 2, 2013 
+* [Government APIs Aren't A Backup Plan - ProgrammableWeb](http://sunlightfoundation.com/blog/2013/10/02/government-apis-arent-a-backup-plan/)
+
+### August 7, 2013
+* [National Farmer’s Market Week: How to Eat Local, Wherever You Are - ProgrammableWeb](http://blog.programmableweb.com/2013/08/07/national-farmers-market-week-how-to-eat-local-wherever-you-are/)
+
+### July 30, 2013
+* [The Recent Rise of Government Open Data APIs - ProgrammableWeb](http://blog.programmableweb.com/2013/07/30/the-recent-rise-of-government-open-data-apis/)
+
 ### July 17, 2013
 * [APIs at the core of TSA mobile strategy - Fierce Mobile Government](http://www.fiercemobilegovernment.com/story/apis-core-tsa-mobile-strategy/2013-07-17)
+* [RESTful APIs: White House Sets The Standard(s) - ProgrammableWeb](http://blog.programmableweb.com/2013/06/17/restful-apis-white-house-sets-the-standards/)
 
 ### June 12, 2013
 * [White House shares API standards guide - Fierce Mobile Government](http://www.fiercemobilegovernment.com/story/white-house-shares-api-standards-guide/2013-06-12)
@@ -28,11 +77,29 @@
 ### May 29, 2013
 * [What Will The APP Developers Make Of This? -  Nextgov](http://www.nextgov.com/emerging-tech/2013/05/app-developers-what-do-you-make-infographic/63908/)
 
+### May 28, 2013
+* [The Justice Department’s NCVS API Opens Access to Crime Victimization Data - ProgrammableWeb](http://blog.programmableweb.com/2013/05/28/the-justice-departments-ncvs-api-opens-access-to-crime-victimization-data/)
+
+### May 16, 2013
+* [USDA Launches New API That Provides Developers Access to a Wealth of Farmers Market Data - ProgrammableWeb](http://blog.programmableweb.com/2013/05/16/usda-launches-new-api-that-provides-developers-access-to-a-wealth-of-farmers-market-data/)
+
+### May 3, 2013
+* [White House Releases We the People API to the Public - ProgrammableWeb](http://blog.programmableweb.com/2013/05/03/white-house-releases-we-the-people-api-to-the-public/)
+
 ### April 23, 2013
 * [Gray Brooks is an API G-man - API Economist](http://apieconomist.com/blog/2013/4/10/6h6gntzp6twfuw4zwrzu0j43u0o80p)
 
 ### April 12, 2013
 * [Helping software communicate with other software - WJLA Channel 8](http://www.wjla.com/blogs/capital-insider/2013/04/helping-software-communicate-with-other-software-18550.html)
+
+### April 4, 2013
+* [US Census Bureau Named a 2013 Computerworld Honors Laureate for Open Data API - ProgrammableWeb](http://blog.programmableweb.com/2013/04/04/us-census-bureau-named-a-2013-computerworld-honors-laureate-for-open-data-api/)
+
+### February 8, 2013
+* [White House Announces Release of We The People API and Open Data Day Hackathon - ProgrammableWeb](http://blog.programmableweb.com/2013/02/08/white-house-announces-release-of-we-the-people-api-and-open-data-day-hackathon/)
+
+### February 5, 2013
+* [On the Job with the o*net API: US Department of Labor Exports Career Data - ProgrammableWeb](http://blog.programmableweb.com/2013/02/05/on-the-job-with-the-onet-api-us-department-of-labor-exports-career-data/)
 
 ### December 21, 2012
 * [APIs grease the wheels for putting agency data to use - GCN](http://gcn.com/articles/2012/12/21/api-put-agency-data-to-use.aspx?s=gcntech_020113)
@@ -99,6 +166,9 @@
 ### July 16, 2012
 * [GSA to hold API webinar July 19 - Fedscoop](http://fedscoop.com/gsa-to-hold-api-webinar-july-9/)
 
+### June 7, 2012 
+* [US Census API Makes Giant Data Dumps Optional - ProgrammableWeb](http://blog.programmableweb.com/2012/06/07/us-census-api-makes-giant-data-dumps-are-optional/)
+
 ### June 4, 2012 
 * [Shifting to APIs also requires a shift in culture, says Census official - Fierce Mobile Government](http://www.fiercegovernment.com/story/shifting-apis-also-requires-shift-culture-says-census-official/2012-06-04)
 
@@ -116,6 +186,9 @@
 
 ### December 22, 2011
 * [FCC thinks "API First" to create custom dashboards, share code - Fierce Government IT](http://www.fiercegovernmentit.com/story/fcc-thinks-api-first-create-custom-dashboards-share-code/2011-12-22)
+
+### November 3, 2011
+* [http://apievangelist.com/2011/11/03/an-api-driven-government-regulatory-framework/ - APIEvangelist.com](http://apievangelist.com/2011/11/03/an-api-driven-government-regulatory-framework/)
 
 ### October 20, 2011
 * [NASA Launches Open Data API - Fedscoop](http://fedscoop.com/nasa-launches-open-data-api/)
