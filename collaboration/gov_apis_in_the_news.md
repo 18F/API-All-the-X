@@ -102,8 +102,14 @@
 ### June 4, 2012 
 * [Shifting to APIs also requires a shift in culture, says Census official - Fierce Mobile Government](http://www.fiercegovernment.com/story/shifting-apis-also-requires-shift-culture-says-census-official/2012-06-04)
 
+### June 1, 2012 
+* [Barack Obama Directs All Federal Agencies to Have an API - APIEvangelist.com](http://apievangelist.com/2012/06/01/barack-obama-directs-all-federal-agencies-to-have-an-api/)
+
 ### May 29, 2012
 * [FCC GIO: APIs key to offsetting smaller IT budgets - Fedscoop](http://fedscoop.com/fcc-gio-apis-key-to-offsetting-smaller-it-budgets/)
+
+### April 25, 2012
+* [Government for the people: APIs are making government more transparent - Mashery](http://www.mashery.com/blog/government-people-apis-are-making-government-more-transparent)
 
 ### April 5, 2012
 * [Three letters Steven VanRoekel won’t say…yet - Fierce Government IT](http://www.fiercegovernmentit.com/story/three-letters-steven-vanroekel-won-t-say-yet/2012-04-05)
