@@ -200,6 +200,9 @@
 ### March 19, 2012
 * [Publishing Open Data – Do you really need an API? - ProgrammableWeb](http://www.peterkrantz.com/2012/publishing-open-data-api-design/)
 
+### February 23, 2012 
+* [GET /open/government/apis - Civic.io](http://civic.io/2012/02/23/get-opengovernmentapis/)
+
 ### December 22, 2011
 * [FCC thinks "API First" to create custom dashboards, share code - Fierce Government IT](http://www.fiercegovernmentit.com/story/fcc-thinks-api-first-create-custom-dashboards-share-code/2011-12-22)
 
