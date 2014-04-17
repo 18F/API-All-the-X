@@ -49,7 +49,7 @@ Overview of the /Developer Program, a project of [18F](http://18f.gsa.gov) API E
 * [Write APIs - Notes](https://github.com/18F/API-All-the-X/blob/master/collaboration/write_apis-notes.md)
 
 ### Support
-* [API Usability Program](http://graybrooks.com/API-Usability-Testing/)
+* [API Usability Program](http://github.com/18F/API-Usability-Testing/)
 * [Direct Support Options](https://github.com/18F/API-All-the-X/blob/master/agency_support.md)
 * [Training Options](https://github.com/18F/API-All-the-X/blob/master/api_training.md)
 
