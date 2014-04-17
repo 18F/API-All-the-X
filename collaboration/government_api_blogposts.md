@@ -1,4 +1,3 @@
-
 ### White House 
 * [A Write API for We the People](http://www.whitehouse.gov/blog/2013/11/04/write-api-we-people)
 
@@ -7,6 +6,7 @@
 
 ### Department of Health and Human Services
 * [Making Information More Accessible, The Digital Government Strategy](http://www.healthdata.gov/blog/making-information-more-accessible-digital-government-strategy)
+* [New Web Service: Chemical Activity Predictor](http://cactus.nci.nih.gov/blog/?p=1595&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+chemicalStructureBlog+(%2Fchemical%2Fstructure+Blog))
 
 ### GSA
 * [Open Source + Terms of Service = A Better Developer Experience](http://18fblog.tumblr.com/post/82388500373/open-source-terms-of-service-a-better-developer)
