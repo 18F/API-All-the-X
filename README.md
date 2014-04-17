@@ -38,7 +38,7 @@ Overview of the /Developer Program, a project of [18F](http://18f.gsa.gov) API E
  * [API Highlights](https://github.com/18F/API-All-the-X/blob/master/collaboration/api_highlights.md)
  * [Best Practices](https://github.com/18F/API-All-the-X/blob/master/best_practices.md)
  * [Case Studies](https://github.com/18F/API-All-the-X/tree/master/education/case_studies)
- * [Videos & Webinars](https://github.com/18F/API-All-the-X/tree/master/education)
+ * [Videos & Webinars](https://github.com/18F/API-All-the-X/blob/master/education/videos_and_webinars.md)
 * [Legal FAQ](https://github.com/18F/API-All-the-X/blob/master/resources/legal_FAQ.md)
 * [Model Developer Terms of Service](https://github.com/GSA/API-Resources/tree/master/developer_tos)
 * [Model RFI for Agency APIs](https://github.com/18F/API-All-the-X/blob/master/resources/model_RFI_for_agency_APIs.md)
