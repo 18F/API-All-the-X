@@ -22,6 +22,50 @@
 ### April 12, 2013
 * [Helping software communicate with other software - WJLA Channel 8](http://www.wjla.com/blogs/capital-insider/2013/04/helping-software-communicate-with-other-software-18550.html)
 
+### December 21, 2012
+* [APIs grease the wheels for putting agency data to use - GCN](http://gcn.com/articles/2012/12/21/api-put-agency-data-to-use.aspx?s=gcntech_020113)
+
+### December 7, 2012
+* [What is an API? (VIDEO) - Fedscoop](http://fedscoop.com/what-is-an-api-video/)
 
 ### October 25, 2012
- [APIs Can Save Money and Make Government More Efficient - APIEvangelist](https://github.com/18F/API-All-the-X/blob/master/education/benefits_of_apis.md).  
+* [APIs Can Save Money and Make Government More Efficient - APIEvangelist](https://github.com/18F/API-All-the-X/blob/master/education/benefits_of_apis.md).  
+
+### October 1, 2012
+* [Energy Information Administration launches API - Fedscoop](http://fedscoop.com/energy-information-administration-launches-api/)
+
+### August 28, 2012
+* [State reaches out to public for APIs, mobile - Fedscoop](http://fedscoop.com/state-reaches-out-to-public-for-apis-mobile/)
+
+### August 23, 2012
+* [USDA wants feedback on APIs, mobile data - Fedscoop](http://fedscoop.com/usda-wants-feedback-on-apis-mobile-data/)
+
+### August 17, 2012
+* [EPA wants mobile, API feedback - Fedscoop](http://fedscoop.com/epa-wants-mobile-api-feedback/)
+
+### August 16, 2012 
+* [NRC gives digital strategy update, will open 5 APIs - Fedscoop](http://fedscoop.com/nrc-gives-digital-strategy-update-will-open-5-apis/)
+
+### August 14, 2012
+* [Education wants input on future APIs - Fedscoop](http://fedscoop.com/education-wants-input-on-future-apis/)
+
+### July 26, 2012
+* [Census launches API; mobile app coming - Fedscoop](http://fedscoop.com/census-launches-api-mobile-app-coming/)
+
+### July 16, 2012
+* [GSA to hold API webinar July 19 - Fedscoop](http://fedscoop.com/gsa-to-hold-api-webinar-july-9/)
+
+### May 29, 2012
+* [FCC GIO: APIs key to offsetting smaller IT budgets - Fedscoop](http://fedscoop.com/fcc-gio-apis-key-to-offsetting-smaller-it-budgets/)
+
+### October 20, 2011
+* [NASA Launches Open Data API - Fedscoop](http://fedscoop.com/nasa-launches-open-data-api/)
+
+### August 2, 2011
+* [Federal Register Launches API - Fedscoop](http://fedscoop.com/federal-register-launches-api/)
+
+### July 13, 2011
+* [Labor Launches Site for Developers - Fedscoop](http://fedscoop.com/labor-launches-site-for-developers/)
+
+
+
