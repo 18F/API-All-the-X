@@ -1,4 +1,3 @@
-
 ### April 16, 2014
 * [External API Deployments Using Sync One Possible Future Of Government API Deployments - APIEvangelist.com](http://apievangelist.com/2014/04/16/external-api-deployments-using-sync-one-possible-future-of-government-api-deployments/)
 * [US Department of Education Seeks Higher-Ed APIs - ProgrammableWeb](http://blog.programmableweb.com/2014/04/16/us-department-of-education-seeks-higher-ed-apis/)
@@ -113,14 +112,21 @@
 ### November 14, 2012
 * [JSON preferred over XML for government APIs - Fierce Mobile Government](http://www.fiercemobilegovernment.com/story/json-preferred-over-xml-government-apis/2012-11-14)
 
+### November 9, 2012
+* [The KDF Billion-Ton API: Forecasting Prices for Biofuels - ProgrammableWeb](http://blog.programmableweb.com/2012/11/09/the-kdf-billion-ton-api-forecasting-prices-for-biofuels/)
+
 ### October 25, 2012
 * [APIs Can Save Money and Make Government More Efficient - APIEvangelist](https://github.com/18F/API-All-the-X/blob/master/education/benefits_of_apis.md)  
 
 ### October 16, 2012
 * [Web content management diminishing in importance, says GSA official - Fierce Mobile Government](http://www.fiercegovernmentit.com/story/web-content-management-diminishing-importance-says-gsa-official/2012-10-16)
 
+### October 4, 2012
+* [Energy Information Administration Releases Electricity API - ProgrammableWeb](http://blog.programmableweb.com/2012/10/04/energy-information-administration-releases-electricity-api/)
+
 ### October 1, 2012
 * [Energy Information Administration launches API - Fedscoop](http://fedscoop.com/energy-information-administration-launches-api/)
+* [NASA Wants You to Help Build More APIs - ProgrammableWeb](http://blog.programmableweb.com/2012/10/01/nasa-wants-you-to-help-build-more-apis/)
 
 ### September 26, 2012
 * [NASA using challenges to craft APIs - Fierce Mobile Government](http://www.fiercemobilegovernment.com/story/nasa-using-challenges-craft-apis/2012-09-26)
@@ -159,6 +165,7 @@
 
 ### July 26, 2012
 * [Census launches API; mobile app coming - Fedscoop](http://fedscoop.com/census-launches-api-mobile-app-coming/)
+* [US Census Bureau Releases First-Ever Public API - ProgrammableWeb](http://blog.programmableweb.com/2012/07/26/us-census-bureau-releases-first-ever-public-api/)
 
 ### July 25, 2012
 * [Governmentwide API requirements coming in November - Fierce Mobile Government](http://www.fiercemobilegovernment.com/story/governmentwide-api-requirements-coming-november/2012-07-25)
@@ -184,6 +191,15 @@
 ### April 5, 2012
 * [Three letters Steven VanRoekel won’t say…yet - Fierce Government IT](http://www.fiercegovernmentit.com/story/three-letters-steven-vanroekel-won-t-say-yet/2012-04-05)
 
+### March 28, 2012
+* [Government Data: Web APIs vs. Bulk Data Files - ProgrammableWeb](http://blog.programmableweb.com/2012/03/28/government-data-web-apis-vs-bulk-data-files/)
+
+### March 28, 2012
+* [Government: Do You Really Need An API? - ProgrammableWeb](http://sunlightfoundation.com/blog/2012/03/21/government-do-you-really-need-an-api/)
+
+### March 19, 2012
+* [Publishing Open Data – Do you really need an API? - ProgrammableWeb](http://www.peterkrantz.com/2012/publishing-open-data-api-design/)
+
 ### December 22, 2011
 * [FCC thinks "API First" to create custom dashboards, share code - Fierce Government IT](http://www.fiercegovernmentit.com/story/fcc-thinks-api-first-create-custom-dashboards-share-code/2011-12-22)
 
@@ -193,15 +209,47 @@
 ### October 20, 2011
 * [NASA Launches Open Data API - Fedscoop](http://fedscoop.com/nasa-launches-open-data-api/)
 
+### September 5, 2011
+* [Learn About The Government With The Federal Register - ProgrammableWeb](http://blog.programmableweb.com/2011/09/05/learn-about-the-government-with-the-federal-register/)
+
 ### August 3, 2011
 * [Federal Register releases API - Fierce Government IT](http://www.fiercegovernmentit.com/story/federal-register-releases-api/2011-08-03)
 
 ### August 2, 2011
 * [Federal Register Launches API - Fedscoop](http://fedscoop.com/federal-register-launches-api/)
 
+### July 28, 2011
+* [More Government Data with U.S. Department of Labor API - ProgrammableWeb](http://blog.programmableweb.com/2011/07/28/more-government-data-with-u-s-department-of-labor-api/)
+
 ### July 13, 2011
 * [Labor Launches Site for Developers - Fedscoop](http://fedscoop.com/labor-launches-site-for-developers/)
 * [Spotlight: DOL launches developer site, releases SDKs - Fierce Government IT](http://www.fiercegovernmentit.com/story/spotlight-dol-launches-developer-site-releases-sdks/2011-07-13)
+
+### April 6, 2011
+* [“Everything Should Be an API,” Says FCC - ProgrammableWeb](http://blog.programmableweb.com/2011/04/06/everything-should-be-an-api-says-fcc/)
+
+### September 15, 2010
+* [FCC to Developers: Push Us Forward - ProgrammableWeb](http://blog.programmableweb.com/2010/09/15/fcc-to-developers-push-us-forward/)
+
+
+### February 3, 2010
+* [US Government Launches Business.gov API – Gives Free Access to Small Business Resources - ProgrammableWeb](http://blog.programmableweb.com/2010/02/03/us-government-launches-businessgov-api-gives-free-access-to-small-business-resources/)
+
+### March 27, 2009
+* [Access U.S. Economic Data with FRED and ALFRED - ProgrammableWeb](http://blog.programmableweb.com/2009/03/27/access-us-economic-data-with-fred-and-alfred/)
+
+### March 4, 2009
+* [Realizing Transparency Through Federal Government APIs - ProgrammableWeb](http://blog.programmableweb.com/2009/03/04/realizing-transparency-through-federal-government-apis/)
+
+### February 27, 2009
+* [Give Government Web Sites Open APIs - ProgrammableWeb](http://www.newsweek.com/give-government-web-sites-open-apis-82379)
+
+### December 19, 2008
+* [US Postal Service API Suffers Holiday Outage - ProgrammableWeb](http://blog.programmableweb.com/2008/12/19/us-postal-service-api-suffers-holiday-outage/)
+
+
+
+
 
 
 
