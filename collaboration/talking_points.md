@@ -13,3 +13,7 @@ For legal...
 For staff...
 
 
+
+
+### Material to parse
+http://www.forbes.com/sites/danwoods/2011/12/15/explaining-the-api-revolution-to-your-ceo/
