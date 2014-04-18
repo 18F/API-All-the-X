@@ -37,6 +37,5 @@ _Under Construction_
 * Mashery
 * fedapi.com
 * apihub.com
-* Layer 7
-* 
+* Layer 7 is a software or hardware/software offering
 
