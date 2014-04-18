@@ -1,6 +1,7 @@
 ## Ways to Collaborate
 * [Add examples of good precedence](https://github.com/18F/API-All-the-X/blob/master/collaboration/api_highlights.md)
 * [Add examples of government APIs in the news](https://github.com/18F/API-All-the-X/blob/master/collaboration/gov_apis_in_the_news.md)
+* [Add anecdotes and metaphors to explain 'What are APIs?'](https://github.com/18F/API-All-the-X/blob/master/resources/what_are_APIs-anecdotes_and_metaphors.md)
 * [Edit the API Standards](https://github.com/18F/api-standards)
 * [Edit the Model ToS](https://github.com/GSA/API-Resources/tree/master/developer_tos)
 * [Share your API Recipe](https://github.com/18F/API-All-the-X/blob/master/collaboration/api_recipes.md)
