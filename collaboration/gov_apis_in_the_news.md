@@ -82,6 +82,8 @@
 ### May 16, 2013
 * [USDA Launches New API That Provides Developers Access to a Wealth of Farmers Market Data - ProgrammableWeb](http://blog.programmableweb.com/2013/05/16/usda-launches-new-api-that-provides-developers-access-to-a-wealth-of-farmers-market-data/)
 
+### May 10, 2013
+* [Making Government Data “Easy to Find, Accessible & Usable” - Layer 7](http://www.layer7tech.com/blogs/index.php/making-government-data-easy-to-find-accessible-usable/)
 ### May 3, 2013
 * [White House Releases We the People API to the Public - ProgrammableWeb](http://blog.programmableweb.com/2013/05/03/white-house-releases-we-the-people-api-to-the-public/)
 
