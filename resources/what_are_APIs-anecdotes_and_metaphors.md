@@ -16,6 +16,8 @@ It can be hard to tell someone what APIs are.  Here's a running list of analogie
 * [What is an API and What Are They Good For? - MakeUseOf](http://www.makeuseof.com/tag/api-good-technology-explained/)
 * [What APIs Are And Why They're Important - ReadWrite](http://readwrite.com/2013/09/19/api-defined#awesm=~oBO6NuYrE6EjHo)
 * [What are APIs?  Your Two-Minute Guide - Computer Business Review](http://www.cbronline.com/news/tech/software/middleware/your-two-minute-guide-to-apis-4181504)
+* [In layman's terms, what is an API? - Quora](http://www.quora.com/APIs/In-laymans-terms-what-is-an-API-1)
+* [What is an API? - Press Up](http://pressupinc.com/blog/2014/02/what-is-an-api/)
 
 ## Videos 
 * [What is an API?](https://www.youtube.com/watch?v=UcHhwsTIK_o)
