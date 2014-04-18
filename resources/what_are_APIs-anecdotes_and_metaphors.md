@@ -12,3 +12,18 @@ It can be hard to tell someone what APIs are.  Here's a running list of analogie
 
 ## Posts 
 * [What is an API? - API Academy](http://www.apiacademy.co/lessons/api-strategy/what-api)
+* [What is an API? - HowStuffWorks](http://money.howstuffworks.com/business-communications/how-to-leverage-an-api-for-conferencing1.htm)
+* [What is an API and What Are They Good For? - MakeUseOf](http://www.makeuseof.com/tag/api-good-technology-explained/)
+* [What APIs Are And Why They're Important - ReadWrite](http://readwrite.com/2013/09/19/api-defined#awesm=~oBO6NuYrE6EjHo)
+
+## Videos 
+* [What is an API?](https://www.youtube.com/watch?v=UcHhwsTIK_o)
+* [What are APIs?](https://www.youtube.com/watch?v=4JjN54aaF74)
+* [What are APIs?](https://www.youtube.com/watch?v=PDA9lXPcOfc)
+* [What is an API? (Infographic Animation)](https://www.youtube.com/watch?v=y3fWJ5aVPBg)
+* [What is an API?](https://www.youtube.com/watch?v=QSUnBPv4iQ0)
+* [What is an API? (woodstitch white board)](https://www.youtube.com/watch?v=PkBtOaQ4byw)
+* [What is an API?](https://www.youtube.com/watch?v=iGkTCObcOqM)
+* [What is an API?](https://www.youtube.com/watch?v=USp-hLfDukU)
+
+
