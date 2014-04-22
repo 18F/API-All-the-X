@@ -7,6 +7,7 @@
 * **[USASearch API](http://search.digitalgov.gov/developer/index.html)**
 * **[Consumer Financial Protection Bureau](cfpb.github.io/api/hmda/)**
 * **[Department of Health and Human Services](http://healthdata.gov/developer)**
+* **[NREL](http://developer.nrel.gov/)**
 
 ### Further Notes
 
