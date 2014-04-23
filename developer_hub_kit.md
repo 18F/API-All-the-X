@@ -55,6 +55,7 @@ A Terms of Service (ToS) provides the legal framework by which the API provider 
 * [Go.USA.gov](https://go.usa.gov/api#terms)*
 * [My.USA.gov](https://my.usa.gov/terms-of-service)*
 * [USASearch](http://search.digitalgov.gov/tos.html)*
+* [API.Data.gov](https://api.data.gov/account/terms)
  
 *(*Indicates a common ToS)*
 
