@@ -2,6 +2,8 @@ There are several collections of best practices for API producers, each of which
 
 
 * If a Terms of Service is included with the API, include a notification system that developers sign up for updates.  [[Note](https://github.com/GSA/API-Resources/issues/3)]
+* Include one or more applications that your team builds on top of the API (mashups or a data explorer) that shows that the agency is re-using the API itself and to show an example of how to build on it.  
+
 
 ### Make a Hub
 * Create a central developer hub with a path to each of your APIs and all related resources.
