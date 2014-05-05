@@ -5,12 +5,12 @@ markdown: kramdown
 pygments: true
 
 #Prose.io editing info
-repo_name: microsite-template
+repo_name: API-All-the-X
 branch: gh-pages
 #GitHub organization name *or* username
-gh_org: USG-Website-Templates
+gh_org: 18F
 prose_url: http://prose.io
-site_url: https://USG-Website-Templates.github.io/microsite-template
+site_url: http://18f.github.io/API-All-the-X
 media: assets/img
 
 
