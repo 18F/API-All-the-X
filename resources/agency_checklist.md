@@ -1,4 +1,4 @@
-## To begin
+## To start
 
 * Have you [gathered a list of the public APIs](http://www.howto.gov/mobile/apis-in-government/get-started-with-apis#audit) that your agency (and sub-agencies) currently publish?  
   * Do each of your APIs [have an html homepage](http://www.howto.gov/mobile/apis-in-government/api-release-kit) that provides access to all relevant resources for the APIs?
