@@ -10,7 +10,7 @@
 
 ### GSA
 * [Open Source + Terms of Service = A Better Developer Experience](http://18fblog.tumblr.com/post/82388500373/open-source-terms-of-service-a-better-developer)
-* Needs new link - [Usability Testing + Gov APIs = Best](http://webcache.googleusercontent.com/search?q=cache:uRiupGp-sJsJ:blog.howto.gov/2013/04/29/gov-apis-usability-testing-best/+&cd=1&hl=en&ct=clnk&gl=us)
+* Needs new link - [Usability Testing + Gov APIs = Best](https://web.archive.org/web/20130820232954/http://blog.howto.gov/2013/04/29/gov-apis-usability-testing-best/)
 
 ### National Aeronautics and Space Administration
 * [The Open API Universe at NASA](http://open.nasa.gov/blog/2012/09/19/the-open-api-universe-at-nasa/)
