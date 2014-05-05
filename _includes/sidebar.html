@@ -1,0 +1,18 @@
+<aside>
+  <p class="intro">{{ site.subtitle }}</p>
+  <a class="skip-link visuallyhidden focusable" href="#main">Skip to Main Content</a>
+  <nav role="navigation">
+    <ul>
+      {% for link in site.navigation %}
+        {% if link.internal == true %}
+          <li><a href="{{ site.baseurl }}/{{ link.url }}">{{ link.text }}</a></li>
+        {% else %}
+          <li><a href="{{ link.url }}">{{ link.text }}</a></li>
+        {% endif %}
+        {% endfor %}
+
+        <!-- Prose.io edit link -->
+        <li>{% include prose_edit_url.html %}</li>
+    </ul>
+  </nav>
+</aside>

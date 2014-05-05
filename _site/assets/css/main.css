@@ -1,0 +1,548 @@
+/ri*
+Main.css
+==================================
+Begin with generic 'mobile first' styles
+*/
+
+/*
+Normalize the box model
+==================================
+*/
+
+*,
+*:before,
+*:after {
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+ }
+
+/*
+Typography
+==================================
+*/
+
+body {
+    font-family: Arial, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 1.466666667;
+}
+
+hr {
+    height: 1px;
+    border: 0;
+    background: rgba(133,133,133,.10);
+    /*
+    background-image: -webkit-linear-gradient(left, #ccc, #333, #ccc); 
+    background-image: -moz-linear-gradient(left, #ccc, #333, #ccc); 
+    background-image: -ms-linear-gradient(left, #ccc, #333, #ccc); 
+    background-image: -o-linear-gradient(left, #ccc, #333, #ccc); */
+}
+
+.author {
+    font-size: small;
+    color: rgba(153,153,153,.5);
+    float: right;
+}
+
+/*
+  For fancy quotes, but if using markdown you need to use raw HTML; e.g.,
+  <blockquote class="quote">
+     Some quote ...
+  </blockquote>
+*/
+
+blockquote.quote {
+    background: #f9f9f9;
+    border-left: 10px solid #ccc;
+    margin: 1.5em 10px;
+    padding: 0.5em 10px;
+    quotes: "\201C"\201D"\2018"\2019";
+    font-size: 1.25em;
+}
+
+blockquote.quote:before {
+    color: #ccc;
+    content: open-quote;
+    font-size: 4em;
+    line-height: 0.1em;
+    margin-right: 0.25em;
+    vertical-align: -0.4em;
+}
+
+blockquote.quote p {
+    display: inline;
+}
+
+
+h1,
+h3,
+h4,
+h5,
+strong {
+    font-family: "Avenir Next Demi", "Avenir Next", Arial, sans-serif;
+    font-weight: 600;
+}
+
+h1 {
+    font-size: 1.25em;
+    color: #75787B;
+    margin: 0;
+    line-height: 54px;
+    display: inline-block;
+    float: left;
+}
+
+h2 {
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1.375em;
+    margin: 1.4em 0 0 0;
+}
+
+h4 {
+    font-size: 1em;
+    padding-top: 1.5em;
+    text-transform: uppercase;
+    border-bottom-color: #0D006D;
+    border-bottom-width: 1px;
+    border-bottom-style: dotted;
+}
+
+p,
+li {
+    font-size: .9375em;
+}
+
+.page-title {
+    margin-top: .727272727em; /* 16/22 */
+}
+
+/*
+Lists
+--------------------------------
+*/
+
+.main-content ul {
+    padding-left: 1.1em;
+}
+
+.main-content li {
+    margin-bottom: 1em;
+}
+
+li h3,
+li h4 {
+    margin: 0;
+}
+
+li p {
+    margin-top: 0;
+}
+
+/*
+Links
+==================================
+*/
+
+a {
+    -webkit-transition: .2s;
+       -moz-transition: .2s;
+            transition: .2s;
+}
+
+a,
+a:link,
+a:visited {
+    color: #0072ce;
+    border-bottom: 1px dotted #0072ce;
+    text-decoration: none; 
+}
+
+a:hover {
+    border-bottom: 1px solid #7eb8dd; 
+    color: #7eb8dd; 
+    text-decoration: none;
+}
+
+a:active {
+    border-bottom: 1px solid #002d72; 
+    color: #002d72; 
+    text-decoration: none;
+}
+
+a:focus {
+    border-bottom: 1px solid #0072ce; 
+    color: #0072ce; 
+    outline: thin dotted; 
+    text-decoration: none;
+}
+
+a.title-link {
+    color: #75787B;
+    border-bottom: none;
+}
+
+a.title-link:hover,
+a.title-link:active,
+a.title-link:focus {
+    color: #7eb8dd;
+    border-bottom: none;
+}
+
+a.skip-link {
+    color: #0072ce;
+    border-bottom: none;
+    padding: .25em;
+}
+
+a.skip-link:hover,
+a.skip-link:active,
+a.skip-link:focus {
+    background-color: #0072ce;
+    color: #fff;
+    border-bottom: none;
+}
+
+
+/*
+Navigation
+==================================
+*/
+
+ nav a {
+    display: block;
+    padding: .5em 0;
+    -webkit-transition: .4s;
+       -moz-transition: .4s;
+            transition: .4s;
+}
+
+nav a,
+nav a:link,
+nav a:visited {
+    border-bottom: none;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+    border-top: 1px solid #CDE3F1;
+}
+
+nav li {
+    list-style: none;
+    border-bottom: 1px solid #CDE3F1;
+}
+
+
+/*
+Layout
+==================================
+*/
+
+/* offset the fixed position header for jump links */
+section:before {
+    display: block; 
+    content: ""; 
+    height: 60px; 
+    margin: -60px 0 0; 
+}
+
+.wrap {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+header {
+    width: 100%;
+    border-top: 8px solid #000080;
+    border-bottom: 1px solid rgba(133,133,133,.10);
+    background-color: #fff;
+    position: fixed;
+    top: 0;
+    z-index: 99999;
+    height: 4.10em;
+}
+
+.content {
+    margin-top: 80px;
+}
+
+
+/*
+Helpers
+==================================
+*/
+
+/* Hide from both screenreaders and browsers: h5bp.com/u */
+.hidden {
+    display: none !important;
+    visibility: hidden;
+}
+
+/* Hide only visually, but have it available for screenreaders: h5bp.com/v */
+.visuallyhidden {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+}
+
+/* Extends the .visuallyhidden class to allow the element to be focusable
+ * when navigated to via the keyboard: h5bp.com/p */
+.visuallyhidden.focusable:active,
+.visuallyhidden.focusable:focus {
+    clip: auto;
+    height: auto;
+    margin: 0;
+    overflow: visible;
+    position: static;
+    width: auto;
+}
+
+/* Hide visually and from screenreaders, but maintain layout */
+.invisible {
+    visibility: hidden;
+}
+
+
+/*
+Style
+==================================
+*/
+
+.intro {
+    color: #75787B;
+}
+
+.logo {
+    width: 150px;
+    margin-top: .75em; /*this is a pretty hacky job of vertically centering the logo */
+    padding-right: 20px;
+    float: right;
+}
+
+footer {
+    font-size: 0.75em;
+    color: #75787B;
+}
+
+li h4 {
+    margin: 0;
+}
+
+.license {
+    font-family: "Avenir Next Demi", Arial, sans-serif;
+    font-weight: normal;
+    font-style: normal; 
+}
+
+.highlight {
+    max-width: 100%;
+    font-size: 0.875em;
+    overflow-y: scroll;
+    background-color: #E7E7E6;
+    padding: 0 10px;
+}
+
+/*
+Post list
+----------------------------------
+*/
+
+ul.posts {
+    padding: 0;
+}
+
+.posts li {
+    list-style: none;
+}
+
+.post-date {
+    color: #75787B;
+}
+
+/*
+Repo list
+----------------------------------
+*/
+
+ul.repo-list {
+    margin: .5em 0 1em 0;
+    padding: 0;
+}
+
+.repo-list li {
+    list-style: none;
+}
+
+.repo-list p {
+    margin: 0;
+    font-size: 0.875em;
+}
+
+.repo-list h4 {
+    text-transform: none;
+}
+
+/*
+Helper Classes
+==================================
+*/
+
+/*
+Clearfix list
+----------------------------------
+*/
+
+.group:before,
+.group:after {
+    content: " ";
+    display: table;
+}
+
+.group:after {
+    clear: both;
+}
+
+.group {
+    *zoom: 1;
+}
+
+/*
+Desktop Styles
+==================================
+*/
+
+@media screen and (min-width: 45em) and (min-height: 32.5em) {
+
+    /*
+    Typography
+    ==============================
+    */
+
+    h1 {
+        font-size: 1.625em;
+        margin: 0;
+    }
+
+    /*
+    Layout
+    ==============================
+    */
+
+    .logo {
+        float: right;
+    }
+
+    aside {
+        position: fixed;
+        top: 82px;
+        width: 245px;
+        padding-right: 15px;
+        height: 100%;
+    }
+
+    footer {
+        position: fixed;
+        width: 235px;
+        bottom: 20px;
+    }
+
+    .main-content {
+        width: 67%;
+        float: right;
+        margin-bottom: 120px;
+    }
+
+    /*
+    Navigation
+    ==============================
+    */
+
+    nav a:hover {
+        color: #4D5F87;
+        border-bottom: none;
+        background-color: #CDE3F1;
+        padding-left: 10px;
+    }
+
+    /*
+    Style
+    ==============================
+    */
+
+    /*
+    Repo list
+    ------------------------------
+    */
+
+    .repo-list li {
+        list-style: none;
+        display: block;
+        float: left;
+        height: 4.0625em;
+        max-height: 4.0625em;
+        background-color: #E7E7E6;
+        border-left: 1px solid #BABBBD;
+        width: 30%;
+    }
+
+    .repo-list a:link,
+    .repo-list a:visited {
+        display: block;
+        max-height: 4.0625em;
+        background-color: #E7E7E6;
+        border-bottom: none;
+        padding: .625em 1em 1em 1em;
+    }
+
+    .repo-list a:hover {
+        color: #4D5F87;
+        background-color: #CDE3F1;
+    }
+
+    .repo-list li:first-child {
+        text-align: center;
+        border-left: none;
+        line-height: 60px;
+        padding: .625em 1em;
+        width: 10%;
+    }
+
+}
+
+@media screen and (max-width: 54.375em) and (min-height: 32.5em) {
+    
+    /* keep the repo list containers the same height, but account for the need for more height */
+
+    .repo-list li {
+        height: 6em;
+        max-height: 6em;
+    }
+
+    .repo-list a:link,
+    .repo-list a:visited {
+        max-height: 6em;
+    }
+}
+
+/*
+Mobile Styles
+==================================
+*/
+
+@media screen and (max-width: 40.5em) {
+
+    .main-content {
+        margin-top: 1.5em;
+    }
+
+}

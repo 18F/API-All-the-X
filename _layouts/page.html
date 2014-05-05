@@ -1,0 +1,14 @@
+---
+layout: default
+---
+<h2 class="page-title">{{ page.title }}</h2>
+
+{{ content }}
+
+
+<hr/>
+
+{% if page.authors %}
+ <div class="author">Authors: {{page.authors}}</div>
+{% endif %}
+

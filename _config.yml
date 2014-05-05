@@ -1,0 +1,63 @@
+# Base configuration
+permalink: /news/:title 
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
+markdown: kramdown
+pygments: true
+
+#Prose.io editing info
+repo_name: microsite-template
+branch: gh-pages
+#GitHub organization name *or* username
+gh_org: USG-Website-Templates
+prose_url: http://prose.io
+site_url: https://USG-Website-Templates.github.io/microsite-template
+media: assets/img
+
+
+# Your Programs's Name
+name: Template Microsite
+subtitle: A template of a microsite
+
+# When using this template with a project page set the baseurl to '/project-name'
+# For user/organization pages set this to an empty string
+# When working locally use jekyll serve --baseurl '' so that you can view everything at localhost:4000
+# See http://jekyllrb.com/docs/github-pages/ for more info
+#baseurl: ''
+baseurl: '/microsite-template'
+
+# Author/Organization info to be displayed in the templates
+author:
+  name: Thomas Jefferson 
+  url: http://localhost:4000
+
+# ------------------------------------------------------------------
+#   Navigation
+#   List links that should appear in the site sidebar here
+#   "pages" is a directory to keep web content that are not posts
+# ------------------------------------------------------------------
+navigation:
+- text: Home
+  url: index.html
+  internal: true
+- text: Page with Footnotes
+  url: pages/page_with_footnotes.html
+  internal: true
+- text: Sample Page
+  url: pages/sample_page.html
+  internal: true
+- text: News
+  url: pages/news.html
+  internal: true
+- text: FAQs
+  url: pages/faq.html
+  internal: true 
+- text: Sample with SubPages
+  url: pages/workflows.html
+  internal: true
+- text: References
+  url: pages/references.html
+  internal: true
+## You should remove or comment these next few lines when going live 
+- text: How to configure this site
+  url: pages/howto.html
+  internal: true

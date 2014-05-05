@@ -1,0 +1,466 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Git Workflow</title>
+        <meta name="viewport" content="width=device-width">
+        <link rel="stylesheet" href="/assets/css/normalize.css">
+        <link rel="stylesheet" href="/assets/css/main.css">
+        <link rel="stylesheet" href="/assets/css/syntax.css">
+        <!--[if lt IE 9]>
+          <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+          <script src="/assets/js/respond.min.js"></script>
+        <![endif]-->
+
+    </head>
+    <body>
+
+
+
+      <header role="banner">
+
+      <!-- Fork Me at GitHub banner. Remove, of course -->
+      <a href="https://github.com/virtix/open-source-program-template"><img style="position: absolute; top: 0; right: 0; border: 0;" src="http://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png" alt="Fork me on GitHub"></a>
+      
+
+      <div class="wrap">
+        
+        <h1><a class="title-link" href="/">A Government Open Source Program</a></h1>
+        <div style="float:right">
+            <!-- This should be a configurable item in data/ -->
+
+            <a href="/index.html" class="title-link">
+                <img height="52" src="/assets/img/USA_flag_icon.png" alt="Your agency logo">
+            </a>
+        </div>
+      </div>
+      </header>
+
+      <div class="wrap content">
+
+          <aside>
+  <p class="intro">A set of templates and artifacts to support open source programs</p>
+  <a class="skip-link visuallyhidden focusable" href="#main">Skip to Main Content</a>
+  <nav role="navigation">
+    <ul>
+      
+        
+          <li><a href="/index.html">Home</a></li>
+        
+        
+        
+          <li><a href="/pages/guiding_principles.html">Guiding Principles</a></li>
+        
+        
+        
+          <li><a href="/pages/oss_policy.html">Open Source Policy</a></li>
+        
+        
+        
+          <li><a href="/pages/news.html">News</a></li>
+        
+        
+        
+          <li><a href="/pages/open_by_default.html">Open By Default</a></li>
+        
+        
+        
+          <li><a href="/pages/faq.html">FAQs</a></li>
+        
+        
+        
+          <li><a href="/pages/workflows.html">Processes &amp; Procedures</a></li>
+        
+        
+        
+          <li><a href="/pages/references.html">References</a></li>
+        
+        
+        
+          <li><a href="/pages/howto.html">How to configure this site</a></li>
+        
+        
+
+        <!-- Prose.io edit link -->
+        <li><a href="http://prose.io#virtix/open-source-program-template/edit/gh-pages/pages/git_workflow.md" target="_blank">Edit this page on prose.io</a>
+</li>
+    </ul>
+  </nav>
+</aside>
+
+
+        <section id="main" class="main-content" role="main">
+          <h2 class="page-title">Git Workflow</h2>
+
+<p class="lead">This section explains how we use Git. See the bottom of this page for the Git Cheat Sheet and
+useful free resources for learning Git.</p>
+
+<p>If you’ve never used Git before, you should know two things:</p>
+
+<ul>
+  <li>It has a learning curve.</li>
+  <li>Once you get it, your work will be much better, and you’ll insist on using it for every coding project you work 
+on.</li>
+</ul>
+
+<p>Git is a revision control system. It lets multiple people work on a code project without stepping on each other’s 
+toes. It also saves every previous version of your files, so if something breaks, reverting is easy.</p>
+
+<p>The basic workflow for Git goes something like this:</p>
+
+<ul>
+  <li>You tell Git that you’re going to work on a certain project, or “repository”.</li>
+  <li>You make your own copy of that project.</li>
+  <li>You make whatever changes to the code you like and test them in your repository.</li>
+  <li>When you’re ready to have those changes reflected in the live code (<code>master</code>), you update your copy so 
+that it reflects any changes made by others in the time since you initially made the copy.</li>
+  <li>You commit your changes to master.</li>
+</ul>
+
+<p>Here’s that workflow as written in Git. If you’re ever in doubt about whether you’re doing things in the right 
+order, this simple workflow will keep you straight:</p>
+
+<div class="highlight"><pre><code class="console"><span class="gp">$</span> git checkout master
+<span class="gp">$</span> git pull
+<span class="gp">$</span> git checkout -b feature-A
+</code></pre></div>
+
+<p>This last line creates a new branch (called <code>feature-A</code>) in your copy. A branch is a way of saying, “I’m going
+to work on this bug,” or “I’m going to code a new feature.” You should ALWAYS create a new branch, no matter how 
+mundane your changes are going to be.</p>
+
+<p>Once you are done with your changes and are ready to commit them back to <code>master</code>:</p>
+
+<div class="highlight"><pre><code class="console"><span class="gp">$</span> git commit -am <span class="s2">&quot;I just added a new feature&quot;</span>
+<span class="gp">$</span> git checkout master
+<span class="gp">$</span> git pull
+<span class="gp">$</span> git merge feature-A
+<span class="gp">$</span> git push
+</code></pre></div>
+
+<p>In order, these lines:</p>
+
+<p>The first line commits your changes to your branch. The next two lines ensure your <code>master</code> copy is up to date 
+with the TRUE <code>master</code>, or “<code>origin master</code>”. The next line moves your <code>feature-A</code> branch changes into 
+your <code>master</code> branch, and the final line moves those changes onto <code>origin master</code>.</p>
+
+<p>It may differ slightly from project to project and may require some experimentation and refactoring. That said, 
+here are some guidelines to follow:</p>
+
+<h2 id="people-developers--maintainers">People: Developers &amp; Maintainers</h2>
+
+<p>Simply, a <em>Developer</em> is a person or roles who writes software. A <em>Maintainer</em> controls what is allowed to be in 
+the central reposisitory. A person may be <em>both</em> a Developer and a Maintainer, but preferably not on the same code.</p>
+
+<p><strong>Developers</strong> write code in their repo and do not have commit access to the YOUR ORGANIZATION NAME master branches.</p>
+
+<p><strong>Maintainers</strong> own and are accountable for the YOUR ORGANIZATION NAME master branches. They ensure that any code there adheres to 
+all defined criteria. Additionally, they determine the version (tag) of each repository.</p>
+
+<hr />
+
+<h2 id="branching-and-merging">Branching and Merging</h2>
+
+<h3 id="terms">Terms:</h3>
+
+<ul>
+  <li><strong>Fork</strong> – A clone of a GitHub repository that was created using the 
+<img src="http://i.imgur.com/SMr70.png" alt="Fork" align="absmiddle" /> feature. A fork allows you and the 
+maintainer to use GitHub pull requests and lists the developer in the maintainer’s network. This is very useful in 
+larger projects with many committers. </li>
+  <li><strong>Integration branch</strong> – a branch that is only used to merge work in from other branches. <code>master</code>, 
+for example, should be an integration branch. In most cases, it’s a bad idea to code directly on YOUR ORGANIZATION NAME’s master 
+branches. </li>
+  <li><strong><code>origin</code></strong> refers the main remote repository (production).</li>
+  <li><strong>Tracking branch</strong> – a local branch that is set up to track a branch in some remote repository.</li>
+  <li><strong>Topic branch</strong> – a short-term branch used to address a feature or bug.</li>
+  <li><strong>Long running branch</strong> – a branch that could take a while to complete.</li>
+  <li><strong>Issue</strong> – a bug or a feature.</li>
+  <li><strong>Pull Request</strong> – When a developer is ready to have her or his changes integrated, they use the 
+<a href="https://help.github.com/articles/using-pull-requests/">pull request</a> feature in GitHub to merge their work into 
+the main/live/production distribution.</li>
+</ul>
+
+<h3 id="the-gauntlet">The Gauntlet</h3>
+
+<ul>
+  <li><code>therepo/origin/master</code> is <em>always</em> deployable. If it’s in <code>master</code>, it can go to production. Period. 
+The end.</li>
+  <li>Never code on <code>origin/master</code>, because it’s an integration branch. Code on some other branch in your own 
+repository and make pull requests. </li>
+  <li>Create a remote in your repo that points to the YOUR ORGANIZATION NAME repo you’re working on:</li>
+</ul>
+
+<div class="highlight"><pre><code class="console"><span class="gp">$</span> git remote add org_remote git://github.com/YOUR ORGANIZATION NAME/<span class="o">[</span>reponame<span class="o">]</span>.git
+<span class="gp">$</span> git fetch YOUR ORGANIZATION NAME
+</code></pre></div>
+
+<ul>
+  <li><em>Merge early and often</em>, that is, keep your work in sync with YOUR ORGANIZATION NAME/origin.</li>
+</ul>
+
+<div class="highlight"><pre><code class="console"><span class="gp">$</span> git pull --all org_remote
+</code></pre></div>
+
+<ul>
+  <li>Always branch from <code>therepo/origin/master</code> when starting something new. </li>
+  <li>A new branch should be tied to something in GitHub’s issue tracking</li>
+  <li>Keep your working directory clean. (There should be no un-staged files when committing. Everything should be 
+staged or ignored.)</li>
+  <li>
+    <p>Name your branches something meaningful (e.g., <code>encoding-bug</code> or <code>notifications-feature</code>). If working on 
+a release with many features and people, use your name or initials in the branch name. For example: 
+<code>bill/bug-123</code>, <code>ross/kb-search</code>, etc.</p>
+  </li>
+  <li>Delete branches once they have been merged:</li>
+</ul>
+
+<div class="highlight"><pre><code class="console"><span class="gp">$</span> git branch -d bug-123
+<span class="gp">$</span> git push :origin/bug-123
+</code></pre></div>
+
+<p>The first command deletes the local branch and the second one removed the remote branch.</p>
+
+<ul>
+  <li>Tag releases: </li>
+</ul>
+
+<div class="highlight"><pre><code class="console"><span class="gp">$</span> git status
+<span class="go">        # On branch master</span>
+<span class="go">        nothing to commit (working directory clean)</span>
+<span class="gp">$</span> git tag -a v1.0.6
+<span class="gp">$</span> git push -tags
+</code></pre></div>
+
+<p>The tag command generates and annotated tag in the local repo, but you will also want to push this tag to the 
+remote. This is done with the last command.</p>
+
+<ul>
+  <li>
+    <p>Be generous with your commit messages (see below). Avoid <code>$ git commit -m</code> for big commits, and opt for 
+<code>$ git commit</code>, which will drop you into vim or whatever editor you told Git you like.</p>
+  </li>
+  <li>
+    <p>Maintainers and pull requests: </p>
+    <ul>
+      <li><strong>Do real code reviews on pull requests!</strong> </li>
+      <li>Ask questions and leverage GitHub’s code review features. </li>
+      <li>Run tests before <em>and</em> after merging into master. </li>
+      <li>Do NOT simply click the merge button.  Enter a commit message and/or a comment that explicity states you have read
+the code and find it acceptible.</li>
+      <li>Own quality and deployment. </li>
+      <li>Tag the release when it’s ready to go to production. Deployments can pull by tag – we should do this.</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="remote-branches-and-local-branches">Remote branches and local branches</h3>
+
+<ul>
+  <li>To Do: Explain a long-running branch in the remote vs. local.</li>
+</ul>
+
+<h3 id="example-workflows">Example workflows</h3>
+
+<ul>
+  <li><code>-</code> is a time line.</li>
+  <li><code>*</code>  is a commit.</li>
+  <li><code>/</code> and <code>\</code> are pulls and pushes that result in a merge commit or a new branch.</li>
+</ul>
+
+<h4 id="basic-topic-branch-flow">Basic Topic Branch Flow</h4>
+
+<pre><code>feat-A:  --------------------------/----*----*---*                   /----*----*---*  
+master:  *----------*--------*---*----------*                 *-----*   (ship)
+bug-1:   --------------------------------------\----*--------/
+</code></pre>
+
+<p>Ross is working on a feature (<code>feat-A</code>) and is a very happy programmer. But along comes a bug. Ross is no 
+longer happy. He’s angry and starts to cry, but then realizes he can stash his changes to <code>feat-A</code> and create 
+a <em>new</em> branch to fix the bug (<code>bug-1</code>). Ross creates a <code>bug-1</code> branch, fixes the bug, all tests pass, he 
+merges to <code>master</code>, pushes to his GitHub repo, and makes a pull request. The maintainer pushed the fixes to 
+production. He then removes the <code>bug-1</code> branch (<code>git branch -d bug-1</code>). He then checks out <code>feat-A</code>, 
+pulls from <code>master</code> to get the bug fix. Let’s look at this in detail:</p>
+
+<div class="highlight"><pre><code class="console"><span class="gp">$</span> git status
+<span class="go">  # On branch feat-A</span>
+<span class="go">  # Changes to be committed:</span>
+<span class="go">  # (use &quot;git reset HEAD [file]...&quot; to unstage)</span>
+<span class="go">  #</span>
+<span class="go">  #  modified:   awesome.py</span>
+<span class="go">  #</span>
+<span class="go">  # Changes not staged for commit:</span>
+<span class="go">  # (use &quot;git add [file]...&quot; to update what will be committed)</span>
+<span class="go">  #</span>
+<span class="go">  #  modified:   models.py</span>
+</code></pre></div>
+
+<p>At this point, Ross can commit his changes and checkout <code>master</code>, or he can stage his changes, stash them, and 
+then re-apply his stash once he’s finished his fix in <code>master</code>. The commit workflow is simple and well known; 
+let’s look at the more involved <code>stash</code> workflow:</p>
+
+<div class="highlight"><pre><code class="console"><span class="gp">$</span> git stash
+<span class="gp">$</span> git stash list
+<span class="go">  stash@{0}: WIP on feat-A: c8702a5 Coding all the features</span>
+<span class="gp">$</span> git checkout master
+<span class="gp">$</span> git pull origin master
+<span class="gp">$</span> git checkout -b bug-1
+</code></pre></div>
+
+<p>Ross’s new <code>bug-1</code> branch, based on <code>master</code>, is ready for fixin’. Ross creates unit tests to confirm he 
+can replicate the bug, he fixes the bug, his tests go green. Ross commits his fixes to <code>bug-1</code> and merges.</p>
+
+<div class="highlight"><pre><code class="console"><span class="gp">$</span> git add .
+<span class="gp">$</span> git commit
+<span class="go">  # Good commit message goes here</span>
+<span class="gp">$</span> git checkout master
+<span class="gp">$</span> git merge bug-1
+<span class="gp">$</span> git branch -d bug-1
+<span class="gp">$</span> git push :origin/bug-1  <span class="c">#if he  had pushed this branch to his remote</span>
+<span class="gp">$</span> git push origin master
+</code></pre></div>
+
+<p>Ross now submits his pull request. He’s ready to get back to <code>feat-A</code>. If Ross had previously committed all his 
+work, he’d simply need to re-checkout his <code>feat-A</code> branch. However, he decided to <code>stash</code> instead of 
+<code>commit</code>, so he does this instead:</p>
+
+<div class="highlight"><pre><code class="console"><span class="gp">$</span> git status
+<span class="go">  # On branch master</span>
+<span class="go">  nothing to commit (working directory clean)</span>
+<span class="gp">$</span> git fetch org_remote
+<span class="gp">$</span> git checkout feat-A
+<span class="gp">$</span> git pull
+<span class="gp">$</span> git stash apply --index
+</code></pre></div>
+
+<p>Ross is happy again. </p>
+
+<h4 id="long-running-branch-flow">Long Running Branch Flow</h4>
+
+<pre><code>other work:          ------*---------*--------\
+other work:        /---*--*---\----*-\          \
+master:    -*-----*-------------*------*---------* -----------------------------* (ship)
+major-1:     \-------------*-----------------------*--------*--------------* / 
+mb1:           \-----*----/                      /   \--*--/               /
+mb2:                          \------*---*---*-/----*-*-------*-\--*----*/                          
+</code></pre>
+
+<p>A team has been assembled to build a major release (<code>major-1</code>). It’s based on <code>origin/master</code> and is 
+treated as an integration branch. <code>mb1</code> and <code>mb2</code> can be branches worked on by different team members. 
+When they agree their work can be integrated, they commit to <code>major-1</code>. The maintainer(s) ensure that all 
+branches and features have been merged and tested, they merge <code>mb1</code> and <code>mb2</code> into <code>master</code>, and push 
+to origin/master.</p>
+
+<h4 id="topic-branches-vs-long-running-branches">Topic branches vs. Long running branches:</h4>
+
+<p>Ask yourself how long it will take and what else is going on with that project. Come up with a quick integration 
+plan.</p>
+
+<hr />
+
+<h2 id="commit-messageshttptbaggerycom20080419a-note-about-git-commit-messageshtml"><a href="http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html">Commit messages</a>:</h2>
+
+<p>From the above link, a model commit message:</p>
+
+<pre><code>Capitalized, short (50 chars or less) summary
+
+More detailed explanatory text, if necessary. Wrap it to about 72
+characters or so. In some contexts, the first line is treated as the
+subject of an email and the rest of the text as the body. The blank
+line separating the summary from the body is critical (unless you omit
+the body entirely); tools like rebase can get confused if you run the
+two together.
+
+Write your commit message in the present tense: "Fix bug" and not "Fixed
+bug." This convention matches up with commit messages generated by
+commands like git merge and git revert.
+
+Further paragraphs come after blank lines.
+
+- Bullet points are okay, too
+
+- Typically a hyphen or asterisk is used for the bullet, preceded by a
+  single space, with blank lines in between, but conventions vary here
+
+- Use a hanging indent
+</code></pre>
+
+<p>Note that git allows you to create <em>commit templates</em>. We may want to consider this. </p>
+
+<h2 id="changing-the-github-enterprise-favicon">Changing the GitHub Enterprise favicon</h2>
+
+<p>Currently, GitHub Enterprise does not support modifying the favicon, leading to difficulty distinguishing browser
+tabs from our GHE and github.com. To remedy this, you can use a Chrome extension:</p>
+
+<ol>
+  <li>Fork or clone <code>https://github.com/marcesher/github-enterprise-change-favicon-color.git</code></li>
+  <li>Open the manifest file and change the <code>matches</code> to: <code>"https://github.YOUR ORGANIZATION NAME.gov/*"</code></li>
+  <li>In Chrome, go to <code>chrome://extensions</code></li>
+  <li>Check the <code>Developer Mode</code> checkbox</li>
+  <li>Click <code>Load Unpacked Extension</code></li>
+  <li>Navigate to your <code>github-enterprise-change-favicon-color</code> directory and click through to install</li>
+  <li>When the Extensions screen shows your new extension, click the “Options” link and choose your color.</li>
+  <li>Reload a <code>github.YOUR ORGANIZATION NAME.gov</code> URL and your icon should appear as a different color</li>
+  <li>If the size is wrong (i.e. it shrinks, or it’s chopped off), go back to the options page and choose a different
+image size</li>
+</ol>
+
+<h2 id="keep-tabs-with-github-rss">Keep tabs with GitHub RSS</h2>
+
+<p>If you want to keep up on what others are working on, one fast way is to use GitHub’s RSS. Here I’ll describe using
+the Chrome RSS Live Links extension to do so. Obviously if you have a preferred RSS feed reader, use it.</p>
+
+<ol>
+  <li>Add the
+<a href="https://chrome.google.com/webstore/detail/rss-live-links/hcamnijgggppihioleoenjmlnakejdph?hl=en-US">RSS Live Links Extension</a>
+to Chrome.</li>
+  <li>Go to github.com and click on the “News Feed” link in the upper right. The resulting URL will be something
+like <code>https://github.com/yourhandle.private.atom?token=longhash</code>.</li>
+  <li>Find the Live Links icon in Chrome, to the right of the Address Bar. Click it, then click the wrench to add
+feeds.</li>
+  <li>On the Feeds screen, click the “Add” button and add that copied URL.</li>
+  <li>Rinse and repeat for any other feeds you want. For example, I have feeds specifically for repos I’m interested
+in, such as all commits on the Handbook. To add a feed for commits, follow this format:
+<code>https://github.com/organization/reponame/commits/gh-pages.atom</code>, e.g.:
+<code>https://github.com/organization/handbook/commits/gh-pages.atom</code></li>
+  <li>If you want the firehose, add a feed for the public timeline: <code>https://github.com/timeline.atom</code>.</li>
+  <li>To get more items into your personal timeline, watch more people / repos in GitHub.</li>
+</ol>
+
+<p>Once added, those feeds should now show up in Live Links (or your reader). Live Links will notify you whenever new
+items appear.</p>
+
+<hr />
+
+<h2 id="references">References</h2>
+
+<ul>
+  <li><a href="http://scottchacon.com/2011/08/31/github-flow.html">http://scottchacon.com/2011/08/31/github-flow.html</a></li>
+  <li><a href="http://nvie.com/posts/a-successful-git-branching-model/">http://nvie.com/posts/a-successful-git-branching-model/</a></li>
+  <li><a href="http://progit.org/book/ch5-1.html">http://progit.org/book/ch5-1.html</a></li>
+  <li><a href="http://zachholman.com/talk/how-github-uses-github-to-build-github">http://zachholman.com/talk/how-github-uses-github-to-build-github</a></li>
+  <li><a href="http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html">http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html</a></li>
+  <li><a href="http://git-scm.com/book/en/Git-Tools-Stashing">http://git-scm.com/book/en/Git-Tools-Stashing</a></li>
+  <li><a href="http://architects.dzone.com/articles/useful-git-post-checkout-hook">http://architects.dzone.com/articles/useful-git-post-checkout-hook</a></li>
+</ul>
+
+
+
+<hr/>
+
+
+
+
+        </section>
+        
+        
+        <footer role="contentinfo">
+          <p>This project is maintained by <a href="mailto:tj@monticello.gov">Thomas Jefferson</a></p>
+ 
+          <p>Hosted on Github Pages</p>
+        </footer>
+
+      </div><!-- /.wrap -->
+    </body>
+</html>

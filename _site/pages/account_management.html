@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Account Management at GitHub.com</title>
+        <meta name="viewport" content="width=device-width">
+        <link rel="stylesheet" href="/assets/css/normalize.css">
+        <link rel="stylesheet" href="/assets/css/main.css">
+        <link rel="stylesheet" href="/assets/css/syntax.css">
+        <!--[if lt IE 9]>
+          <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+          <script src="/assets/js/respond.min.js"></script>
+        <![endif]-->
+
+    </head>
+    <body>
+
+
+
+      <header role="banner">
+
+      <!-- Fork Me at GitHub banner. Remove, of course -->
+      <a href="https://github.com/virtix/open-source-program-template"><img style="position: absolute; top: 0; right: 0; border: 0;" src="http://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png" alt="Fork me on GitHub"></a>
+      
+
+      <div class="wrap">
+        
+        <h1><a class="title-link" href="/">A Government Open Source Program</a></h1>
+        <div style="float:right">
+            <!-- This should be a configurable item in data/ -->
+
+            <a href="/index.html" class="title-link">
+                <img height="52" src="/assets/img/USA_flag_icon.png" alt="Your agency logo">
+            </a>
+        </div>
+      </div>
+      </header>
+
+      <div class="wrap content">
+
+          <aside>
+  <p class="intro">A set of templates and artifacts to support open source programs</p>
+  <a class="skip-link visuallyhidden focusable" href="#main">Skip to Main Content</a>
+  <nav role="navigation">
+    <ul>
+      
+        
+          <li><a href="/index.html">Home</a></li>
+        
+        
+        
+          <li><a href="/pages/guiding_principles.html">Guiding Principles</a></li>
+        
+        
+        
+          <li><a href="/pages/oss_policy.html">Open Source Policy</a></li>
+        
+        
+        
+          <li><a href="/pages/news.html">News</a></li>
+        
+        
+        
+          <li><a href="/pages/open_by_default.html">Open By Default</a></li>
+        
+        
+        
+          <li><a href="/pages/faq.html">FAQs</a></li>
+        
+        
+        
+          <li><a href="/pages/workflows.html">Processes &amp; Procedures</a></li>
+        
+        
+        
+          <li><a href="/pages/references.html">References</a></li>
+        
+        
+        
+          <li><a href="/pages/howto.html">How to configure this site</a></li>
+        
+        
+
+        <!-- Prose.io edit link -->
+        <li><a href="http://prose.io#virtix/open-source-program-template/edit/gh-pages/pages/account_management.md" target="_blank">Edit this page on prose.io</a>
+</li>
+    </ul>
+  </nav>
+</aside>
+
+
+        <section id="main" class="main-content" role="main">
+          <h2 class="page-title">Account Management at GitHub.com</h2>
+
+<h4 id="organization-or-user">Organization or user</h4>
+
+<p>Agencies should be represented by <a href="https://help.github.com/articles/what-s-the-difference-between-user-and-organization-accounts#organizations">GitHub organizations</a>. Think of these as roughly analogous to a Facebook Page.  Organizations do not have their own login, but are administered by users. Organizations have their own, distinct online presence, can own repositories, and can have unlimited members and teams.</p>
+
+<h4 id="teams">Teams</h4>
+
+<p>Within organizations, users are grouped into teams. Teams often reflect real-world groupings and organizational structure within your agency, or because users can belong to multiple teams, can be custom tailored to specific projects. Just like your agency, there might be a new media team, a internal tools team, etc. Organizations can have unlimited teams, and teams can have unlimited users.</p>
+
+<p>Team membership not publicly disclosed and is often used to delegate access or permissions on three levels: administration access, read-only (“pull”) access, and read-write (“push and pull”) access. This way, a team, representing a subunit of your organization, can have complete control over their repositories.</p>
+
+<p>For flexibility and ease-of-use, best practices suggest that whenever possible, prefer social or policy constraints over technical constraints when it comes to delegating repository ownership. Often agencies can have a better experience by liberally granting team permissions and culturally setting expectations as to ownership and access.</p>
+
+<h4 id="publicizing-teams">Publicizing Teams</h4>
+
+<p>By default, teams remain visible only to members of the organization. If you would like to create a public presence for each team, many private-sector GitHub users have, and government agencies are beginning to leverage the native GitHub Pages functionality to create a public presence which is fully customizable and brandable. Some great examples of this are http://twitter.github.io/, http://square.github.io/, and http://gsa.github.io/federal-open-source-repos/.</p>
+
+<p>To begin, simply create a repository in your organization called <code>[username].github.io</code>, for example, if your organization is <code>agency</code>, the repository would be <code>agency/agency.github.io</code>. From there, you can push any static or Jekyll-enabled files to the <code>master</code> branch, and they will become visible at <code>agency.github.io</code>. You can even set up a redirect, such that <code>developers.agency.gov</code> displays the branch’s content.</p>
+
+<p>Like the examples above, it may be possible to leverage the GitHub API to dynamically display all your organization’s teams or projects. For more information, see the <a href="https://help.github.com/categories/20/articles">GitHub Pages </a> and <a href="http://developer.github.com/v3/orgs/">developer</a> help documentation.</p>
+
+<h4 id="two-factor-authentication">Two-factor Authentication</h4>
+
+<p>As of 2013, GitHub allows for 2-factor authentication. This is a recommended extra step that can help organizations
+secure it’s assets and demonstrate access controls. </p>
+
+<ul>
+  <li><a href="http://en.wikipedia.org/wiki/Multi-factor_authentication">Wikipedia: Multi-factor authentication</a></li>
+  <li><a href="https://github.com/blog/1614-two-factor-authentication">GitHub blog post describing 2FA</a></li>
+</ul>
+
+<h4 id="requiring-users-to-establish-purpose-specific-accounts">Requiring users to establish purpose-specific accounts</h4>
+
+<p>In short, there should be a one-to-one relationship between each Github user account (a login) with one real-world person (“a human”).  Just like each human at your agency has an e-mail address and a computer login, each individual should have their own GitHub login. Users can then join one or more Organizations, again just like in the real world. I can be a USDA employee, for example, (and thus a member of the USDA organization), and also be a member of the Under Water Basket Weaving Club. GitHub will can automatically disambiguate the context of my actions, and reflects that context in all URLs.</p>
+
+<p>If an individual already has a GitHub account, they should add their government email address to their account (by design, users can have multiple email address per account), and if they’re already using Git, configure Git on their work computer to use that email for those repositories. If they’re a new user, they should create a new account using their (individual) government email address. This is strongly preferred over requiring government employees to create distinct <code>joe_abc_agency</code> accounts to distinguish their personal use.</p>
+
+<p>GitHub’s a social network. GitHub’s passionate about the best way to build software so that’s its a positive experience for everyone involved. The GitHub community feel that it should be a social experience, interacting with humans, not software. As users start to stretch community norms, that ideal workflow begins to deteriorate. As the TOS notes:</p>
+
+<blockquote>
+  <p>One person or legal entity may not maintain more than one free account</p>
+</blockquote>
+
+<p>That’s not because too many accounts are hard on the servers or because developers want to make things harder on agencies. It’s because we want a user to be a human, to have an identity. To be seen as a person. To be social. To interact. To grow communities around shared causes. That’s what open source is all about, and when a user is not a person, but an anonymous icon, that get’s a lot harder.</p>
+
+<h4 id="gravatar">Gravatar</h4>
+
+<p>Account icons, for both users and organization are maintained by Gravatar, a third party service which simply correlates a profile images with an email address. Lots of website use Gravatar for their profile images, like WordPress, Hootsuite, Disqus, and Stack Overflow.</p>
+
+<p>To set up your Gravatar, simply follow the instructions on your profile page. The email address you associate with your Gravatar need not be public, and need not be the same with which you receive notification or make commits.</p>
+
+<h4 id="social-media-registry">Social Media Registry</h4>
+
+<p>If you’re a US Federal Agency, be sure to add your organization account to the <a href="http://www.usa.gov/About/developer-resources/social-media-registry.shtml">US Social Media Registry</a> for optimum discoverability.</p>
+
+
+
+
+<hr/>
+
+
+ <div class="author">Authors: @benbalter and @daveloyall</div>
+
+
+
+        </section>
+        
+        
+        <footer role="contentinfo">
+          <p>This project is maintained by <a href="mailto:tj@monticello.gov">Thomas Jefferson</a></p>
+ 
+          <p>Hosted on Github Pages</p>
+        </footer>
+
+      </div><!-- /.wrap -->
+    </body>
+</html>

@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<article>
+    <h2 class="page-title">{{ page.title }}</h2>
+    <p class="meta">{{ page.date | date_to_string }}</p>
+
+    <div class="post">
+    {{ content }}
+    </div>
+</article>
+
+<hr />
+
+{% if page.authors %}
+ <div class="authors"> {{page.authors}} </div>
+{% endif %}
+
+
