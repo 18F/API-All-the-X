@@ -43,6 +43,7 @@ Overview of the /Developer Program, a project of [18F](http://18f.gsa.gov) API E
 * [Legal FAQ](https://github.com/18F/API-All-the-X/blob/master/resources/legal_FAQ.md)
 * [Model Developer Terms of Service](https://github.com/GSA/API-Resources/tree/master/developer_tos)
 * [Model RFI for Agency APIs](https://github.com/18F/API-All-the-X/blob/master/resources/model_RFI_for_agency_APIs.md)
+* [Presentation Material](https://github.com/18F/API-All-the-X/blob/master/resources/presentation_material.md)
 * [Security FAQ](https://github.com/18F/API-All-the-X/blob/master/resources/legal_FAQ.md)
 * [The Stack - API Software Recipes](https://github.com/18F/API-All-the-X/blob/master/collaboration/api_recipes.md)
 * [Third Party Services - Free and/or government-friendly ToS](https://github.com/18F/API-All-the-X/blob/master/resources/third_party_services.md)
