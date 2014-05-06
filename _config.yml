@@ -60,7 +60,4 @@ navigation:
 - text: Site Index
   url: pages/site_index.html
   internal: true  
-- text: FAQs
-  url: pages/faq.html
-  internal: true 
 
