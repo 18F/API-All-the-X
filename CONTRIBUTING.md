@@ -5,11 +5,9 @@ Thanks for contributing! There are two ways:
 
 #### The Prose.io model
 
-1. Browse the live site, http://if.io/open-source-program-template/
-2. At any point, click the "Edit this page in prose.io" link in the left-hand navigation
-    - This will drop you into prose.io
-    - You will need _authorize_ prose.io to access your GitHub account. There should be a link in the lower right-hand
-      corner of the prose page for this purpose.
+1. Navigate to [http://www.prose.io](http://prose.io/#18f/API-All-the-X)
+2. _Authorize_ prose.io to access your GitHub account.  
+3. Navigate to [http://prose.io/#18f/API-All-the-X](http://prose.io/#18f/API-All-the-X)
 3. Make edits and click the floppy disk icon
     - A dialog will appear to describe the changes and to _submit a change request_
     - This _should_ do two things: 
