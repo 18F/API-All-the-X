@@ -42,6 +42,24 @@ navigation:
 - text: Community
   url: pages/community.html
   internal: true
+- text: Tools
+  url: pages/tools.html
+  internal: true
+- text: Resources
+  url: pages/resources.html
+  internal: true  
+- text: Support
+  url: pages/support.html
+  internal: true
+- text: Status
+  url: pages/Status.html
+  internal: true  
+- text: Other Material
+  url: pages/other_material.html
+  internal: true  
+- text: Site Index
+  url: pages/site_index.html
+  internal: true  
 - text: Page with Footnotes
   url: pages/page_with_footnotes.html
   internal: true
@@ -57,21 +75,4 @@ navigation:
 - text: Sample with SubPages
   url: pages/workflows.html
   internal: true
-- text: References
-  url: pages/references.html
-  internal: true
-- text: References
-  url: pages/references.html
-  internal: true  
-- text: References
-  url: pages/references.html
-  internal: true
-- text: References
-  url: pages/references.html
-  internal: true  
-- text: References
-  url: pages/references.html
-  internal: true  
-- text: References
-  url: pages/references.html
-  internal: true  
+
