@@ -60,16 +60,7 @@ navigation:
 - text: Site Index
   url: pages/site_index.html
   internal: true  
-- text: Page with Footnotes
-  url: pages/page_with_footnotes.html
-  internal: true
-- text: Sample Page
-  url: pages/sample_page.html
-  internal: true
 - text: FAQs
   url: pages/faq.html
   internal: true 
-- text: Sample with SubPages
-  url: pages/workflows.html
-  internal: true
 
