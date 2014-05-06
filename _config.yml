@@ -66,9 +66,6 @@ navigation:
 - text: Sample Page
   url: pages/sample_page.html
   internal: true
-- text: News
-  url: pages/news.html
-  internal: true
 - text: FAQs
   url: pages/faq.html
   internal: true 
