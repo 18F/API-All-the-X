@@ -7,7 +7,8 @@ authors: "Gray Brooks"
 
 |   |   |
 |---|---|
-| * [Agency Checklist](https://github.com/18F/API-All-the-X/blob/master/resources/agency_checklist.md)
+| 
+* [Agency Checklist](https://github.com/18F/API-All-the-X/blob/master/resources/agency_checklist.md)
 * [Agency Maturity Model](https://github.com/18F/API-All-the-X/blob/master/resources/agency_maturity_model.md)
 * [Agency Working Group - A Model](https://github.com/18F/API-All-the-X/blob/master/resources/agency_working_group-a_model.md)
 * [API Contract Language](https://github.com/18F/API-All-the-X/blob/master/collaboration/procurement_language.md)
