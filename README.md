@@ -3,6 +3,8 @@
 
 Overview of the /Developer Program, a project of [18F](http://18f.gsa.gov) API Engagement.  Please suggest further projects, ask questions in the issues tracker, and make pull requests.  
 
+### Community 
+
 {% include community.md %}
 
 ### Tools 
