@@ -39,6 +39,9 @@ navigation:
 - text: Home
   url: index.html
   internal: true
+- text: Community
+  url: pages/community.html
+  internal: true
 - text: Page with Footnotes
   url: pages/page_with_footnotes.html
   internal: true
@@ -57,7 +60,18 @@ navigation:
 - text: References
   url: pages/references.html
   internal: true
-## You should remove or comment these next few lines when going live 
-- text: How to configure this site
-  url: pages/howto.html
+- text: References
+  url: pages/references.html
+  internal: true  
+- text: References
+  url: pages/references.html
   internal: true
+- text: References
+  url: pages/references.html
+  internal: true  
+- text: References
+  url: pages/references.html
+  internal: true  
+- text: References
+  url: pages/references.html
+  internal: true  
