@@ -3,11 +3,7 @@
 
 Overview of the /Developer Program, a project of [18F](http://18f.gsa.gov) API Engagement.  Please suggest further projects, ask questions in the issues tracker, and make pull requests.  
 
-### Community 
-* [DC API Meetup](http://www.meetup.com/DC-Web-API-User-Group/)
-* [Internal Hackathons](https://github.com/18F/API-All-the-X/blob/master/internal_hackathons.md)
-* [Projects Open for Collaboration](https://github.com/18F/API-All-the-X/blob/master/collaboration/README.md)
-* [US Government API Listserve](https://groups.google.com/forum/#!forum/us-government-apis)
+{% include community.md %}
 
 ### Tools 
 * [API.Data.gov](http://api.data.gov)  
