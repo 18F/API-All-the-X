@@ -1,5 +1,10 @@
-## DRAFT API Primer for Procurement Officers
+---
+layout: page
+title: "API Primer for Procurement Officers"
+authors: "Gray Brooks"
 
+---
+## DRAFT API Primer for Procurement Officers
 
 1. Purpose:  The purpose of this primer is to familiarize Federal acquisition officials with Application Programming Interfaces (API) and to provide relevant background information for consideration in the formation of contractual agreements with commercial providers and other government agencies.  
 
