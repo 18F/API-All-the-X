@@ -51,6 +51,9 @@ navigation:
 - text: Resources
   url: pages/resources.html
   internal: true  
+- text: Education
+  url: pages/education.html
+  internal: true 
 - text: Support
   url: pages/support.html
   internal: true
