@@ -1,0 +1,13 @@
+<html>
+  <body>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+    <script>
+    $.getJSON( "developer_hubs.json", function(developer_hubs) {
+      $.each(developer_hubs, function(publisher, attributes) {
+        document.write("<h2>" + publisher + "</h2>");
+        document.write("URL: " + attributes["url"] + "<br />");
+      });
+    })
+    </script>
+  </body>
+</html>
