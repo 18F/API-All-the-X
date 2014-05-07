@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Talking Points"
+authors: "Gray Brooks"
+
+---
+
 For executives...  
 
 
