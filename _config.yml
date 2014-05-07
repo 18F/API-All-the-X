@@ -27,7 +27,7 @@ baseurl: '/API-All-the-X'
 
 # Author/Organization info to be displayed in the templates
 author:
-  name: Gray Brooks
+  name: 18F
   url: http://localhost:4000
 
 # ------------------------------------------------------------------
