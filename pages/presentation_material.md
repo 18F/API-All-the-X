@@ -1,4 +1,9 @@
+---
+layout: page
+title: "Presentation Material"
+authors: "Gray Brooks"
 
+---
 
 
 ## Stock Images
