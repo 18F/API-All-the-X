@@ -1,9 +1,10 @@
 ---
-published: true
-permalink: /API-TOS-project/
-layout: default
-filename: API-TOS-project.md
+layout: page
+title: "Third Party Services"
+authors: "Gray Brooks"
+
 ---
+
 
 ## Background  
 
