@@ -52,7 +52,7 @@ navigation:
   url: pages/support.html
   internal: true
 - text: Status
-  url: pages/Status.html
+  url: pages/status.html
   internal: true  
 - text: Other Material
   url: pages/other_material.html
