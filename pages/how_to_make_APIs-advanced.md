@@ -1,6 +1,11 @@
+---
+layout: page
+title: "How to Make APIs - Advanced"
+authors: "Gray Brooks"
+
+---
+
 *Under Construction*  
-
-
 
 ## How to Make A Free API with Apigee...
 
