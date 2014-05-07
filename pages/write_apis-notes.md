@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Write APIs"
+authors: "Gray Brooks"
+
+---
 
 ## Examples
 * USPS
