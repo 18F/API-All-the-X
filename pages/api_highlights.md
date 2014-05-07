@@ -1,3 +1,9 @@
+---
+layout: page
+title: "API Highlights"
+authors: "Gray Brooks"
+
+---
 ## Government API Milestones and Great Examples
 
 * **BroadbandMap.gov** - The team behind [BroadbandMap.gov](http://www.broadbandmap.gov) adopted a true API-first model - beginning by building out [a powerful suite of APIs](http://www.broadbandmap.gov/developer) and *then* building the website on top of their own APIs.  This is the model for all projects to adopt.  
