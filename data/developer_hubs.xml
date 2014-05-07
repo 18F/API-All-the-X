@@ -1,0 +1,10 @@
+---
+---
+<developer_hubs>
+  {% for developer_hubs in site.data.developer_hubs %}
+  <developer_hubs>
+    <publisher>{{ developer_hubs[0] }}</publisher>
+    <url>{{ developer_hubs[1].url }}</url>
+  </developer_hubs>
+  {% endfor %}
+</developer_hubs>
