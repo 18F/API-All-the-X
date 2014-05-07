@@ -1,8 +1,8 @@
 ---
-published: true
-permalink: /api_recipes/
-layout: default
-filename: api_recipes.md
+layout: page
+title: "API Recipes"
+authors: "Gray Brooks"
+
 ---
 
 ## Background
