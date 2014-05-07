@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Developer Engagement - A Model"
+authors: "Gray Brooks"
+
+---
+
 ## What does developer engagement look like?  
 
 * Have a GitHub account for your agency.  
