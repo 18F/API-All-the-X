@@ -1,3 +1,10 @@
+---
+layout: page
+title: "API Release Kit"
+authors: "Gray Brooks"
+
+---
+
 * auto-gen TOC:
 {:toc}
 
