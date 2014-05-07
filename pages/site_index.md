@@ -7,6 +7,4 @@ authors: "Gray Brooks"
 
 ### Community 
 
-...
-
-Etc...
+{% include community.md %}
