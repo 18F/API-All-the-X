@@ -13,6 +13,10 @@ Overview of the /Developer Program, a project of 18F API Engagement. Please sugg
 
 {% include community.md %}
 
+### Collaboration
+
+{% include collaboration.md %}
+
 ### Tools 
 
 {% include tools.md %}
