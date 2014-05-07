@@ -6,6 +6,6 @@
 * [Edit the Model ToS](https://github.com/GSA/API-Resources/tree/master/developer_tos)
 * [Share your API Recipe](http://18f.github.io/API-All-the-X/pages/api_recipes.html)
 * [Share sample contract language](http://18f.github.io/API-All-the-X/pages/procurement_language.html)
-* [Share a case study](http://18f.github.io/API-All-the-X/pages/case_studies_lists.html)
+* [Share a case study](http://18f.github.io/API-All-the-X/pages/case_study_lists.html)
 * [Share agency blogposts](http://18f.github.io/API-All-the-X/pages/government_api_blogposts.html)
 * [Write APIs - Expand notes](http://18f.github.io/API-All-the-X/pages/write_apis-notes.html) 
