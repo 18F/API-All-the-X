@@ -1,3 +1,10 @@
+---
+layout: page
+title: "What are APIs? - Anecdotes and Metaphors"
+authors: "Gray Brooks"
+
+---
+
 ## Background
 
 It can be hard to tell someone what APIs are.  Here's a running list of analogies, metaphors, and other efforts at trying to convey in one or two sentences what APIs are.  
