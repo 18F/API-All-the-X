@@ -1,3 +1,10 @@
+---
+layout: page
+title: "/Developer Kit"
+authors: "Gray Brooks"
+
+---
+
 * auto-gen TOC:
 {:toc}
 
