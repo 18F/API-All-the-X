@@ -42,6 +42,9 @@ navigation:
 - text: Community
   url: pages/community.html
   internal: true
+- text: Collaboration
+  url: pages/collaboration.html
+  internal: true  
 - text: Tools
   url: pages/tools.html
   internal: true
