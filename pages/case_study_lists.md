@@ -1,3 +1,10 @@
+---
+layout: page
+title: "API Case Studies"
+authors: "Gray Brooks"
+
+---
+
 * [Centers for Disease Control & Prevention](http://www.howto.gov/sites/default/files/cdc-content-services-api.docx)
 * [Department of Labor—Software Development Kits (SDKs)](http://www.howto.gov/mobile/case-study-dol-created-sdks)
 * [Federal Register](https://www.federalregister.gov/uploads/2012/11/FR2-API-Case-Study1.pdf)
