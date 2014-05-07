@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Best Practices"
+authors: "Gray Brooks"
+
+---
+
 There are several collections of best practices for API producers, each of which is worth taking to heart and applying to any government program.  
 
 
