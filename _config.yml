@@ -57,7 +57,3 @@ navigation:
 - text: Other Material
   url: pages/other_material.html
   internal: true  
-- text: Site Index
-  url: pages/site_index.html
-  internal: true  
-
