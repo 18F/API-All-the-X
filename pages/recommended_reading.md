@@ -1,7 +1,9 @@
+---
+layout: page
+title: "Recommended Reading"
+authors: "Gray Brooks"
 
-
-
-
+---
 
 ### Basics
 * [What is an API?](http://blog.aids.gov/2012/04/open-data-in-action-what-is-an-api.html) - AIDS.gov
