@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Benefits of APIs"
+authors: "Gray Brooks"
+
+---
 
 
 * [Business Justification - Webinar](http://www.elasticpath.com/company/news/2012/api-webinar)
