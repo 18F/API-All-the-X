@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Government API Blogposts"
+authors: "Gray Brooks"
+
+---
 ### White House 
 * [A Write API for We the People](http://www.whitehouse.gov/blog/2013/11/04/write-api-we-people)
 
