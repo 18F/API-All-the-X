@@ -25,6 +25,10 @@ Overview of the /Developer Program, a project of 18F API Engagement. Please sugg
 
 {% include resources.md %}
 
+### Education 
+
+{% include education.md %}
+
 ### Support
 
 {% include support.md %}
