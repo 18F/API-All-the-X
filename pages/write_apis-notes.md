@@ -12,7 +12,7 @@ Write APIs offer tremendous potential for federal agencies as they unleash the b
 * Regulations.gov (non-public)
 * We The People ([in development](http://www.whitehouse.gov/blog/2013/11/04/write-api-we-people))
 * [IRS](http://www.irs.gov/Tax-Professionals/e-File-Providers-&-Partners/Become-an-Authorized-e-file-Provider#phase3)
-* USPS
+* [USPS](https://www.usps.com/business/web-tools-apis/)
 * [EPA's EnergyStar Portfolio Manager](http://portfoliomanager.energystar.gov/webservices/home)
 * [Pacific Northwest National Laboratory - Commercial Building Energy Asset Scoring Tool](https://assetscoreapi.pnnl.gov/apidoc/)
 
