@@ -26,3 +26,4 @@ Write APIs offer tremendous potential for federal agencies as they unleash the b
 ## Interim Notes
 * [Google: "write API" site:.gov](https://www.google.com/search?q="write+API"+site%3A.gov)
 * ["http://www.codeforamerica.org/blog/2013/05/09/how-to-fix-procurement-2-up-the-api-game/"](http://www.codeforamerica.org/blog/2013/05/09/how-to-fix-procurement-2-up-the-api-game/)
+* [February Forum Post on this](https://groups.google.com/forum/?nomobile=true#!searchin/us-government-apis/write$20api/us-government-apis/nD-KTwb6NpU/c1XletXQ3fUJ)
