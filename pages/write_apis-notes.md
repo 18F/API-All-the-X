@@ -6,6 +6,7 @@ authors: "Gray Brooks"
 ---
 
 ## Examples
+* Regulations.gov (non-public)
+* We The People (in development)
+* IRS
 * USPS
-* Regulations.gov
-* We The People
