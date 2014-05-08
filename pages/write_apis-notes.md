@@ -21,10 +21,11 @@ Write APIs offer tremendous potential for federal agencies as they unleash the b
 * [Oak Ridge National Laboratory - ADIOS API](http://users.nccs.gov/~pnorbert/ADIOS-UsersManual-1.3.1.pdf#page=18)
 * [National Energy Research Scientific Computing Center NEWT API](https://newt.nersc.gov/)
 * [HealthData.gov Data API](http://healthdata.gov/data-api)
+* [FEC eFiling API](http://fec.gov/elecfil/vendors.shtml)
+
 
 ## Under Consideration
 * [Department of Education](https://www.ifap.ed.gov/fregisters/FR041614.html)
-* [FEC eFiling API](http://fec.gov/elecfil/vendors.shtml)
 
 ## Interim Notes
 * [Google: "write API" site:.gov](https://www.google.com/search?q="write+API"+site%3A.gov)
