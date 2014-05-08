@@ -24,8 +24,7 @@ Write APIs offer tremendous potential for federal agencies as they unleash the b
 
 ## Under Consideration
 * [Department of Education](https://www.ifap.ed.gov/fregisters/FR041614.html)
-
-
+* [FEC eFiling API](http://fec.gov/elecfil/vendors.shtml)
 
 ## Interim Notes
 * [Google: "write API" site:.gov](https://www.google.com/search?q="write+API"+site%3A.gov)
