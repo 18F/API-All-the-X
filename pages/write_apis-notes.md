@@ -11,7 +11,7 @@ Write APIs offer tremendous potential for federal agencies as they unleash the b
 ## Active Examples
 * Regulations.gov (non-public)
 * We The People ([in development](http://www.whitehouse.gov/blog/2013/11/04/write-api-we-people))
-* IRS
+* [IRS](http://www.irs.gov/Tax-Professionals/e-File-Providers-&-Partners/Become-an-Authorized-e-file-Provider#phase3)
 * USPS
 
 ## Potential Examples
@@ -25,3 +25,4 @@ Write APIs offer tremendous potential for federal agencies as they unleash the b
 
 ## Interim Notes
 * [Google: "write API" site:.gov](https://www.google.com/search?q="write+API"+site%3A.gov)
+* ["http://www.codeforamerica.org/blog/2013/05/09/how-to-fix-procurement-2-up-the-api-game/"](http://www.codeforamerica.org/blog/2013/05/09/how-to-fix-procurement-2-up-the-api-game/)
