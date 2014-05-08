@@ -14,10 +14,13 @@ Write APIs offer tremendous potential for federal agencies as they unleash the b
 * [IRS](http://www.irs.gov/Tax-Professionals/e-File-Providers-&-Partners/Become-an-Authorized-e-file-Provider#phase3)
 * USPS
 * [EPA's EnergyStar Portfolio Manager](http://portfoliomanager.energystar.gov/webservices/home)
+* [Pacific Northwest National Laboratory - Commercial Building Energy Asset Scoring Tool](https://assetscoreapi.pnnl.gov/apidoc/)
 
 ## Potential Examples
 * [Argonne National Laboratory - PnetCDF API](https://trac.mcs.anl.gov/projects/parallel-netcdf/wiki/Documentation)
 * [Oak Ridge National Laboratory - ADIOS API](http://users.nccs.gov/~pnorbert/ADIOS-UsersManual-1.3.1.pdf#page=18)
+* [National Energy Research Scientific Computing Center NEWT API](https://newt.nersc.gov/)
+* [HealthData.gov Data API](http://healthdata.gov/data-api)
 
 ## Under Consideration
 * [Department of Education](https://www.ifap.ed.gov/fregisters/FR041614.html)
