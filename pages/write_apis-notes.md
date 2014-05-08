@@ -16,6 +16,7 @@ Write APIs offer tremendous potential for federal agencies as they unleash the b
 
 ## Potential Examples
 * [Argonne National Laboratory - PnetCDF API](https://trac.mcs.anl.gov/projects/parallel-netcdf/wiki/Documentation)
+* [Oak Ridge National Laboratory - ADIOS API](http://users.nccs.gov/~pnorbert/ADIOS-UsersManual-1.3.1.pdf#page=18)
 
 ## Under Consideration
 * [Department of Education](https://www.ifap.ed.gov/fregisters/FR041614.html)
