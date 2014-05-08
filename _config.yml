@@ -3,6 +3,8 @@ permalink: /news/:title
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 markdown: kramdown
 pygments: true
+gems:
+  - jekyll-sitemap
 
 #Prose.io editing info
 repo_name: API-All-the-X
