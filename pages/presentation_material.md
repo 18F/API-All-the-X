@@ -17,3 +17,5 @@ authors: "Gray Brooks"
 
 ![structural model with APIs](https://cloud.githubusercontent.com/assets/633088/2904520/5d1b03d6-d5fc-11e3-8e25-dbf9e3a7b217.png)
 
+![api ux smiley](https://cloud.githubusercontent.com/assets/633088/2918446/67773dd4-d6d0-11e3-9f18-0381a7bbce6e.JPG)
+
