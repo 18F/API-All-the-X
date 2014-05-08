@@ -10,7 +10,7 @@ Write APIs offer tremendous potential for federal agencies as they unleash the b
 
 ## Examples
 * Regulations.gov (non-public)
-* We The People (in development)
+* We The People ([in development](http://www.whitehouse.gov/blog/2013/11/04/write-api-we-people))
 * IRS
 * USPS
 
