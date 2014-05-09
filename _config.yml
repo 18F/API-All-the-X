@@ -11,7 +11,7 @@ repo_name: API-All-the-X
 branch: gh-pages
 #GitHub organization name *or* username
 gh_org: 18F
-prose_url: http://prose.io
+prose_url: http://github.com/
 site_url: http://18f.github.io/API-All-the-X
 media: assets/img
 
