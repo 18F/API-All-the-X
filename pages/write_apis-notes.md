@@ -14,6 +14,7 @@ Write APIs offer tremendous potential for federal agencies as they unleash the b
 * [IRS](http://www.irs.gov/Tax-Professionals/e-File-Providers-&-Partners/Become-an-Authorized-e-file-Provider#phase3)
 * [USPS](https://www.usps.com/business/web-tools-apis/)
 * [EPA's EnergyStar Portfolio Manager](http://portfoliomanager.energystar.gov/webservices/home)
+* [Immigration and Customs Enforcement SEVIS API](http://www.ice.gov/sevis/schools/batch.htm)
 * [Pacific Northwest National Laboratory - Commercial Building Energy Asset Scoring Tool](https://assetscoreapi.pnnl.gov/apidoc/)
 
 ## Potential Examples
