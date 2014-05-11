@@ -65,3 +65,7 @@ navigation:
 - text: Other Material
   url: pages/other_material.html
   internal: true  
+- text: Share your Feedback
+  url: https://github.com/18F/API-All-the-X/issues
+  internal: false
+  
