@@ -14,6 +14,19 @@ Overview of the /Developer Program, a project of 18F API Engagement. Please sugg
 |---|---|
 |   API.Data.gov    |   API Usability Testing   |
 
+<table>
+    <tr>
+        <td>Premium Services</td>
+    </tr>
+    <tr>
+        <td>API.Data.gov</td>
+        <td>API Usability Testing</td>
+    </tr>
+</table>
+
+
+
+
 #### Index
 
 ### Community 
