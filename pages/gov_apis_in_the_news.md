@@ -5,6 +5,9 @@ authors: "Gray Brooks"
 
 ---
 
+### May 9, 2014
+* [Can Anyone Actually Use The Data Your Agency Has Opened? - NextGov](http://www.nextgov.com/technology-news/tech-insider/2014/05/can-anyone-actually-use-data-your-agency-has-opened/84202/?oref=voicesmodule)
+
 ### April 24, 2014
 * [GSA Government API Usability Session - GovTribe](http://govtribe.com/blog/2014/4/24/gsa-government-api-usability-session)
 
