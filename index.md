@@ -7,14 +7,11 @@ published: true
 ## Home
 
 Overview of the /Developer Program, a project of 18F API Engagement. Please suggest further projects, ask questions in the issues tracker, and make pull requests.
-
-->Premium Services<-
-
+  
+<div style="text-align: center;"><strong>Premium Services</strong></div>
+  
 <table style="width: 100%;" border="1" cellpadding="2"
 cellspacing="2">
-    <tr>
-        <td style="text-align: center"><strong>Premium Services</strong></td>
-    </tr>
     <tr>
         <td>API.Data.gov</td>
         <td>API Usability Testing</td>
