@@ -1,6 +1,7 @@
 
 * [Add examples of good precedence](http://18f.github.io/API-All-the-X/pages/api_highlights.html)
 * [Add examples of government APIs in the news](http://18f.github.io/API-All-the-X/pages/gov_apis_in_the_news.html)
+* [Add examples of write APIs in government](https://github.com/18F/API-All-the-X/blob/gh-pages/pages/write_apis-notes.md)
 * [Add anecdotes and metaphors to explain 'What are APIs?'](http://18f.github.io/API-All-the-X/pages/what_are_APIs-anecdotes_and_metaphors.html)
 * [Edit the API Standards](https://github.com/18F/api-standards)
 * [Edit the Model ToS](https://github.com/GSA/API-Resources/tree/master/developer_tos)
