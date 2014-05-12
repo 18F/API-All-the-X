@@ -17,6 +17,7 @@ Write APIs offer tremendous potential for federal agencies as they unleash the b
 * [Immigration and Customs Enforcement SEVIS API](http://www.ice.gov/sevis/schools/batch.htm)
 * [Citizenship and Immigration Services E-Verify](http://www.uscis.gov/faq-page/web-services#t12823n46707) *[[More here](http://www.uscis.gov/sites/default/files/USCIS/Verification/E-Verify/E-Verify_Native_Documents/E-Verify%20Manuals%20and%20Guides/Supplemental_Guide_for_Web_Services_Users.pdf)]*
 * [Pacific Northwest National Laboratory - Commercial Building Energy Asset Scoring Tool](https://assetscoreapi.pnnl.gov/apidoc/)
+* [Lawrence Berkeley National Laboratory Home Energy Scoring Tool](https://developers.buildingsapi.lbl.gov/hescore/documentation/scoring-tool-api)
 
 ## Potential Examples
 * [Argonne National Laboratory - PnetCDF API](https://trac.mcs.anl.gov/projects/parallel-netcdf/wiki/Documentation)
@@ -25,7 +26,6 @@ Write APIs offer tremendous potential for federal agencies as they unleash the b
 * [HealthData.gov Data API](http://healthdata.gov/data-api)
 * [FEC eFiling API](http://fec.gov/elecfil/vendors.shtml)
 * [Argonne National Laboratory - MGl-RAST](http://press.igsb.anl.gov/mgrdev/developers/)
-* [Lawrence Berkeley National Laboratory Home Energy Scoring Tool](https://developers.buildingsapi.lbl.gov/hescore/documentation/scoring-tool-api)
 * Beckley-based write API on notalone.gov (non-public)
 * VA's VetSuccess API
 
