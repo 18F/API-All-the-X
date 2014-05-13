@@ -12,10 +12,10 @@ Overview of the /Developer Program, a project of 18F API Engagement. Please sugg
 
 <div style="text-align: center;">
 <table style="width: 100%;" border="1" cellpadding="2"
-cellspacing="2" "text-align: center">
+cellspacing="2">
     <tr>
-        <td>API.Data.gov</td>
-        <td>API Usability Testing</td>
+        <td style="text-align: center;">API.Data.gov</td>
+        <td style="text-align: center;">API Usability Testing</td>
     </tr>
 </table>
 </div>
