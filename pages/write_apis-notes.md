@@ -14,6 +14,8 @@ Write APIs offer tremendous potential for federal agencies as they unleash the b
 * [IRS](http://www.irs.gov/Tax-Professionals/e-File-Providers-&-Partners/Become-an-Authorized-e-file-Provider#phase3)
 * [USPS](https://www.usps.com/business/web-tools-apis/)
 * [EPA's EnergyStar Portfolio Manager](http://portfoliomanager.energystar.gov/webservices/home)
+* [GSA's FPDS Web Services](https://www.fpds.gov/downloads/FPDS-Specifications-WebServices_Integration_Specifications_V1.4.doc)
+* [GSA's FAADS Web Services](https://www.fpds.gov/downloads/FAADS/FAADS-Specifications-WebServices_Integration_Specifications_V2.doc)
 * [Immigration and Customs Enforcement SEVIS API](http://www.ice.gov/sevis/schools/batch.htm)
 * [Citizenship and Immigration Services E-Verify](http://www.uscis.gov/faq-page/web-services#t12823n46707) *[[More here](http://www.uscis.gov/sites/default/files/USCIS/Verification/E-Verify/E-Verify_Native_Documents/E-Verify%20Manuals%20and%20Guides/Supplemental_Guide_for_Web_Services_Users.pdf)]*
 * [Pacific Northwest National Laboratory - Commercial Building Energy Asset Scoring Tool](https://assetscoreapi.pnnl.gov/apidoc/)
