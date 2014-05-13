@@ -62,8 +62,8 @@ navigation:
 - text: Status
   url: pages/status.html
   internal: true  
-- text: Other Material
-  url: pages/other_material.html
+- text: About
+  url: pages/about.html
   internal: true  
 - text: Share your Feedback
   url: https://github.com/18F/API-All-the-X/issues
