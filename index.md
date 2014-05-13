@@ -11,11 +11,11 @@ Overview of the /Developer Program, a project of 18F API Engagement. Please sugg
 <div style="text-align: center;"><strong>Premium Services</strong></div>
 
 <div style="text-align: center;">
-<table style="width: 100%;" border="1" cellpadding="2"
+<table style="width: 100%;" border="0" cellpadding="2"
 cellspacing="2">
     <tr>
-        <td style="text-align: center;">API.Data.gov</td>
-        <td style="text-align: center;">API Usability Testing</td>
+        <td style="text-align: center; width: 50%;"><a href="http://api.data.gov">API.Data.gov</a></td>
+        <td style="text-align: center; width: 50%;"><a href="18f.github.io/API-Usability-Testing/">API Usability Testing</a></td>
     </tr>
 </table>
 </div>
