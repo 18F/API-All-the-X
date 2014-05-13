@@ -51,6 +51,3 @@ Within this site, you'll find a collection of tools to help grow your agency's A
 
 {% include status.md %}
 
-### Other Materials...
-
-{% include other_material.md %}
