@@ -1,4 +1,9 @@
+---
+layout: page
+title: "About"
+authors: "Gray Brooks"
 
+---
 
 ...  
 
