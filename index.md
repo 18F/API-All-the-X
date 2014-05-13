@@ -11,7 +11,7 @@ The /Developer Program, a service of GSA's 18F team, seeks to provide comprehens
 Within this site, you'll find a collection of tools to help grow your agency's API efforts, no matter what stage it is at.  The fundamental role that APIs play continues to grow in relevance for all digital programs, both inside and outside of government.  To be able to respond and grow in sync with agency needs, the entire /Developer Program is an open source project, building out and growing more useful with each contribution.   We hope that some or all of the below projects may be useful to you.  They've been assembled by you, for you.  
 
 
-<div style="text-align: center;"><strong><u>Premium Services</u></strong></div>
+<div style="text-align: center;"><strong><u>Highlighted Services</u></strong></div>
   
 <table style="width: 100%;" border="0" cellpadding="2" cellspacing="2">
     <tr>
