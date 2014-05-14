@@ -13,11 +13,9 @@ Within this site, you'll find a collection of tools to help grow your agency's A
 
 <div style="text-align: center;"><strong><u>Highlighted Services</u></strong></div>
   
-<p> <table style="width: 100%;" border="0" cellpadding="2" cellspacing="2">
-    <tr>
-        <td></td>
-    </tr>
-</table> </p>
+\ 
+
+&nbsp;
 
 <table style="width: 100%;" border="0" cellpadding="2" cellspacing="2">
     <tr>
