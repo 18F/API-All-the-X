@@ -7,6 +7,10 @@ authors: "Gray Brooks"
 ### White House 
 * [A Write API for We the People](http://www.whitehouse.gov/blog/2013/11/04/write-api-we-people)
 
+### Department of Agriculture 
+* [New API Helps Satisfy the Nation’s App-etite for Farmers Markets](http://blogs.usda.gov/2013/05/15/new-api-helps-satisfy-the-nations-app-etite-for-farmers-markets/)
+* [Dive Deeper Into USDA Data with New APIs](http://blogs.usda.gov/2013/12/11/dive-deeper-into-usda-data-with-new-apis/)
+
 ### Department of Education
 * [How Can the Department of Education Increase Innovation, Transparency and Access to Data?](http://www.ed.gov/blog/2014/04/how-can-the-department-of-education-increase-innovation-transparency-and-access-to-data/)
 
@@ -25,3 +29,8 @@ authors: "Gray Brooks"
 ### ADLNET
 * [The Road to the Experience API V1.0 release – Target date announced](http://www.adlnet.gov/the-road-to-1-0/)
 * [An Open Source Success Story – A Community-Developed Specification](http://www.adlnet.gov/an-open-source-success-story-a-community-developed-specification/)
+
+
+### CIO.gov
+* [Department of Energy Implements APIs in the Cloud](https://cio.gov/department-of-energy-implements-apis-in-the-cloud/)
+
