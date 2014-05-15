@@ -19,6 +19,9 @@ authors: "Gray Brooks"
 ### April 14, 2014
 * [Liberate Government Data By Deploying Web APIs With Solr - APIEvangelist.com](http://apievangelist.com/2014/04/14/liberate-government-data-by-deploying-web-apis-with-solr/)
 
+### April 10, 2014
+* [18F team delivers tools for next-gen digital government - GCN](http://gcn.com/Articles/2014/04/10/18F-API.aspx?Page=1)
+
 ### April 9, 2014
 * [OpenData 500 Launch Demonstrates Open Data API Value - ProgrammableWeb](http://blog.programmableweb.com/2014/04/09/opendata-500-launch-demonstrates-open-data-api-value/)
 
