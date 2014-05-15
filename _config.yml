@@ -39,31 +39,31 @@ author:
 # ------------------------------------------------------------------
 navigation:
 - text: Home
-  url: index.html
+  url: index
   internal: true
 - text: Community
-  url: pages/community.html
+  url: pages/community
   internal: true
 - text: Collaboration
-  url: pages/collaboration.html
+  url: pages/collaboration
   internal: true  
 - text: Tools
-  url: pages/tools.html
+  url: pages/tools
   internal: true
 - text: Resources
-  url: pages/resources.html
+  url: pages/resources
   internal: true  
 - text: Education
-  url: pages/education.html
+  url: pages/education
   internal: true 
 - text: Support
-  url: pages/support.html
+  url: pages/support
   internal: true
 - text: Status
-  url: pages/status.html
+  url: pages/status
   internal: true  
 - text: About
-  url: pages/about.html
+  url: pages/about
   internal: true  
 - text: Share your Feedback
   url: https://github.com/18F/API-All-the-X/issues
