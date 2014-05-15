@@ -9,13 +9,13 @@ Understanding the benefits of API production allows you to coordinate with syste
 ### Efficiency
 Providing API access allows for content to be created once and automatically published or made available to many channels. Your agency’s content is ready for easy sharing and redistribution to deliver your mission directly to more citizens. 
 
-Wider Reach
+### Wider Reach
 By allowing anyone to create a new presentation layer—like an app, a website, or a widget—APIs can be used to distribute services and information to new audiences and in specific contexts that can be customized to provide tailored user experiences. People who do not come to your website can get agency information or services from apps or other websites that they regularly visit.
 
-Leverage Government Assets
+### Leverage Government Assets
 Data and information produced by the federal government is a national asset, paid for by the American people. APIs can expose data that was only available to a few and make it more available to everyone.
 
-Automation
+### Automation
 APIs allow machines to handle the workload, which would otherwise require the manual work of a human. This can be as simple as having one content update propagate to multiple sections of a site (or multiple websites) at once. More broadly, though, APIs enable not just your team but also your agency to update workflows so that they can be done with fewer steps and greater productivity. 
 
 ### Apps 
