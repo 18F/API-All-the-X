@@ -24,11 +24,11 @@ authors: "Gray Brooks"
 
 ## Producing an API with Solr
 
-When you say that you are using the engine's DSL, be sure to find and link to the best ElasticSearch DSL documentation, too.  (Note, we should suggest a link)
+When you say that you are using the engine's DSL, be sure to find and link to the best ElasticSearch DSL documentation, too.  (Note, we should suggest a link. [One candidate](http://lucene.apache.org/core/2_9_4/queryparsersyntax.html).)
 
 ## Producing an API with ElasticSearch
 
-When you say that you are using the engine's DSL, be sure to find and link to the best ElasticSearch DSL documentation, too.    (Note, we should suggest a link)
+When you say that you are using the engine's DSL, be sure to find and link to the best ElasticSearch DSL documentation, too.    (Note, we should suggest a link. [One candidate](http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/query-dsl.html).)
 
 
 ## Producing APIs through Socrata's API Foundry
