@@ -2,6 +2,7 @@
 layout: page
 title: "How GSA Launched Social Media Registry - Case Study"
 ---
+*By Jed Sunderwall*
 
 ## What It Is 
 
