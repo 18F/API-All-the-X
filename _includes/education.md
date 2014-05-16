@@ -1,6 +1,6 @@
 
 
-Introduction to APIs 
+Introduction to APIs  
  * [API Basics](http://18f.github.io/API-All-the-X/pages/api_basics)  
  * [Benefits of APIs](http://18f.github.io/API-All-the-X/pages/benefits_of_apis)  
  * [API Security]()  
