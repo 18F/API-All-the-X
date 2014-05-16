@@ -11,7 +11,7 @@
 * [Complete API model](http://18f.github.io/API-All-the-X/pages/complete_API_model)
 * [Content APIs](https://github.com/GSA/.Gov-Content-as-an-API)
 * [Developer Engagement - A Model](http://18f.github.io/API-All-the-X/pages/developer_engagement-a_model)
-* [Developer Hub Kit](http://18f.github.io/API-All-the-X/pages/developer_hub_kit)
+* [/Developer Kit](http://18f.github.io/API-All-the-X/pages/developer_hub_kit)
 * [Developer Hub - Re-Usable Template](https://github.com/gbinal/Developer-Hub-in-a-Box)
 * [Government Challenges](http://18f.github.io/API-All-the-X/pages/government_challenges_with_apis)
 * [Legal FAQ](http://18f.github.io/API-All-the-X/pages/legal_FAQ)
