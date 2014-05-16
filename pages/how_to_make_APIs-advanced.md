@@ -26,7 +26,7 @@ When you say that you are using the engine's DSL, be sure to find and link to th
 
 ## Producing an API with ElasticSearch
 
-When you say that you are using the engine's DSL, be sure to find and link to the best ElasticSearch DSL documentation, too.    (Note, we should suggest a link. [One candidate](http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/query-dsl.html).)
+When you say that you are using the engine's DSL, be sure to find and link to the best ElasticSearch DSL documentation, too.    (Note, we should suggest a link. [Two](http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/query-dsl.html) [candidates](http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/query-dsl-intro.html).)
 
 
 ## Producing APIs through Socrata's API Foundry
