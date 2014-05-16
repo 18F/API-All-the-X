@@ -1,8 +1,6 @@
 ---
 layout: page
 title: "Healthfinder.gov API - Case Study"
-authors: "Gray Brooks"
-
 ---
 
 The actual [healthfinder.gov](http://healthfinder.gov/) site was launched approximately twelve years ago, while the API is a fairly recent development that has occurred in the past year and a half.
