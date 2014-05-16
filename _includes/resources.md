@@ -7,7 +7,7 @@
  * [API Primer for Procurement Officers](http://18f.github.io/API-All-the-X/pages/api_primer_for_procurement_officers)
 * [API Release Kit](http://18f.github.io/API-All-the-X/pages/api_release_kit)
 * [API Standards - 18F](https://github.com/18F/api-standards)  
-* [API Standards - US Government](https://github.com/GSA/API-Resources/blob/master/API_Standards/US_Government_API_Standards.md)
+* [API Standards - US Government](http://18f.github.io/API-All-the-X/pages/US_Government_API_Standards)
 * [Complete API model](http://18f.github.io/API-All-the-X/pages/complete_API_model)
 * [Content APIs](https://github.com/GSA/.Gov-Content-as-an-API)
 * [Developer Engagement - A Model](http://18f.github.io/API-All-the-X/pages/developer_engagement-a_model)
