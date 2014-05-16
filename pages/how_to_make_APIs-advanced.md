@@ -79,15 +79,8 @@ None required
 [See the example for a model to use]  
  
 **Parameters and Values**
- 	 	 	 
-| Parameter  | Type  | Description |  Sample | Values  |
-|---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-	  	  
- 	  	  	  
-[See the [example API](http://gsa.gov/portal/content/162379) for a model to use]  
+
+*Create a table with columns for Parameter, Type, Description, Sample, and Values. See the [example API](http://gsa.gov/portal/content/162379) for a model to use.*
  
 **Further Developer Documentation**
 
