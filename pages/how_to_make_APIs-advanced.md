@@ -22,6 +22,8 @@ authors: "Gray Brooks"
 4. Document the end result
 
 
+## Producing an API with Solr
+
 
 ## Producing APIs through Socrata's API Foundry
 
