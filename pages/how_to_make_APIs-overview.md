@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Agency Checklist"
+title: "How To Make APIs - An Overview"
 ---
 
 After choosing a set of information or services to offer via API, some of your next steps are to plan and implement the API. You'll still need to prepare documentation, tools, and other elements that make a complete package for the API, but at the center is the actual Web service itself. In many situations, existing IT resources or the current system operators handle this step. There are several options at this stage, each with advantages and disadvantages.
