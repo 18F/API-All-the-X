@@ -1,17 +1,26 @@
 
 
-Introduction to APIs  
+  anything else on resources and tools ?
   
- * [API Basics](http://18f.github.io/API-All-the-X/pages/api_basics)  
- * [Benefits of APIs](http://18f.github.io/API-All-the-X/pages/benefits_of_apis)  
- * [API Security]()  
- * [API Analytics]()  
-* [How to Make APIs - An Overview]()  
+  
+
+
+* [An Introduction to APIs in Government](http://18f.github.io/API-All-the-X/pages/introduction_to_APIs_in_government)
+* [API Basics](http://18f.github.io/API-All-the-X/pages/api_basics)  
+* [Benefits of APIs](http://18f.github.io/API-All-the-X/pages/benefits_of_apis)  
+* [API Security](http://18f.github.io/API-All-the-X/pages/api_security)  
+* [API Analytics](http://18f.github.io/API-All-the-X/pages/api_analytics) 
+* [API Design and Documentation ](http://18f.github.io/API-All-the-X/pages/api_design_and_documentation)
+* [How To Get Started With APIs](http://18f.github.io/API-All-the-X/pages/how_to_get_started_with_apis)
+* [How to Make APIs - An Overview](http://18f.github.io/API-All-the-X/pages/how_to_make_APIs-overview)  
+* [How to Make APIs - Advanced](http://18f.github.io/API-All-the-X/pages/how_to_make_APIs-advanced)
   
 Government APIs 
   
- * [API Highlights](http://18f.github.io/API-All-the-X/pages/api_highlights.html)  
-   
- * [Best Practices](http://18f.github.io/API-All-the-X/pages/best_practices.html)  
- * [Case Studies](http://18f.github.io/API-All-the-X/pages/case_study_lists.html)  
- * [Videos & Webinars](http://18f.github.io/API-All-the-X/pages/videos_and_webinars.html)  
+* [API Highlights](http://18f.github.io/API-All-the-X/pages/api_highlights.html)  
+* [Best Practices](http://18f.github.io/API-All-the-X/pages/best_practices.html)  
+* [Case Studies](http://18f.github.io/API-All-the-X/pages/case_study_lists.html)  
+* [Videos & Webinars](http://18f.github.io/API-All-the-X/pages/videos_and_webinars.html)  
+
+
+
