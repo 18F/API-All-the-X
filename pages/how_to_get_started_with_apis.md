@@ -5,12 +5,6 @@ authors: "Gray Brooks"
 
 ---
 
-What to API?  
-* If there's an RSS feed for it...
-
-
-
-
 ### Audit 
 
 1. Research existing APIs
@@ -45,6 +39,7 @@ Of candidate items you've assembled in the previous step, ask the following ques
 * Which receive the most site traffic?   
 * Which does the agency see as the most important to its mission?  
 * Which would particularly lend itself to integration in a mobile app, embedding on third-party sites, or combining with another data set in a mashup?  
+* What data do you offer for syndication (e.g. RSS) but not yet as an API? 
 * Which are particularly easy to make available as APIs? (note step 6)
 
 Each agency has different priorities and needs that will impact these questions, but combine the answers to those questions to decide on top candidates for making available via API.    
