@@ -14,7 +14,8 @@ First, though, ask the following questions of the target data:
 
 ## The API Supply Chain
 
-Just as an API without a wider package of documentation, tools, and resources is incomplete, so too does the API production effort require a holistic review of the supply chain for the underlying data and services. A comprehensive approach to the agency's data ensures a more healthy and productive API initiative. Fundamentally, this means coordinating with the data stewards and agency staff who maintain and publish the information. They and other agency stakeholders should understand how APIs impact the way that the agency’s mission is promoted and its consumers served.    
+Just as an API without a wider package of documentation, tools, and resources is incomplete, so too does the API production effort require a holistic review of the supply chain for the underlying data and services. A comprehensive approach to the agency's data ensures a more healthy and productive API initiative. Fundamentally, this means coordinating with the data stewards and agency staff who maintain and publish the information. They and other agency stakeholders should understand how APIs impact the way that the agency’s mission is promoted and its consumers served.  
+
 At its core, APIs are to serve a practical role in how the agency does its work and by working with all relevant staff, you can ensure that the work is better integrated, consumed, and maintained going forward. Staff should understand that their data will be consumed in new and innovative ways and be shown how to benefit from these new advances as well.    
 There are as many different ways to offer APIs as there are to build websites, but the following five methods illustrate common paths. 
 
@@ -44,5 +45,6 @@ Any of your agency’s systems are capable of becoming API-enabled, though it ma
 Perhaps the most advanced method is to stand up a team that builds APIs directly. With technology such as [OData](http://www.odata.org/) or [GData](https://developers.google.com/gdata/), this team can build an API layer that floats on top of targeted data, providing a customized Web service for the data. This method sees the API as a new, independent system.
 
 This path may offer several advantages, including a consistent, integrated API across all of the agency’s data. When contrasted against a patchwork effort, such a consolidated approach encourages greater developer adoption.  
+
 Given the increasing role of APIs in agency digital efforts, such an investment can be well worth the effort. The significant success of the [Census Bureau](http://www.census.gov/developers), [Department of Labor](http://www.developer.dol.gov), and [Department of Health and Human Services](http://www.healthdata.gov)’ API efforts serve as models for mature and fully fleshed out API production.
 
