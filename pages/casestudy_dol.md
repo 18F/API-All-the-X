@@ -15,7 +15,7 @@ This requirement led DOL to create software development kits (SDKs), which are d
 
 [Data.gov](http://www.data.gov) has been a tremendous asset to those who wish to download government datasets, large and small. Experts on the data can extract a wealth of data from one or more dataset and publish their findings for everyone else to consume. However, it’s those large datasets that can pose a particular challenge for developers of mobile apps.
 
-![graph of cost to users of including whole datasets in apps](https://cloud.githubusercontent.com/assets/633088/3002405/5b96ae22-dd3e-11e3-974b-a09473522525.png)
+![graph of cost to users of including whole datasets in apps](https://cloud.githubusercontent.com/assets/633088/3003808/fbbbee6c-dd61-11e3-93bb-d28ab3aa254f.png)
 
 Most cell phone companies nowadays impose limits of one form or another on their customers’ data usage. Using one provider as an example, the basic data plan, targeted at the typical smartphone user, has a limit of 200 megabytes (MB) per month. Once this limit is exceeded, the user can face additional charges. One smartphone platform even limits over-the-air app downloads to 20 MB to protect the users’ data caps.  
 
