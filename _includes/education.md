@@ -1,5 +1,5 @@
 
-## Initial Education 
+## APIs 101
 
 * [An Introduction to APIs in Government](http://18f.github.io/API-All-the-X/pages/introduction_to_APIs_in_government)
 * [API Basics](http://18f.github.io/API-All-the-X/pages/api_basics)  
@@ -11,7 +11,7 @@
 * [How to Make APIs - An Overview](http://18f.github.io/API-All-the-X/pages/how_to_make_APIs-overview)  
 * [How to Make APIs - Advanced](http://18f.github.io/API-All-the-X/pages/how_to_make_APIs-advanced)
   
-## Other Material 
+## Further Material 
 
 * [API Highlights](http://18f.github.io/API-All-the-X/pages/api_highlights)  
 * [Best Practices](http://18f.github.io/API-All-the-X/pages/best_practices)  
