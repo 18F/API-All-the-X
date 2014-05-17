@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "How DOL Created Software Development Kits (SDKs) - Case Study"
+title: "How GSA Launched Social Media Registry - Case Study"
 ---
 *By Jed Sunderwall*
 
