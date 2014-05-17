@@ -1,8 +1,6 @@
 ---
 layout: page
 title: "Videos and Webinars"
-authors: "Gray Brooks"
-
 ---
 
 ## Videos
