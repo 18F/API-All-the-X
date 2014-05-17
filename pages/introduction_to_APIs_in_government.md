@@ -34,19 +34,19 @@ When we talk about APIs we are referring to Web services or Web APIs. This align
 
 APIs can take many forms—the most functional enable a third party to query a data set at a granular level. The publishing of these types of APIs allows developers in agencies and from outside government to build apps, widgets, websites, and other tools based on government information and services—letting your audience get what they need from many places, not just your .gov website. 
 
-APIs are not experimental. More than half of all the traffic for major companies like Twitter and eBay come through APIs. When the Census Bureau introduced their APIs, they saw a rise in access to their data.
+APIs are not experimental. More than half of all the traffic for major companies like Twitter and eBay come through APIs. When the [Census Bureau introduced their APIs](http://blogs.census.gov/2012/07/25/pardon-our-dust-census-gov-transformation/), they saw a rise in access to their data.
 
 Just a few of the many examples in government:
 
-* The Federal Aviation Administration provides travel websites and mobile apps with live airport status and delay information through its Airport Service API.
-* The Pillbox API from the National Library of Medicine powers third party mashups that serve consumers who need to quickly identify an unknown pill.  
-* The Sunlight Foundation’s ‘Scout’ project consumes the Federal Register API to provide alerts and notifications for formal government action.  
+* The Federal Aviation Administration provides travel websites and mobile apps with live airport status and delay information through its [Airport Service API](http://services.faa.gov/docs/services/airport/).
+* The [Pillbox API](http://pillbox.nlm.nih.gov/API-documentation.html) from the National Library of Medicine powers third party mashups that serve consumers who need to quickly identify an unknown pill.  
+* The [Sunlight Foundation’s ‘Scout’ project](https://scout.sunlightfoundation.com/) consumes the [Federal Register API](https://www.federalregister.gov/blog/learn/developers) to provide alerts and notifications for formal government action.  
 
-APIs help extend agency information to other users. For example, the National Weather Service publishes an API that makes weather data available to developers within and outside of the organization. The API offers real-time access to data so that an app can automatically access the latest information instead of requiring a developer to return to the agency’s website and manually copy each update. This supports an enormous and innovative range of products that present up-to-date weather information to the public.
+APIs help extend agency information to other users. For example, the National Weather Service [publishes an API](http://graphical.weather.gov/xml/) that makes weather data available to developers within and outside of the organization. The API offers real-time access to data so that an app can automatically access the latest information instead of requiring a developer to return to the agency’s website and manually copy each update. This supports an enormous and innovative range of products that present up-to-date weather information to the public.
 
 ### APIs and Data
 
-APIs can support Open Data initiatives. Well-designed APIs can make it easier for developers to use government data. APIs are an increasingly important means of publishing content. However, with any dataset which you may make available via API, it's important to first allow access to the entire set via bulk download. APIs should be seen as a complement to bulk access.
+APIs can support [Open Data initiatives](project-open-data.github.io). Well-designed APIs can make it easier for developers to use government data. APIs are an increasingly important means of publishing content. However, with any dataset which you may make available via API, it's important to first allow access to the entire set via bulk download. APIs should be seen as a complement to bulk access.
 
 ## Benefits of APIs 
 
@@ -60,7 +60,7 @@ APIs:
 * **Speed product development** through improved prototyping and ease of access for internal teams and sister agencies by allowing granular and open access to content. 
 * **Build markets** by improving access to government resources like health, economic, energy, education, environmental resources for entrepreneurs to build upon. 
 
-Learn more about the benefits of APIs. 
+Learn more about the [benefits of APIs](http://18f.github.io/API-All-the-X/pages/benefits_of_apis). 
 
 ## API Basics  
 
@@ -68,20 +68,20 @@ Learn more about the benefits of APIs.
 
 An API is usually a standardized service based on a common protocol (rules for how the service works) and formats (schema for using the service) that are familiar to developers. APIs are, at their most basic, a combination of protocol (the means of interacting with data and services) and format (the model by which the data and services are arranged in order to allow such interaction).    
 
-API protocols are typically either SOAP (Simple Object Access Protocol) or REST (Representational State Transfer). REST is preferred by many because it's based on the familiar http Web protocol.  
+API protocols are typically either SOAP ([Simple Object Access Protocol](http://en.wikipedia.org/wiki/SOAP)) or REST ([Representational State Transfer](http://en.wikipedia.org/wiki/Representational_state_transfer)). REST is preferred by many because it's based on the familiar http Web protocol.  
 
-API formats are usually either XML (Extensible Markup Language) or JSON (JavaScript Object Notation). JSON is increasingly popular with developers due to its speed, ease of use, and wide acceptance.  
+API formats are usually either XML ([Extensible Markup Language](http://en.wikipedia.org/wiki/XML)) or JSON ([JavaScript Object Notation](http://en.wikipedia.org/wiki/JSON)). JSON is increasingly popular with developers due to its speed, ease of use, and wide acceptance.  
 
 New APIs are routinely described as RESTful JSON because they follow the REST architectural style and use JSON as its data representation format.
 
-Learn more about API technical choices.
+Learn more about [API technical choices](http://18f.github.io/API-All-the-X/pages/api_basics)).
 
 ### API Types
 
 When considering APIs there are three types of uses. 
 
-* **Public**. An agency makes information and services available to almost anyone to use for building their own applications. These APIs are built on top of public information and services. Applications can be used commercially. Developers can, for example, create a mashup that uses government data—like Census block data—as a supporting part of an application.
-* **Private**. Organizations use APIs across offices and divisions to share data to improve access and efficiency. These APIs are built on internal information and services. Amazon famously required all data and functionality to be available ONLY through APIs. This created modular services that could be reused easily and prepared Amazon for innovation, such as easily deploying apps to smartphones.
+* **Public**. An agency makes information and services available to almost anyone to use for building their own applications. These APIs are built on top of public information and services. Applications can be used commercially. Developers can, for example, create a [mashup](http://en.wikipedia.org/wiki/Mashup_(web_application_hybrid)) that uses government data—like [Census block data](http://www.broadbandmap.gov/developer/api/census-api-by-coordinates)—as a supporting part of an application.
+* **Private**. Organizations use APIs across offices and divisions to share data to improve access and efficiency. These APIs are built on internal information and services. [Amazon famously required](http://apievangelist.com/2012/01/12/the-secret-to-amazons-success-internal-apis/) all data and functionality to be available ONLY through APIs. This created modular services that could be reused easily and prepared Amazon for innovation, such as easily deploying apps to smartphones.
 * **Hybrid**. Some APIs are available both externally and internally. Your organization can limit access to some information to the public and make more available for internal use or to use with specific partners.
 It is important to understand these uses and to apply appropriate security, legal, and technical rules, depending on the use.
 
@@ -93,15 +93,15 @@ APIs are mostly either read-only or read-write. A general way to differentiate t
 
 APIs need to provide value to your agency and to developers. The best way to make that happen is to tie an API program to your agency mission.
  
-1. **Audit: Investigate what API efforts may already be active at your agency. Assemble a list of the information that your team or agency produces and the services you provide. Decide what material you would like to offer via API. Read more on auditing APIs. 
+1. **Audit: Investigate what API efforts may already be active at your agency. Assemble a list of the information that your team or agency produces and the services you provide. Decide what material you would like to offer via API. Read more on [auditing APIs](http://18f.github.io/API-All-the-X/pages/how_to_get_started_with_apis). 
  
-2. **Assemble Components: Coordinate the creation of the API itself. Assemble the related documentation, components, and rollout plan. Test the API and coordinate with stakeholders. Read more on assembling the components.
+2. **Assemble Components: Coordinate the creation of the API itself. Assemble the related documentation, components, and rollout plan. Test the API and coordinate with stakeholders. Read more on [assembling the components](http://18f.github.io/API-All-the-X/pages/how_to_get_started_with_apis#assemble-components).
  
-3. **Implement: Release the API to the intended audience, announce through marketing and community channels, and engage interested users. Read more on implementing the API.
+3. **Implement: Release the API to the intended audience, announce through marketing and community channels, and engage interested users. Read more on [implementing the API](http://18f.github.io/API-All-the-X/pages/how_to_get_started_with_apis#implement).
  
-4. **Track Progress: Monitor usage statistics, make improvements, and continue to engage with developers using the API. Read more on tracking the progress.
+4. **Track Progress: Monitor usage statistics, make improvements, and continue to engage with developers using the API. Read more on [tracking the progress](http://18f.github.io/API-All-the-X/pages/how_to_get_started_with_apis#track-progress).
  
-5. **Repeat: Re-evaluate lessons learned with your agency’s Web presence and consider what material next makes sense as an API. Repeat the above steps. Read more on repeating the process.
+5. **Repeat: Re-evaluate lessons learned with your agency’s Web presence and consider what material next makes sense as an API. Repeat the above steps. Read more on [repeating the process](http://18f.github.io/API-All-the-X/pages/how_to_get_started_with_apis#repeat).
 
 ## Resources and Tools for Building APIs  
 
