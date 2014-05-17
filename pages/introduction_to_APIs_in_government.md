@@ -3,6 +3,23 @@ layout: page
 title: "Introduction to APIs in Government"
 ---
 
+<table style="width: 66%;" border="0" cellpadding="0" cellspacing="0">
+<ul>
+        <tr>
+        <td style="width: 33%;"><li><a href="http://18f.github.io/API-All-the-X/pages/introduction_to_APIs_in_government#what-are-apis">What Are APIs?</a></li></td>
+        <td style="width: 33%;"><li><a href="http://18f.github.io/API-All-the-X/pages/introduction_to_APIs_in_government#how-to-start-an-api-program">How to Start an API Program</a></li></td>
+    </tr>
+    <tr>
+        <td style="width: 33%;"><li><a href="http://18f.github.io/API-All-the-X/pages/introduction_to_APIs_in_government#benefits-of-apis">Benefits of APIs</a></li></td>
+        <td style="width: 33%;"><li><a href="http://18f.github.io/API-All-the-X/pages/introduction_to_APIs_in_government#resources-and-tools-for-building-apis">Resources and Tools</a></li></td>
+    </tr>
+    <tr>
+        <td style="width: 33%;"><li><a href="http://18f.github.io/API-All-the-X/pages/introduction_to_APIs_in_government#api-basics">API Basics</a></li></td>
+        <td style="width: 33%;"><li><a href="http://18f.github.io/API-All-the-X/pages/introduction_to_APIs_in_government#common-questions-about-apis">Common Questions About APIs</a></li></td>
+    </tr>
+</ul>
+</table>
+
 
 ## What Are APIs?
 
