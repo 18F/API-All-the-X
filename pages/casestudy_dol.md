@@ -1,3 +1,8 @@
+---
+layout: page
+title: "How DOL Created Software Development Kits (SDKs) - Case Study"
+---
+
 *By Michael Pulsifer*
 
 ## What It Is
