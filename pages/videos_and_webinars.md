@@ -5,6 +5,12 @@ authors: "Gray Brooks"
 
 ---
 
+## Videos
+
+* [What is an API?](http://www.youtube.com/watch?v=BVeiRCEwJx8) [[Extended Version](http://www.youtube.com/watch?v=nyqHClC_UXo)]
+
+## Webinars
+
 * [APIs for Dummies—An Introduction to APIs](http://www.howto.gov/training/classes/api-intro)
 * [Case Studies From Federal Register, NASA, and GSA](http://www.howto.gov/training/classes/-api-agency-case-studies)
 * [Case Studies From the FCC, FAA, and DOL](http://www.howto.gov/training/classes/api-case-studies)
