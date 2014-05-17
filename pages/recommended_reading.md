@@ -31,4 +31,4 @@ authors: "Gray Brooks"
 * [Realizing Transparency Through Federal APIs](http://blog.programmableweb.com/2009/03/04/realizing-transparency-through-federal-government-apis/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+ProgrammableWeb+(ProgrammableWeb:+Blog)&utm_content=Google+Reader) - ProgrammableWeb
 * [Using Mashups to Create More Efficient .Gov](http://blog.programmableweb.com/2009/05/14/using-mashups-to-create-a-more-efficient-government/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+ProgrammableWeb+(ProgrammableWeb:+Blog)&utm_content=Google+Reader) - ProgrammableWeb
 * [The Business Value of APIs](http://www.pwc.com/us/en/technology-forecast/2012/issue2/download.jhtml) - PricewaterhouseCoopers
-* [Government—Do You Really Need An API?](http://www.google.com/url?q=http%3A%2F%2Fsunlightlabs.com%2Fblog%2F2012%2Fgovernment-do-you-really-need-an-api&sa=D&sntz=1&usg=AFQjCNFlzW60Fv7bzsnJB50qr9qXYYer8g) - Sunlight Foundation
+* [Government—Do You Really Need An API?](http://sunlightfoundation.com/blog/2012/03/21/government-do-you-really-need-an-api/) - Sunlight Foundation
