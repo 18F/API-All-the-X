@@ -5,7 +5,7 @@ title: "Videos and Webinars"
 
 ## Videos
 
-* [What is an API?](http://www.youtube.com/watch?v=BVeiRCEwJx8) [[Extended Version](http://www.youtube.com/watch?v=nyqHClC_UXo)]
+* [What is an API?](http://www.youtube.com/watch?v=BVeiRCEwJx8) - *[[Extended Version](http://www.youtube.com/watch?v=nyqHClC_UXo)]*
 
 ## Webinars
 
