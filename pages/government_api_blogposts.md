@@ -20,7 +20,7 @@ authors: "Gray Brooks"
 
 ### GSA
 * [Open Source + Terms of Service = A Better Developer Experience](http://18fblog.tumblr.com/post/82388500373/open-source-terms-of-service-a-better-developer)
-* Needs new link - [Usability Testing + Gov APIs = Best](https://web.archive.org/web/20130820232954/http://blog.howto.gov/2013/04/29/gov-apis-usability-testing-best/)
+* [Usability Testing + Gov APIs = Best](https://www.digitalgov.gov/2013/04/29/usability-testing-gov-apis-best/)
 * [Make Gov APIs Better with User Experience](http://www.digitalgov.gov/2014/05/09/make-gov-apis-better-with-user-experience/)
 * [We The People API](http://www.digitalgov.gov/2013/05/09/we-the-people-api-2/)
 
