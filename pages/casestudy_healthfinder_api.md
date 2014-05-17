@@ -3,6 +3,8 @@ layout: page
 title: "Healthfinder.gov API - Case Study"
 ---
 
+*[Cross-posted from [Digitalgov.gov](http://www.digitalgov.gov/2012/07/16/healthfinder-gov-api/)]*
+
 The actual [healthfinder.gov](http://healthfinder.gov/) site was launched approximately twelve years ago, while the API is a fairly recent development that has occurred in the past year and a half.
 
 ### Why We Did It
