@@ -11,7 +11,7 @@ An Application Programming Interface, or API, is a set of software instructions 
 <iframe width="560" height="315" src="//www.youtube.com/embed/BVeiRCEwJx8" frameborder="0" allowfullscreen></iframe>
 
 
-[Extended Version] 
+*[[Extended Version](http://www.youtube.com/watch?v=nyqHClC_UXo)]* 
 
 
 When we talk about APIs we are referring to Web services or Web APIs. This aligns with the current trends to use Web APIs to support sharing content and data between communities and applications. The content that is created in one place can be dynamically posted and updated in multiple locations on the Web, mobile, TV, etc.
