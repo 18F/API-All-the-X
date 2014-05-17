@@ -1,9 +1,8 @@
 
-
-  anything else on resources and tools ?
-  
-  
-
+*ToDo*
+* anything else on resources and tools ?
+* tighten up introduction file
+* reorder the below
 
 * [An Introduction to APIs in Government](http://18f.github.io/API-All-the-X/pages/introduction_to_APIs_in_government)
 * [API Basics](http://18f.github.io/API-All-the-X/pages/api_basics)  
