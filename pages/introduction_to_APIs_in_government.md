@@ -8,7 +8,8 @@ title: "Introduction to APIs in Government"
 
 An Application Programming Interface, or API, is a set of software instructions and standards that allows machine to machine communication—like when a website uses a widget to share a link on Twitter or Facebook.
 
-Video
+<iframe width="560" height="315" src="//www.youtube.com/embed/BVeiRCEwJx8" frameborder="0" allowfullscreen></iframe>
+
 
 [Extended Version] 
 
