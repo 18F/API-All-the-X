@@ -23,6 +23,7 @@ authors: "Gray Brooks"
 * [Usability Testing + Gov APIs = Best](https://www.digitalgov.gov/2013/04/29/usability-testing-gov-apis-best/)
 * [Make Gov APIs Better with User Experience](http://www.digitalgov.gov/2014/05/09/make-gov-apis-better-with-user-experience/)
 * [We The People API](http://www.digitalgov.gov/2013/05/09/we-the-people-api-2/)
+* [The API Briefing: USDA’s Farmers Market Directory API](https://www.digitalgov.gov/2014/05/13/the-api-briefing-usdas-farmers-market-directory-api/)
 
 ### National Aeronautics and Space Administration
 * [The Open API Universe at NASA](http://open.nasa.gov/blog/2012/09/19/the-open-api-universe-at-nasa/)
