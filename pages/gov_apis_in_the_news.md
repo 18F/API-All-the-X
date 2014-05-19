@@ -46,6 +46,9 @@ authors: "Gray Brooks"
 ### March 17, 2014
 * [The Recent Rise of Government Open Data APIs - ProgrammableWeb](http://blog.programmableweb.com/2013/07/30/the-recent-rise-of-government-open-data-apis/)
 
+### March 7, 2014
+* [Should government charge API fees? - GovFresh](http://govfresh.com/2014/03/government-charge-api-fees/)
+
 ### January 3, 2014
 * [Open Government Strategy Continues with US Currency Production API - ProgrammableWeb](http://blog.programmableweb.com/2014/01/03/opendata-gov-continues-api-strategy-annual-production-figures-of-us-currency/)
 
