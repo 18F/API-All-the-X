@@ -49,6 +49,9 @@ authors: "Gray Brooks"
 ### March 7, 2014
 * [Should government charge API fees? - GovFresh](http://govfresh.com/2014/03/government-charge-api-fees/)
 
+### January 13, 2014
+* [An API strategy for the U.S. government - GovFresh](http://govfresh.com/2014/01/next-us-government-api-strategy/)
+
 ### January 3, 2014
 * [Open Government Strategy Continues with US Currency Production API - ProgrammableWeb](http://blog.programmableweb.com/2014/01/03/opendata-gov-continues-api-strategy-annual-production-figures-of-us-currency/)
 
