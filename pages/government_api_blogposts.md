@@ -6,10 +6,16 @@ authors: "Gray Brooks"
 ---
 ### White House 
 * [A Write API for We the People](http://www.whitehouse.gov/blog/2013/11/04/write-api-we-people)
+* [There's Now an API for We the People](http://www.whitehouse.gov/blog/2013/05/01/theres-now-api-we-people)
 
 ### Department of Agriculture 
 * [New API Helps Satisfy the Nation’s App-etite for Farmers Markets](http://blogs.usda.gov/2013/05/15/new-api-helps-satisfy-the-nations-app-etite-for-farmers-markets/)
 * [Dive Deeper Into USDA Data with New APIs](http://blogs.usda.gov/2013/12/11/dive-deeper-into-usda-data-with-new-apis/)
+
+### Department of Commerce
+* [Census Bureau’s API Continues Commitment to Innovation](http://www.commerce.gov/blog/2014/03/20/census-bureau%E2%80%99s-api-continues-commitment-innovation)
+* [Want to Build Apps Using BEA Economic Data? BEA Launches API](http://blog.bea.gov/2013/07/11/bea-launches-api/)
+
 
 ### Department of Education
 * [How Can the Department of Education Increase Innovation, Transparency and Access to Data?](http://www.ed.gov/blog/2014/04/how-can-the-department-of-education-increase-innovation-transparency-and-access-to-data/)
@@ -17,21 +23,68 @@ authors: "Gray Brooks"
 ### Department of Health and Human Services
 * [Making Information More Accessible, The Digital Government Strategy](http://www.healthdata.gov/blog/making-information-more-accessible-digital-government-strategy)
 * [New Web Service: Chemical Activity Predictor](http://cactus.nci.nih.gov/blog/?p=1595&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+chemicalStructureBlog+(%2Fchemical%2Fstructure+Blog))
+* [Opening Up Our Data](http://www.hhs.gov/digitalstrategy/blog/2012/08/opening-up-our-data.html)
+* [Introducing openFDA](http://www.hhs.gov/digitalstrategy/blog/2014/03/introducing-openfda.html)
+* [U.S. News & World Report Leverages Healthcare Finder API to Help Consumers Find Insurance Coverage](https://www.healthdata.gov/blog/us-news-world-report-leverages-healthcare-finder-api-help-consumers-find-insurance-coverage)
+* [Making Information More Accessible, The Digital Government Strategy](https://www.healthdata.gov/blog/making-information-more-accessible-digital-government-strategy)
+* [Find the CMS data you are looking for with the new CMS Data Navigator!](https://www.healthdata.gov/blog/find-cms-data-you-are-looking-new-cms-data-navigator)
+* [HHS Developer Resources](http://www.hhs.gov/digitalstrategy/open-data/hhs-developer-resources.html)
+* [The CMS Data Navigator API](http://www.hhs.gov/digitalstrategy/open-data/cms-data-navigator-api.html)
+* [API 101](http://www.hhs.gov/digitalstrategy/open-data/api-101.html)
+* [Here's to Your Health](http://www.hhs.gov/digitalstrategy/open-data/best-health-insurance-plans.html)
+* [Pulse of a Community](http://www.hhs.gov/digitalstrategy/open-data/pulse-community.html)
 
-### GSA
+* [Open Data in Action: What is an API?](http://blog.aids.gov/2012/04/open-data-in-action-what-is-an-api.html)
+* [Announcing The Locator API](http://blog.aids.gov/2012/04/announcing-the-locator-api.html)
+
+### Department of Housing and Urban Development
+* [One-Year Anniversary of the Digital Government Strategy: HUD Releases Two APIs](http://blog.hud.gov/index.php/2013/05/23/one-year-anniversary-of-the-digital-government-strategy-hud-releases-two-apis/)
+
+### Department of Labor 
+* [Taking Open Government to the Next Level](http://social.dol.gov/blog/taking-open-government-to-the-next-level/)
+* [DOL Transparency on the Go](http://social.dol.gov/blog/dol-transparency-on-the-go/)
+
+### Consumer Financial Protection Bureau
+* [New tools to explore mortgage data](http://www.consumerfinance.gov/blog/new-tools-to-explore-mortgage-data/)
+
+Federal Communications Commission
+* [FCC.gov/developer](http://reboot.fcc.gov/blog/?entryId=727240)
+* [New Tools Allow Developers to Leverage Spectrum Data](http://reboot.fcc.gov/blog/?entryId=1183898)
+* [FCC /Developer update: Building off community input](http://reboot.fcc.gov/blog/?entryId=872119)
+
+
+### General Services Administration
 * [Packaging Up API Usability Testing for Agency Re-Use](http://18fblog.tumblr.com/post/86214382873/packaging-up-api-usability-testing-for-agency-re-use)
 * [Open Source + Terms of Service = A Better Developer Experience](http://18fblog.tumblr.com/post/82388500373/open-source-terms-of-service-a-better-developer)
 * [Usability Testing + Gov APIs = Best](https://www.digitalgov.gov/2013/04/29/usability-testing-gov-apis-best/)
 * [Make Gov APIs Better with User Experience](http://www.digitalgov.gov/2014/05/09/make-gov-apis-better-with-user-experience/)
 * [We The People API](http://www.digitalgov.gov/2013/05/09/we-the-people-api-2/)
 * [The API Briefing: USDA’s Farmers Market Directory API](https://www.digitalgov.gov/2014/05/13/the-api-briefing-usdas-farmers-market-directory-api/)
+* [Data.gov Launches New Catalog and APIs](https://www.data.gov/blog/datagov-launches-new-catalog-and-apis)
+* [Health Indicators Warehouse APIs](https://www.data.gov/health/blog/health-indicators-warehouse-apis)
 
 ### National Aeronautics and Space Administration
 * [The Open API Universe at NASA](http://open.nasa.gov/blog/2012/09/19/the-open-api-universe-at-nasa/)
+* [Announcing the data.nasa.gov API](http://open.nasa.gov/blog/2011/10/12/announcing-the-data-nasa-gov-api/)
+
+
+### National Archives and Records Administration
+* [Polar Bears & Federal Register API](https://www.federalregister.gov/blog/2011/10/polar-bears-federal-register-api)
+* [API Now Available From Federal Register 2.0](https://www.federalregister.gov/blog/2011/08/api-now-available-from-federal-register-2-0)
+
+### Office of Personnel Management
+* [OPM Launches USAJOBS and Operating Status Mobile Apps](http://www.opm.gov/blogs/OpenOPM/2013/5/23/OPM-Launches-USAJOBS-and-Operating-Status-Mobile-Apps/)
 
 ### ADLNET
 * [The Road to the Experience API V1.0 release – Target date announced](http://www.adlnet.gov/the-road-to-1-0/)
 * [An Open Source Success Story – A Community-Developed Specification](http://www.adlnet.gov/an-open-source-success-story-a-community-developed-specification/)
+* [From ADL Team Member… Aaron Silvers: The Road Ahead for Experience API](http://www.adlnet.gov/the-road-ahead-for-experience-api/)
+* [From ADL Team Member… Lou Wolford: ADL’s Learning Record Store (LRS)](http://www.adlnet.gov/adl_lrs/)
+* [From ADL Team Member… Aaron Silvers: Launching the “Tin Can” API](http://www.adlnet.gov/launching-tin-can-api/)
+* [From ADL Team Member… Andy Johnson: Tin Can API Comparison with Activity Streams](http://www.adlnet.gov/tin-can-api-comparison-with-activity-streams/)
+* [From ADL Team Member… Andy Johnson: Tin Can Verbs – Strict or Loose?](http://www.adlnet.gov/tin-can-verbs-strict-or-loose/)
+* [From ADL Team Member… Andy Johnson: Tin Can Verbs From Scratch](http://www.adlnet.gov/tin-can-verbs-from-scratch/)
+* [From ADL Team Member… Aaron Silvers: First Class Citizens](http://www.adlnet.gov/first-class-citizens/)
 
 
 ### CIO.gov
