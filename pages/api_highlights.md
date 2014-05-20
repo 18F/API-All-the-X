@@ -14,6 +14,8 @@ authors: "Gray Brooks"
 * **[Consumer Financial Protection Bureau](cfpb.github.io/api/hmda/)**
 * **[Department of Health and Human Services](http://healthdata.gov/developer)**
 * **[NREL](http://developer.nrel.gov/)**
+* **ADLNET API Program** The API-based education program based out of DOD serves a model for all agencies with their work in [communicating with the public about their API development](http://18f.github.io/API-All-the-X/pages/government_api_blogposts#adlnet).  Few programs can rival the depth and conviviality with which these API producers blog about the design, technology, implementation, and use cases of their APIs.  
+
 
 ### Further Notes
 
