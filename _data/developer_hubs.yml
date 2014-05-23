@@ -237,6 +237,9 @@ National Resource Directory:
 Performance.gov Permits:
   url: http://permits.performance.gov/developers-api
 
+Pillbox:
+  url: http://pillbox.nlm.nih.gov/developer.html
+
 Recovery.gov:
   url: http://www.recovery.gov/FAQ/Developer/
 
