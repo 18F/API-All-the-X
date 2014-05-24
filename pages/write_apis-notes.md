@@ -1,8 +1,6 @@
 ---
 layout: page
 title: "Write APIs"
-authors: "Gray Brooks"
-
 ---
 
 ## Background 
