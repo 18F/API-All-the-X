@@ -1,0 +1,5 @@
+---
+---
+Publisher,name,URL
+{% for individual_apis in site.data.individual_apis %}{{ individual_apis[0] }},{{ individual_apis[1].name }}{{ individual_apis[2].url }}
+{% endfor %}
