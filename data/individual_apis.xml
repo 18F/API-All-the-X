@@ -1,0 +1,11 @@
+---
+---
+<individual_apis>
+  {% for individual_apis in site.data.individual_apis %}
+  <individual_apis>
+    <publisher>{{ individual_apis[0] }}</publisher>
+    <name>{{ individual_apis[1].name }}</name>
+    <url>{{ individual_apis[2].url }}</url>
+  </individual_apis>
+  {% endfor %}
+</individual_apis>
