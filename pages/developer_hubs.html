@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>{{ page.title }}</title>
+        <meta name="viewport" content="width=device-width">
+        <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/normalize.css">
+        <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css">
+        <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/syntax.css">
+        <!--[if lt IE 9]>
+          <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+          <script src="{{ site.baseurl }}/assets/js/respond.min.js"></script>
+        <![endif]-->
+
+    </head>
+    <body>
+
+
+
+      <header role="banner">
+
+      <!-- Fork Me at GitHub banner. Remove, of course -->
+      <a href="https://github.com/18F/API-All-the-X"><img style="position: absolute; top: 0; right: 0; border: 0;" src="http://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png" alt="Fork me on GitHub"></a>
+      
+
+      <div class="wrap">
+        {% if site.logourl != null %}
+          <img class="logo" src="{{site.logourl}}" alt="{{site.logoalt}}">
+        {% endif %}
+        <h1><a class="title-link" href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+        <div style="float:right">
+            <!-- This should be a configurable item in data/ -->
+
+            <a href="{{ site.baseurl }}/{{ site.data.meta.home_url }}" class="title-link">
+                <img height="52" src="{{ site.baseurl }}{{ site.data.meta.logo_url}}" alt="Your agency logo">
+            </a>
+        </div>
+      </div>
+      </header>
+
+      <div class="wrap content">
+
+          {% include sidebar.html %}
+
+        <section id="main" class="main-content" role="main">
+
+
+
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+    <script>
+    $.getJSON( "developer_hubs.json", function(developer_hubs) {
+      $.each(developer_hubs, function(publisher, attributes) {
+        document.write("<h2>" + publisher + "</h2>");
+        document.write("<a href=\"" + attributes["url"] + "\">" + attributes["url"] + "</a><br />");
+      });
+    })
+    </script>
+    
+    
+        </section>
+        
+        
+        <footer role="contentinfo">
+          <p>This project is maintained by <a href="{{ site.data.meta.poc_link }}">{{ site.data.meta.point_of_contact }}</a></p>
+ 
+          <p>Hosted on Github Pages</p>
+          <script>
+ (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+ })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ ga('create', 'UA-48605964-6', '18f.github.io');
+ ga('send', 'pageview');
+
+</script>
+        </footer>
+
+      </div><!-- /.wrap -->
+    </body>
+</html>
+
+
