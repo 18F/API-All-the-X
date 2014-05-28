@@ -1,8 +1,6 @@
 ---
 layout: page
 title: "Agency Checklist"
-authors: "Gray Brooks"
-
 ---
 
 
