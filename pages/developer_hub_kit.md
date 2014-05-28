@@ -1,12 +1,46 @@
 ---
 layout: page
 title: "/Developer Kit"
-authors: "Gray Brooks"
-
 ---
 
-* auto-gen TOC:
-{:toc}
+ 
+<table style="width: 100%;" border="0" cellpadding="2" cellspacing="2">
+<ul>
+    <tr>
+        <td style="text-align: left; width: 33%;"><li><a href="http://18f.github.io/API-All-the-X/pages/developer_hub_kit#homepage">Homepage</a></li></td>
+        <td style="text-align: left; width: 33%;"><li><a href="http://18f.github.io/API-All-the-X/pages/developer_hub_kit#welcome">Welcome</a></li></td>
+        <td style="text-align: left; width: 33%;"><li><a href="http://18f.github.io/API-All-the-X/pages/developer_hub_kit#catalog-of-apis">Catalog of APIs</a></li></td>
+    </tr>
+    <tr>
+        <td style="text-align: left; width: 33%;"><li><a href="http://18f.github.io/API-All-the-X/pages/developer_hub_kit#terms-of-service">Terms of Service</a></li></td>
+        <td style="text-align: left; width: 33%;"><li><a href="http://18f.github.io/API-All-the-X/pages/developer_hub_kit#status-dashboard">Status Dashboard</a></li></td>
+        <td style="text-align: left; width: 33%;"><li><a href="http://18f.github.io/API-All-the-X/pages/developer_hub_kit#apps-gallery">Apps Gallery</a></li></td>
+    </tr>
+    <tr>
+        <td style="text-align: left; width: 33%;"><li><a href="http://18f.github.io/API-All-the-X/pages/developer_hub_kit#link-to-open-source-projects">Link to Open Source Projects</a></li></td>
+        <td style="text-align: left; width: 33%;"><li><a href="http://18f.github.io/API-All-the-X/pages/developer_hub_kit#link-to-agency-data-hub">Link to Agency Data Hub</a></li></td>
+        <td style="text-align: left; width: 33%;"><li><a href="http://18f.github.io/API-All-the-X/pages/developer_hub_kit#links-to-other-relevant-sections">Link to Other Relevant Sections</a></li></td>
+    </tr>
+    <tr>
+        <td style="text-align: left; width: 33%;"><li><a href="http://18f.github.io/API-All-the-X/pages/developer_hub_kit#blogmicroblog">Blog/Microblog</a></li></td>
+        <td style="text-align: left; width: 33%;"><li><a href="http://18f.github.io/API-All-the-X/pages/developer_hub_kit#public-feedback-mechanism">Public Feedback Mechanism</a></li></td>
+        <td style="text-align: left; width: 33%;"><li><a href="http://18f.github.io/API-All-the-X/pages/developer_hub_kit#developer-mailing-listgroup">Developer Mailing List/Group</a></li></td>
+    </tr>
+    <tr>
+        <td style="text-align: left; width: 33%;"><li><a href="http://18f.github.io/API-All-the-X/pages/developer_hub_kit#forum">Forum</a></li></td>
+        <td style="text-align: left; width: 33%;"><li><a href="http://18f.github.io/API-All-the-X/pages/developer_hub_kit#wiki">Wiki</a></li></td>
+        <td style="text-align: left; width: 33%;"><li><a href="http://18f.github.io/API-All-the-X/pages/developer_hub_kit#faq">FAQ</a></li></td>
+    </tr>
+    <tr>
+        <td style="text-align: left; width: 33%;"><li><a href="http://18f.github.io/API-All-the-X/pages/developer_hub_kit#link-to-other-agency-developer-hubs">Link to Other Agency Developer Hubs</a></li></td>
+        <td style="text-align: left; width: 33%;"><li><a href="http://18f.github.io/API-All-the-X/pages/developer_hub_kit#link-to-all-gov-github-accounts">Link to All Gov GitHub Accounts</a></li></td>
+        <td style="text-align: left; width: 33%;"><li><a href="http://18f.github.io/API-All-the-X/pages/developer_hub_kit#link-to-basic-api-information">Link to Basic API Information</a></li></td>
+    </tr>
+    <tr>
+        <td style="text-align: left; width: 33%;"><li><a href="http://18f.github.io/API-All-the-X/pages/developer_hub_kit#poc">Point of Contact</a></li></td>
+    </tr>
+    </ul>
+</table>
 
 ## Homepage
 The API efforts of any agency should all be accessible via one easy to reach developers hub. This Web page should provide a path to all public APIs and any associated resources. Once an agency has begun to publish multiple APIs, certain resources may make sense to be specific to each API whereas others may make sense to be provided more generally for all of the agency’s APIs. The major elements of the overall developer homepage are: a catalog of and links to available APIs, any communal elements that apply to all of the APIs, and links to non-API resources that may also be of use to developers. Agency.gov/developer, agency.gov/developers, and agency.gov/api should either be the direct URL for the page or should redirect to the page.
