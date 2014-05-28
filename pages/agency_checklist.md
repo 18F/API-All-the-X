@@ -63,4 +63,5 @@ authors: "Gray Brooks"
 * Have you begun encouraging the different units of your agency to produce their first API if they haven’t already. 
 * Have you begun encouraging the different units of your agency to consume your agency's own APIs if they haven’t already. 
 * Have you looked for opportunities to consume other agencies' APIs to avoid maintaining duplicative services? 
+* Have you made sure that each API is reflected in the agency's [public data listing](http://project-open-data.github.io/catalog/)?  
 
