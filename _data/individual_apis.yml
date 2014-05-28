@@ -1,5 +1,4 @@
 - name: White House
-  apis
   apis:
   - name: "Policy Snapshots"
     url: "http://www.whitehouse.gov/developers/policy-snapshots-json-feed"
