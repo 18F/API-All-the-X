@@ -1,16 +1,17 @@
+
 <!DOCTYPE html>
 <html>
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>{{ page.title }}</title>
+        <title>Developer Hubs 2</title>
         <meta name="viewport" content="width=device-width">
-        <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/normalize.css">
-        <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css">
-        <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/syntax.css">
+        <link rel="stylesheet" href="/API-All-the-X/assets/css/normalize.css">
+        <link rel="stylesheet" href="/API-All-the-X/assets/css/main.css">
+        <link rel="stylesheet" href="/API-All-the-X/assets/css/syntax.css">
         <!--[if lt IE 9]>
           <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-          <script src="{{ site.baseurl }}/assets/js/respond.min.js"></script>
+          <script src="/API-All-the-X/assets/js/respond.min.js"></script>
         <![endif]-->
 
     </head>
@@ -25,15 +26,13 @@
       
 
       <div class="wrap">
-        {% if site.logourl != null %}
-          <img class="logo" src="{{site.logourl}}" alt="{{site.logoalt}}">
-        {% endif %}
-        <h1><a class="title-link" href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+        
+        <h1><a class="title-link" href="/API-All-the-X/">/Developer Program</a></h1>
         <div style="float:right">
             <!-- This should be a configurable item in data/ -->
 
-            <a href="{{ site.baseurl }}/{{ site.data.meta.home_url }}" class="title-link">
-                <img height="52" src="{{ site.baseurl }}{{ site.data.meta.logo_url}}" alt="Your agency logo">
+            <a href="/API-All-the-X/index.html" class="title-link">
+                <img height="52" src="/API-All-the-X/assets/img/USA_flag_icon.png" alt="Your agency logo">
             </a>
         </div>
       </div>
@@ -41,17 +40,88 @@
 
       <div class="wrap content">
 
-          {% include sidebar.html %}
+          <aside>
+  <p class="intro">API Resources for Federal Agencies</p>
+  <a class="skip-link visuallyhidden focusable" href="#main">Skip to Main Content</a>
+  <nav role="navigation">
+    <ul>
+      
+        
+          <li><a href="/API-All-the-X/index">Home</a></li>
+        
+        
+        
+          <li><a href="/API-All-the-X/pages/community">Community</a></li>
+        
+        
+        
+          <li><a href="/API-All-the-X/pages/collaboration">Collaboration</a></li>
+        
+        
+        
+          <li><a href="/API-All-the-X/pages/tools">Tools</a></li>
+        
+        
+        
+          <li><a href="/API-All-the-X/pages/resources">Resources</a></li>
+        
+        
+        
+          <li><a href="/API-All-the-X/pages/education">Education</a></li>
+        
+        
+        
+          <li><a href="/API-All-the-X/pages/support">Support</a></li>
+        
+        
+        
+          <li><a href="/API-All-the-X/pages/status">Status</a></li>
+        
+        
+        
+          <li><a href="/API-All-the-X/pages/about">About</a></li>
+        
+        
+        
+          <li><a href="https://github.com/18F/API-All-the-X/issues">Share your Feedback</a></li>
+        
+        
+                <!-- Edit This link -->
+        <li><a href="http://github.com/18F/API-All-the-X/edit/gh-pages/pages/developer_hubs2.md" target="_blank">Edit this page</a>
+</li>
+    </ul>
+  </nav>
+</aside>
+
 
         <section id="main" class="main-content" role="main">
+          <h2 class="page-title">Developer Hubs 2</h2>
 
-test language
-    
+<pre><code>&lt;script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+$.getJSON( "http://18f.github.io/API-All-the-X/data/developer_hubs.json", function(developer_hubs) {
+  $.each(developer_hubs, function(publisher, attributes) {
+    document.write("&lt;h2&gt;" + publisher + "&lt;/h2&gt;");
+    document.write("&lt;a href=\"" + attributes["url"] + "\"&gt;" + attributes["url"] + "&lt;/a&gt;&lt;br /&gt;");
+  });
+})
+&lt;/script&gt;
+</code></pre>
+
+
+
+
+<hr/>
+
+ <div class="author">A Project of 18F</div>
+
+
+
         </section>
         
         
         <footer role="contentinfo">
-          <p>This project is maintained by <a href="{{ site.data.meta.poc_link }}">{{ site.data.meta.point_of_contact }}</a></p>
+          <p>This project is maintained by <a href="http://18f.gsa.gov">18F</a></p>
  
           <p>Hosted on Github Pages</p>
           <script>
@@ -69,5 +139,3 @@ test language
       </div><!-- /.wrap -->
     </body>
 </html>
-
-
