@@ -4,3 +4,857 @@
     url: "http://www.whitehouse.gov/developers/policy-snapshots-json-feed"
   - name: "We The People API"
     url: "https://petitions.whitehouse.gov/developers"
+
+- name: Office of Management and Budget
+  apis:
+  - name: "Performance.gov Permits Developers API"
+    url: "http://permits.performance.gov/developers-api"
+  - name: "USASpending.gov API"
+    url: "http://www.usaspending.gov/data?tab=API"
+
+- name: Agricultural Marketing Service
+  apis:
+  - name: "Farmers Market Directory API"
+    url: "http://search.ams.usda.gov/farmersmarkets/v1/svcdesc.html"
+
+- name: Animal and Plant Health Inspection Service
+  apis:
+  - name: "Animal Identification Management System"
+    url: "https://nais.aphis.usda.gov/ainmngt/HelpGetAnonymous.do"
+
+- name: Economic Research Service
+  apis:
+  - name: "Content API"
+    url: "http://ers.usda.gov/developer/website-content-api.aspx"
+
+- name: Farm Service Agency
+  apis:
+  - name: "National Agriculture Imagery Program Status Web Service"
+    url: "http://www.fsa.usda.gov/Internet/FSA_File/usage_guide_naipstatus_final.pdf"
+
+- name: Forest Service
+  apis:
+  - name: "Recreation Information Database"
+    url: "https://ridb.recreation.gov/RIDBWeb/Controller.jpf"
+
+- name: National Agricultural Statistics Service
+  apis:
+  - name: "Cropland Data Layer"
+    url: "http://www.nass.usda.gov/research/Cropland/sarsfaqs2.html#_Cropscape1.2"
+
+- name: National Resources Conservation Service
+  apis:
+  - name: "National Water and Climate Center AWDB database"
+    url: "http://www.wcc.nrcs.usda.gov/web_service/AWDB_Web_Service_Tutorial.htm"
+  - name: "Soil Data Mart"
+    url: "http://sdmdataaccess.nrcs.usda.gov/"
+
+- name: Bureau of Economic Analysis
+  apis:
+  - name: "Data API"
+    url: "http://www.bea.gov/API/"
+
+- name: Census Bureau
+  apis:
+  - name: "Census Bureau APIs"
+    url: "http://www.census.gov/developers/"
+  - name: "Automated Export System AESWebLink Submission API"
+    url: "http://www.aesdirect.gov/developers"
+  - name: "Automated Export System AESWebLink Inquiry API"
+    url: "http://www.aesdirect.gov/developers"
+
+- name: National Institute of Standards and Technology
+  apis:
+  - name: "CDA Guideline Validation Tool"
+    url: "http://xreg2.nist.gov/cda-validation/webservice.html"
+
+- name: National Oceanic and Atmospheric Administration
+  apis:
+  - name: "Meteorological Assimilation Data Ingest System"
+    url: "http://madis.noaa.gov/madis_api.html"
+  - name: "National Climatic Data Center Web Services"
+    url: "http://www.ncdc.noaa.gov/cdo-web/webservices/ncdcwebservices"
+  - name: "Environmental Research Division's Data Access Program"
+    url: "http://coastwatch.pfeg.noaa.gov/erddap/rest.html"
+  - name: "Center for Operational Oceanographic Products and Services"
+    url: "http://opendap.co-ops.nos.noaa.gov/axis/"
+  - name: "CO-OPS Open Geospatial Consortium Sensor Observation Service"
+    url: "http://opendap.co-ops.nos.noaa.gov/ioos-dif-sos/"
+  - name: "National Digital Forecast Database SOAP Web Service"
+    url: "http://graphical.weather.gov/xml/"
+  - name: "National Climatatic Data Center Climate Data Online Web Services Web Services"
+    url: "http://www.ncdc.noaa.gov/cdo-web/webservices"
+  - name: "General National Climatatic Data Center THREDDS Data Server"
+    url: "http://www.ncdc.noaa.gov/thredds"
+  - name: "National Climatatic Data Center NOMADS THREDDS Data Server"
+    url: "http://nomads.ncdc.noaa.gov/thredds"
+  - name: "GIS Map Services"
+    url: "http://gis.ncdc.noaa.gov/"
+  - name: "Legacy National Climatatic Data Center RESTful Services"
+    url: "http://www7.ncdc.noaa.gov/rest/"
+  - name: "Ocean Service's nowCOAST's Map Services"
+    url: "http://nowcoast.noaa.gov/help/mapservices.shtml?name=mapservices"
+  - name: "Severe Weather Data Inventory Web Service"
+    url: "http://www.ncdc.noaa.gov/swdiws/"
+  - name: "Space Physics Interactive Data Resource Web Services"
+    url: "http://spidr.ngdc.noaa.gov/spidr/docs/SPIDR.REST.WSGuide.en.pdf"
+
+- name: National Telecommunications and Information Administration
+  apis:
+  - name: "Broadband Technology Opportunities Program API"
+    url: "http://www2.ntia.doc.gov/BTOPmap/api"
+
+- name: Patent and Trademark Office
+  apis:
+  - name: "Trademark Status & Document Retrieval"
+    url: "http://tsdr.uspto.gov/"
+  - name: "IUID Registry API"
+    url: "http://www.acq.osd.mil/dpap/pdi/uid/data_submission_information.html"
+  - name: "ADL 3d repository"
+    url: "http://3dr.adlnet.gov/blog/?p=78"
+  - name: "ADL Experience API"
+    url: "http://www.adlnet.gov/tla/experience-api"
+  - name: "Clause Logic Service"
+    url: "http://www.acq.osd.mil/dpap/pdi/eb/clause_logic_service.html"
+
+- name: US Army Corps of Engineers
+  apis:
+  - name: "ARCGIS Services"
+    url: "http://maps.usace.army.mil:8399/arcgis/rest/services"
+  - name: "Coastal Inlets Research Program (CIRP) Wiki API"
+    url: "http://cirp.usace.army.mil/CIRPwiki/api.php?action=patrol&token=123abc&rcid=230672766"
+  - name: "Hydrologic Engineering Center Data Storage System"
+    url: "http://www.hec.usace.army.mil/software/hec-dss/documents/Ch7-Scripting.pdf"
+  - name: "Lock Performance Monitoring System"
+    url: "http://corpslocks.usace.army.mil/lpwb/f?p=121:7:0:::::"
+  - name: "OMNI Data"
+    url: "http://www2.mvr.usace.army.mil/OMNI/ws/OMNIdataWebService.cfm"
+  - name: "Proteus API"
+    url: "https://adh.usace.army.mil/proteus/api/index.html#"
+  - name: "PyADH API"
+    url: "https://adh.usace.army.mil/pyadh/api/index.html"
+  - name: "Integrated Postsecondary Education Data System (IPEDS): Institutional Characteristics - Directory Information (2011)"
+    url: "https://explore.data.gov/developers/docs/nces-ipeds-hd2011"
+  - name: "Integrated Postsecondary Education Data System (IPEDS): Awards/degrees Conferred by Program (2011)"
+    url: "https://explore.data.gov/developers/docs/nces-ipeds-c2011_a"
+
+
+- name: Argonne National Laboratory
+  apis:
+  - name: "Channel Access API"
+    url: "http://www.aps.anl.gov/bcda/epicsgettingstarted/developtools/introductionchannelaccess.html"
+  - name: "EZ Channel Access API"
+    url: "http://www.aps.anl.gov/epics/extensions/ezca/"
+  - name: "AWE API"
+    url: "http://press.igsb.anl.gov/mgrdev/developers/the-awe-api/"
+  - name: "SHOCK API"
+    url: "http://press.igsb.anl.gov/mgrdev/developers/shock-api/"
+  - name: "M5nr API"
+    url: "http://press.igsb.anl.gov/mgrdev/under-the-hood/mg-rast-tools/m5nr/the-m5nr-api/"
+  - name: "MG-RAST API"
+    url: "http://press.igsb.anl.gov/mgrdev/developers/"
+  - name: "NEOS API"
+    url: "http://neos.mcs.anl.gov/neos/NEOS-API.html"
+
+- name: Brookhaven National Laboratory
+  apis:
+  - name: "Maven 1 API"
+    url: "https://www.racf.bnl.gov/Facility/GUMS/1.3/apidocs/"
+  - name: "NuWa Python API"
+    url: "http://dayabay.bnl.gov/oum/api/"
+  - name: "PerfSonar Network Monitoring Framework Data Access API"
+    url: "https://www.racf.bnl.gov/experiments/usatlas/griddev/new-perfsonar-application-framework/overview"
+  - name: "Star DB C++ API"
+    url: "http://drupal.star.bnl.gov/STAR/comp/db/development/db_cppapi"
+  - name: "Terepaths API"
+    url: "https://www.racf.bnl.gov/terapaths/software/the-terapaths-api"
+  - name: "STAR Scheduler Standard API"
+    url: "http://www.star.bnl.gov/public/comp/Grid/scheduler/javadoc/overview-summary.html"
+
+- name: Energy Information Administration
+  apis:
+  - name: "Energy Information Administration API"
+    url: "http://www.eia.gov/developer/"
+
+- name: National Renewable Energy Laboratory
+  apis:
+  - name: "Building Components Library"
+    url: "https://bcl.nrel.gov/developer"
+  - name: "Electricity APIs"
+    url: "http://developer.nrel.gov/doc/electricity"
+  - name: "Solar APIs"
+    url: "http://developer.nrel.gov/doc/solar"
+  - name: "Alternative Fuel Stations"
+    url: "http://developer.nrel.gov/doc/alt-fuel-stations-v1"
+
+- name: Lawrence Berkeley National Laboratory
+  apis:
+  - name: "National Energy Research Scientific Computing Center's NEWT"
+    url: "https://newt.nersc.gov/"
+  - name: "Home Energy Saver"
+    url: "https://developers.buildingsapi.lbl.gov/hes/documentation/api-definitions"
+  - name: "Home Energy Saver Multifamily"
+    url: "https://developers.buildingsapi.lbl.gov/hes/documentation/mf-api-definitions"
+  - name: "Home Energy Score"
+    url: "https://developers.buildingsapi.lbl.gov/hescore/documentation/hescore-api-definitions"
+  - name: "Energy IQ"
+    url: "https://developers.buildingsapi.lbl.gov/eiq/documentation"
+  - name: "Colt API"
+    url: "http://acs.lbl.gov/software/colt/"
+
+- name: Office of Scientific and Technical Information
+  apis:
+  - name: "Conference Information"
+    url: "http://www.osti.gov/XMLServices"
+  - name: "DOepatents Database Data"
+    url: "http://www.osti.gov/XMLServices"
+  - name: "DOE Data Explorer"
+    url: "http://www.osti.gov/XMLServices"
+  - name: "Energy Citations Database Data"
+    url: "http://www.osti.gov/XMLServices"
+  - name: "FreedomCAR/FCVT Data"
+    url: "http://www.osti.gov/XMLServices"
+  - name: "Geothermal/Geothermal Legacy Data"
+    url: "http://www.osti.gov/XMLServices"
+  - name: "Green Energy Data Service"
+    url: "http://www.osti.gov/XMLServices"
+  - name: "Hydropower Data"
+    url: "http://www.osti.gov/XMLServices"
+  - name: "Information Bridge Data"
+    url: "http://www.osti.gov/XMLServices"
+  - name: "R&D Accomplishments"
+    url: "http://www.osti.gov/XMLServices"
+  - name: "SciTech Connect Data"
+    url: "http://www.osti.gov/XMLServices"
+  - name: "HIV/AIDS Service Provider Locator API"
+    url: "http://locator.aids.gov/data-how-to.html"
+  - name: "Content Syndication API"
+    url: "https://syndication.hhs.gov/storefront/apiDoc"
+  - name: "Health Indicators Warehouse API"
+    url: "http://healthindicators.gov/Developers/"
+  - name: "Health Topics A-to-Z API"
+    url: "http://healthfinder.gov/developer/How_to_Use.aspx"
+  - name: "Healthcare Finder API"
+    url: "http://finder.healthcare.gov/services"
+  - name: "HealthData.gov Catalog API"
+    url: "http://healthdata.gov/catalog-api"
+  - name: "HealthData.gov Data API"
+    url: "http://healthdata.gov/data-api"
+
+- name: Agency for Healthcare Research and Quality
+  apis:
+  - name: "Meaningful Use API"
+    url: "http://ushik.ahrq.gov/help/MeaningfulUse/api?system=mu"
+
+- name: Administration on Aging
+  apis:
+  - name: "Eldercare.gov Locator API"
+    url: "http://eldercare.gov/Eldercare.NET/Public/Site_Utilities/API_Reg/API_Registration.aspx"
+
+- name: Administration for Children and Families
+  apis:
+  - name: "AChecker Web Service"
+    url: "https://achecker.grantsolutions.gov/documentation/web_service_api.php"
+
+- name: Centers for Medicare and Medicaid Services
+  apis:
+  - name: "Healthcare Associated Infections API"
+    url: "https://data.medicare.gov/developers/docs/healthcare-associated-infections"
+  - name: "Inpatient Prospective Payment System (IPPS) Provider Summary for the Top 100 Diagnosis-Related Groups (DRG)"
+    url: "https://data.cms.gov/developers/docs/inpatient-charge-data-FY2011"
+  - name: "Nursing Home Compare - Provider Ratings API"
+    url: "https://data.medicare.gov/developers/docs/nursing-home-compare-provider-ratings"
+  - name: "Spending Breakdown by Claim API"
+    url: "https://data.medicare.gov/developers/docs/spending-breakdown-by-claim"
+
+- name: Centers for Disease Control
+  apis:
+  - name: "Content API"
+    url: "https://tools.cdc.gov/syndication/api.aspx"
+  - name: "Health Indicators Warehouse API"
+    url: "http://healthindicators.gov/Developers/"
+  - name: "Public Health Infomation Network Vocabulary Access and Distribution System API"
+    url: "https://phinvads.cdc.gov/vads/developersGuide.action"
+  - name: "Wonder Data"
+    url: "http://wonder.cdc.gov/wonder/help/WONDER-API.html"
+
+- name: Food and Drug Administration
+  apis:
+  - name: "Tobacco Content API"
+    url: "http://tools.fda.gov/CSStorefront/api.aspx"
+
+- name: Health Resources and Services Administration
+  apis:
+  - name: "Ryan White HIV/AIDS Medical Care Providers API"
+    url: "http://datawarehouse.hrsa.gov/HDWDataServiceExternal/HdwDataWebServiceExternal.asmx?op=FindHIVAIDSCareProvidersAroundALocation"
+  - name: "Health Centers Location API"
+    url: "http://datawarehouse.hrsa.gov/HDWDataServiceExternal/HdwDataWebServiceExternal.asmx?op=FindHealthCentersAroundALocation"
+  - name: "Health Centers Area API"
+    url: "http://datawarehouse.hrsa.gov/HDWDataServiceExternal/HdwDataWebServiceExternal.asmx?op=FindHealthCentersByArea"
+  - name: "Infant Mortality API"
+    url: "http://datawarehouse.hrsa.gov/HDWDataServiceExternal/HdwDataWebServiceExternal.asmx?op=FindInfantMortalityByFIPSCode"
+  - name: "Infant Mortality 2 API"
+    url: "http://datawarehouse.hrsa.gov/HDWDataServiceExternal/HdwDataWebServiceExternal.asmx?op=FindInfantMortalityByFIPSCodeInXmlDoc"
+  - name: "Data Warehouse Online Map Service"
+    url: "http://datawarehouse.hrsa.gov/HGDWFeatureService.aspx"
+
+- name: Indian Health Service
+  apis:
+  - name: "ArcGIS Web Service"
+    url: "https://gis.ihs.gov/ArcGIS/rest/services/public/"
+
+- name: National Insitutes of Health
+  apis:
+  - name: "NIH Enterprise Web Services"
+    url: "https://federation.nih.gov/webServices.asp"
+
+- name: National Cancer Insitute
+  apis:
+  - name: "caIntegrator"
+    url: "http://caintegrator-info.nci.nih.gov/developers/"
+  - name: "Cancer.gov Surveillance, Epidemiology, and End Results API"
+    url: "https://api.seer.cancer.gov/home.do"
+  - name: "Biological DataBase Network Web Services"
+    url: "http://biodbnet.abcc.ncifcrf.gov/webServices/"
+
+- name: National Institute of Allergy and Infectious Diseases
+  apis:
+  - name: "Content API"
+    url: "http://tools.niaid.nih.gov/register/api.aspx"
+  - name: "DAVID API"
+    url: "http://david.abcc.ncifcrf.gov/content.jsp?file=WS.html"
+
+- name: National Institute on Drug Abuse
+  apis:
+  - name: "Drug Use Screening Tool API"
+    url: "http://www.drugabuse.gov/developer"
+
+- name: National Institute of Neurological Disorders and Stroke
+  apis:
+  - name: "Research Services Branch's Developer Resources"
+    url: "http://rsb.info.nih.gov/ij/developer/"
+
+- name: National Library of Medicine
+  apis:
+  - name: "AIDSinfo API"
+    url: "http://aidsinfo.nih.gov/api"
+  - name: "Basic Local Alignment Search Tool API"
+    url: "http://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=DeveloperInfo"
+  - name: "ChemSpell API"
+    url: "http://chemspell.nlm.nih.gov/spell/"
+  - name: "ClinicalTrials.gov API"
+    url: "http://clinicaltrials.gov/ct2/info/linking"
+  - name: "DailyMed API"
+    url: "http://dailymed.nlm.nih.gov/dailymed/help.cfm"
+  - name: "Digital Collections Web Service"
+    url: "http://collections.nlm.nih.gov/web_service.html"
+  - name: "Directory of Information Resources Online API"
+    url: "http://dirline.nlm.nih.gov/dirlineapi/DIRLINEWebService.html"
+  - name: "Entrez Programming Utilities API"
+    url: "http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=helpeutils"
+  - name: "Genetics Home Reference API"
+    url: "http://ghr.nlm.nih.gov/LinkingTo"
+  - name: "MedlinePlus Connect API"
+    url: "http://www.nlm.nih.gov/medlineplus/connect/service.html"
+  - name: "MedlinePlus Health Topics API"
+    url: "http://www.nlm.nih.gov/medlineplus/webservices.html"
+  - name: "MetaMap API"
+    url: "http://metamap.nlm.nih.gov/#MetaMapJavaApi"
+  - name: "National Drug File-Reference Terminology API"
+    url: "http://rxnav.nlm.nih.gov/NdfrtAPI.html"
+  - name: "Pillbox API"
+    url: "http://pillbox.nlm.nih.gov/API-documentation.html"
+  - name: "PubMed Central Open Access Web Service"
+    url: "http://www.ncbi.nlm.nih.gov/pmc/tools/oa-service/"
+  - name: "PubMed Central Open Archives Initiative Web Service"
+    url: "http://www.ncbi.nlm.nih.gov/pmc/tools/oai/"
+  - name: "PubChem Power User Gateway API"
+    url: "http://pubchem.ncbi.nlm.nih.gov/pug/pughelp.html"
+  - name: "RxMix API"
+    url: "http://mor.nlm.nih.gov/RxMix/"
+  - name: "RxNorm API"
+    url: "http://rxnav.nlm.nih.gov/RxNormAPI.html"
+  - name: "RxTerms API"
+    url: "http://rxnav.nlm.nih.gov/RxTermsAPI.html"
+  - name: "Semantic Knowledge Representation API"
+    url: "http://skr.nlm.nih.gov/SKR_API/"
+  - name: "TOXNET API"
+    url: "http://toxnet.nlm.nih.gov/toxnetapi/TOXNETWebService.html"
+  - name: "Unified Medical Language System (UMLS) Terminology Services API"
+    url: "https://uts.nlm.nih.gov/home.html#apidocumentation"
+  - name: "Value Set Authority Center (VSAC) API"
+    url: "https://vsac.nlm.nih.gov/"
+  - name: "Voyager API"
+    url: "http://www.nlm.nih.gov/services/lpz3950.html"
+
+- name: Substance Abuse and Mental Health Services Administration
+  apis:
+  - name: "Content Repository APIs"
+    url: "http://store.samhsa.gov/developer"
+  - name: "RecoveryMonth.gov Web Services"
+    url: "http://recoverymonth.gov/webservices/events.asmx"
+  - name: "Store Developer APIs"
+    url: "http://store.samhsa.gov/developer"
+
+  - name: "National Terrorism Advisory System"
+    url: "http://www.dhs.gov/ntas-api-documentation"
+
+- name: Federal Emergency Management Agency
+  apis:
+  - name: "FEMA Enterprise GIS Services"
+    url: "http://gis.fema.gov/REST/services"
+
+- name: Transportation Security Administration
+  apis:
+  - name: "TSA MyTSA API"
+    url: "http://www.dhs.gov/mytsa-api-documentation"
+  - name: "ArcGIS Services"
+    url: "http://egis.hud.gov/ArcGIS/rest/services"
+  - name: "Housing Counseling Information"
+    url: "http://data.hud.gov/housing_counseling.html"
+  - name: "IMAX system"
+    url: "http://portal.hud.gov/hudportal/HUD?src=/program_offices/housing/mfh/trx/trxdocs"
+  - name: "Section 3 Housing Lookup"
+    url: "http://data.hud.gov/section3.html"
+
+- name: Bureau of Land Management
+  apis:
+  - name: "Areas of Critical Environmental Concern ARCGIS Server"
+    url: "http://www.geocommunicator.gov/ARCGIS/REST/services/ACEC/MapServer"
+  - name: "Administrative Areas ARCGIS Server"
+    url: "http://www.geocommunicator.gov/ARCGIS/REST/services/Basemaps/MapServer"
+  - name: "Geocommunicator Map Services"
+    url: "http://www.blm.gov/nils/GeoComm/home_services.html#Map"
+  - name: "General Land Office Web Services"
+    url: "http://www.glorecords.blm.gov/WebServices/glorecords.asmx"
+  - name: "Land Description Services"
+    url: "http://www.blm.gov/nils/GeoComm/home_services.html#Data"
+  - name: "Landscape ARCGIS Server"
+    url: "http://www.landscape.blm.gov/ArcGIS/rest/services"
+  - name: "Oil and Gas Lease Sale Parcels ARCGIS Server"
+    url: "http://www.geocommunicator.gov/ARCGIS/REST/services/Oil_Gas/MapServer"
+  - name: "Public Land Survey System ARCGIS Server"
+    url: "http://www.geocommunicator.gov/ARCGIS/REST/services/PLSS/MapServer"
+  - name: "Rangeland ARCGIS Server"
+    url: "http://www.geocommunicator.gov/ARCGIS/REST/services/Rangeland/MapServer"
+  - name: "Right-of-Way ARCGIS Server"
+    url: "http://www.geocommunicator.gov/ARCGIS/REST/services/ROW/MapServer"
+  - name: "Solar ARCGIS Server"
+    url: "http://www.geocommunicator.gov/ARCGIS/REST/services/Solar/MapServer"
+  - name: "Surface Management Agency ARCGIS Server"
+    url: "http://www.geocommunicator.gov/ARCGIS/REST/services/SMA/MapServer"
+  - name: "Survey Exporter Service"
+    url: "http://www.blm.gov/nils/GeoComm/home_services.html#Data"
+  - name: "Township Geocoder Service"
+    url: "http://www.blm.gov/nils/GeoComm/home_services.html#Data"
+
+- name: Bureau of Ocean Energy Management
+  apis:
+  - name: "BOEM ARCGIS Server"
+    url: "http://gis.boemre.gov/arcgis/sdk/rest/"
+
+- name: Fish and Wildlife Service
+  apis:
+  - name: "Critical Habitat Portal"
+    url: "http://criticalhabitat.fws.gov/"
+  - name: "Environmental Conservation Online System Web Services"
+    url: "http://ecos.fws.gov/tat_services/"
+  - name: "Fish & Wildlife Service ARCGIS Service"
+    url: "http://gis.fws.gov/arcgis/"
+  - name: "National Wetlands Inventory Web Map Services"
+    url: "http://www.fws.gov/wetlands/Data/Web-Map-Services.html"
+  - name: "Threatened & Endangered Species Query Web Service"
+    url: "http://ecos.fws.gov/tat_services/web/html/TessQuery.html"
+
+- name: National Park Service
+  apis:
+  - name: "ArcGIS Server REST API"
+    url: "http://mapservices.nps.gov/arcgis/sdk/rest/index.html?query.html"
+  - name: "NPMap"
+    url: "http://www.nps.gov/npmap/support/api.html"
+
+- name: US Geological Survey
+  apis:
+  - name: "Biodiversity Information Serving Our Nation API"
+    url: "http://bison.usgs.ornl.gov/services.html"
+  - name: "Eastern Geographic Science Center Map Web Services"
+    url: "http://sscweb.gsfc.nasa.gov/WebServices/"
+  - name: "Earthquake Hazards API"
+    url: "http://comcat.cr.usgs.gov/fdsnws/event/1/"
+  - name: "Grand Canyon Monitoring and Research Center"
+    url: "http://www.gcmrc.gov/WebService.asmx"
+  - name: "Map-A-Planet: Web Map Service"
+    url: "http://www.mapaplanet.gov/explorer/help/wmsUserDoc.html"
+  - name: "National Atlas Web Map Services"
+    url: "http://nationalatlas.gov/infodocs/webservices.html"
+  - name: "NationalMap.gov Web Services"
+    url: "http://viewer.nationalmap.gov/example/services.html"
+  - name: "ScienceBase API"
+    url: "https://www.sciencebase.gov/confluence/display/sciencebase/ScienceBase+Item+Services"
+  - name: "ScienceBase Web Services"
+    url: "https://www.sciencebase.gov/catalog/items?filter0=browseCategory%3DData"
+  - name: "Streamstats Web Services"
+    url: "http://streamstatsags.cr.usgs.gov/webservices/wsui.htm"
+  - name: "Water Quality Portal Web Services"
+    url: "http://www.waterqualitydata.us/webservices_documentation.jsp"
+  - name: "Water Services"
+    url: "http://waterservices.usgs.gov/"
+
+- name: Office of Surface Mining Reclamation and Enforcement
+  apis:
+  - name: "OSMRE ARCGIS Server"
+    url: "http://geomine.osmre.gov/ArcGIS/rest"
+
+- name: Bureau of Justice Statistics
+  apis:
+  - name: "National Crime Victimization Survey API"
+    url: "http://www.bjs.gov/developer/ncvs/index.cfm"
+
+- name: Drug Enforcement Agency
+  apis:
+  - name: "E-Commerce API"
+    url: "http://www.deaecom.gov/developer.html"
+  - name: "Developer.DOL.gov APIs"
+    url: "http://developer.dol.gov"
+  - name: "Foreign Per Diem Rates API"
+    url: "https://explore.data.gov/developers/docs/foreign-per-diem-rates-by-location"
+  - name: "Office of the Historian eBook Catalog API"
+    url: "http://history.state.gov/developer/catalog"
+
+- name: Federal Aviation Administration
+  apis:
+  - name: "Airport Status"
+    url: "http://services.faa.gov/docs/services/airport/"
+
+- name: Federal Railroad Administration
+  apis:
+  - name: "Highway-Rail Grade Crossing Accident/Incident Report (Form 57) API"
+    url: "https://safetydata.fra.dot.gov/MASTERWEBSERVICE/DatadownloadService.asmx?op=GetAccident57DataByRailroad"
+  - name: "Rail Equipment Accident/Incident Report (Form 54) API"
+    url: "https://safetydata.fra.dot.gov/MASTERWEBSERVICE/DatadownloadService.asmx?op=GetAccident54DataByRailroad"
+
+- name: Federal Motor Carrier Safety Administration
+  apis:
+  - name: "SaferBus"
+    url: "https://mobile.fmcsa.dot.gov/developer/apidoc.page?cid=48"
+
+- name: National Highway Traffic Safety Administration
+  apis:
+  - name: "Child Safety Seat Inspection Station Locator API"
+    url: "http://www.nhtsa.gov/webapi/Default.aspx?CSSIStations/API/80"
+  - name: "Civil Penalty Payments API"
+    url: "http://www.nhtsa.gov/webapi/Default.aspx?CivilPenalties/API/251"
+  - name: "New Car Assessment Program - 5 Star Safety Ratings API"
+    url: "http://www.nhtsa.gov/webapi/Default.aspx?SafetyRatings/API/5"
+  - name: "Office of Defects Investigation Complaints API"
+    url: "http://www.nhtsa.gov/webapi/Default.aspx?Complaints/API/81"
+  - name: "Office of Defects Investigation Recalls"
+    url: "http://www.nhtsa.gov/webapi/Default.aspx?Recalls/API/83"
+
+- name: Bureau of Engraving and Printing
+  apis:
+  - name: "Annual Currency Production by Denomination API"
+    url: "https://explore.data.gov/developers/docs/annual-production-figures-of-united-states-currency"
+
+- name: Internal Revenue Service
+  apis:
+  - name: "SOI County-to-County Outflow Migration Data API"
+    url: "https://explore.data.gov/developers/docs/irs-county-to-county-annual-migration-data-outflow-2004-2010"
+  - name: "SOI County-to-County Inflow Migration Data API"
+    url: "https://explore.data.gov/developers/docs/irs-county-to-county-annual-migration-data-inflow-2004-2010"
+  - name: "Email Utilities API"
+    url: "http://www1.va.gov/webservices/email/documentation/utilities.cfm"
+  - name: "Nationwide Gravesite Locations API"
+    url: "https://explore.data.gov/developers/docs/veterans-burial-sites"
+  - name: "Posttraumatic Stress Disorder Programs API"
+    url: "http://www.va.gov/webservices/PTSD/documentation/PTSD.cfm"
+  - name: "Press Release API"
+    url: "http://www.va.gov/webservices/press/documentation/releases.cfm"
+  - name: "VA Facilities API"
+    url: "http://www1.va.gov/webservices/fandl/documentation/fandl.cfm"
+  - name: "VetSuccess API"
+    url: "http://www.vetsuccess.gov/assets/VetSuccess-Web_Service_Integration_Manual.pdf"
+
+- name: Consumer Financial Protection Bureau
+  apis:
+  - name: "Consumer Complaint Database"
+    url: "http://www.consumerfinance.gov/complaintdatabase/"
+
+- name: Consumer Product Safety Commission
+  apis:
+  - name: "Recalls API"
+    url: "http://www.cpsc.gov/cgibin/CPSCUpcWS/CPSCUpcSvc.asmx"
+  - name: "SaferProducts.gov API"
+    url: "http://www.saferproducts.gov/faq-developers.aspx"
+
+- name: Enviromental Protection Agency
+  apis:
+  - name: "Envirofacts API"
+    url: "http://www.epa.gov/developer/ef_api.html"
+  - name: "Environmental Dataset Gateway"
+    url: "https://edg.epa.gov/metadata/catalog/components/components.page"
+  - name: "Energy Star 3rd-Party Certification"
+    url: "http://www.energystar.gov/index.cfm?c=third_party_certification.tpc_xml_forms"
+  - name: "Energy Star Automated Benchmarking System API"
+    url: "http://www.energystar.gov/index.cfm?c=spp_res.pt_host_preview_doc"
+  - name: "Energy Star Certified Cloths Washers"
+    url: "https://data.energystar.gov/developers/docs/energy-star-certified-clothes-washers"
+  - name: "Energy Star Certified Cordless Phones"
+    url: "https://data.energystar.gov/developers/docs/certified-cordless-phones"
+  - name: "Energy Star Certified Residential Dishwashers"
+    url: "https://data.energystar.gov/developers/docs/energy-star-certified-residential-dishwashers"
+  - name: "Energy Star Certified Roof Products"
+    url: "https://data.energystar.gov/developers/docs/energy-star-certified-roof-products"
+  - name: "Energy Star Certified Geothermal Heatpumps"
+    url: "https://data.energystar.gov/developers/docs/energy-star-certified-geothermal-heatpumps"
+  - name: "Energy Star Certified Air Cleaners"
+    url: "https://data.energystar.gov/developers/docs/energy-star-certified-room-air-cleaners"
+  - name: "Energy Star Portfolio Manager Basic Account Services"
+    url: "http://portfoliomanager.energystar.gov/webservices/home/api/account"
+  - name: "Energy Star Portfolio Manager Connection/Share Services"
+    url: "http://portfoliomanager.energystar.gov/webservices/home/api/connection"
+  - name: "Energy Star Portfolio Manager Property Services"
+    url: "http://portfoliomanager.energystar.gov/webservices/home/api/property"
+  - name: "Energy Star Portfolio Manager Building Services"
+    url: "http://portfoliomanager.energystar.gov/webservices/home/api/building"
+  - name: "Energy Star Portfolio Manager Property Use Services"
+    url: "http://portfoliomanager.energystar.gov/webservices/home/api/propertyUse"
+  - name: "Energy Star Portfolio Manager Meter Services"
+    url: "http://portfoliomanager.energystar.gov/webservices/home/api/meter"
+  - name: "Energy Star Portfolio Manager Reporting Services"
+    url: "http://portfoliomanager.energystar.gov/webservices/home/api/reporting"
+  - name: "Energy Star Portfolio Manager Target Finder Services"
+    url: "http://portfoliomanager.energystar.gov/webservices/home/api/targetFinder"
+  - name: "My Right to Know API"
+    url: "http://epa.gov/developer/myRTK.html"
+  - name: "Regulations.gov Document Search API"
+    url: "http://www.regulations.gov/#!developers"
+  - name: "Regulations.gov Document Information API"
+    url: "http://www.regulations.gov/#!developers"
+  - name: "Regulations.gov Docket Information API"
+    url: "http://www.regulations.gov/#!developers"
+  - name: "Reusable Component REST Services"
+    url: "http://iaspub.epa.gov/sor_internet/registry/reusereg/searchandretrieve/search.do?executeSearch=&browseParam=assetTypeList:REST%20Web%20Service"
+  - name: "Ultraviolet Index API"
+    url: "http://www.epa.gov/developer/uv.html"
+
+- name: Federal Communications Commission
+  apis:
+  - name: "Low Power FM API"
+    url: "http://www.fcc.gov/developers/lpfm-api"
+  - name: "Section 43.61 API"
+    url: "http://www.fcc.gov/developers/section-4361-api"
+  - name: "Public Inspection Files API"
+    url: "https://stations.fcc.gov/developer/"
+  - name: "Accessibility Clearinghouse API"
+    url: "http://apps.fcc.gov/accessibilityclearinghouse/developers.html"
+  - name: "FCC Census Block Conversions"
+    url: "http://www.fcc.gov/developers/census-block-conversions-api"
+  - name: "FCC Content API"
+    url: "http://www.fcc.gov/developers/fcc-content-api"
+  - name: "FCC Consumer Broadband Test"
+    url: "http://www.fcc.gov/developers/consumer-broadband-test-api"
+  - name: "FCC Form 499 Filer Database API"
+    url: "http://apps.fcc.gov/cgb/form499/docs/index.htm"
+  - name: "FCC Registration Number Conversions"
+    url: "http://www.fcc.gov/developers/frn-conversions-api"
+  - name: "FCC License View"
+    url: "http://www.fcc.gov/developers/license-view-api"
+  - name: "Spectrum Dashboard"
+    url: "http://www.fcc.gov/developers/spectrum-dashboard-api"
+  - name: "Broadband Map APIs"
+    url: "http://broadbandmap.gov/developer"
+
+- name: Federal Reserve
+  apis:
+  - name: "Federal Reserve Bank of St. Louis - FRED"
+    url: "http://research.stlouisfed.org/fred2"
+
+- name: General Services Administration
+  apis:
+  - name: "BusinessUSA"
+    url: "http://business.usa.gov/apis"
+  - name: "Data Center Consolidation API"
+    url: "https://explore.data.gov/developers/docs/federal-data-center-consolidation-initiative-fdcci-data-center-closings-2010-2013"
+  - name: "FedBizOpps Documentation"
+    url: "https://www.fbo.gov/?s=generalinfo&mode=list&tab=list&tabmode=list&static=documentation"
+  - name: "Federal Agency Directory API"
+    url: "http://www.usa.gov/About/developer-resources/federal-agency-directory/index.shtml"
+  - name: "Federal Procurement Data System - FPDS API"
+    url: "https://www.fpds.gov/downloads/FPDS-Specifications-WebServices_Integration_Specifications_V1.4.doc"
+  - name: "Federal Procurement Data System - FAADS API"
+    url: "https://www.fpds.gov/downloads/FAADS/FAADS-Specifications-WebServices_Integration_Specifications_V2.doc"
+  - name: ".Gov Domains API"
+    url: "https://explore.data.gov/developers/docs/federal-executive-agency-internet-domains"
+  - name: "Go.USA.gov"
+    url: "http://go.usa.gov/api"
+  - name: "Jobscenter"
+    url: "http://jobcenter.usa.gov/apis"
+  - name: "Mobile App Gallery API"
+    url: "http://www.usa.gov/About/developer-resources/mobile-app-gallery/index.shtml"
+  - name: "MyUSA Discovery API"
+    url: "http://discovery.my.usa.gov/"
+  - name: "MyUSA Citizen API"
+    url: "My.USA.gov/developer"
+  - name: "Per Diem API"
+    url: "http://gsa.gov/portal/content/162379"
+  - name: "Recalls API"
+    url: "http://usasearch.howto.gov/developer/recalls.html"
+  - name: "Social Media Registry API"
+    url: "http://registry.usa.gov"
+  - name: "USA.gov Featured Content"
+    url: "http://answers.usa.gov/system/egss_json.jsp?jsoncallback="
+  - name: "USAJOBS API"
+    url: "http://usasearch.howto.gov/developer/jobs.html"
+  - name: "USASearch"
+    url: "http://usasearch.howto.gov/manual/api.html"
+
+- name: International Trade Commission
+  apis:
+  - name: "ITC Documents"
+    url: "https://edis.usitc.gov/edis3-external/app"
+
+- name: Millenium Challenge Corporation
+  apis:
+  - name: "MCC API"
+    url: "http://data.mcc.gov/developer/"
+
+- name: National Aeronautics and Space Administration
+  apis:
+  - name: "Coordinated Data Analysis System (CDAS) Web services"
+    url: "http://cdaweb.gsfc.nasa.gov/WebServices/"
+  - name: "Earth Observing System Clearing House"
+    url: "http://api.echo.nasa.gov/echo/"
+  - name: "Heliocentric Trajectories Web Services"
+    url: "http://sscweb.gsfc.nasa.gov/WebServices/helio/"
+  - name: "NASA Data API"
+    url: "http://data.nasa.gov/api-info/"
+  - name: "Satellite Situation Center API"
+    url: "http://sscweb.gsfc.nasa.gov/WebServices/"
+  - name: "SERVIR ArcGIS services"
+    url: "http://ags.servirlabs.net/ArcGIS/rest/services"
+
+- name: National Archives and Records Administration
+  apis:
+  - name: "Executive Orders API"
+    url: "https://explore.data.gov/Other/Executive-Orders-from-1994-to-2012/ps37-i6ce?"
+  - name: "Federal Register API"
+    url: "http://www.federalregister.gov/blog/learn/developers"
+
+- name: National Science Foundation
+  apis:
+  - name: "Application Submission Web Services"
+    url: "http://www.research.gov/research-portal/appmanager/base/desktop?_nfpb=true&_pageLabel=research_asws"
+  - name: "Funding Rate History API"
+    url: "https://explore.data.gov/developers/docs/nsf-funding-rate-history"
+  - name: "GRFP Awardees And Honorable Mentions API"
+    url: "https://explore.data.gov/developers/docs/nsf-grfp-awardees-and-honorable-mentions-2000-2012-"
+
+- name: Nuclear Regulatory Commission
+  apis:
+  - name: "ADAMS API"
+    url: "http://www.nrc.gov/developer.html"
+
+- name: Office of Personnel Management
+  apis:
+  - name: "Operating Status API"
+    url: "http://www.opm.gov/developer"
+  - name: "USAJOBS.gov API"
+    url: "http://data.usajobs.gov"
+
+- name: Small Business Administration
+  apis:
+  - name: "Business Licenses and Permits API"
+    url: "http://www.sba.gov/about-sba-services/7615"
+  - name: "Content Share API"
+    url: "http://www.sba.gov/content/content-share-user-documentation"
+  - name: "Loans and Grants Search API"
+    url: "http://www.sba.gov/about-sba-services/7616"
+  - name: "Recommended Sites API"
+    url: "http://www.sba.gov/about-sba-services/7630"
+  - name: "Small Business Innovation Research"
+    url: "http://www.sbir.gov/about/api"
+  - name: "U.S. City and County Web Data API"
+    url: "http://www.sba.gov/about-sba-services/7617"
+
+- name: Social Security Administration
+  apis:
+  - name: "Average Wait Time Until Hearing Held Report"
+    url: "http://www.ssa.gov/developer/api/averWait.htm"
+  - name: "Consent Based Social Security Number Verification Service"
+    url: "http://www.ssa.gov/cbsv/webservice.html"
+  - name: "Hearing Office Average Processing Time Ranking Report"
+    url: "http://www.ssa.gov/developer/api/hearingProcessing.htm"
+  - name: "Hearing Office Workload Data"
+    url: "http://www.ssa.gov/developer/api/hearingWorkload.htm"
+
+- name: US Courts
+  apis:
+  - name: "PACER API"
+    url: "http://www.pacer.gov/cmecf/developer/"
+
+- name: US Postal Service
+  apis:
+  - name: "eCommerce APIs"
+    url: "https://www.usps.com/business/webtools.htm"
+  - name: "Address Information APIs"
+    url: "https://www.usps.com/business/web-tools-apis/address-information.htm"
+  - name: "Tracking & Delivery Information APIs"
+    url: "https://www.usps.com/business/web-tools-apis/delivery-information.htm"
+  - name: "Price Calculator APIs"
+    url: "https://www.usps.com/business/web-tools-apis/price-calculators.htm"
+  - name: "Shipping Labels API"
+    url: "https://www.usps.com/business/web-tools-apis/shipping-labels.htm"
+  - name: "Package Pickup APIs"
+    url: "https://www.usps.com/business/web-tools-apis/package-pickup.htm"
+  - name: "Service Standards and Commitments APIs"
+    url: "https://www.usps.com/business/web-tools-apis/service-standards-and-commitments.htm"
+  - name: "Several"
+    url: "https://ribbs.usps.gov/intelligentmail_guides/documents/tech_guides/xmlspec/wsdls/wsdls.htm"
+
+- name: US Agency for International Development
+  apis:
+  - name: "GIS APIs"
+    url: "http://www.arcgis.com/home/group.html?owner=usaidgeocenter&title=USAID%20GeoCenter"
+  - name: "USAID Development Credit Authority Guarantee Data: Loan Transactions"
+    url: "https://explore.data.gov/developers/docs/usaid-development-credit-authority-guarantee-data-loan-transactions"
+  - name: "USAID Development Credit Authority Guarantee Data: Utilization and Claims"
+    url: "https://explore.data.gov/developers/docs/usaid-development-credit-authority-guarantee-data-utilization-and-claims"
+  - name: "U.S. Overseas Loans and Grants (Greenbook)"
+    url: "https://explore.data.gov/developers/docs/u-s-overseas-loans-and-grants-greenbook"
+
+- name: Federal Financial Institutions Examination Council
+  apis:
+  - name: "Central Data Repository API"
+    url: "https://cdr.ffiec.gov/public/PWS/Default.aspx"
+  - name: "Appraisal Subcommittee National Registry API"
+    url: "https://www.asc.gov/wsvc/ASCQuerySvc.asmx"
+
+- name: Federal Geographic Data Committee
+  apis:
+  - name: "Service Status Checker"
+    url: "http://registry.fgdc.gov/statuschecker/developers.php"
+
+- name: FuelEconomy.gov
+  apis:
+  - name: "FuelEconomy.gov Web Services"
+    url: "http://www.fueleconomy.gov/feg/ws/index.shtml"
+
+- name: Integrated Taxonomic Information System
+  apis:
+  - name: "ITIS Web Services"
+    url: "http://www.itis.gov/ws_description.html"
+
+- name: National Resource Directory
+  apis:
+  - name: "Resources API"
+    url: "https://www.nrd.gov/home/api/resources"
+  - name: "Veterans Job Bank Search API"
+    url: "https://www.nrd.gov/home/api/veterans_job_search"
+
+- name: Recovery.gov
+  apis:
+  - name: "Recovery API"
+    url: "http://www.recovery.gov/FAQ/Developer/Pages/RecoveryAPI.aspx"
+  - name: "ArcGIS Map API"
+    url: "http://www.recovery.gov/FAQ/Developer/Pages/arcgisapi.aspx"
