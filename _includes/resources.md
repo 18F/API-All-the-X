@@ -19,6 +19,7 @@
 * [Model RFI for Agency APIs](http://18f.github.io/API-All-the-X/pages/model_RFI_for_agency_APIs)
 * [Presentation Material](http://18f.github.io/API-All-the-X/pages/presentation_material)
 * [Security FAQ](http://18f.github.io/API-All-the-X/pages/legal_FAQ)
+* [Talking Points - APIs in the Federal Government](http://18f.github.io/API-All-the-X/pages/talking_points-apis_in_government)
 * [The Stack - API Software Recipes](http://18f.github.io/API-All-the-X/pages/api_recipes)
 * [Third Party Services - Free and/or government-friendly ToS](http://18f.github.io/API-All-the-X/pages/third_party_services)
 * [What are APIs? - Anecdotes and Metaphors](http://18f.github.io/API-All-the-X/pages/what_are_APIs-anecdotes_and_metaphors)
