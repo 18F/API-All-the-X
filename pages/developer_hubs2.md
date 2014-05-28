@@ -3,6 +3,8 @@ layout: page
 title: "Developer Hubs 2"
 ---
 
+
+<html>
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
     <script>
     $.getJSON( "http://18f.github.io/API-All-the-X/data/developer_hubs.json", function(developer_hubs) {
@@ -12,4 +14,4 @@ title: "Developer Hubs 2"
       });
     })
     </script>
-    
+</html>
