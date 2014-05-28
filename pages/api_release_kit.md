@@ -1,12 +1,33 @@
 ---
 layout: page
 title: "API Release Kit"
-authors: "Gray Brooks"
-
 ---
 
-* auto-gen TOC:
-{:toc}
+<div style="text-align: center;"><strong><u>Highlighted Services</u></strong></div>
+  
+  
+<table style="width: 100%;" border="0" cellpadding="2" cellspacing="2">
+    <tr>
+        <td style="text-align: center; width: 33%;"><a href="http://18f.github.io/API-All-the-X/pages/api_release_kit#homepage">Homepage</a></td>
+        <td style="text-align: center; width: 33%;"><a href="http://18f.github.io/API-All-the-X/pages/api_release_kit#documentation">Documentation</a></td>
+        <td style="text-align: center; width: 33%;"><a href="http://18f.github.io/API-All-the-X/pages/api_release_kit#code-samples">Code Samples</a></td>
+    </tr>
+    <tr>
+        <td style="text-align: center; width: 33%;"><a href="http://18f.github.io/API-All-the-X/pages/api_release_kit#interactive-sample">Interactive Samples</a></td>
+        <td style="text-align: center; width: 33%;"><a href="http://18f.github.io/API-All-the-X/pages/api_release_kit#sdks">SDKs</a></td>
+        <td style="text-align: center; width: 33%;"><a href="http://18f.github.io/API-All-the-X/pages/api_release_kit#api-key-management">API Key Management</a></td>
+    </tr>
+    <tr>
+        <td style="text-align: center; width: 33%;"><a href="http://18f.github.io/API-All-the-X/pages/api_release_kit#issue-tracker">Issue Tracker</a></td>
+        <td style="text-align: center; width: 33%;"><a href="http://18f.github.io/API-All-the-X/pages/api_release_kit#contact-info">Contact Info</a></td>
+        <td style="text-align: center; width: 33%;"><a href="http://18f.github.io/API-All-the-X/pages/api_release_kit#api-roadmap">API Roadmap</a></td>
+    </tr>
+    <tr>
+        <td style="text-align: center; width: 33%;"><a href="http://18f.github.io/API-All-the-X/pages/api_release_kit#changelog">Changelog</a></td>
+        <td style="text-align: center; width: 33%;"><a href="http://18f.github.io/API-All-the-X/pages/api_release_kit#faq">FAQ</a></td>
+        <td style="text-align: center; width: 33%;"><a href="http://18f.github.io/API-All-the-X/pages/api_release_kit#widgets">Widgets</a></td>
+    </tr>
+</table>
 
 
 ## Homepage  
