@@ -2,31 +2,30 @@
 layout: page
 title: "API Release Kit"
 ---
-
-<div style="text-align: center;"><strong><u>Highlighted Services</u></strong></div>
-  
   
 <table style="width: 100%;" border="0" cellpadding="2" cellspacing="2">
+<ul>
     <tr>
-        <td style="text-align: center; width: 33%;"><a href="http://18f.github.io/API-All-the-X/pages/api_release_kit#homepage">Homepage</a></td>
-        <td style="text-align: center; width: 33%;"><a href="http://18f.github.io/API-All-the-X/pages/api_release_kit#documentation">Documentation</a></td>
-        <td style="text-align: center; width: 33%;"><a href="http://18f.github.io/API-All-the-X/pages/api_release_kit#code-samples">Code Samples</a></td>
+        <td style="text-align: left; width: 33%;"><li><a href="http://18f.github.io/API-All-the-X/pages/api_release_kit#homepage">Homepage</a></li></td>
+        <td style="text-align: left; width: 33%;"><li><a href="http://18f.github.io/API-All-the-X/pages/api_release_kit#documentation">Documentation</a></li></td>
+        <td style="text-align: left; width: 33%;"><li><a href="http://18f.github.io/API-All-the-X/pages/api_release_kit#code-samples">Code Samples</a></li></td>
     </tr>
     <tr>
-        <td style="text-align: center; width: 33%;"><a href="http://18f.github.io/API-All-the-X/pages/api_release_kit#interactive-sample">Interactive Samples</a></td>
-        <td style="text-align: center; width: 33%;"><a href="http://18f.github.io/API-All-the-X/pages/api_release_kit#sdks">SDKs</a></td>
-        <td style="text-align: center; width: 33%;"><a href="http://18f.github.io/API-All-the-X/pages/api_release_kit#api-key-management">API Key Management</a></td>
+        <td style="text-align: left; width: 33%;"><li><a href="http://18f.github.io/API-All-the-X/pages/api_release_kit#interactive-sample">Interactive Samples</a></li></td>
+        <td style="text-align: left; width: 33%;"><li><a href="http://18f.github.io/API-All-the-X/pages/api_release_kit#sdks">SDKs</a></li></td>
+        <td style="text-align: left; width: 33%;"><li><a href="http://18f.github.io/API-All-the-X/pages/api_release_kit#api-key-management">API Key Management</a></li></td>
     </tr>
     <tr>
-        <td style="text-align: center; width: 33%;"><a href="http://18f.github.io/API-All-the-X/pages/api_release_kit#issue-tracker">Issue Tracker</a></td>
-        <td style="text-align: center; width: 33%;"><a href="http://18f.github.io/API-All-the-X/pages/api_release_kit#contact-info">Contact Info</a></td>
-        <td style="text-align: center; width: 33%;"><a href="http://18f.github.io/API-All-the-X/pages/api_release_kit#api-roadmap">API Roadmap</a></td>
+        <td style="text-align: left; width: 33%;"><li><a href="http://18f.github.io/API-All-the-X/pages/api_release_kit#issue-tracker">Issue Tracker</a></li></td>
+        <td style="text-align: left; width: 33%;"><li><a href="http://18f.github.io/API-All-the-X/pages/api_release_kit#contact-info">Contact Info</a></li></td>
+        <td style="text-align: left; width: 33%;"><li><a href="http://18f.github.io/API-All-the-X/pages/api_release_kit#api-roadmap">API Roadmap</a></li></td>
     </tr>
     <tr>
-        <td style="text-align: center; width: 33%;"><a href="http://18f.github.io/API-All-the-X/pages/api_release_kit#changelog">Changelog</a></td>
-        <td style="text-align: center; width: 33%;"><a href="http://18f.github.io/API-All-the-X/pages/api_release_kit#faq">FAQ</a></td>
-        <td style="text-align: center; width: 33%;"><a href="http://18f.github.io/API-All-the-X/pages/api_release_kit#widgets">Widgets</a></td>
+        <td style="text-align: left; width: 33%;"><li><a href="http://18f.github.io/API-All-the-X/pages/api_release_kit#changelog">Changelog</a></li></td>
+        <td style="text-align: left; width: 33%;"><li><a href="http://18f.github.io/API-All-the-X/pages/api_release_kit#faq">FAQ</a></li></td>
+        <td style="text-align: left; width: 33%;"><li><a href="http://18f.github.io/API-All-the-X/pages/api_release_kit#widgets">Widgets</a></li></td>
     </tr>
+    </ul>
 </table>
 
 
