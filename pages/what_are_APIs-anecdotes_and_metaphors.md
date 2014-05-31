@@ -4,6 +4,7 @@ title: "What are APIs? - Anecdotes and Metaphors"
 authors: "Gray Brooks"
 
 ---
+*[bit.ly/whatareapis](http://bit.ly/whatareapis)*
 
 ## Background
 
