@@ -16,6 +16,10 @@ It can be hard to tell someone what APIs are.  Here's a running list of analogie
 * APIs return a webpage except for machines.  
 * APIs are like the engine of a car.  You don't have to know how it works but rather just turn the key in the ignition and it handles everything underneath.  
 * APIs are like fabric woven together from different sources to make something new.  
+* APIs are like a bartender.  It's what you interact with to get information (what beers do you have on tap?) and functionality (serving you a beer).
+* APIs are like magic.  
+* APIs are like a contract or a promise.  
+* APIs are the things that you want others to be able to do with your stuff.  
 
 
 ## Posts 
