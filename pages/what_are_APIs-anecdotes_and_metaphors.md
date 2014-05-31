@@ -22,6 +22,8 @@ It can be hard to tell someone what APIs are.  Here's a running list of analogie
 * APIs are the things that you want others to be able to do with your stuff.  
 * APIs are like prayers - you ask for things through them.  
 * APIs are like the world's best retriever.  You say, 'Fido - go fetch me X' and he brings ypu back X.  
+* APIs are like Siri.
+* APIs are like what's in between a car's ignition and engine.  I don't know how it works but I know that if I turn the keys in the ignition, the engine will turn on.  
 
 
 ## Posts 
