@@ -21,6 +21,7 @@ authors: "Gray Brooks"
 * [How Can the Department of Education Increase Innovation, Transparency and Access to Data?](http://www.ed.gov/blog/2014/04/how-can-the-department-of-education-increase-innovation-transparency-and-access-to-data/)
 
 ### Department of Health and Human Services
+* [Ten Things to Know About Drug Adverse Events](http://open.fda.gov/update/ten-things-to-know-about-adverse-events/)
 * [Making Information More Accessible, The Digital Government Strategy](http://www.healthdata.gov/blog/making-information-more-accessible-digital-government-strategy)
 * [New Web Service: Chemical Activity Predictor](http://cactus.nci.nih.gov/blog/?p=1595&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+chemicalStructureBlog+(%2Fchemical%2Fstructure+Blog))
 * [Opening Up Our Data](http://www.hhs.gov/digitalstrategy/blog/2012/08/opening-up-our-data.html)
@@ -33,7 +34,6 @@ authors: "Gray Brooks"
 * [API 101](http://www.hhs.gov/digitalstrategy/open-data/api-101.html)
 * [Here's to Your Health](http://www.hhs.gov/digitalstrategy/open-data/best-health-insurance-plans.html)
 * [Pulse of a Community](http://www.hhs.gov/digitalstrategy/open-data/pulse-community.html)
-
 * [Open Data in Action: What is an API?](http://blog.aids.gov/2012/04/open-data-in-action-what-is-an-api.html)
 * [Announcing The Locator API](http://blog.aids.gov/2012/04/announcing-the-locator-api.html)
 
@@ -47,7 +47,7 @@ authors: "Gray Brooks"
 ### Consumer Financial Protection Bureau
 * [New tools to explore mortgage data](http://www.consumerfinance.gov/blog/new-tools-to-explore-mortgage-data/)
 
-Federal Communications Commission
+### Federal Communications Commission
 * [FCC.gov/developer](http://reboot.fcc.gov/blog/?entryId=727240)
 * [New Tools Allow Developers to Leverage Spectrum Data](http://reboot.fcc.gov/blog/?entryId=1183898)
 * [FCC /Developer update: Building off community input](http://reboot.fcc.gov/blog/?entryId=872119)
@@ -60,9 +60,13 @@ Federal Communications Commission
 * [Usability Testing + Gov APIs = Best](https://www.digitalgov.gov/2013/04/29/usability-testing-gov-apis-best/)
 * [Make Gov APIs Better with User Experience](http://www.digitalgov.gov/2014/05/09/make-gov-apis-better-with-user-experience/)
 * [We The People API](http://www.digitalgov.gov/2013/05/09/we-the-people-api-2/)
-* [The API Briefing: USDA’s Farmers Market Directory API](https://www.digitalgov.gov/2014/05/13/the-api-briefing-usdas-farmers-market-directory-api/)
+
 * [Data.gov Launches New Catalog and APIs](https://www.data.gov/blog/datagov-launches-new-catalog-and-apis)
 * [Health Indicators Warehouse APIs](https://www.data.gov/health/blog/health-indicators-warehouse-apis)
+* [The API Briefing: USDA’s Farmers Market Directory API](https://www.digitalgov.gov/2014/05/13/the-api-briefing-usdas-farmers-market-directory-api/)
+* [The API Briefing: NIH’s Pillbox – Unlocking Valuable Government Health Information through APIs](http://www.digitalgov.gov/2014/05/28/the-api-briefing-fdas-pillbox-unlocking-valuable-government-health-information-through-apis/)
+* [The API Briefing: Keeping up with Federal Employee Training – DOD’s xAPI](http://www.digitalgov.gov/2014/05/21/the-api-briefing-keeping-up-with-federal-employee-training-dods-xapi/)
+
 
 ### National Aeronautics and Space Administration
 * [The Open API Universe at NASA](http://open.nasa.gov/blog/2012/09/19/the-open-api-universe-at-nasa/)
