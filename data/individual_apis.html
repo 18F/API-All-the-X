@@ -3,11 +3,13 @@
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
     <script>
     $.getJSON( "individual_apis.json", function(agencies) {
-      $.each(agencies, function(agency) {
+      agencies.forEach(function(agency) {
         document.write("<h2>" + agency.name + "</h2>");
-        $.each(agency.apis, function(api) {
-          document.write("<a href=\"" + api.url + "\">" + api.name + "</a><br />");
-      });
+        document.write("<ul>");
+        agency.apis.forEach(function(api) {
+          document.write("<li><a href=\"" + api.url + "\">" + api.name + "</a><br />");
+        });
+        document.write("</ul>");
      });
     })
     </script>
