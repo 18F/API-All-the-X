@@ -70,6 +70,7 @@ The most important element of a developer hub is access to each of the APIs. Usu
 A Terms of Service (ToS) provides the legal framework by which the API provider conveys any rules or regulations that developers need to know. Developers agree to the terms set out in the ToS by their use of the API itself and thus enable the API producer to regulate use of their API if necessary. Common elements include but are not limited to attribution, modification, false representation, right to limit, right to terminate, and indemnification. This is a particularly good area to review the Terms of Service of other government APIs and consider re-using their material instead of starting from scratch. This element is often composed of static page content.
 
 ### .Gov Examples  
+* [White House - We The People Write API](http://www.whitehouse.gov/webform/apply-we-people-write-api-beta)
 * [Department of Labor](http://developer.dol.gov/terms-service)*
 * [Bureau of Economic Analysis - Commerce](http://www.bea.gov/API/_pdf/bea_api_tos.pdf)*
 * [Census Bureau - Commerce](http://www.census.gov/developers/tos/terms.html)*
