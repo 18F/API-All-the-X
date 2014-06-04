@@ -5,9 +5,9 @@
   {% for agency in site.data.individual_apis %}
     {% for api in agency.apis %}
     <api>
-      <publisher>{{ agency.name }}</publisher>
-      <name>{{ api.name }}</name>
-      <url>{{ api.url }}</url>
+      <publisher>{{ agency.name | xml_escape }}</publisher>
+      <name>{{ api.name | xml_escape }}</name>
+      <url>{{ api.url | xml_escape }}</url>
     </api>
     {% endfor %}
   {% endfor %}
