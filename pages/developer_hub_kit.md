@@ -106,6 +106,9 @@ As agency API efforts become more complex and developers grow more dependent on 
 
 ### Potential Tools 
 * [Stashboard](http://www.stashboard.org/)
+* [DOL API-Status Widget](https://github.com/USDepartmentofLabor/API-Status)
+* [Statuspage.io](http://statuspage.io/)
+* [Statushub.io](https://statushub.io/)
  
 ## Apps Gallery 
 As agency and third-party developers consume the APIs in new projects, there is substantial value in highlighting the growing list of mobile and desktop applications that have been built on top of them. Highlighting these products rewards adoption, promotes further creative work, and raises awareness about the returns on investment for the APIs. This element is often composed of static page content such as links, descriptions, and screenshots.
