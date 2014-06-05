@@ -5,6 +5,9 @@ authors: "Gray Brooks"
 
 ---
 
+### June 5, 2014
+* [APIs and the Education Ecosystem - Apigee.com](https://blog.apigee.com/detail/apis_and_the_education_ecosystem)
+
 ### May 9, 2014
 * [Can Anyone Actually Use The Data Your Agency Has Opened? - NextGov](http://www.nextgov.com/technology-news/tech-insider/2014/05/can-anyone-actually-use-data-your-agency-has-opened/84202/?oref=voicesmodule)
 
