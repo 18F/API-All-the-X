@@ -13,6 +13,7 @@
 * [Developer Engagement - A Model](http://18f.github.io/API-All-the-X/pages/developer_engagement-a_model)
 * [/Developer Kit](http://18f.github.io/API-All-the-X/pages/developer_hub_kit)
 * [Developer Hub - Re-Usable Template](https://github.com/gbinal/Developer-Hub-in-a-Box)
+* [Examples of Mashups/3rd-Party Apps Consuming Government APIs](http://18f.github.io/API-All-the-X/pages/examples_of_mashups)
 * [Government Challenges](http://18f.github.io/API-All-the-X/pages/government_challenges_with_apis)
 * [Legal FAQ](http://18f.github.io/API-All-the-X/pages/legal_FAQ)
 * [Model Developer Terms of Service](https://github.com/GSA/API-Resources/tree/master/developer_tos#readme)
