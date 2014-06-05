@@ -1,6 +1,7 @@
 
 * [Add examples of good precedence](http://18f.github.io/API-All-the-X/pages/api_highlights)
 * [Add examples of government APIs in the news](http://18f.github.io/API-All-the-X/pages/gov_apis_in_the_news)
+* [Add examples of mashups/3rd-party apps consuming government APIs](http://18f.github.io/API-All-the-X/pages/examples_of_mashups)
 * [Add anecdotes and metaphors to explain 'What are APIs?'](http://18f.github.io/API-All-the-X/pages/what_are_APIs-anecdotes_and_metaphors)
 * [Add sample policy documents](http://18f.github.io/API-All-the-X/pages/policy_documents)
 * [Edit 18F's API Standards](https://github.com/18F/api-standards)
