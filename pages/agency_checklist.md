@@ -3,11 +3,6 @@ layout: page
 title: "Agency Checklist"
 ---
 
-- [ ] Figure out wormholes
-  - [ ] Call @arfon
-  - [ ] Research ([docs](http://en.wikipedia.org/wiki/Wormhole#Time_travel))
-
-
 ## To start
 
 * Have you [gathered a list of the public APIs](http://www.howto.gov/mobile/apis-in-government/get-started-with-apis#audit) that your agency (and sub-agencies) currently publish?  
