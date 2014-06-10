@@ -1,9 +1,9 @@
 ---
 layout: page
 title: "Legal FAQ"
-authors: "Gray Brooks"
-
 ---
+
+*[Under Construction]*
 
 **Q)**  Is it legal for a federal agency to offer public APIs?
 
