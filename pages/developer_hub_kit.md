@@ -170,11 +170,13 @@ In order to deepen both interest and trust in your agency’s API efforts, your 
 Having a set of front-facing feedback mechanisms promotes an open and productive relationship between public developers and the agency. When used to supplement other feedback mechanisms, this approach encourages greater public interest, promotes a better agency response, and fosters ideation among the public. Two important questions that warrant individual prompts include feedback on existing APIs and requests for new APIs. This ensures that you have clear direction from those who use your APIs. Uservoice, Ideascale, and Dialogue App each offer [federal-friendly Terms of Service](http://www.howto.gov/web-content/resources/tools/terms-of-service-agreements/negotiated-terms-of-service-agreements) and provide robust ideation platforms for public feedback. For a lighter weight implementation, you can use the similarly gov-friendly Disqus commenting platform to embed commenting functionality within a page that you host expressly for this purpose. For an even simpler setup, you can author a series of ‘open thread’ blog posts that each encourage public feedback to a specific prompt and then link to those posts from the developer hub as a means of driving public feedback. One other option would be to use the popular developer Q&A hub, Stack Exchange, ask the prompts and receive feedback.
 
 ### Potential Tools
+* [StackExchange](https://github.com/18F/API-All-the-X/wiki/API-and-Developer-Hub-Kits---Notes#a-recipe-for-using-stack-exchange-as-a-feedback-engine)
+* [GitHub](http://www.github.com)
 * [Uservoice](http://www.uservoice.com/)
 * [Ideascale](http://ideascale.com/)
 * [Dialogue App](http://www.dialogue-app.com/info/)
 * [Disqus](http://www.disqus.com/)
-* [StackExchange](http://stackexchange.com/)
+
 
 ### .Gov Examples
 * [Census Bureau](http://apiforum.ideascale.com/)
