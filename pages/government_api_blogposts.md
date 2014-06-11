@@ -70,7 +70,9 @@ authors: "Gray Brooks"
 * [The API Briefing: USDA’s Farmers Market Directory API](https://www.digitalgov.gov/2014/05/13/the-api-briefing-usdas-farmers-market-directory-api/)
 * [The API Briefing: NIH’s Pillbox – Unlocking Valuable Government Health Information through APIs](http://www.digitalgov.gov/2014/05/28/the-api-briefing-fdas-pillbox-unlocking-valuable-government-health-information-through-apis/)
 * [The API Briefing: Keeping up with Federal Employee Training – DOD’s xAPI](http://www.digitalgov.gov/2014/05/21/the-api-briefing-keeping-up-with-federal-employee-training-dods-xapi/)
-
+* [The API Briefing: Quick Guide to Using GitHub – FDA’s OpenFDA Research Project](http://www.digitalgov.gov/2014/06/11/the-api-briefing-quick-guide-to-using-github-fdas-openfda-research-project/)
+* [Facebook Increases Public Service Verification to Improve Citizen Engagement](http://www.digitalgov.gov/2014/06/09/facebook-increases-public-service-verification-to-improve-citizen-engagement-2/)
+* [The API Briefing: NARA’s Federal Register API – Learning How APIs Work](http://www.digitalgov.gov/2014/06/04/the-api-briefing-naras-federal-register-api-learning-how-apis-work/)
 
 ### National Aeronautics and Space Administration
 * [The Open API Universe at NASA](http://open.nasa.gov/blog/2012/09/19/the-open-api-universe-at-nasa/)
