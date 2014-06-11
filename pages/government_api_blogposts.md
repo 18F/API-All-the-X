@@ -48,6 +48,11 @@ authors: "Gray Brooks"
 * [Taking Open Government to the Next Level](http://social.dol.gov/blog/taking-open-government-to-the-next-level/)
 * [DOL Transparency on the Go](http://social.dol.gov/blog/dol-transparency-on-the-go/)
 
+### Department of State
+* [State Department's Developer Community Builds Upon Digital Government Strategy](https://blogs.state.gov/stories/2013/05/23/state-departments-developer-community-builds-upon-digital-government-strategy)
+* [‘An Informed Traveler Is a Safe Traveler’](http://blogs.state.gov/stories/2014/02/03/informed-traveler-safe-traveler)
+* [An Ebook Catalog for Our Readers; an API for Developers](http://historyatstate.tumblr.com/post/51068476910/a-new-ebook-catalog-api)
+
 ### Consumer Financial Protection Bureau
 * [New tools to explore mortgage data](http://www.consumerfinance.gov/blog/new-tools-to-explore-mortgage-data/)
 
