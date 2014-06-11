@@ -16,7 +16,10 @@ authors: "Gray Brooks"
 ### Department of Commerce
 * [Census Bureau’s API Continues Commitment to Innovation](http://www.commerce.gov/blog/2014/03/20/census-bureau%E2%80%99s-api-continues-commitment-innovation)
 * [Want to Build Apps Using BEA Economic Data? BEA Launches API](http://blog.bea.gov/2013/07/11/bea-launches-api/)
-
+* [Attention Developers: More Economic Statistics Added to BEA’s API](http://www.commerce.gov/blog/2014/06/11/attention-developers-more-economic-statistics-added-bea%E2%80%99s-api)
+* [New Online Tool Gives Public Wider Access to Key U.S. Statistics](http://www.commerce.gov/blog/2012/07/27/new-online-tool-gives-public-wider-access-key-us-statistics)
+* [Census Bureau’s API Continues Commitment to Innovation](http://www.commerce.gov/blog/2014/03/20/census-bureau%E2%80%99s-api-continues-commitment-innovation)
+* [More Data in the Census Bureau API to Help You #hackforchange](http://www.commerce.gov/blog/2014/06/10/more-data-census-bureau-api-help-you-hackforchange-0)
 
 ### Department of Education
 * [How Can the Department of Education Increase Innovation, Transparency and Access to Data?](http://www.ed.gov/blog/2014/04/how-can-the-department-of-education-increase-innovation-transparency-and-access-to-data/)
