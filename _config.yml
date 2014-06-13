@@ -68,4 +68,8 @@ navigation:
 - text: Share your Feedback
   url: https://github.com/18F/API-All-the-X/issues
   internal: false
+- text: Contact Us
+  url: pages/contact_us
+  internal: false
+  
   
