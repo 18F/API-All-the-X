@@ -5,6 +5,9 @@ authors: "Gray Brooks"
 
 ---
 
+### June 11, 2014
+* [Facebook taps GSA API for social media verification](http://www.fiercemobilegovernment.com/story/facebook-taps-gsa-api-social-media-verification/2014-06-11)
+
 ### June 5, 2014
 * [APIs and the Education Ecosystem - Apigee.com](https://blog.apigee.com/detail/apis_and_the_education_ecosystem)
 * [Four Takeaways from the openFDA Launch that Made it Wildly Successful (in our opinion) - SocialHealthInsights.com](http://socialhealthinsights.com/2014/06/openfda-api-launch-success/)
