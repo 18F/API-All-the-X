@@ -1,8 +1,6 @@
 ---
 layout: page
 title: ".Gov APIs in the News"
-authors: "Gray Brooks"
-
 ---
 
 ### June 11, 2014
@@ -11,6 +9,9 @@ authors: "Gray Brooks"
 ### June 5, 2014
 * [APIs and the Education Ecosystem - Apigee.com](https://blog.apigee.com/detail/apis_and_the_education_ecosystem)
 * [Four Takeaways from the openFDA Launch that Made it Wildly Successful (in our opinion) - SocialHealthInsights.com](http://socialhealthinsights.com/2014/06/openfda-api-launch-success/)
+
+### May 20, 2014
+* [Direct from the White House: APIs are key to extending platforms](http://opensource.com/government/14/5/interview-leigh-heyman-executive-office-president?sc_cid=70160000000c9pZAAQ)
 
 ### May 9, 2014
 * [Can Anyone Actually Use The Data Your Agency Has Opened? - NextGov](http://www.nextgov.com/technology-news/tech-insider/2014/05/can-anyone-actually-use-data-your-agency-has-opened/84202/?oref=voicesmodule)
