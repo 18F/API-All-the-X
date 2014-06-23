@@ -3,7 +3,7 @@ layout: page
 title: "API Analytics"
 ---
 
-Similar to website analytics, API analytics focus on reliably reporting the metrics which are most useful to its stakeholders. There are a many ways of collecting, reporting, and consuming API analytics but all revolve around the industry–accepted norm that some form of analytics are crucial to any API program. The most basic metrics will track the number of API registrations and the number of API requests, but as important as understanding how much an API is used is understanding how it is used.
+Similar to website analytics, API analytics focus on reliably reporting the metrics which are most useful to its stakeholders. There are a many ways of collecting, reporting, and consuming API analytics but all revolve around the industry–accepted norm that some form of analytics are crucial to any API program. The most basic metrics will track the number of API registrations and the number of API requests, but as important as understanding how much an API is used is understanding how it is used.  
 
 A first step in any analytics program is always to begin a list of what metrics are desired and why. Basic metrics begin to tell the story of how popular an API but [further metrics offer much more](http://blog.programmableweb.com/2012/08/02/the-api-measurement-secret-know-what-metrics-matter/). By using more advanced analytics, you can begin to understand which parts of your data are more popular and why.
 
