@@ -1,0 +1,5 @@
+---
+---
+Title,date,URL,location,description
+{% for events in site.data.events %}{{ events[0] }},{{ events[1].date }},{{ events[1].url }},{{ events[1].location }},{{ events[1].description }}
+{% endfor %}
