@@ -5,7 +5,7 @@
     $.getJSON( "events.json", function(events) {
       $.each(events, function(title, attributes) {
         document.write("<h2>" + title + "</h2>");
-        document.write("<h2>" + attributes["date"] + "</h2>");
+        document.write(attributes["date"]);
         document.write("<h2>" + attributes["location"] + "</h2>");
         document.write("<h2>" + attributes["description"] + "</h2>");
         document.write("<a href=\"" + attributes["url"] + "\">" + attributes["url"] + "</a><br />");
