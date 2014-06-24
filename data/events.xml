@@ -1,0 +1,13 @@
+---
+---
+<events>
+  {% for events in site.data.events %}
+  <events>
+    <title>{{ events[0] }}</title>
+    <date>{{ events[1].date }}</date>
+    <url>{{ events[2].url }}</url>
+    <location>{{ events[3].location }}</location>
+    <description>{{ events[4].description }}</description>
+  </events>
+  {% endfor %}
+</events>
