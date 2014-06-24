@@ -1,0 +1,3 @@
+---
+---
+{{ site.data.developer_hubs2 | jsonify }}
