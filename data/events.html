@@ -1,0 +1,16 @@
+<html>
+  <body>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+    <script>
+    $.getJSON( "events.json", function(events) {
+      $.each(events, function(title, attributes) {
+        document.write("<h2>" + title + "</h2>");
+        document.write(date);
+        document.write(location);
+        document.write(description);
+        document.write("<a href=\"" + attributes["url"] + "\">" + attributes["url"] + "</a><br />");
+      });
+    })
+    </script>
+  </body>
+</html>
