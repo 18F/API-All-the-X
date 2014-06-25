@@ -3,6 +3,9 @@ layout: page
 title: ".Gov APIs in the News"
 ---
 
+### June 23, 2014
+* [Federal Government So Slow To Adopt New Technologies...Wait, What, A Swift API SDK?](http://apievangelist.com/2014/06/23/federal-government-so-slow-to-adopt-new-technologieswait-what-a-swift-api-sdk/)
+
 ### June 11, 2014
 * [Facebook taps GSA API for social media verification](http://www.fiercemobilegovernment.com/story/facebook-taps-gsa-api-social-media-verification/2014-06-11)
 
