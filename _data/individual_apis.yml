@@ -5,7 +5,7 @@
   - name: "We The People API"
     url: "https://petitions.whitehouse.gov/developers"
 
-- name: Office of Management and Budget
+- name: Office of Management and Budget (EOP)
   apis:
   - name: "Performance.gov"
     url: "http://www.performance.gov/api"
@@ -14,51 +14,51 @@
   - name: "USASpending.gov API"
     url: "http://www.usaspending.gov/data?tab=API"
 
-- name: Agricultural Marketing Service
+- name: Agricultural Marketing Service (Agriculture)
   apis:
   - name: "Farmers Market Directory API"
     url: "http://search.ams.usda.gov/farmersmarkets/v1/svcdesc.html"
 
-- name: Animal and Plant Health Inspection Service
+- name: Animal and Plant Health Inspection Service (Agriculture)
   apis:
   - name: "Animal Identification Management System"
     url: "https://nais.aphis.usda.gov/ainmngt/HelpGetAnonymous.do"
 
-- name: Economic Research Service
+- name: Economic Research Service (Agriculture)
   apis:
   - name: "Content API"
     url: "http://ers.usda.gov/developer/website-content-api.aspx"
 
-- name: Farm Service Agency
+- name: Farm Service Agency (Agriculture)
   apis:
   - name: "National Agriculture Imagery Program Status Web Service"
     url: "http://www.fsa.usda.gov/Internet/FSA_File/usage_guide_naipstatus_final.pdf"
 
-- name: Forest Service
+- name: Forest Service (Agriculture)
   apis:
   - name: "Recreation Information Database"
     url: "https://ridb.recreation.gov/RIDBWeb/Controller.jpf"
 
-- name: National Agricultural Statistics Service
+- name: National Agricultural Statistics Service (Agriculture)
   apis:
   - name: "Cropland Data Layer"
     url: "http://www.nass.usda.gov/research/Cropland/sarsfaqs2.html#_Cropscape1.2"
   - name: "Quick Stats API"
     url: "http://quickstats.nass.usda.gov/api"
 
-- name: National Resources Conservation Service
+- name: National Resources Conservation Service (Agriculture)
   apis:
   - name: "National Water and Climate Center AWDB database"
     url: "http://www.wcc.nrcs.usda.gov/web_service/AWDB_Web_Service_Tutorial.htm"
   - name: "Soil Data Mart"
     url: "http://sdmdataaccess.nrcs.usda.gov/"
 
-- name: Bureau of Economic Analysis
+- name: Bureau of Economic Analysis (Commerce)
   apis:
   - name: "Data API"
     url: "http://www.bea.gov/API/"
 
-- name: Census Bureau
+- name: Census Bureau (Commerce)
   apis:
   - name: "Census Bureau APIs"
     url: "http://www.census.gov/developers/"
@@ -67,12 +67,12 @@
   - name: "Automated Export System AESWebLink Inquiry API"
     url: "http://www.aesdirect.gov/developers"
 
-- name: National Institute of Standards and Technology
+- name: National Institute of Standards and Technology (Commerce)
   apis:
   - name: "CDA Guideline Validation Tool"
     url: "http://xreg2.nist.gov/cda-validation/webservice.html"
 
-- name: National Oceanic and Atmospheric Administration
+- name: National Oceanic and Atmospheric Administration (Commerce)
   apis:
   - name: "Meteorological Assimilation Data Ingest System"
     url: "http://madis.noaa.gov/madis_api.html"
@@ -103,12 +103,12 @@
   - name: "Space Physics Interactive Data Resource Web Services"
     url: "http://spidr.ngdc.noaa.gov/spidr/docs/SPIDR.REST.WSGuide.en.pdf"
 
-- name: National Telecommunications and Information Administration
+- name: National Telecommunications and Information Administration (Commerce)
   apis:
   - name: "Broadband Technology Opportunities Program API"
     url: "http://www2.ntia.doc.gov/BTOPmap/api"
 
-- name: Patent and Trademark Office
+- name: Patent and Trademark Office (Commerce)
   apis:
   - name: "Trademark Status & Document Retrieval"
     url: "http://tsdr.uspto.gov/"
@@ -126,7 +126,7 @@
   - name: "Clause Logic Service"
     url: "http://www.acq.osd.mil/dpap/pdi/eb/clause_logic_service.html"
 
-- name: US Army Corps of Engineers
+- name: US Army Corps of Engineers (Defense)
   apis:
   - name: "ARCGIS Services"
     url: "http://maps.usace.army.mil:8399/arcgis/rest/services"
@@ -143,7 +143,7 @@
   - name: "PyADH API"
     url: "https://adh.usace.army.mil/pyadh/api/index.html"
 
-- name: Arlington National Cemetary
+- name: Arlington National Cemetary (Defense)
   apis:
   - name: "ANC Web Services"
     url: "http://www.arlingtoncemetery.mil/Developer/"
@@ -155,7 +155,7 @@
     url: "https://explore.data.gov/developers/docs/nces-ipeds-c2011_a"
 
 
-- name: Argonne National Laboratory
+- name: Argonne National Laboratory (Energy)
   apis:
   - name: "Channel Access API"
     url: "http://www.aps.anl.gov/bcda/epicsgettingstarted/developtools/introductionchannelaccess.html"
@@ -172,7 +172,7 @@
   - name: "NEOS API"
     url: "http://neos.mcs.anl.gov/neos/NEOS-API.html"
 
-- name: Brookhaven National Laboratory
+- name: Brookhaven National Laboratory (Energy)
   apis:
   - name: "Maven 1 API"
     url: "https://www.racf.bnl.gov/Facility/GUMS/1.3/apidocs/"
@@ -187,12 +187,12 @@
   - name: "STAR Scheduler Standard API"
     url: "http://www.star.bnl.gov/public/comp/Grid/scheduler/javadoc/overview-summary.html"
 
-- name: Energy Information Administration
+- name: Energy Information Administration (Energy)
   apis:
   - name: "Energy Information Administration API"
     url: "http://www.eia.gov/developer/"
 
-- name: National Renewable Energy Laboratory
+- name: National Renewable Energy Laboratory (Energy)
   apis:
   - name: "Building Components Library"
     url: "https://bcl.nrel.gov/developer"
@@ -203,7 +203,7 @@
   - name: "Alternative Fuel Stations"
     url: "http://developer.nrel.gov/doc/alt-fuel-stations-v1"
 
-- name: Lawrence Berkeley National Laboratory
+- name: Lawrence Berkeley National Laboratory (Energy)
   apis:
   - name: "National Energy Research Scientific Computing Center's NEWT"
     url: "https://newt.nersc.gov/"
@@ -223,9 +223,9 @@
 - name: Oak Ridge National Laboratory
   apis: 
   - name: "Bioenergy Knowledge Discovery Framework REST API"
-  - url: "http://gisthal.ornl.gov/apidocs/restapi"
+    url: "http://gisthal.ornl.gov/apidocs/restapi"
 
-- name: Office of Scientific and Technical Information
+- name: Office of Scientific and Technical Information (Energy)
   apis:
   - name: "Conference Information"
     url: "http://www.osti.gov/XMLServices"
@@ -283,22 +283,22 @@
   - name: "HealthData.gov Data API"
     url: "http://healthdata.gov/data-api"
 
-- name: Agency for Healthcare Research and Quality
+- name: Agency for Healthcare Research and Quality (Health and Human Services)
   apis:
   - name: "Meaningful Use API"
     url: "http://ushik.ahrq.gov/help/MeaningfulUse/api?system=mu"
 
-- name: Administration on Aging
+- name: Administration on Aging (Health and Human Services)
   apis:
   - name: "Eldercare.gov Locator API"
     url: "http://eldercare.gov/Eldercare.NET/Public/Site_Utilities/API_Reg/API_Registration.aspx"
 
-- name: Administration for Children and Families
+- name: Administration for Children and Families (Health and Human Services)
   apis:
   - name: "AChecker Web Service"
     url: "https://achecker.grantsolutions.gov/documentation/web_service_api.php"
 
-- name: Centers for Medicare and Medicaid Services
+- name: Centers for Medicare and Medicaid Services (Health and Human Services)
   apis:
   - name: "Healthcare Associated Infections API"
     url: "https://data.medicare.gov/developers/docs/healthcare-associated-infections"
@@ -309,7 +309,7 @@
   - name: "Spending Breakdown by Claim API"
     url: "https://data.medicare.gov/developers/docs/spending-breakdown-by-claim"
 
-- name: Centers for Disease Control
+- name: Centers for Disease Control (Health and Human Services)
   apis:
   - name: "Content API"
     url: "https://tools.cdc.gov/syndication/api.aspx"
@@ -320,14 +320,14 @@
   - name: "Wonder Data"
     url: "http://wonder.cdc.gov/wonder/help/WONDER-API.html"
 
-- name: Food and Drug Administration
+- name: Food and Drug Administration (Health and Human Services)
   apis:
   - name: "Content API"
     url: "http://tools.fda.gov/CSStorefront/api.aspx"
   - name: "Adverse Events API"
     url: "https://open.fda.gov/drug/event/"
 
-- name: Health Resources and Services Administration
+- name: Health Resources and Services Administration (Health and Human Services)
   apis:
   - name: "Ryan White HIV/AIDS Medical Care Providers API"
     url: "http://datawarehouse.hrsa.gov/HDWDataServiceExternal/HdwDataWebServiceExternal.asmx?op=FindHIVAIDSCareProvidersAroundALocation"
@@ -342,19 +342,19 @@
   - name: "Data Warehouse Online Map Service"
     url: "http://datawarehouse.hrsa.gov/HGDWFeatureService.aspx"
 
-- name: Indian Health Service
+- name: Indian Health Service (Health and Human Services)
   apis:
   - name: "ArcGIS Web Service"
     url: "https://gis.ihs.gov/ArcGIS/rest/services/public/"
 
-- name: National Insitutes of Health
+- name: National Insitutes of Health (Health and Human Services)
   apis:
   - name: "NIH Enterprise Web Services"
     url: "https://federation.nih.gov/webServices.asp"
   - name: "BioAssay Research Database"
     url: "https://github.com/ncats/bard/wiki"
 
-- name: National Cancer Insitute
+- name: National Cancer Insitute (Health and Human Services)
   apis:
   - name: "caIntegrator"
     url: "http://caintegrator-info.nci.nih.gov/developers/"
@@ -363,7 +363,7 @@
   - name: "Biological DataBase Network Web Services"
     url: "http://biodbnet.abcc.ncifcrf.gov/webServices/"
 
-- name: National Institute of Allergy and Infectious Diseases
+- name: National Institute of Allergy and Infectious Diseases (Health and Human Services)
   apis:
   - name: "Content API"
     url: "http://tools.niaid.nih.gov/register/api.aspx"
@@ -374,17 +374,17 @@
   - name: "Object Cart API"
     url: "https://wiki.nci.nih.gov/display/caDSR/Object+Cart+API"
 
-- name: National Institute on Drug Abuse
+- name: National Institute on Drug Abuse (Health and Human Services)
   apis:
   - name: "Drug Use Screening Tool API"
     url: "http://www.drugabuse.gov/developers/nmassist"
 
-- name: National Institute of Neurological Disorders and Stroke
+- name: National Institute of Neurological Disorders and Stroke (Health and Human Services)
   apis:
   - name: "Research Services Branch's Developer Resources"
     url: "http://rsb.info.nih.gov/ij/developer/"
 
-- name: National Library of Medicine
+- name: National Library of Medicine (Health and Human Services)
   apis:
   - name: "AIDSinfo API"
     url: "http://aidsinfo.nih.gov/api"
@@ -437,7 +437,7 @@
   - name: "Voyager API"
     url: "http://www.nlm.nih.gov/services/lpz3950.html"
 
-- name: Substance Abuse and Mental Health Services Administration
+- name: Substance Abuse and Mental Health Services Administration (Health and Human Services)
   apis:
   - name: "Content Repository APIs"
     url: "http://store.samhsa.gov/developer"
@@ -450,22 +450,22 @@
   - name: "National Terrorism Advisory System"
     url: "http://www.dhs.gov/ntas-api-documentation"
 
-- name: Coast Guard
+- name: Coast Guard (Homeland Security)
   apis: 
   - name: "Port State Information web service"
     url: "http://psix.uscg.mil/xml/PSIXData.asmx"
 
-- name: Citizenship and Immigration Services
+- name: Citizenship and Immigration Services (Homeland Security)
   apis:
   - name: "E-Verify Web Services"
     url: "http://www.uscis.gov/sites/default/files/USCIS/Verification/E-Verify/E-Verify_Native_Documents/E-Verify%20Manuals%20and%20Guides/Supplemental_Guide_for_Web_Services_Users.pdf"
 
-- name: Federal Emergency Management Agency
+- name: Federal Emergency Management Agency (Homeland Security)
   apis:
   - name: "FEMA Enterprise GIS Services"
     url: "http://gis.fema.gov/REST/services"
 
-- name: Transportation Security Administration
+- name: Transportation Security Administration (Homeland Security)
   apis:
   - name: "TSA MyTSA API"
     url: "http://www.dhs.gov/mytsa-api-documentation"
@@ -483,7 +483,7 @@
   - name: "Location Affordability Index"
     url: "http://services.arcgis.com/VTyQ9soqVukalItT/arcgis/rest/services/LocationAffordabilityIndexData/FeatureServer"
 
-- name: Bureau of Land Management
+- name: Bureau of Land Management (Interior)
   apis:
   - name: "Areas of Critical Environmental Concern ARCGIS Server"
     url: "http://www.geocommunicator.gov/ARCGIS/REST/services/ACEC/MapServer"
@@ -514,12 +514,12 @@
   - name: "Township Geocoder Service"
     url: "http://www.blm.gov/nils/GeoComm/home_services.html#Data"
 
-- name: Bureau of Ocean Energy Management
+- name: Bureau of Ocean Energy Management (Interior)
   apis:
   - name: "BOEM ARCGIS Server"
     url: "http://gis.boemre.gov/arcgis/sdk/rest/"
 
-- name: Fish and Wildlife Service
+- name: Fish and Wildlife Service (Interior)
   apis:
   - name: "Critical Habitat Portal"
     url: "http://criticalhabitat.fws.gov/"
@@ -532,14 +532,14 @@
   - name: "Threatened & Endangered Species Query Web Service"
     url: "http://ecos.fws.gov/tat_services/web/html/TessQuery.html"
 
-- name: National Park Service
+- name: National Park Service (Interior)
   apis:
   - name: "ArcGIS Server REST API"
     url: "http://mapservices.nps.gov/arcgis/sdk/rest/index.html?query.html"
   - name: "NPMap"
     url: "http://www.nps.gov/npmap/support/api.html"
 
-- name: US Geological Survey
+- name: US Geological Survey (Interior)
   apis:
   - name: "Biodiversity Information Serving Our Nation API"
     url: "http://bison.usgs.ornl.gov/services.html"
@@ -566,17 +566,17 @@
   - name: "Water Services"
     url: "http://waterservices.usgs.gov/"
 
-- name: Office of Surface Mining Reclamation and Enforcement
+- name: Office of Surface Mining Reclamation and Enforcement (Interior)
   apis:
   - name: "OSMRE ARCGIS Server"
     url: "http://geomine.osmre.gov/ArcGIS/rest"
 
-- name: Bureau of Justice Statistics
+- name: Bureau of Justice Statistics (Justice)
   apis:
   - name: "National Crime Victimization Survey API"
     url: "http://www.bjs.gov/developer/ncvs/index.cfm"
 
-- name: Drug Enforcement Agency
+- name: Drug Enforcement Agency (Justice)
   apis:
   - name: "E-Commerce API"
     url: "http://www.deaecom.gov/developer.html"
@@ -600,24 +600,24 @@
   - name: "Select State.gov Data API"
     url: "http://www.state.gov/api/v1/docs/"
 
-- name: Federal Aviation Administration
+- name: Federal Aviation Administration (Transportation)
   apis:
   - name: "Airport Status"
     url: "http://services.faa.gov/docs/services/airport/"
 
-- name: Federal Railroad Administration
+- name: Federal Railroad Administration (Transportation)
   apis:
   - name: "Highway-Rail Grade Crossing Accident/Incident Report (Form 57) API"
     url: "https://safetydata.fra.dot.gov/MASTERWEBSERVICE/DatadownloadService.asmx?op=GetAccident57DataByRailroad"
   - name: "Rail Equipment Accident/Incident Report (Form 54) API"
     url: "https://safetydata.fra.dot.gov/MASTERWEBSERVICE/DatadownloadService.asmx?op=GetAccident54DataByRailroad"
 
-- name: Federal Motor Carrier Safety Administration
+- name: Federal Motor Carrier Safety Administration (Transportation)
   apis:
   - name: "SaferBus"
     url: "https://mobile.fmcsa.dot.gov/developer/apidoc.page?cid=48"
 
-- name: National Highway Traffic Safety Administration
+- name: National Highway Traffic Safety Administration (Transportation)
   apis:
   - name: "Child Safety Seat Inspection Station Locator API"
     url: "http://www.nhtsa.gov/webapi/Default.aspx?CSSIStations/API/80"
@@ -630,12 +630,12 @@
   - name: "Office of Defects Investigation Recalls"
     url: "http://www.nhtsa.gov/webapi/Default.aspx?Recalls/API/83"
 
-- name: Bureau of Engraving and Printing
+- name: Bureau of Engraving and Printing (Treasury)
   apis:
   - name: "Annual Currency Production by Denomination API"
     url: "https://explore.data.gov/developers/docs/annual-production-figures-of-united-states-currency"
 
-- name: Internal Revenue Service
+- name: Internal Revenue Service (Treasury)
   apis:
   - name: "SOI County-to-County Outflow Migration Data API"
     url: "https://explore.data.gov/developers/docs/irs-county-to-county-annual-migration-data-outflow-2004-2010"
