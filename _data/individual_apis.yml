@@ -448,6 +448,7 @@
     url: "http://store.samhsa.gov/developer"
 
 - name: Department of Homeland Security
+  apis:
   - name: "National Terrorism Advisory System"
     url: "http://www.dhs.gov/ntas-api-documentation"
 
@@ -588,6 +589,7 @@
     url: "http://developer.dol.gov"
 
 - name: Department of State
+  apis:
   - name: "Foreign Per Diem Rates API"
     url: "https://explore.data.gov/developers/docs/foreign-per-diem-rates-by-location"
   - name: "OPDS Catalog of Foreign Relations of the United States API"
