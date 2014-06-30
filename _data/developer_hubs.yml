@@ -28,6 +28,9 @@ National Climate Data Center:
 Department of Defense:
   url: http://www.defense.gov/developer/
 
+Arlington National Cemetary:
+  url: http://www.arlingtoncemetery.mil/Developer/
+
 Department of Education:
   url: http://www.ed.gov/developers
 
@@ -230,6 +233,9 @@ National Map:
 
 National Resource Directory:
   url: http://www.nrd.gov/home/api
+
+Performance.gov: 
+  url: http://performance.gov/api
 
 Performance.gov Permits:
   url: http://permits.performance.gov/developers-api
