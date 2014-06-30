@@ -45,7 +45,7 @@ Extent to which an organization actively engages the developer community in defi
 Extent to which standards compliance is coordinated across the enterprise  
 **Technology:**	  
 "Richardson Maturity Model for building RESTful APIs ( you can google this. But here is a good description: 
-http://vpmouttou.wordpre/2012/02/08/richardson-maturity-model-rmm-distilled-notes-for-restful-design/)"  
+http://vpmouttou.wordpress.com/2012/02/08/richardson-maturity-model-rmm-distilled-notes-for-restful-design/)"  
 **Software Development Kit (SDK):**	  
 Extent to which software development kits are provided to consumers to simplify implementation and ensure complaince with policy and standards (also see "Sharing APIs") below)  
 **Security:**	  
