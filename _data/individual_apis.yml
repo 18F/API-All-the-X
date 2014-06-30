@@ -52,3 +52,104 @@
     url: "http://www.wcc.nrcs.usda.gov/web_service/AWDB_Web_Service_Tutorial.htm"
   - name: "Soil Data Mart"
     url: "http://sdmdataaccess.nrcs.usda.gov/"
+
+- name: Bureau of Economic Analysis (Commerce)
+  apis:
+  - name: "Data API"
+    url: "http://www.bea.gov/API/"
+
+- name: Census Bureau (Commerce)
+  apis:
+  - name: "Census Bureau APIs"
+    url: "http://www.census.gov/developers/"
+  - name: "Automated Export System AESWebLink Submission API"
+    url: "http://www.aesdirect.gov/developers"
+  - name: "Automated Export System AESWebLink Inquiry API"
+    url: "http://www.aesdirect.gov/developers"
+
+- name: National Institute of Standards and Technology (Commerce)
+  apis:
+  - name: "CDA Guideline Validation Tool"
+    url: "http://xreg2.nist.gov/cda-validation/webservice.html"
+
+- name: National Oceanic and Atmospheric Administration (Commerce)
+  apis:
+  - name: "Meteorological Assimilation Data Ingest System"
+    url: "http://madis.noaa.gov/madis_api.html"
+  - name: "National Climatic Data Center Web Services"
+    url: "http://www.ncdc.noaa.gov/cdo-web/webservices/ncdcwebservices"
+  - name: "Environmental Research Division's Data Access Program"
+    url: "http://coastwatch.pfeg.noaa.gov/erddap/rest.html"
+  - name: "Center for Operational Oceanographic Products and Services"
+    url: "http://opendap.co-ops.nos.noaa.gov/axis/"
+  - name: "CO-OPS Open Geospatial Consortium Sensor Observation Service"
+    url: "http://opendap.co-ops.nos.noaa.gov/ioos-dif-sos/"
+  - name: "National Digital Forecast Database SOAP Web Service"
+    url: "http://graphical.weather.gov/xml/"
+  - name: "National Climatatic Data Center Climate Data Online Web Services Web Services"
+    url: "http://www.ncdc.noaa.gov/cdo-web/webservices"
+  - name: "General National Climatatic Data Center THREDDS Data Server"
+    url: "http://www.ncdc.noaa.gov/thredds"
+  - name: "National Climatatic Data Center NOMADS THREDDS Data Server"
+    url: "http://nomads.ncdc.noaa.gov/thredds"
+  - name: "GIS Map Services"
+    url: "http://gis.ncdc.noaa.gov/"
+  - name: "Legacy National Climatatic Data Center RESTful Services"
+    url: "http://www7.ncdc.noaa.gov/rest/"
+  - name: "Ocean Service's nowCOAST's Map Services"
+    url: "http://nowcoast.noaa.gov/help/mapservices.shtml?name=mapservices"
+  - name: "Severe Weather Data Inventory Web Service"
+    url: "http://www.ncdc.noaa.gov/swdiws/"
+  - name: "Space Physics Interactive Data Resource Web Services"
+    url: "http://spidr.ngdc.noaa.gov/spidr/docs/SPIDR.REST.WSGuide.en.pdf"
+
+- name: National Telecommunications and Information Administration (Commerce)
+  apis:
+  - name: "Broadband Technology Opportunities Program API"
+    url: "http://www2.ntia.doc.gov/BTOPmap/api"
+
+- name: Patent and Trademark Office (Commerce)
+  apis:
+  - name: "Trademark Status & Document Retrieval"
+    url: "http://tsdr.uspto.gov/"
+
+- name: Department of Defense
+  apis:
+  - name: "Joint Tactical Networking Center APIs"
+    url: "http://jtnc.mil/sca/Pages/api1.aspx"
+  - name: "IUID Registry API"
+    url: "http://www.acq.osd.mil/dpap/pdi/uid/data_submission_information.html"
+  - name: "ADL 3d repository"
+    url: "http://3dr.adlnet.gov/blog/?p=78"
+  - name: "ADL Experience API"
+    url: "http://www.adlnet.gov/tla/experience-api"
+  - name: "Clause Logic Service"
+    url: "http://www.acq.osd.mil/dpap/pdi/eb/clause_logic_service.html"
+
+- name: US Army Corps of Engineers (Defense)
+  apis:
+  - name: "ARCGIS Services"
+    url: "http://maps.usace.army.mil:8399/arcgis/rest/services"
+  - name: "Coastal Inlets Research Program (CIRP) Wiki API"
+    url: "http://cirp.usace.army.mil/CIRPwiki/api.php?action=patrol&token=123abc&rcid=230672766"
+  - name: "Hydrologic Engineering Center Data Storage System"
+    url: "http://www.hec.usace.army.mil/software/hec-dss/documents/Ch7-Scripting.pdf"
+  - name: "Lock Performance Monitoring System"
+    url: "http://corpslocks.usace.army.mil/lpwb/f?p=121:7:0:::::"
+  - name: "OMNI Data"
+    url: "http://www2.mvr.usace.army.mil/OMNI/ws/OMNIdataWebService.cfm"
+  - name: "Proteus API"
+    url: "https://adh.usace.army.mil/proteus/api/index.html#"
+  - name: "PyADH API"
+    url: "https://adh.usace.army.mil/pyadh/api/index.html"
+
+- name: Arlington National Cemetary (Defense)
+  apis:
+  - name: "ANC Web Services"
+    url: "http://www.arlingtoncemetery.mil/Developer/"
+
+- name: Department of Education
+  - name: "Integrated Postsecondary Education Data System (IPEDS): Institutional Characteristics - Directory Information (2011)"
+    url: "https://explore.data.gov/developers/docs/nces-ipeds-hd2011"
+  - name: "Integrated Postsecondary Education Data System (IPEDS): Awards/degrees Conferred by Program (2011)"
+    url: "https://explore.data.gov/developers/docs/nces-ipeds-c2011_a"
