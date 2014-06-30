@@ -112,3 +112,38 @@
   apis:
   - name: "Trademark Status & Document Retrieval"
     url: "http://tsdr.uspto.gov/"
+
+- name: Department of Defense
+  apis:
+  - name: "Joint Tactical Networking Center APIs"
+    url: "http://jtnc.mil/sca/Pages/api1.aspx"
+  - name: "IUID Registry API"
+    url: "http://www.acq.osd.mil/dpap/pdi/uid/data_submission_information.html"
+  - name: "ADL 3d repository"
+    url: "http://3dr.adlnet.gov/blog/?p=78"
+  - name: "ADL Experience API"
+    url: "http://www.adlnet.gov/tla/experience-api"
+  - name: "Clause Logic Service"
+    url: "http://www.acq.osd.mil/dpap/pdi/eb/clause_logic_service.html"
+
+- name: US Army Corps of Engineers (Defense)
+  apis:
+  - name: "ARCGIS Services"
+    url: "http://maps.usace.army.mil:8399/arcgis/rest/services"
+  - name: "Coastal Inlets Research Program (CIRP) Wiki API"
+    url: "http://cirp.usace.army.mil/CIRPwiki/api.php?action=patrol&token=123abc&rcid=230672766"
+  - name: "Hydrologic Engineering Center Data Storage System"
+    url: "http://www.hec.usace.army.mil/software/hec-dss/documents/Ch7-Scripting.pdf"
+  - name: "Lock Performance Monitoring System"
+    url: "http://corpslocks.usace.army.mil/lpwb/f?p=121:7:0:::::"
+  - name: "OMNI Data"
+    url: "http://www2.mvr.usace.army.mil/OMNI/ws/OMNIdataWebService.cfm"
+  - name: "Proteus API"
+    url: "https://adh.usace.army.mil/proteus/api/index.html#"
+  - name: "PyADH API"
+    url: "https://adh.usace.army.mil/pyadh/api/index.html"
+
+- name: Arlington National Cemetary (Defense)
+  apis:
+  - name: "ANC Web Services"
+    url: "http://www.arlingtoncemetery.mil/Developer/"
