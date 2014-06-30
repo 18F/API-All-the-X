@@ -1,10 +1,11 @@
 
 
-* [Agency Checklist](http://18f.github.io/API-All-the-X/pages/agency_checklist)
+* [Agency Program Checklist](http://18f.github.io/API-All-the-X/pages/agency_checklist)
 * [Agency Maturity Model](http://18f.github.io/API-All-the-X/pages/agency_maturity_model)
 * [Agency Working Group - A Model](http://18f.github.io/API-All-the-X/pages/agency_working_group-a_model)
 * [API Contract Language](http://18f.github.io/API-All-the-X/pages/procurement_language)
 * [API Primer for Procurement Officers](http://18f.github.io/API-All-the-X/pages/api_primer_for_procurement_officers)
+* [API Release Checklist](http://18f.github.io/API-All-the-X/pages/api-release-checklist)
 * [API Release Kit](http://18f.github.io/API-All-the-X/pages/api_release_kit)
 * [API Standards](http://18f.github.io/API-All-the-X/pages/api_standards)  
 * [Complete API model](http://18f.github.io/API-All-the-X/pages/complete_API_model)
