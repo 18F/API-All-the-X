@@ -644,6 +644,7 @@
     url: "https://explore.data.gov/developers/docs/irs-county-to-county-annual-migration-data-inflow-2004-2010"
 
 - name: Department of Veterans Affairs
+  apis: 
   - name: "Email Utilities API"
     url: "http://www1.va.gov/webservices/email/documentation/utilities.cfm"
   - name: "Nationwide Gravesite Locations API"
