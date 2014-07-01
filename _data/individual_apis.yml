@@ -908,6 +908,11 @@
   - name: "Lender Search API"
     url: "http://www.sba.gov/content/lender-search-api"
 
+- name: Smithsonian Institute
+  apis:
+  - name: "EDAN API"
+    url: "http://edan-api.si.edu/welcome.html"
+
 - name: Social Security Administration
   apis:
   - name: "Average Wait Time Until Hearing Held Report"
