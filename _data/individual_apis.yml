@@ -63,9 +63,9 @@
   - name: "Census Bureau APIs"
     url: "http://www.census.gov/developers/"
   - name: "Automated Export System AESWebLink Submission API"
-    url: "http://www.aesdirect.gov/developers"
+    url: "http://aesdirect.census.gov/developers"
   - name: "Automated Export System AESWebLink Inquiry API"
-    url: "http://www.aesdirect.gov/developers"
+    url: "http://aesdirect.census.gov/developers"
 
 - name: National Institute of Standards and Technology (Commerce)
   apis:
