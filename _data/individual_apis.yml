@@ -232,6 +232,8 @@
   apis: 
   - name: "Bioenergy Knowledge Discovery Framework REST API"
     url: "http://gisthal.ornl.gov/apidocs/restapi"
+  - name: "FuelEconomy.gov Web Services"
+    url: "http://www.fueleconomy.gov/feg/ws/index.shtml"
 
 - name: Office of Scientific and Technical Information (Energy)
   apis:
@@ -965,11 +967,6 @@
   apis:
   - name: "Service Status Checker"
     url: "http://registry.fgdc.gov/statuschecker/developers.php"
-
-- name: FuelEconomy.gov
-  apis:
-  - name: "FuelEconomy.gov Web Services"
-    url: "http://www.fueleconomy.gov/feg/ws/index.shtml"
 
 - name: Globalchange.gov
   apis: 
