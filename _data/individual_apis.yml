@@ -590,6 +590,21 @@
   - name: "OSMRE ARCGIS Server"
     url: "http://geomine.osmre.gov/ArcGIS/rest"
 
+- name: Bureau of Alcohol, Tobacco, Firearms, and Explosives 
+  apis: 
+  - name: "Time To Crime Rates For Firearms With A Recovery"
+    url: "https://atf.socrata.com/developers/docs/time-to-crime-rates-for-firearms-with-a-recovery"
+  - name: "API for Top 15 Source States with a Recovery"
+    url: "https://atf.socrata.com/developers/docs/top-15-source-states-with-a-recovery"
+  - name: "API for Top Categories Reported On Firearm Traces with a Recovery"
+    url: "https://atf.socrata.com/developers/docs/top-categories-reported-on-firearm-traces-with-a-recovery"
+  - name: "API for Top Recovery Cities For Firearms With A Recovery"
+    url: "https://atf.socrata.com/developers/docs/top-recovery-cities-for-firearms-with-a-recovery"
+  - name: "Pistols - Firearms Manufacturing Report"
+    url: "https://atf.socrata.com/developers/docs/pistols-firearms-manufacturing-report"
+  - name: "API for Firearms Types With A Recovery"
+    url: "https://atf.socrata.com/developers/docs/firearms-types-with-a-recovery"
+
 - name: Bureau of Justice Statistics (Justice)
   apis:
   - name: "National Crime Victimization Survey API"
@@ -972,6 +987,11 @@
   apis:
   - name: "ITIS Web Services"
     url: "http://www.itis.gov/ws_description.html"
+
+- name: National Information Exchange Model
+  apis: 
+  - name: "NIEM Web Services API"
+    url: "http://reference.niem.gov/niem/specification/web-services-api/1.0/web-services-api-1.0.pdf"
 
 - name: National Resource Directory
   apis:
