@@ -1,4 +1,7 @@
-
+---
+layout: "page"
+title: "Other Notes - Individual APIs"
+---
 
 ## To parse
 * individual apis of ckan instances (You can access the API at http://catalog.data.gov/api/3 with documentation
