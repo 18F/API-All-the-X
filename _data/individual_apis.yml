@@ -824,8 +824,8 @@
 
 - name: Millenium Challenge Corporation
   apis:
-  - name: "MCC API"
-    url: "http://data.mcc.gov/developer/"
+  - name: "Open Data Catalog API"
+    url: "http://data.mcc.gov/metadata/data-api"
 
 - name: National Aeronautics and Space Administration
   apis:
