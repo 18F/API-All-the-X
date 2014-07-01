@@ -102,6 +102,8 @@
     url: "http://www.ncdc.noaa.gov/swdiws/"
   - name: "Space Physics Interactive Data Resource Web Services"
     url: "http://spidr.ngdc.noaa.gov/spidr/docs/SPIDR.REST.WSGuide.en.pdf"
+  - name: "Center for Operational Oceanographic Products and Services"
+    url: "http://tidesandcurrents.noaa.gov/api"
 
 - name: National Telecommunications and Information Administration (Commerce)
   apis:
@@ -142,6 +144,11 @@
     url: "https://adh.usace.army.mil/proteus/api/index.html#"
   - name: "PyADH API"
     url: "https://adh.usace.army.mil/pyadh/api/index.html"
+
+- name: US Navy
+  apis: 
+  - name: "Common Open Research Emulator IPC API"
+    url: "http://downloads.pf.itd.nrl.navy.mil/docs/core/core_api.pdf"
 
 - name: Arlington National Cemetary (Defense)
   apis:
