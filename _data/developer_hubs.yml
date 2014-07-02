@@ -229,6 +229,9 @@ Integrated Taxonomic Information System:
 ITDashboard.gov:
   url: http://www.itdashboard.gov/data_feeds
 
+JobCenter:
+url: http://jobcenter.usa.gov/apis
+
 MyUSA:
   url: http://my.usa.gov/developer/
 
