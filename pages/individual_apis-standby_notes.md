@@ -3,6 +3,51 @@ layout: "page"
 title: "Other Notes - Individual APIs"
 ---
 
+## Do these count as government? 
+* http://api.dhsprogram.com
+* http://www.careeronestop.org/WebServices/WebServices.aspx
+* http://transportation.jointstatistics.org/home
+
+
+## Undocumented 
+* https://applocker.navy.mil/api/tags.json
+
+## Borderline
+* [Java API documentation for the Jess rule engine](http://herzberg.ca.sandia.gov/docs/70/api/index.html)
+* http://cactus.nci.nih.gov/blog/?p=1595&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+chemicalStructureBlog+(%2Fchemical%2Fstructure+Blog)
+* http://adh.usace.army.mil/developers/
+* https://militarykidsconnect.t2.health.mil/api/
+
+## Deep Wells of more APIs
+* http://developer.epa.gov/category/api/
+* https://www.sciencebase.gov/catalog/items?filter0=browseCategory%3DData  (possibly also a /developer hub)
+* http://kbase.science.energy.gov/developer-zone/documentation/id-server-commandline-scripts/
+* Holes I'm accepting - NIH Enterprise Web Services
+* USGS
+* http://www.climate.gov/search?search=web%20service
+
+
+## Need to decide how to parse 
+* http://www.snapretailerlocator.com/ArcGIS/rest/services
+* http://gis2.ers.usda.gov/ArcGIS/rest/services
+* http://tigerweb.geo.census.gov/arcgis/rest/
+* https://egis-e.uscg.mil/ArcGIS/rest/services
+* http://www.dla.mil/webgateway/_vti_bin/search.asmx
+https://www.google.com/search?q="arcgis+services+directory"+site%3A.mil
+https://www.google.com/search?q="arcgis+services+directory"+site%3A.gov
+https://www.google.com/search?q=lists.asmx+site%3A.gov
+https://www.google.com/search?q="the+following+operations+are+supported"+site%3A.gov
+
+
+## Dead Links
+
+* https://bioenergykdf.net/apidocs/restapi
+* https://bioenergykdf.net/apidocs/BillionTonAPI
+
+* http://brahms-web.brahms.bnl.gov/daq/external_manuals/windriver/docs/tornado/api/
+* http://www.sba.gov/content/dynamic-small-business-search-dsbs-api
+
+
 ## To parse
 * individual apis of ckan instances (You can access the API at http://catalog.data.gov/api/3 with documentation
 at http://docs.ckan.org/en/latest/api.html)
@@ -56,51 +101,6 @@ at http://docs.ckan.org/en/latest/api.html)
 * http://www.ncbi.nlm.nih.gov/books/NBK25501/
 * http://blast.ncbi.nlm.nih.gov/Blast.cgi
 * http://ncbiinsights.ncbi.nlm.nih.gov/2013/03/19/blastdbinfo-api-access-to-a-database-of-blast-databases/
-
-
-## Do these count as government? 
-* http://api.dhsprogram.com
-* http://www.careeronestop.org/WebServices/WebServices.aspx
-* http://transportation.jointstatistics.org/home
-
-
-## Undocumented 
-* https://applocker.navy.mil/api/tags.json
-
-## Borderline
-* [Java API documentation for the Jess rule engine](http://herzberg.ca.sandia.gov/docs/70/api/index.html)
-* http://cactus.nci.nih.gov/blog/?p=1595&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+chemicalStructureBlog+(%2Fchemical%2Fstructure+Blog)
-* http://adh.usace.army.mil/developers/
-* https://militarykidsconnect.t2.health.mil/api/
-* 
-
-## Deep Wells of more APIs 
-* https://www.sciencebase.gov/catalog/items?filter0=browseCategory%3DData  (possibly also a /developer hub)
-* http://kbase.science.energy.gov/developer-zone/documentation/id-server-commandline-scripts/
-* Holes I'm accepting - NIH Enterprise Web Services
-* USGS
-* http://www.climate.gov/search?search=web%20service
-
-
-## Need to decide how to parse 
-* http://www.snapretailerlocator.com/ArcGIS/rest/services
-* http://gis2.ers.usda.gov/ArcGIS/rest/services
-* http://tigerweb.geo.census.gov/arcgis/rest/
-* https://egis-e.uscg.mil/ArcGIS/rest/services
-* http://www.dla.mil/webgateway/_vti_bin/search.asmx
-https://www.google.com/search?q="arcgis+services+directory"+site%3A.mil
-https://www.google.com/search?q="arcgis+services+directory"+site%3A.gov
-https://www.google.com/search?q=lists.asmx+site%3A.gov
-https://www.google.com/search?q="the+following+operations+are+supported"+site%3A.gov
-
-
-## Dead Links
-
-* https://bioenergykdf.net/apidocs/restapi
-* https://bioenergykdf.net/apidocs/BillionTonAPI
-
-* http://brahms-web.brahms.bnl.gov/daq/external_manuals/windriver/docs/tornado/api/
-* http://www.sba.gov/content/dynamic-small-business-search-dsbs-api
 
 
 
