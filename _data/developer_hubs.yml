@@ -156,14 +156,13 @@ Office of Personnel Management:
   url: http://www.opm.gov/developer
 
 Small Business Administration:
-  url: http://www.sba.gov/api/
+  url: http://www.sba.gov/about-sba/sba_performance/sba_data_store/web_service_api
 
 Social Security Administration:
   url: http://www.ssa.gov/developer
 
 U.S. Agency for International Development:
   url: http://www.usaid.gov/developer
-
 
 BusinessUSA:
   url: http://business.usa.gov/apis
