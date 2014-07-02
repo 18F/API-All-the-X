@@ -10,6 +10,7 @@ at http://docs.ckan.org/en/latest/api.html)
 * individual apis of https://open.whitehouse.gov/
 * https://www.google.com/search?q=uit+hpc+api
 * http://www.state.gov/r/pa/prs/ps/2013/11/218106.htm vs. http://www.state.gov/developer/210732.htm
+* http://www.geoplatform.gov/developer-pathway
 
  *EPA* 
 * http://iaspub.epa.gov/sor_internet/registry/reusereg/searchandretrieve/search.do?refineSearch=
