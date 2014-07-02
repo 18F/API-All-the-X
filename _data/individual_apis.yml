@@ -28,6 +28,14 @@
   apis:
   - name: "Content API"
     url: "http://ers.usda.gov/developer/website-content-api.aspx"
+  - name: "Charts of Note API"
+    url: "http://www.ers.usda.gov/developer/data-apis.aspx#.U7Q-No1dVGU"
+  - name: "ARMS API"
+    url: "http://www.ers.usda.gov/developer/data-apis.aspx#.U7Q-No1dVGU"
+  - name: "Food Dollar API"
+    url: "http://www.ers.usda.gov/developer/data-apis.aspx#.U7Q-No1dVGU"
+  - name: "GeoSpatial APIs"
+    url: "http://www.ers.usda.gov/developer/geospatial-apis.aspx#.U7Q-No1dVGU"
 
 - name: Farm Service Agency (Agriculture)
   apis:
@@ -60,12 +68,24 @@
 
 - name: Census Bureau (Commerce)
   apis:
-  - name: "Census Bureau APIs"
-    url: "http://www.census.gov/developers/"
+  - name: "Data API"
+    url: "http://www.census.gov/data/developers/data-sets.html"
   - name: "Automated Export System AESWebLink Submission API"
     url: "http://aesdirect.census.gov/developers"
   - name: "Automated Export System AESWebLink Inquiry API"
     url: "http://aesdirect.census.gov/developers"
+
+- name: International Trade Administration
+  apis: 
+  - name: "Market Research Library API"
+    url: "http://developer.trade.gov/market-research-library.html"
+  - name: "ITA Offices and Centers API"
+    url: "http://developer.trade.gov/ita-office-locations.html"
+  - name: "Trade Events API"
+    url: "http://developer.trade.gov/trade-events.html"
+  - name: "Trade News and Articles API"
+    url: "http://developer.trade.gov/trade-news-articles.html"
+    
 
 - name: National Institute of Standards and Technology (Commerce)
   apis:
@@ -145,15 +165,17 @@
   - name: "PyADH API"
     url: "https://adh.usace.army.mil/pyadh/api/index.html"
 
-- name: US Navy
+- name: US Navy (Defense)
   apis: 
   - name: "Common Open Research Emulator IPC API"
     url: "http://downloads.pf.itd.nrl.navy.mil/docs/core/core_api.pdf"
 
 - name: Arlington National Cemetary (Defense)
   apis:
-  - name: "ANC Web Services"
-    url: "http://www.arlingtoncemetery.mil/Developer/"
+  - name: "Burial Record Web Services"
+    url: "http://www.arlingtoncemetery.mil/Developer/BRPSM.aspx"
+  - name: "Public Mapping Web Services"
+    url: "http://www.arlingtoncemetery.mil/Developer/Default.aspx"
 
 - name: Department of Education
   apis:
@@ -210,6 +232,29 @@
     url: "http://developer.nrel.gov/doc/solar"
   - name: "Alternative Fuel Stations"
     url: "http://developer.nrel.gov/doc/alt-fuel-stations-v1"
+  - name: "Standard Work Specifications"
+    url: "http://developer.nrel.gov/docs/buildings/standard-work-spec-v1/"
+  - name: "High Performance Building Database"
+    url: "http://developer.nrel.gov/docs/buildings/building-case-studies/"
+  - name: "Commercial Building Resource Database"
+    url: "http://developer.nrel.gov/docs/buildings/commercial-building-resource-database-v1/"
+  - name: "Utility Rates"
+    url: "http://developer.nrel.gov/docs/electricity/utility-rates-v3/"
+  - name: "Utility Rates by Census Region"
+    url: "http://developer.nrel.gov/docs/electricity/census-rate-v3/"
+  - name: "Energy Incentives"
+    url: "http://developer.nrel.gov/docs/electricity/energy-incentives-v1/"
+  - name: "PV Data Acquisition"
+    url: "http://developer.nrel.gov/docs/solar/pvdaq-v3/"
+  - name: "PVWatts API"
+    url: "http://developer.nrel.gov/docs/solar/pvwatts-v4/"
+  - name: "Wind Toolkit Data"
+    url: "http://developer.nrel.gov/docs/wind/wind-toolkit-extract/"
+
+
+
+
+
 
 - name: Lawrence Berkeley National Laboratory (Energy)
   apis:
@@ -314,10 +359,26 @@
     url: "https://data.medicare.gov/developers/docs/healthcare-associated-infections"
   - name: "Inpatient Prospective Payment System (IPPS) Provider Summary for the Top 100 Diagnosis-Related Groups (DRG)"
     url: "https://data.cms.gov/developers/docs/inpatient-charge-data-FY2011"
+  - name: "Inpatient Prospective Payment System (IPPS) Provider Summary for the Top 100 Diagnosis-Related Groups (DRG) - 2"
+    url: "https://data.cms.gov/developers/docs/ippps"
   - name: "Nursing Home Compare - Provider Ratings API"
     url: "https://data.medicare.gov/developers/docs/nursing-home-compare-provider-ratings"
   - name: "Spending Breakdown by Claim API"
     url: "https://data.medicare.gov/developers/docs/spending-breakdown-by-claim"
+  - name: "CMS Innovative Center Model Participants"
+    url: "https://data.cms.gov/developers/docs/cms-innovation-center-model-participants"
+  - name: "CMS Newsroom"
+    url: "https://data.cms.gov/developers/docs/cms-newsroom"
+  - name: "Savings Calculator"
+    url: "https://data.cms.gov/developers/docs/savings-calculator"
+  - name: "Hospitals in Partnership of Patients Hospital Engagement Networks (HENs)"
+    url: "https://data.cms.gov/developers/docs/hospitals-in-the-partnership-for-patients-hospital-engagement-networks-hens"
+  - name: "PfP Pledge Database"
+    url: "https://data.cms.gov/developers/docs/pfp-pledge-database"
+  - name: "CMS Innovation Center Model Awardees"
+    url: "https://data.cms.gov/developers/docs/cms-innovation-center-model-awardees"
+  - name: "CMS Innovation Center Data And Reports"
+    url: "https://data.cms.gov/developers/docs/cms-innovation-center-data-and-reports"
 
 - name: Centers for Disease Control (Health and Human Services)
   apis:
@@ -473,6 +534,22 @@
 
 - name: Federal Emergency Management Agency (Homeland Security)
   apis:
+  - name: "Public Assistance Funded Projects - Summary"
+    url: "https://www.fema.gov/developers-page/openfema-dataset-public-assistance-funded-projects-summaries-v1"
+  - name: "Public Assistance Funded Projects - Details"
+    url: "https://www.fema.gov/data-feeds/openfema-dataset-public-assistance-funded-projects-details-v1"
+  - name: "Public Assistance Applicants"
+    url: "https://www.fema.gov/data-feeds/openfema-dataset-public-assistance-applicants-v1"
+  - name: "Hazard Mitigation Grant Program Property Acquisitions"
+    url: "http://www.fema.gov/data-feeds/openfema-dataset-hazard-mitigation-grant-program-property-acquisitions-v1"
+  - name: "Hazard Mitigation Grants"
+    url: "https://www.fema.gov/data-feeds/openfema-dataset-hazard-mitigation-grants-v1"
+  - name: "Disaster Declarations Summaries"
+    url: "http://www.fema.gov/data-feeds/openfema-dataset-disaster-declarations-summaries-v1"
+  - name: "OpenFEMA Datasets"
+    url: "https://www.fema.gov/data-feeds/openfema-dataset-openfema-data-sets-v1"
+  - name: "OpenFEMA Dataset Fields"
+    url: "https://www.fema.gov/data-feeds/openfema-dataset-openfema-data-set-fields-v1"
   - name: "FEMA Enterprise GIS Services"
     url: "http://gis.fema.gov/REST/services"
 
@@ -592,7 +669,7 @@
   - name: "OSMRE ARCGIS Server"
     url: "http://geomine.osmre.gov/ArcGIS/rest"
 
-- name: Bureau of Alcohol, Tobacco, Firearms, and Explosives 
+- name: Bureau of Alcohol, Tobacco, Firearms, and Explosives (Justice)
   apis: 
   - name: "Time To Crime Rates For Firearms With A Recovery"
     url: "https://atf.socrata.com/developers/docs/time-to-crime-rates-for-firearms-with-a-recovery"
@@ -617,10 +694,22 @@
   - name: "E-Commerce API"
     url: "http://www.deaecom.gov/developer.html"
 
+- name: Office of Justice Programs (Justice)
+  apis: 
+  - name: "Award Selector API"
+    url: "http://data.ojp.gov/developer/awards/index.html"
+  - name: "Grant Funding Opportunities API"
+    url: "http://data.ojp.gov/services/ppi/includes/API/FundingAPI.htm"
+
 - name: Department of Labor 
   apis:
   - name: "Developer.DOL.gov APIs"
     url: "http://developer.dol.gov"
+
+- name: Bureau of Labor Statistics
+  apis: 
+  - name: "Public Data API"
+    url: "http://www.bls.gov/developers/"
 
 - name: Department of State
   apis:
