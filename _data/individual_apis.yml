@@ -443,6 +443,10 @@
     url: "https://api.seer.cancer.gov/home.do"
   - name: "Biological DataBase Network Web Services"
     url: "http://biodbnet.abcc.ncifcrf.gov/webServices/"
+  - name: "Cancer Data Standards Registry and Repository APIs"
+    url: "https://wiki.nci.nih.gov/display/caDSR/caDSR+APIs"
+  - name: "Object Cart API"
+    url: "https://wiki.nci.nih.gov/display/caDSR/Object+Cart+API"
 
 - name: National Institute of Allergy and Infectious Diseases (Health and Human Services)
   apis:
@@ -450,10 +454,6 @@
     url: "http://tools.niaid.nih.gov/register/api.aspx"
   - name: "DAVID API"
     url: "http://david.abcc.ncifcrf.gov/content.jsp?file=WS.html"
-  - name: "Cancer Data Standards Registry and Repository APIs"
-    url: "https://wiki.nci.nih.gov/display/caDSR/caDSR+APIs"
-  - name: "Object Cart API"
-    url: "https://wiki.nci.nih.gov/display/caDSR/Object+Cart+API"
 
 - name: National Institute on Drug Abuse (Health and Human Services)
   apis:
