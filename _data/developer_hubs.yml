@@ -46,13 +46,13 @@ Energy Information Administration:
 National Renewable Energy Laboratory:
   url: http://developer.nrel.gov/
 
-Office of Scientific &amp; Technical Information:
+Office of Scientific and Technical Information:
   url: http://www.osti.gov/XMLServices
 
-Department of Health &amp; Human Services:
+Department of Health and Human Services:
   url: http://www.hhs.gov/developer
 
-Centers for Medicare &amp; Medicaid Services:
+Centers for Medicare and Medicaid Services:
   url: http://data.cms.gov/
 
 Food and Drug Administration:
@@ -61,10 +61,13 @@ Food and Drug Administration:
 National Institute on Drug Abuse:
   url: http://www.drugabuse.gov/developer
 
+National Institutes of Health:
+  url: https://federation.nih.gov/webServices.asp
+
 National Library of Medicine:
   url: http://www.nlm.nih.gov/api/
 
-Substance Abuse &amp; Mental Health Services Administration:
+Substance Abuse and Mental Health Services Administration:
   url: http://store.samhsa.gov/developer
 
 Department of Homeland Security:
@@ -73,7 +76,7 @@ Department of Homeland Security:
 Federal Emergency Management Agency:
   url: http://www.fema.gov/developer-resources
  
-Department of Housing &amp; Urban Development:
+Department of Housing and Urban Development:
   url: http://www.hud.gov/developer
 
 Department of the Interior:
@@ -139,10 +142,10 @@ Federal Reserve Bank of St. Louis:
 General Services Administration:
   url: http://www.gsa.gov/developers/
 
-National Aeronautics &amp; Space Administration:
+National Aeronautics and Space Administration:
   url: http://open.nasa.gov/developer
 
-National Archives &amp; Records Administration:
+National Archives and Records Administration:
   url: http://www.archives.gov/developers/
 
 Federal Register:
