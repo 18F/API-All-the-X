@@ -11,7 +11,7 @@ at http://docs.ckan.org/en/latest/api.html)
 * https://www.google.com/search?q=uit+hpc+api
 * http://www.state.gov/r/pa/prs/ps/2013/11/218106.htm vs. http://www.state.gov/developer/210732.htm
 
-### EPA 
+ *EPA* 
 * http://iaspub.epa.gov/sor_internet/registry/reusereg/searchandretrieve/search.do?refineSearch=
 * [From issue](https://github.com/GSA/slash-developer-pages/issues/49)
 * Chemical data Access Tool
@@ -24,7 +24,7 @@ at http://docs.ckan.org/en/latest/api.html)
 * https://edg.epa.gov/metadata/webhelp/en/gptlv10/inno/EDG_Reuse.pdf
 * http://www.epa.gov/waters/geoservices/
 
-### HHS 
+ *HHS*
 * aids.gov - broken links to report 
 * http://locator.aids.gov/data-how-to.html
 * http://providertools.aids.gov/aids.gov/locator/#api
@@ -58,8 +58,9 @@ at http://docs.ckan.org/en/latest/api.html)
 
 
 ## Do these count as government? 
-* api.dhsprogram.com
+* http://api.dhsprogram.com
 * http://www.careeronestop.org/WebServices/WebServices.aspx
+* http://transportation.jointstatistics.org/home
 
 
 ## Undocumented 
