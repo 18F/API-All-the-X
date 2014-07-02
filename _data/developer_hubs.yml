@@ -121,7 +121,6 @@ Department of the Treasury:
 Department of Veterans Affairs:
   url: http://www.va.gov/developer
 
-
 Consumer Financial Protection Bureau:
   url: http://www.consumerfinance.gov/developers/
 
@@ -176,6 +175,9 @@ Data.gov:
 DEA - E-Commerce Program:
   url: http://www.deaecom.gov/developer.html
 
+DigitalGov Search:
+  url: http://search.digitalgov.gov/developer
+
 EnergyStar.gov:
   url: https://data.energystar.gov/developers
 
@@ -193,6 +195,9 @@ FuelEconomy.gov:
 
 Geoplatform.gov:
   url: http://www.geoplatform.gov/developer-pathway
+
+GlobalChange.gov:
+  url: http://data.globalchange.gov/
 
 Healthcare.gov:
   url: http://www.healthcare.gov/developers
@@ -254,14 +259,14 @@ Sustainable Facilities Tools:
 Small Business Innovation Research:
   url: http://www.sbir.gov/apis
 
+TreasuryDirect.gov:
+  url: http://www.treasurydirect.gov/webapis/webapisindex.htm
+
 USA.gov:
   url: http://www.usa.gov/developer
 
 USAJOBS.gov:
   url: https://data.usajobs.gov
-
-USASearch:
-  url: http://usasearch.howto.gov/developer/
 
 USASpending.gov:
   url: http://www.usaspending.gov/data?tab=API
