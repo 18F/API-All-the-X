@@ -1013,7 +1013,7 @@
 - name: Office of Personnel Management
   apis:
   - name: "Operating Status - Current Status API"
-    url: "http://www.opm.gov/developer/d ocumentation/current-status-api/"
+    url: "http://www.opm.gov/developer/documentation/current-status-api/"
   - name: "Operating Status - Status Types API"
     url: "http://www.opm.gov/developer/documentation/status-types-api/"
   - name: "Operating Status - Status History API"
