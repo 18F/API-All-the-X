@@ -639,6 +639,11 @@
   - name: "NPMap"
     url: "http://www.nps.gov/npmap/support/api.html"
 
+- name: Office of Surface Mining Reclamation and Enforcement (Interior)
+  apis:
+  - name: "OSMRE ARCGIS Server"
+    url: "http://geomine.osmre.gov/ArcGIS/rest"
+
 - name: US Geological Survey (Interior)
   apis:
   - name: "Biodiversity Information Serving Our Nation API"
@@ -675,11 +680,6 @@
     url: "http://waterservices.usgs.gov/rest/IV-Test-Tool.html"
   - name: "Water Services - Site Service"
     url: "http://waterservices.usgs.gov/rest/Site-Test-Tool.html"
-
-- name: Office of Surface Mining Reclamation and Enforcement (Interior)
-  apis:
-  - name: "OSMRE ARCGIS Server"
-    url: "http://geomine.osmre.gov/ArcGIS/rest"
 
 - name: Bureau of Alcohol, Tobacco, Firearms, and Explosives (Justice)
   apis: 
