@@ -335,8 +335,6 @@
     url: "http://locator.aids.gov/data-how-to.html"
   - name: "Content Syndication API"
     url: "https://syndication.hhs.gov/storefront/apiDoc"
-  - name: "Health Indicators Warehouse API"
-    url: "http://healthindicators.gov/Developers/"
   - name: "Health Topics A-to-Z API"
     url: "http://healthfinder.gov/developer/How_to_Use.aspx"
   - name: "Healthcare Finder API"
