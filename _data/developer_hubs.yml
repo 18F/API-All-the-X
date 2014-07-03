@@ -160,6 +160,9 @@ Nuclear Regulatory Commission:
 Office of Personnel Management:
   url: http://www.opm.gov/developer
 
+Recovery Accountability and Transparency Board:
+  url: http://www.recovery.gov/arra/FAQ/Developer/Pages/default.aspx
+
 Small Business Administration:
   url: http://www.sba.gov/about-sba/sba_performance/sba_data_store/web_service_api
 
@@ -255,9 +258,6 @@ Performance.gov Permits:
 
 Pillbox:
   url: http://pillbox.nlm.nih.gov/developer.html
-
-Recovery.gov:
-  url: http://www.recovery.gov/arra/FAQ/Developer/Pages/default.aspx
 
 Regulations.gov:
   url: http://www.regulations.gov/#!developers
