@@ -3,7 +3,7 @@ layout: page
 title: "API Case Studies"
 ---
 
-* [Centers for Disease Control & Prevention](http://18f.github.io/API-All-the-X/pages/casestudy_cdc_content.)
+* [Centers for Disease Control & Prevention](http://18f.github.io/API-All-the-X/pages/casestudy_cdc_content)
 * [Department of Labor—Software Development Kits (SDKs)](http://18f.github.io/API-All-the-X/pages/casestudy_dol)
 * [Federal Register](https://www.federalregister.gov/uploads/2012/11/FR2-API-Case-Study1.pdf)
 * [Federal Communications Commission Content API](http://seabourneinc.com/case-studies/fcc/)
