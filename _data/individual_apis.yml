@@ -347,6 +347,10 @@
     url: "http://healthdata.gov/catalog-api"
   - name: "HealthData.gov Data API"
     url: "http://healthdata.gov/data-api"
+  - name: "Applicant Web Services"
+    url: "http://www.grants.gov/web/grants/s2s/applicant/web-services.html"
+  - name: "Grantor Web Services"
+    url: "http://www.grants.gov/web/grants/s2s/grantor/web-services.html"
 
 - name: Agency for Healthcare Research and Quality (Health and Human Services)
   apis:
@@ -771,6 +775,13 @@
   - name: "Annual Currency Production by Denomination API"
     url: "https://explore.data.gov/developers/docs/annual-production-figures-of-united-states-currency"
 
+- name: Bureau of the Fiscal Service (Treasury)
+  apis: 
+  - name: "Debt Information API"
+    url: "http://www.treasurydirect.gov/webapis/webapisdebt.htm"
+  - name: "Treasury Security Information"
+    url: "http://www.treasurydirect.gov/webapis/webapisecurities.htm"
+
 - name: Internal Revenue Service (Treasury)
   apis:
   - name: "SOI County-to-County Outflow Migration Data API"
@@ -792,6 +803,10 @@
     url: "http://www.vetsuccess.gov/assets/VetSuccess-Web_Service_Integration_Manual.pdf"
   - name: "Digits-2-Digits Technical Resources"
     url: "http://www.innovation.va.gov/program-d2d.html"
+  - name: "Resources API"
+    url: "https://www.nrd.gov/home/api/resources"
+  - name: "Veterans Job Bank Search API"
+    url: "https://www.nrd.gov/home/api/veterans_job_search"
 
 - name: National Cemetary Administration (Veterans Affairs)
   apis: 
@@ -1011,6 +1026,13 @@
   - name: "ISE.gov Content API"
     url: "http://ise.gov/developers"
 
+- name: Recovery Accountability and Transparency Board
+  apis:
+  - name: "Recovery API"
+    url: "http://www.recovery.gov/FAQ/Developer/Pages/RecoveryAPI.aspx"
+  - name: "ArcGIS Map API"
+    url: "http://www.recovery.gov/FAQ/Developer/Pages/arcgisapi.aspx"
+
 - name: Small Business Administration
   apis:
   - name: "Business Licenses and Permits API"
@@ -1095,24 +1117,15 @@
   - name: "Service Status Checker"
     url: "http://registry.fgdc.gov/statuschecker/developers.php"
 
-
 - name: ForeignAssistance.gov
   apis: 
   - name: "Foreign Assistance API"
     url: "http://www.foreignassistance.gov/web/Developer.aspx"
 
-
 - name: Globalchange.gov
   apis: 
   - name: "Global Change Information System API"
     url: "http://data.globalchange.gov/api_reference"
-
-- name: Grants.gov
-  apis: 
-  - name: "Applicant Web Services"
-    url: "http://www.grants.gov/web/grants/s2s/applicant/web-services.html"
-  - name: "Grantor Web Services"
-    url: "http://www.grants.gov/web/grants/s2s/grantor/web-services.html"
 
 - name: Integrated Taxonomic Information System
   apis:
@@ -1123,24 +1136,3 @@
   apis: 
   - name: "NIEM Web Services API"
     url: "http://reference.niem.gov/niem/specification/web-services-api/1.0/web-services-api-1.0.pdf"
-
-- name: National Resource Directory
-  apis:
-  - name: "Resources API"
-    url: "https://www.nrd.gov/home/api/resources"
-  - name: "Veterans Job Bank Search API"
-    url: "https://www.nrd.gov/home/api/veterans_job_search"
-
-- name: Recovery.gov
-  apis:
-  - name: "Recovery API"
-    url: "http://www.recovery.gov/FAQ/Developer/Pages/RecoveryAPI.aspx"
-  - name: "ArcGIS Map API"
-    url: "http://www.recovery.gov/FAQ/Developer/Pages/arcgisapi.aspx"
-
-- name: TreasuryDirect.gov
-  apis: 
-  - name: "Debt Information API"
-    url: "http://www.treasurydirect.gov/webapis/webapisdebt.htm"
-  - name: "Treasury Security Information"
-    url: "http://www.treasurydirect.gov/webapis/webapisecurities.htm"
