@@ -6,12 +6,18 @@ title: ".Gov APIs in the News"
 ### June 23, 2014
 * [Federal Government So Slow To Adopt New Technologies...Wait, What, A Swift API SDK?](http://apievangelist.com/2014/06/23/federal-government-so-slow-to-adopt-new-technologieswait-what-a-swift-api-sdk/)
 
+### June 17, 2014
+* [Adding Data Visualization Layer to Interactive API Documentation](http://apievangelist.com/2014/06/17/adding-data-visualization-layer-to-interactive-api-documentation/)
+
 ### June 11, 2014
 * [Facebook taps GSA API for social media verification](http://www.fiercemobilegovernment.com/story/facebook-taps-gsa-api-social-media-verification/2014-06-11)
 
 ### June 5, 2014
 * [APIs and the Education Ecosystem - Apigee.com](https://blog.apigee.com/detail/apis_and_the_education_ecosystem)
 * [Four Takeaways from the openFDA Launch that Made it Wildly Successful (in our opinion) - SocialHealthInsights.com](http://socialhealthinsights.com/2014/06/openfda-api-launch-success/)
+
+### June 4, 2014
+* [Another Strong API Implementation In Federal Government With OpenFDA](http://apievangelist.com/2014/06/04/another-strong-api-implementation-in-federal-government-with-openfda/)
 
 ### May 20, 2014
 * [Direct from the White House: APIs are key to extending platforms](http://opensource.com/government/14/5/interview-leigh-heyman-executive-office-president?sc_cid=70160000000c9pZAAQ)
