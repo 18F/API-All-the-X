@@ -3,6 +3,9 @@ layout: page
 title: ".Gov APIs in the News"
 ---
 
+### July 10, 2014
+* [Looking At 77 Federal Government API Developer Portals And 190 APIs](http://apievangelist.com/2014/07/10/looking-at-77-federal-government-api-developer-portals-and-190-apis/)
+
 ### June 23, 2014
 * [Federal Government So Slow To Adopt New Technologies...Wait, What, A Swift API SDK?](http://apievangelist.com/2014/06/23/federal-government-so-slow-to-adopt-new-technologieswait-what-a-swift-api-sdk/)
 
