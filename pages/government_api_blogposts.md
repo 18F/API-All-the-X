@@ -21,6 +21,19 @@ authors: "Gray Brooks"
 * [Census Bureau’s API Continues Commitment to Innovation](http://www.commerce.gov/blog/2014/03/20/census-bureau%E2%80%99s-api-continues-commitment-innovation)
 * [More Data in the Census Bureau API to Help You #hackforchange](http://www.commerce.gov/blog/2014/06/10/more-data-census-bureau-api-help-you-hackforchange-0)
 
+### Department of Defense 
+* http://www.adlnet.gov/adl-releases-scorm-version-1-2-and-scorm-2004-api-wrapper-files/
+* http://www.adlnet.gov/free-xapi-workshops-at-the-orlando-adl-co-lab-17-19-june-2014/
+* http://www.adlnet.gov/resources/official-adl-scorm-api-wrappers?type=software_downloads
+* http://www.adlnet.gov/tla/experience-api/
+* http://www.adlnet.gov/tla/experience-api/adopters/
+* http://www.adlnet.gov/tla/experience-api/background-and-history/
+* http://www.adlnet.gov/tla/experience-api/developer-tools-and-examples/
+* http://www.adlnet.gov/tla/experience-api/technical-specification/
+* http://www.adlnet.gov/xapibootcamp2014/
+* http://www.adlnet.gov/xapibootcampreg2014/
+
+
 ### Department of Education
 * [How Can the Department of Education Increase Innovation, Transparency and Access to Data?](http://www.ed.gov/blog/2014/04/how-can-the-department-of-education-increase-innovation-transparency-and-access-to-data/)
 
