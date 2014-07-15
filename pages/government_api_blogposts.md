@@ -27,6 +27,9 @@ authors: "Gray Brooks"
 ### Department of Education
 * [How Can the Department of Education Increase Innovation, Transparency and Access to Data?](http://www.ed.gov/blog/2014/04/how-can-the-department-of-education-increase-innovation-transparency-and-access-to-data/)
 
+### Department of Energy 
+* [Department of Energy Implements APIs in the Cloud](http://energy.gov/cio/articles/department-energy-implements-apis-cloud)
+
 ### Department of Health and Human Services
 * [Ten Things to Know About Drug Adverse Events](http://open.fda.gov/update/ten-things-to-know-about-adverse-events/)
 * [Making Information More Accessible, The Digital Government Strategy](http://www.healthdata.gov/blog/making-information-more-accessible-digital-government-strategy)
