@@ -3,6 +3,9 @@ layout: page
 title: ".Gov APIs in the News"
 ---
 
+### July 16, 2014
+* [18F's API standards, GSA's newest dashboard, FCC's cyber-obligations and more](http://fcw.com/articles/2014/07/16/news-in-brief-july-16.aspx)
+
 ### July 10, 2014
 * [Looking At 77 Federal Government API Developer Portals And 190 APIs](http://apievangelist.com/2014/07/10/looking-at-77-federal-government-api-developer-portals-and-190-apis/)
 * [Low Hanging Fruit For API Discovery In The Federal Government](http://apievangelist.com/2014/07/10/low-hanging-fruit-for-api-discovery-in-the-federal-government/)
