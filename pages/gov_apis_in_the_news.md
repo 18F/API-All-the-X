@@ -11,6 +11,9 @@ title: ".Gov APIs in the News"
 ### July 7, 2014
 * [OPM Analyst Takes a Look at Government APIs](http://www.fedweek.com/item-view.php?tbl=15&ID=220)
 
+### July 3, 2014
+* [API first: Shifting how government delivers services](http://gcn.com/articles/2014/07/03/api-tier.aspx)
+
 ### June 23, 2014
 * [Federal Government So Slow To Adopt New Technologies...Wait, What, A Swift API SDK?](http://apievangelist.com/2014/06/23/federal-government-so-slow-to-adopt-new-technologieswait-what-a-swift-api-sdk/)
 
