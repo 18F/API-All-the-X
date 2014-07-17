@@ -8,6 +8,9 @@ title: ".Gov APIs in the News"
 * [Low Hanging Fruit For API Discovery In The Federal Government](http://apievangelist.com/2014/07/10/low-hanging-fruit-for-api-discovery-in-the-federal-government/)
 * [Applying APIs.json To API Discovery In The Federal Government](http://apievangelist.com/2014/07/10/applying-apisjson-to-api-discovery-in-the-federal-government/)
 
+### July 7, 2014
+* [OPM Analyst Takes a Look at Government APIs](http://www.fedweek.com/item-view.php?tbl=15&ID=220)
+
 ### June 23, 2014
 * [Federal Government So Slow To Adopt New Technologies...Wait, What, A Swift API SDK?](http://apievangelist.com/2014/06/23/federal-government-so-slow-to-adopt-new-technologieswait-what-a-swift-api-sdk/)
 
