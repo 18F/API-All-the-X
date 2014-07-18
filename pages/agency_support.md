@@ -7,6 +7,9 @@ authors: "Gray Brooks"
 
 ## Direct support available to agencies 
 
+### Contract Support 
+This session assists an agency team that is assembling paperwork for a new contract or a modification to an existing contract.  This may be used at the start or to refine an existing draft.  These sessions can be in person, via virtual meeting, or conference call.
+
 ### Design Support
 
 This session can provide brief or in-depth support for an agency team during the planning and design stage of API production.  This may be used to explore the considerations involved in API architecture and design and understand their implications.  It may also be used to arrive at design decisions for the API.  These sessions can be in person, via virtual meeting, or conference call.
