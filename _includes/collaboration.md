@@ -6,6 +6,7 @@
 * [Add sample policy documents](http://18f.github.io/API-All-the-X/pages/policy_documents)
 * [Edit 18F's API Standards](https://github.com/18F/api-standards)
 * [Expand notes on Write APIs](http://18f.github.io/API-All-the-X/pages/write_apis-notes) 
+* [Give Feedback on Government APIs](http://18f.github.io/API-All-the-X/pages/give_feedback) 
 * [Share your API Recipe](http://18f.github.io/API-All-the-X/pages/api_recipes)
 * [Share sample contract language](http://18f.github.io/API-All-the-X/pages/procurement_language)
 * [Share a case study](http://18f.github.io/API-All-the-X/pages/case_study_lists)
