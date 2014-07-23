@@ -3,7 +3,7 @@ layout: page
 title: "Sample API Requirements"
 ---
 
-What this is for?  
+The below is a set of requirements that can be applied to a new API project.  
 
 ### Design Requirements
 
