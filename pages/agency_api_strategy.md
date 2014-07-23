@@ -6,22 +6,22 @@ title: "Template API Strategy (Under Construction)"
   
 ## Summary  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque gravida molestie pellentesque. In hac habitasse platea dictumst. Morbi eu felis convallis risus faucibus iaculis dignissim sit amet sapien. Etiam nec vestibulum sapien. Duis fermentum vel purus vitae semper. Integer euismod sit amet sapien at imperdiet. Nulla justo lorem, pulvinar eget neque vitae, faucibus tincidunt dolor.
+Across the Internet and throughout each sector of business, the central role of APIs in the digital revolution cannot be overstated.  This document details a path for [AGENCY]’s adoption and integration of APIs.  
 
 ## Goals  
 
 ### Short   
 
-* Create a Foundation on which to build, technologically and with people 
+* Create a foundation on which to build, technologically and with people 
 * Begin acculturating internally 
 * Prompt initial external interest
    * Begin developing an external developer community 
-* Get Started
+* *Get Started*
 
 ### Long 
 * Private sector efficiencies
-* Faster Prototyping 
-* Greater Ease of Prototyping 
+* Faster prototyping 
+* Greater ease of prototyping 
 * Lower cost of development 
 
 ## Benefits
