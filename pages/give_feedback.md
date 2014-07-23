@@ -6,37 +6,37 @@ title: "Give Feedback on Government APIs"
 Some agencies allow direct, constructive feedback by using GitHub issues for their developer feedback.  
 
 ### Department of Agriculture
-* [All APIs](http://www.usda.gov/developer) / [Issue Tracker](https://github.com/usda/USDA-APIs/issues)
+* [All APIs](http://www.usda.gov/developer) / *[Issue Tracker](https://github.com/usda/USDA-APIs/issues)*
 
 ### Department of Health and Human Services
-* [FDA Drug Adverse Events API](https://open.fda.gov/drug/event/) / [Issue Tracker](https://github.com/FDA/openfda/issues)
-* [FDA Device Recalls API](https://open.fda.gov/device/enforcement/) / [Issue Tracker](https://github.com/FDA/openfda/issues)
-* [FDA Food Recalls API](https://open.fda.gov/food/enforcement/) / [Issue Tracker](https://github.com/FDA/openfda/issues)
+* [FDA Drug Adverse Events API](https://open.fda.gov/drug/event/) / *[Issue Tracker](https://github.com/FDA/openfda/issues)*
+* [FDA Device Recalls API](https://open.fda.gov/device/enforcement/) / *[Issue Tracker](https://github.com/FDA/openfda/issues)*
+* [FDA Food Recalls API](https://open.fda.gov/food/enforcement/) / *[Issue Tracker](https://github.com/FDA/openfda/issues)*
 
 ### Department of Labor
-* [All APIs](http://developer.dol.gov) / [Issue Tracker](https://github.com/USDepartmentofLabor/DOLAPI/issues)
+* [All APIs](http://developer.dol.gov) / *[Issue Tracker](https://github.com/USDepartmentofLabor/DOLAPI/issues)*
 
 ### Department of State
-* [Office of the Historian API](http://history.state.gov/developer) / [Issue Tracker](https://github.com/HistoryAtState/Feedback)
+* [Office of the Historian API](http://history.state.gov/developer) / *[Issue Tracker](https://github.com/HistoryAtState/Feedback)*
 
 ### Consumer Financial Protection Bureau
-* [HMDA API](http://cfpb.github.io/api/hmda/) / [Issue Tracker](https://github.com/cfpb/api/issues)
+* [HMDA API](http://cfpb.github.io/api/hmda/) / *[Issue Tracker](https://github.com/cfpb/api/issues)*
 
 ### General Services Administration
-* [FBOpen API](http://docs.fbopen.apiary.io/) / [Issue Tracker](https://github.com/18f/fbopen/issues)
-* [SAM API](http://gsa.github.io/sam_api/sam/) / [Issue Tracker](https://github.com/gsa/sam_api/issues?state=open)
-* [All APIs](http://gsa.gov/developer) / [Issue Tracker](https://github.com/GSA/GSA-APIs/issues)
+* [FBOpen API](http://docs.fbopen.apiary.io/) / *[Issue Tracker](https://github.com/18f/fbopen/issues)*
+* [SAM API](http://gsa.github.io/sam_api/sam/) / *[Issue Tracker](https://github.com/gsa/sam_api/issues?state=open)*
+* [All APIs](http://gsa.gov/developer) / *[Issue Tracker](https://github.com/GSA/GSA-APIs/issues)*
 
 ### National Aeronautics and Space Administration
-* [All APIs](http://open.nasa.gov/developer/) / [Issue Tracker](https://github.com/nasa/NASA-APIs/issues)
+* [All APIs](http://open.nasa.gov/developer/) / *[Issue Tracker](https://github.com/nasa/NASA-APIs/issues)*
 
 ### US Agency for International Development
-* [All APIs](http://www.usaid.gov/developer) / [Issue Tracker](https://github.com/usaid/Feedback/issues)
+* [All APIs](http://www.usaid.gov/developer) / *[Issue Tracker](https://github.com/usaid/Feedback/issues)*
 
 
 ## You can also offer usefully share feedback through other front-facing feedback mechanisms 
-* [NCI - caDSR API](https://wiki.nci.nih.gov/display/caDSR/caDSR+APIs) / [Issue Tracker](https://tracker.nci.nih.gov/browse/CADSRAPI)
-* [Census Bureau APIs](http://www.census.gov/developers/) / [Developer Forum](http://apiforum.ideascale.com/)
+* [NCI - caDSR API](https://wiki.nci.nih.gov/display/caDSR/caDSR+APIs) / *[Issue Tracker](https://tracker.nci.nih.gov/browse/CADSRAPI)*
+* [Census Bureau APIs](http://www.census.gov/developers/) / *[Developer Forum](http://apiforum.ideascale.com/)*
 
 
 ### To Process
