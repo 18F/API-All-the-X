@@ -1,13 +1,11 @@
 ---
 layout: page
-title: "Template API Strategy"
+title: "Template API Strategy (Under Construction)"
 ---
-
-*[Under Construction]*  
 
 
 # [AGENCY] API Strategy  
-
+  
 ## Summary  
 
 ## Goals  
