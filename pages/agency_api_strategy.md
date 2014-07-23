@@ -8,6 +8,10 @@ title: "Template API Strategy (Under Construction)"
 
 Across the Internet and throughout each sector of business, the central role of APIs in the digital revolution cannot be overstated.  This document details a path for [AGENCY]’s adoption and integration of APIs.  
 
+## Background 
+
+[Add in policy directives driving APIs]
+
 ## Goals  
 
 ### Short   
@@ -53,15 +57,14 @@ APIs:
 * Social media campaign 
 * Press Release 
 * Brief Stakeholders, Go on an internal road show 
-
+* Ensure inclusion in data management efforts 
 
 ## Stage 2 (Next 12-18 months) 
-
-
 
 * RFI 
 * Plot out an API design for a significant portion
    * Maintain in the Open 
+   * Sync with data management efforts 
 * Adopt API Standards for New APIs 
 * Bring legacy APIs into sync with Standards
 * Plan for future deprecation 
@@ -85,9 +88,11 @@ APIs:
 * Grow out /developer page 
 * Scale out analytics access for others
 * Set up internal /developer page 
+* Plot out and internal API strategy.  
 * Round 2 of Internal Road Show 
    * Brown bag lunch with external stakeholders
-
+* Measure and Improve 
+* Ensure inclusion in 3rd party API catalogs 
 
 
 ## Stage 3 (Next 3-6 years) 
@@ -97,6 +102,7 @@ APIs:
 * Measure 
 * Interate 
 * Dogfood 
+* Pursue an 'Amazon-style' policy 
 * /Developer - Gold Standard
    * API Status 
 * Engage Developers 
