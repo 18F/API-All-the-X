@@ -7,7 +7,7 @@ The below is a set of requirements that can be applied to a new API project.
 
 ### Design Requirements
 
-* RESTful
+* REST Inspired (a.k.a. Not SOAP)
 * JSON
 * Use [API.Data.gov](http://api.data.gov/about).  
 * Create an endpoint that can scale to all future agency use (e.g. https://api.agency.gov/name_of_this_api).  If this already exists, design to be in sync with it to the same end.   
