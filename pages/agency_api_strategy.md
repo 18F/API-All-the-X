@@ -5,7 +5,7 @@ title: "Template API Strategy (Under Construction)"
 
 # [AGENCY] API Strategy  
   
-A path for agency-wide adoption and integration of APIs.  
+  
   
 ## Summary  
 
