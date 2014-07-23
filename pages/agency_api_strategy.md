@@ -3,9 +3,6 @@ layout: page
 title: "Template API Strategy (Under Construction)"
 ---
 
-# [AGENCY] API Strategy  
-  
-  
   
 ## Summary  
 
