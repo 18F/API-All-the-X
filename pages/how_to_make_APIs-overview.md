@@ -36,6 +36,7 @@ These first two approaches target data that is already in a spreadsheet file. Of
 ### 3. Activate your database's potential
 
 Existing databases provide live, on-demand access to information that is regularly updated. Most agency systems store their underlying data in a database. Many databases have API functionality built in that can be activated with little effort. You are still required to take the generic documentation for the database API and customize it for your service. Although technically easy, it also requires close coordination with the system owners and technicians to ensure that the API can be deployed safely—that is, that the data can be exposed and that the infrastructure can support the load.  
+
 ### 4. Build the API into the system
 
 Any of your agency’s systems are capable of becoming API-enabled, though it may require using custom development to integrate the functionality. By consulting the system owners and working with the IT resources responsible for the system, it may be as straightforward as requesting that the system requirements be updated to include API access. The goal is to ensure that the data can be accessed by third parties programmatically. For systems which are currently under construction or undergoing an update, it makes sense to include this requirement in the planning stage.
