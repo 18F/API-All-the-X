@@ -16,6 +16,7 @@ The below is a set of requirements that can be applied to a new API project.
 ### Documentation Requirements
 * HTML - No Word documents or PDFs
 * Interactive Documentation
+* Fork and repurpose [CFPB's API documentation](http://18f.github.io/API-All-the-X/pages/developer_hub_templates) for this API's documentation. 
 
 ### Process Requirements
 * Include a beta testing phase
