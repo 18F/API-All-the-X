@@ -36,12 +36,74 @@ APIs:
 * Speed product development through improved prototyping and ease of access for internal teams and sister agencies by allowing granular and open access to content.
 * Build markets by improving access to government resources like health, economic, energy, education, environmental resources for entrepreneurs to build upon.
 
-## Stage 1 
+## Stage 1 (Next 4-6 months)
 
-## Stage 2 
+* Set up an initial /developer page 
+   * What a MVP looks like 
+   * What you want it to become. 
+   * Standard for API documentation 
+* Follow the ‘How to Get Started with APIs program’
+* Attend DC API Meetup, ask for help 
+* Join the listserve and say hello 
+* Encourage partners you’ll be working (legal, security, system owners) with to join 
+* Chose initial candidates for APIs 
+* First APIs 
+   * API UX 
+* Blog Regularly, be sure to respond to comments 
+* Social media campaign 
+* Press Release 
+* Brief Stakeholders, Go on an internal road show 
 
-## Stage 3 
+
+## Stage 2 (Next 12-18 months) 
+
+
+
+* RFI 
+* Plot out an API design for a significant portion
+   * Maintain in the Open 
+* Adopt API Standards for New APIs 
+* Bring legacy APIs into sync with Standards
+* Plan for future deprecation 
+* Engage Developers 
+   * Webinars
+   * Regular API UX 
+* Host Events
+* Assemble a standing working group, make someone point. 
+* Have working group continue to try and normalize their services and documentation.  
+   * Update legacy documentation ito norm 
+* Connect with in-process contracts to ensure APIs in them 
+* Assemble template contract language for use in upcoming contracts and coordinate with stakeholders to ensure that they are aware and will incorporate  
+* Guest blogging by external parties using APIs
+* Mod existing contracts to bring into relevance
+* Content API
+* Write APIs - First pass
+* Review the Agency Maturity Model and take into account for [AGENCY].  Focus on each of the areas and discuss direction with stakeholders.  
+* formalize security 
+* formalize legal 
+* Open Source API engine 
+* Grow out /developer page 
+* Scale out analytics access for others
+* Set up internal /developer page 
+* Round 2 of Internal Road Show 
+   * Brown bag lunch with external stakeholders
+
+
+
+## Stage 3 (Next 3-6 years) 
   
+* Scale out - All Systems
+   * Write APIs, deep pass
+* Measure 
+* Interate 
+* Dogfood 
+* /Developer - Gold Standard
+   * API Status 
+* Engage Developers 
+   * Road Show to External Stakeholders 
+* Host events 
+* Set up internal /developer page 
+
   
 ## Linked Resources
 * [Agency Maturity Model](http://18f.github.io/API-All-the-X/pages/agency_maturity_model)
