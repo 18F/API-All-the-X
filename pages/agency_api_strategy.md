@@ -119,6 +119,7 @@ APIs:
 * [Benefits of APIs](http://18f.github.io/API-All-the-X/pages/benefits_of_apis)
 * [DC API Meetup](www.meetup.com/DC-Web-API-User-Group/)
 * [Model Developer Terms of Service](https://github.com/GSA/API-Resources/tree/master/developer_tos#readme)
+* [Sample API Requirements](http://18f.github.io/API-All-the-X/pages/sample_api_requirements)
 * [US Government API Listserve](https://groups.google.com/forum/#!forum/us-government-apis)
 
   
