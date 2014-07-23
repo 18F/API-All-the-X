@@ -3,19 +3,16 @@ layout: page
 title: "Template API Strategy"
 ---
 
-*[Under Construction]*
+*[Under Construction]*  
 
 
-# [AGENCY] API Strategy
+# [AGENCY] API Strategy  
 
+## Summary  
 
-## Summary 
+## Goals  
 
-
-
-## Goals
-
-### Short 
+### Short   
 
 * Create a Foundation on which to build, technologically and with people 
 * Begin acculturating internally 
