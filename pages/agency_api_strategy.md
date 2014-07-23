@@ -58,6 +58,8 @@ APIs:
 * Press Release 
 * Brief Stakeholders, Go on an internal road show 
 * Ensure inclusion in data management efforts 
+* Take advantage of trainings and supports.  
+* Share updates on listserve.  
 
 ## Stage 2 (Next 12-18 months) 
 
@@ -93,6 +95,8 @@ APIs:
    * Brown bag lunch with external stakeholders
 * Measure and Improve 
 * Ensure inclusion in 3rd party API catalogs 
+* Take advantage of trainings and supports.  
+* Share updates on listserve.  
 
 
 ## Stage 3 (Next 3-6 years) 
@@ -109,7 +113,8 @@ APIs:
    * Road Show to External Stakeholders 
 * Host events 
 * Set up internal /developer page 
-
+* Take advantage of trainings and supports.  
+* Share updates on listserve.  
   
 ## Linked Resources
 * [Agency Maturity Model](http://18f.github.io/API-All-the-X/pages/agency_maturity_model)
