@@ -16,7 +16,7 @@ authors: "Gray Brooks"
 * Offer a source of developer updates.  
 * Offer a means by which developers can subscribe to updates.  
 * Reach out to existing users of the data for their input on future development.  
-* Host hackathons.  
+* Host [hackathons, datajams, and other developer-focused events](http://project-open-data.github.io/#open-data-engagement).  
 * Generate content that tells the story of your agency's data and points back to it.  
 * Respond to comments on your content.  
 * Ask the developer community what data they most want but don't have and what improvements to existing data would be most useful to them.  Then, follow through on that and report back that you have.  
