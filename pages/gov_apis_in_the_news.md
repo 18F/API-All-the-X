@@ -10,6 +10,9 @@ title: ".Gov APIs in the News"
 * [18F's API standards, GSA's newest dashboard, FCC's cyber-obligations and more - Federal Computer Weekly](http://fcw.com/articles/2014/07/16/news-in-brief-july-16.aspx)
 * [GSA's innovation team announces new API standards - Fierce Government IT](http://www.fiercegovernmentit.com/story/gsas-innovation-team-announces-new-api-standards/2014-07-16)
 
+### July 15, 2014 
+* [Chief Data Officer Needs To Make The Department Of Commerce Developer Portal The Center Of API Economy](http://apievangelist.com/2014/07/15/chief-data-officer-needs-to-make-the-department-of-commerce-developer-portal-the-center-of-api-economy/)
+
 ### July 10, 2014
 * [Looking At 77 Federal Government API Developer Portals And 190 APIs](http://apievangelist.com/2014/07/10/looking-at-77-federal-government-api-developer-portals-and-190-apis/)
 * [Low Hanging Fruit For API Discovery In The Federal Government](http://apievangelist.com/2014/07/10/low-hanging-fruit-for-api-discovery-in-the-federal-government/)
