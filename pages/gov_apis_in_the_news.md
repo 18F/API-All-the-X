@@ -12,6 +12,8 @@ title: ".Gov APIs in the News"
 
 ### July 15, 2014 
 * [Chief Data Officer Needs To Make The Department Of Commerce Developer Portal The Center Of API Economy](http://apievangelist.com/2014/07/15/chief-data-officer-needs-to-make-the-department-of-commerce-developer-portal-the-center-of-api-economy/)
+* [Need A Formal API Standard For Your Government Agency? Fork 18Fs, And Make It Your Own!](http://apievangelist.com/2014/07/15/need-a-formal-api-standard-for-your-government-agency--fork-18fs-and-make-it-your-own/)
+
 
 ### July 10, 2014
 * [Looking At 77 Federal Government API Developer Portals And 190 APIs](http://apievangelist.com/2014/07/10/looking-at-77-federal-government-api-developer-portals-and-190-apis/)
