@@ -918,6 +918,8 @@
     url: "http://www.data.gov/developers/apis"
   - name: "Data Center Consolidation API"
     url: "https://explore.data.gov/developers/docs/federal-data-center-consolidation-initiative-fdcci-data-center-closings-2010-2013"
+  - name: "FBOpen"
+    url: "http://18f.github.io/fbopen/"
   - name: "FedBizOpps Documentation"
     url: "https://www.fbo.gov/?s=generalinfo&mode=list&tab=list&tabmode=list&static=documentation"
   - name: "Federal Agency Directory API"
