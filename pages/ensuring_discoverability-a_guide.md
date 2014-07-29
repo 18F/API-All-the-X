@@ -23,6 +23,14 @@ More details, including schema details and complete guidance for the maintenance
 
 ## Ensure SEO 
 
+* Clean URLs
+* Ensure pages are being crawled
+* Ensure the metadata for those pages and how they look in search results 
+* Ensure there are no conflicts with the robots.txt file
+* ...
+
 ## Engage with Developer Communities 
 
+* [A model](http://18f.github.io/API-All-the-X/pages/developer_engagement-a_model)
+* ...
 
