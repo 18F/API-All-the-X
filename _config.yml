@@ -70,6 +70,6 @@ navigation:
   internal: false
 - text: Contact Us
   url: pages/contact_us
-  internal: false
+  internal: true
   
   
