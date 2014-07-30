@@ -27,7 +27,7 @@ Thanks for contributing! There are two ways to submit changes:
 5. Submit a pull request to open a discussion about your proposed changes.
 6. We'll review your pull request and merge it if your changes are acceptable. Otherwise, we'll request additional changes from you.
 
----
+### Public domain
 
 The project is in the public domain within the United States, and
 copyright and related rights in the work worldwide are waived through

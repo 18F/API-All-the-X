@@ -42,3 +42,4 @@ Run the Jekyll server and watch for file changes:
 Your computer should now be serving your local copy of the site at:
 
 [http://0.0.0.0:4000](http://0.0.0.0:4000).
+
