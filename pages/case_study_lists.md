@@ -4,6 +4,7 @@ title: "API Case Studies"
 ---
 
 * [Centers for Disease Control & Prevention](http://18f.github.io/API-All-the-X/pages/casestudy_cdc_content)
+* [CFPB Open Source API Documentation](http://18f.github.io/open-source-program/pages/case_study/CFPB_open_source_documentation)
 * [Department of Labor—Software Development Kits (SDKs)](http://18f.github.io/API-All-the-X/pages/casestudy_dol)
 * [Federal Register](https://www.federalregister.gov/uploads/2012/11/FR2-API-Case-Study1.pdf)
 * [Federal Communications Commission Content API](http://seabourneinc.com/case-studies/fcc/)
