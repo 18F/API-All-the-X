@@ -3,8 +3,11 @@ layout: page
 title: ".Gov APIs in the News"
 ---
 
+### August 6, 2014
+* [18F Releases New Tools To Facilitate API Enablement - ProgrammableWeb](http://www.programmableweb.com/news/18f-releases-new-tools-to-facilitate-api-enablement/analysis/2014/08/06)
+
 ### July 28, 2014
-* [18F Releases API Standards for Government Agencies](http://www.programmableweb.com/news/18f-releases-api-standards-government-agencies/2014/07/28)
+* [18F Releases API Standards for Government Agencies - ProgrammableWeb](http://www.programmableweb.com/news/18f-releases-api-standards-government-agencies/2014/07/28)
 
 ### July 16, 2014
 * [18F's API standards, GSA's newest dashboard, FCC's cyber-obligations and more - Federal Computer Weekly](http://fcw.com/articles/2014/07/16/news-in-brief-july-16.aspx)
