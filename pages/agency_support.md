@@ -11,11 +11,11 @@ authors: "Gray Brooks"
 This session assists an agency team that is assembling paperwork for a new contract or a modification to an existing contract.  This may be used at the start or to refine an existing draft.  These sessions can be in person, via virtual meeting, or conference call.
 
 ### Content API Activation 
-This service is open to any federal agency using Drupal or Wordpress as a CMS.  It entails start to finish guidance and support for the activation of a site-wide content API.  
+This service is open to any federal agency using Drupal or Wordpress as a CMS.  It entails start-to-finish guidance and support for the activation of a site-wide content API.  
 
 ### Design Support
 
-This session can provide brief or in-depth support for an agency team during the planning and design stage of API production.  This may be used to explore the considerations involved in API architecture and design and understand their implications.  It may also be used to arrive at design decisions for the API.  These sessions can be in person, via virtual meeting, or conference call.
+This session can provide brief or in-depth support for an agency team during the planning and design stage of API production.  This may be used to explore the considerations involved in API architecture and design and to understand their implications.  It may also be used to arrive at design decisions for the API.  These sessions can be in person, via virtual meeting, or conference call.
 
 ### Documentation Support 
 
