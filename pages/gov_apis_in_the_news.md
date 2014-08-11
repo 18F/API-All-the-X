@@ -3,6 +3,9 @@ layout: page
 title: ".Gov APIs in the News"
 ---
 
+### August 9, 2014
+* [18F API Standards - HN](https://news.ycombinator.com/item?id=8156826)
+
 ### August 6, 2014
 * [18F Releases New Tools To Facilitate API Enablement - ProgrammableWeb](http://www.programmableweb.com/news/18f-releases-new-tools-to-facilitate-api-enablement/analysis/2014/08/06)
 
