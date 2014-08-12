@@ -33,6 +33,8 @@ Some agencies allow direct, constructive feedback by using GitHub issues for the
 ### US Agency for International Development
 * [All APIs](http://www.usaid.gov/developer) / *[Issue Tracker](https://github.com/usaid/Feedback/issues)*
 
+### ForeignAssistance.gov
+* [ForeignAssistance.gov](https://github.com/foreignassistance/FAD.API/issues)
 
 ## You can also offer usefully share feedback through other front-facing feedback mechanisms 
 * [NCI - caDSR API](https://wiki.nci.nih.gov/display/caDSR/caDSR+APIs) / *[Issue Tracker](https://tracker.nci.nih.gov/browse/CADSRAPI)*
