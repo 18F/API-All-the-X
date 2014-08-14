@@ -89,9 +89,9 @@ Specifically, this modification will require the following tasks to be performed
 ### Scenario H 
 *Agency has an existing website with substantial amounts of data within it.  They are now adding a deliverable to the existing contract behind the system to add a requirement for a read/write API.*
 
-1.0  	INTRODUCTION:  
+**1.0  	INTRODUCTION:**    
 
-1.1	The [NAME OF PROGRAM] Program manages [WEBSITE NAME, WEBSITE URL]  and its associated [SYSTEM NAME, SYSTEM URL]  in a collaborative effort to make [xxxxxx] opportunities and data available to the American and International public.  These efforts meet the intentions of the Open Government and Data initiatives.  This is an in-scope add-on to Contract # xxxxxxxxxx and Order # yyyyyyyyyyyy.
+**1.1**	The [NAME OF PROGRAM] Program manages [WEBSITE NAME, WEBSITE URL]  and its associated [SYSTEM NAME, SYSTEM URL]  in a collaborative effort to make [xxxxxx] opportunities and data available to the American and International public.  These efforts meet the intentions of the Open Government and Data initiatives.  This is an in-scope add-on to Contract # xxxxxxxxxx and Order # yyyyyyyyyyyy.
 
 **2.0  	SCOPE:**  
 
@@ -130,7 +130,7 @@ The Contractor shall propose a schedule of development and delivery of all reque
 
 The Government requests all deliverables be completed and delivered by MM-33-YYYY.
 
-**3.0  	GOVERNMENT-FURNISHED EQUIPMENT (GFE) AND MATERIALS: **  
+**3.0  	GOVERNMENT-FURNISHED EQUIPMENT (GFE) AND MATERIALS:**  
 
 **3.1  	GFE:**  [SYSTEM] Database/Servers  
 
@@ -142,7 +142,7 @@ The Government requests all deliverables be completed and delivered by MM-33-YYY
 
 **4.2  	Deliverable #2** – API Test Environment
 
-**4.3	Deliverable #3** –Fully developed and functional API:  Containing the following features as described in Scope section 2.0:  Registration, authentication, search/filter interfaces, logging and reporting
+**4.3	Deliverable #3** – Fully developed and functional API:  Containing the following features as described in Scope section 2.0:  Registration, authentication, search/filter interfaces, logging and reporting
 
 **4.4	Deliverable #4** – API Technical Documentation
 
