@@ -157,3 +157,32 @@ The Government requests all deliverables be completed and delivered by MM-33-YYY
 | 4.4  | API Technical Documentation (final) | MM-DD-YYYY  | [Name/Email of COR]  |
 
 
+### Assorted Modification Snippets
+
+*For use (or "ingesting") API's:*  
+
+The Contractor must be able to deliver and maintain a solution that dynamically 
+integrates both static and dynamic content into web and mobile site templates to provide 
+a personalized user experience based on customer preferences, search results or user 
+navigation choices. This combined content may come from multiple data sources 
+(external API data feeds, widgets, internal database feeds, customer profile data, manual 
+content entered via an internal content management system by staff or 
+partners), as is done for registered users with stored preferences.
+
+*For creation of API's:*  
+
+Contractor shall expand [WEBSITE]'s ability to create machine readable data (for example, 
+application programming interfaces (API’s) from other Federal agency web platforms as 
+well as other web entities for the addition of content and data (including but not limited to 
+programs, provisions and other various information).
+
+*To address code rights:*  
+
+As part of this mutually agreed upon modification, in accordance with FAR 52.227-17, the contractor agrees that copyright ownership in all data/intellectual property, including but not limited to source code, text and images, first produced under the contract and incorporated in the deliverables on the updated Deliverables Schedule (date), is transferred to the agency name without restriction.
+ 
+For any data/intellectual property not first produced under the contract and incorporated on the updated Deliverables Schedule (date), the contractor agrees that it has not, nor shall not, without prior written permission of the Contracting Officer, incorporate in such deliverables any data not first produced in the performance of this contract and that contain the copyright notice of 17 U.S.C. 401 or 402, unless the Contractor identifies such data and grants to the Government, or acquires on its behalf, a license of the same scope as set forth in paragraph (c)(1) of FAR 52.227-17.
+
+
+
+
+
