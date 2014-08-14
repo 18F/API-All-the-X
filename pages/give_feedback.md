@@ -8,6 +8,9 @@ Some agencies allow direct, constructive feedback by using GitHub issues for the
 ### Department of Agriculture
 * [All APIs](http://www.usda.gov/developer) / *[Issue Tracker](https://github.com/usda/USDA-APIs/issues)*
 
+### Department of Commerce 
+* [International Trade Adminstration](https://github.com/InternationalTradeAdministration/developerportal)
+
 ### Department of Health and Human Services
 * [FDA Drug Adverse Events API](https://open.fda.gov/drug/event/) / *[Issue Tracker](https://github.com/FDA/openfda/issues)*
 * [FDA Device Recalls API](https://open.fda.gov/device/enforcement/) / *[Issue Tracker](https://github.com/FDA/openfda/issues)*
