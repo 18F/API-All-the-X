@@ -14,6 +14,7 @@ Many 3rd party online tools use common elements for their terms of service (ToS)
 * [GitHub](https://help.github.com/articles/amendment-to-github-terms-of-service-applicable-to-government-users) (available via section 17 of the [main ToS](https://help.github.com/articles/github-terms-of-service))  
 * [Apigee](http://apigee.com/about/content/amendment-apigee-terms-service) (available via section 15 of the [main ToS](http://apigee.com/about/terms))  
 * [Mashape](https://www.mashape.com/terms/government) (available via 3rd Section of the [main ToS](https://www.mashape.com/terms))  
+* [StackExchange](http://stackexchange.com/legal/terms-of-service/usg) (available via the 'Government Users' section at the bottom of the [main ToS](http://stackexchange.com/legal))
 
 
 ## Process  
