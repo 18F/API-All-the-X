@@ -186,12 +186,15 @@ For any data/intellectual property not first produced under the contract and inc
 *General Guidance for any API procurement - From a presentation by Mulesoft*
 
 1. **DESIGN AND DEVELOP APIS**  
-*HABIT #1:* Apply an API-First design approach
+
+*HABIT #1:* Apply an API-First design approach  
 
 2. **RUN APIs**  
-*HABIT #2:* Choose a solid API runtime
+
+*HABIT #2:* Choose a solid API runtime  
 
 3. **MANAGE AND SOCIALIZE APIS**  
+  
 *HABIT #3:* Create A Central Service Repository to allow people to easily find APIs
 
 *HABIT #4:* Manage Services Through Versions, Policies and Contracts
