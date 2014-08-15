@@ -183,6 +183,25 @@ As part of this mutually agreed upon modification, in accordance with FAR 52.227
 For any data/intellectual property not first produced under the contract and incorporated on the updated Deliverables Schedule (date), the contractor agrees that it has not, nor shall not, without prior written permission of the Contracting Officer, incorporate in such deliverables any data not first produced in the performance of this contract and that contain the copyright notice of 17 U.S.C. 401 or 402, unless the Contractor identifies such data and grants to the Government, or acquires on its behalf, a license of the same scope as set forth in paragraph (c)(1) of FAR 52.227-17.
 
 
+*General Guidance for any API procurement - From a presentation by Mulesoft*
 
+1. **DESIGN AND DEVELOP APIS**  
+*HABIT #1:* Apply an API-First design approach
 
+2. **RUN APIs**  
+*HABIT #2:* Choose a solid API runtime
 
+3. **MANAGE AND SOCIALIZE APIS**  
+*HABIT #3:* Create A Central Service Repository to allow people to easily find APIs
+
+*HABIT #4:* Manage Services Through Versions, Policies and Contracts
+* Security and throttling policies
+* Carefully managing consumers of those APIs
+
+*HABIT #5:* Promote and socialize your API
+* Establishing a developer portal that is really easy for a developer to come in and use the API
+
+*HABIT #6:* Monitor and Assess API usage
+* Reviewing analytics metrics
+
+*HABIT #7:* Refactor API to improve consumer experience & productivity
