@@ -155,6 +155,8 @@
     url: "http://www.adlnet.gov/tla/experience-api"
   - name: "Clause Logic Service"
     url: "http://www.acq.osd.mil/dpap/pdi/eb/clause_logic_service.html"
+  - name: "Product Service Code (PSC) Tool API"
+    url: "https://psctool.us/apidocs"
 
 - name: US Army Corps of Engineers (Defense)
   apis:
