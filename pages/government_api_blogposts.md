@@ -31,6 +31,7 @@ title: "Government API Blogposts"
 
 ### Department of Health and Human Services
 * [Ten Things to Know About Drug Adverse Events](http://open.fda.gov/update/ten-things-to-know-about-adverse-events/)
+* [OpenFDA Provides Ready Access to Recall Data](http://healthdata.gov/blog/openfda-provides-ready-access-recall-data-1)
 * [Making Information More Accessible, The Digital Government Strategy](http://www.healthdata.gov/blog/making-information-more-accessible-digital-government-strategy)
 * [New Web Service: Chemical Activity Predictor](http://cactus.nci.nih.gov/blog/?p=1595&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+chemicalStructureBlog+(%2Fchemical%2Fstructure+Blog))
 * [Opening Up Our Data](http://www.hhs.gov/digitalstrategy/blog/2012/08/opening-up-our-data.html)
@@ -85,6 +86,9 @@ title: "Government API Blogposts"
 * [The API Briefing: Quick Guide to Using GitHub – FDA’s OpenFDA Research Project](http://www.digitalgov.gov/2014/06/11/the-api-briefing-quick-guide-to-using-github-fdas-openfda-research-project/)
 * [Facebook Increases Public Service Verification to Improve Citizen Engagement](http://www.digitalgov.gov/2014/06/09/facebook-increases-public-service-verification-to-improve-citizen-engagement-2/)
 * [The API Briefing: NARA’s Federal Register API – Learning How APIs Work](http://www.digitalgov.gov/2014/06/04/the-api-briefing-naras-federal-register-api-learning-how-apis-work/)
+* [The API Briefing: An API that Searches other APIs – HealthData.Gov’s Catalog API](http://www.digitalgov.gov/2014/08/06/the-api-briefing-an-api-that-searches-other-apis-healthdata-govs-catalog-api/)
+* [The API Briefing: Writable APIs – The Federal Register.gov Commenting Feature](http://www.digitalgov.gov/2014/08/13/the-api-briefing-writable-apis-the-federal-register-gov-commenting-feature)
+
 
 ### National Aeronautics and Space Administration
 * [The Open API Universe at NASA](http://open.nasa.gov/blog/2012/09/19/the-open-api-universe-at-nasa/)
