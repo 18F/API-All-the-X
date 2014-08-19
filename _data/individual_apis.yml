@@ -411,6 +411,10 @@
     url: "http://tools.fda.gov/CSStorefront/api.aspx"
   - name: "Adverse Events API"
     url: "https://open.fda.gov/drug/event/"
+  - name: "Enforcement Reports API"
+    url: "https://open.fda.gov/device/enforcement/"
+  - name: "Drug Labels API"
+    url: "https://open.fda.gov/drug/label/"
 
 - name: Health Resources and Services Administration (Health and Human Services)
   apis:
