@@ -28,7 +28,6 @@ authors: "Gray Brooks"
 ### Further Notes
 
 * DOE's [API Visualizer](http://en.openei.org/apps/api-browser/)
-* FDA's upcoming adverse effects API
 * CFPB, DOL, who else - offers all documentation in GitHub.  
 * [Terms of Service Collaboration](https://groups.google.com/forum/#!topic/us-government-apis/0yix5bEWbFo)
 * FCC repurposes Census data to create their [census block API](http://www.broadbandmap.gov/developer), one of its most popular web services.  
