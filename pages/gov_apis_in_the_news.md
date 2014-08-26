@@ -3,6 +3,12 @@ layout: page
 title: ".Gov APIs in the News"
 ---
 
+### August 21, 2014
+* [FDA Finding Their API Mojo With A New Drug Label API](http://apievangelist.com/2014/08/21/fda-finding-their-api-mojo-with-a-new-drug-label-api/)
+
+### August 14, 2014
+* [The Speed Of Federal Government When It Runs On Github](http://apievangelist.com/2014/08/14/the-speed-of-federal-government-when-it-runs-on-github/)
+
 ### August 9, 2014
 * [18F API Standards - Hacker News](https://news.ycombinator.com/item?id=8156826)
 
