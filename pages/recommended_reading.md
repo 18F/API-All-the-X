@@ -25,6 +25,7 @@ authors: "Gray Brooks"
   
 ### The Role of APIs in Government  
 * [Thoughts for Federal Agencies About To Deploy Web APIs](http://apievangelist.com/2012/06/02/thoughts-for-federal-agencies-about-to-deploy-web-apis/) - APIEvangelist
+* [The Minimum Viable Building Blocks For a Federal Government API Hub](http://www.digitalgov.gov/2014/08/18/the-minimum-viable-building-blocks-for-a-federal-government-api-hub/)
 * [GitHub in Government](http://ben.balter.com/open-source-for-government/#github) - BenBalter.com
 * [Publishing Government Data That Developers Will Actually Use](http://ben.balter.com/2012/06/02/publishing-government-data-that-developers-will-actually-use/) - BenBalter.com
 * [GET /open/government/apis](http://civic.io/2012/02/23/get-opengovernmentapis/) - Civic.io
