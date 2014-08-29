@@ -32,6 +32,7 @@ title: "Government API Blogposts"
 ### Department of Health and Human Services
 * [Ten Things to Know About Drug Adverse Events](http://open.fda.gov/update/ten-things-to-know-about-adverse-events/)
 * [OpenFDA Provides Ready Access to Recall Data](http://healthdata.gov/blog/openfda-provides-ready-access-recall-data-1)
+* [Providing Easy Access to Medical Device Reports Submitted to FDA since the Early 1990s](http://blogs.fda.gov/fdavoice/index.php/2014/08/providing-easy-access-to-medical-device-reports-submitted-to-fda-since-the-early-1990s/)
 * [Making Information More Accessible, The Digital Government Strategy](http://www.healthdata.gov/blog/making-information-more-accessible-digital-government-strategy)
 * [New Web Service: Chemical Activity Predictor](http://cactus.nci.nih.gov/blog/?p=1595&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+chemicalStructureBlog+(%2Fchemical%2Fstructure+Blog))
 * [Opening Up Our Data](http://www.hhs.gov/digitalstrategy/blog/2012/08/opening-up-our-data.html)
