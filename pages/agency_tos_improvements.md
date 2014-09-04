@@ -71,7 +71,7 @@ This page brings together notes about potential areas for improvement of agency 
 * "The APIs should be used on demand, rather than be queried and pulled into a separate database." vs. in the Usage Requirements "Use best practices to determine when to use the healthfinder.gov API in real-time versus when to use the API to gather the healthfinder.gov content and store it in a local database."
 
 
-### [HealthIndicators.gov](http://www.healthindicators.gov/PoliciesAndRegulations/APITermsOfService)
+### [HealthIndicators.gov](http://www.healthindicators.gov/PoliciesAndRegulations/APITermsOfService)*
 
 
 ### [Regulations.gov](http://www.regulations.gov/#!developers;page=termsOfService)*
