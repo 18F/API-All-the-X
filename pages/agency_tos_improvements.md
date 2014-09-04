@@ -23,7 +23,7 @@ This page brings together notes about potential areas for improvement of agency 
 ### [International Trade Administration](http://developer.trade.gov/tos.html)
 * [Indemnification Clauses](https://github.com/InternationalTradeAdministration/developerportal/pull/25)
 
-### [Agricultural Marketing Service - USDA](http://search.ams.usda.gov/farmersmarkets/v1/APITOS.html)
+### [Agricultural Marketing Service - USDA](http://search.ams.usda.gov/farmersmarkets/v1/APITOS.html)*
 
 
 ### [Economic Research Service - USDA](http://www.ers.usda.gov/developer/api-terms-of-service.aspx)*
