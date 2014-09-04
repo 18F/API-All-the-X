@@ -83,7 +83,7 @@ This page brings together notes about potential areas for improvement of agency 
 ### [Sustainable Facilities Tool - GSA](http://sftool.gov/developers/TermsOfUse)*
 
 
-### [TreasuryDirect.gov](http://www.treasurydirect.gov/webapis/webapisterms.htm)
+### [TreasuryDirect.gov](http://www.treasurydirect.gov/webapis/webapisterms.htm)*
 
 
 ### [USA.gov](http://www.usa.gov/About/developer-resources/terms-of-service.shtml)
