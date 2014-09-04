@@ -20,6 +20,8 @@ This page brings together notes about potential areas for improvement of agency 
 
 ### [Census Bureau - Commerce](http://www.census.gov/developers/tos/terms.html)*
 
+### [International Trade Administration](http://developer.trade.gov/tos.html)
+* [Indemnification Clauses](https://github.com/InternationalTradeAdministration/developerportal/pull/25)
 
 ### [Agricultural Marketing Service - USDA](http://search.ams.usda.gov/farmersmarkets/v1/APITOS.html)
 
