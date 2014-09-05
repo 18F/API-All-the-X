@@ -5,8 +5,7 @@ title: Terms of Service Improvements for Agencies
 
 This page brings together notes about potential areas for improvement of agency terms of service.  Please add suggestions below.  
 
-
-
+The notes here are all drafts and currently works in progress. To see the author of any given piece of text in this document, use GitHub's "blame" tool.
 
 
 ### [White House - We The People Write API](http://www.whitehouse.gov/webform/apply-we-people-write-api-beta)
@@ -61,6 +60,21 @@ This page brings together notes about potential areas for improvement of agency 
 
 ### [National Institute on Drug Abuse](http://www.drugabuse.gov/developers/nmassist/apiterms)
 
+> NIDA content can be presented anywhere on your Web site.
+
+This is not a requirement even though it is under a heading called "Usage Requirements". It can be safely removed. 
+
+> Do not manipulate or alter the calculation of the screening tool results.
+
+> If the screening tool is embedded alongside other content, please ensure that the content provides related value, is consistent with the NIDA content, and does not harm the integrity of the NIDA content.
+
+The ToS is probably not a good place to regulate downstream use of open information. Furthermore, "manipulate," "alter," "related value," and "integrity" are very subjective terms in the API context, and thus lead to uncertainty from a developer's perspective. 
+
+Generally speaking, downstream controls prohibiting things like "manipulation" of information go against norms in other areas of government publishing. For example, when a Supreme Court opinion is released, there is no ToS, and no requirement that users not modify, prohibit, or misrepresent the information.
+
+> Your application may only send a maximum of 10 requests per second unless you have received prior authorization from NIDA's web team. 
+
+This is good. Though it's always ideal to not have rate limits this low, if rate limits are going to exist, it's always excellent to transparent in what the limits are. It would be nice for a sentence or two that clarifies how the limit is enforced, as well as any tips and tricks that will make it easy for the user to respect the limit.
 
 ### [Pillbox API - NIH](http://pillbox.nlm.nih.gov/API-documentation.html)*
 
