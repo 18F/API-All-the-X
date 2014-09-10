@@ -102,6 +102,10 @@ This is good. Though it's always ideal to not have rate limits this low, if rate
 
 ### [USA.gov](http://www.usa.gov/About/developer-resources/terms-of-service.shtml)
 
+> Data accessed through USA.gov do not, and should not, include controls over its end use. 
+
+This is a good principle. It really should apply by default to all agency APIs, and need not be stated in the ToS.
+
 
 ### [Go.USA.gov](https://go.usa.gov/api#terms)*
 
