@@ -27,7 +27,7 @@ It can be hard to tell someone what APIs are.  Here's a running list of analogie
 * APIs are like what's in between a car's ignition and engine.  I don't know how it works but I know that if I turn the keys in the ignition, the engine will turn on.  
 * UIs are how people use computers.  APIs are how computers use computers.  
 * It allows different groups to interoperate without having to interoperate.
-
+* When you add an API to a system, the change is similar to moving from CDs to all digital music files.  
 
 ## Posts 
 * [What is an API? - API Academy](http://www.apiacademy.co/lessons/api-strategy/what-api)
