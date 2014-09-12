@@ -12,6 +12,7 @@ Some agencies allow direct, constructive feedback by using GitHub issues for the
 * [International Trade Adminstration](https://github.com/InternationalTradeAdministration/developerportal)
 
 ### Department of Health and Human Services
+* [Blue Button](http://bluebuttonconnector.healthit.gov/developers/) / *[Issue Tracker](https://github.com/blue-button/connector/issues)*
 * [FDA Drug Adverse Events API](https://open.fda.gov/drug/event/) / *[Issue Tracker](https://github.com/FDA/openfda/issues)*
 * [FDA Device Recalls API](https://open.fda.gov/device/enforcement/) / *[Issue Tracker](https://github.com/FDA/openfda/issues)*
 * [FDA Food Recalls API](https://open.fda.gov/food/enforcement/) / *[Issue Tracker](https://github.com/FDA/openfda/issues)*
