@@ -134,6 +134,9 @@ title: ".Gov APIs in the News"
 ### October 2, 2013 
 * [Government APIs Aren't A Backup Plan - ProgrammableWeb](http://sunlightfoundation.com/blog/2013/10/02/government-apis-arent-a-backup-plan/)
 
+### September 25, 2013
+* [Github Can Be the POST and PUT Layer For Federal Government APIs](http://apievangelist.com/2013/09/25/github-can-be-the-post-and-put-layer-for-federal-government-apis/)
+
 ### August 7, 2013
 * [National Farmer’s Market Week: How to Eat Local, Wherever You Are - ProgrammableWeb](http://blog.programmableweb.com/2013/08/07/national-farmers-market-week-how-to-eat-local-wherever-you-are/)
 
