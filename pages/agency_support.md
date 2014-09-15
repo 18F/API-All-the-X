@@ -1,11 +1,9 @@
 ---
 layout: page
-title: "Agency Support"
-authors: "Gray Brooks"
+title: "Direct Support Available to Agencies"
 
 ---
 
-## Direct support available to agencies 
 
 ### Contract Support 
 This session assists an agency team that is assembling paperwork for a new contract or a modification to an existing contract.  This may be used at the start or to refine an existing draft.  These sessions can be in person, via virtual meeting, or conference call.
