@@ -27,6 +27,7 @@ Some agencies allow direct, constructive feedback by using GitHub issues for the
 * [HMDA API](http://cfpb.github.io/api/hmda/) / *[Issue Tracker](https://github.com/cfpb/api/issues)*
 
 ### General Services Administration
+* [Auctions API](http://gsa.github.io/auctions_api)
 * [FBOpen API](http://docs.fbopen.apiary.io/) / *[Issue Tracker](https://github.com/18f/fbopen/issues)*
 * [SAM API](http://gsa.github.io/sam_api/sam/) / *[Issue Tracker](https://github.com/gsa/sam_api/issues?state=open)*
 * [All APIs](http://gsa.gov/developer) / *[Issue Tracker](https://github.com/GSA/GSA-APIs/issues)*
