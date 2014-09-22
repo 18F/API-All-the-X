@@ -4,7 +4,7 @@ title: /Developer Program
 published: true
 ---
 
-## Home
+
 
 The /Developer Program, a service of GSA's 18F team, seeks to provide comprehensive support for any federal agency engaged in the production or use of APIs.  Named after the common practice of publishing APIs and their documentation at agency.gov/developer, the program can serve as a pragmatic boost to any agency's efforts.  
 
