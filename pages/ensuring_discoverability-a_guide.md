@@ -17,6 +17,7 @@ An API producer must begin by ensuring that an API homepage is available on thei
 ## Add to the Agency's Developer Hub
 * If the agency or program has a [developer hub](http://18f.github.io/API-All-the-X/pages/developer_hubs) (often at agency.gov/developer), reach out to the appropriate webmaster to add links there to the new API.  All of an agency or program's public APIs should be available from their respective developer hubs.  
 * If there's not yet a developer hub, create one and start it off with your API and [any others from the agency or program](http://18f.github.io/API-All-the-X/pages/individual_apis).  You can easily clone [this open sourced template](https://github.com/USG-Website-Templates/developer-hub) for just that purpose.  
+  * To ensure ready findability, be sure that agency.gov/developer and agency.gov/developers both redirect to the agency hub (or program.gov/developer and program.gov/developers, if appropriate).  
 
 ## Include in the Agency's Public Data Listing 
 
