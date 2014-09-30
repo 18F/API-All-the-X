@@ -5,7 +5,11 @@ title: "Ensuring Discoverability - A Guide"
 
 ## Background
 
-An API producer must begin by ensuring that an API homepage is available on their website, complete with quality documentation.  From there, though, the producer has a number of opportunities to help 
+An API producer must begin by ensuring that an API homepage is available on their website, complete with quality documentation.  From there, though, the producer has a number of opportunities to help potentially interested developers discover the resource.  
+
+## Initial Advertising
+
+Be sure to email a brief announcement to the [US Government API listserve](https://groups.google.com/forum/?nomobile=true#!forum/us-government-apis), announcing the new API, sharing a link to it, and asking for feedback.  
 
 ## Register the API with API Catalogs
 
@@ -27,10 +31,8 @@ More details, including schema details and complete guidance for the maintenance
 * Ensure pages are being crawled
 * Ensure the metadata for those pages and how they look in search results 
 * Ensure there are no conflicts with the robots.txt file
-* ...
 
 ## Engage with Developer Communities 
 
 * [A model](http://18f.github.io/API-All-the-X/pages/developer_engagement-a_model)
-* ...
 
