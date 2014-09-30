@@ -9,7 +9,10 @@ An API producer must begin by ensuring that an API homepage is available on thei
 
 ## Initial Advertising
 
-Be sure to email a brief announcement to the [US Government API listserve](https://groups.google.com/forum/?nomobile=true#!forum/us-government-apis), announcing the new API, sharing a link to it, and asking for feedback.  
+* Most of all, be sure to email a brief announcement to the [US Government API listserve](https://groups.google.com/forum/?nomobile=true#!forum/us-government-apis), announcing the new API, sharing a link to it, and asking for feedback.  
+* Announce the API's release via press release and on social media.  
+* Utilize stakeholder forums to ensure that traditional users of the system are aware of the new API.  
+* Share news on the [Web Content Managers Listserve](http://www.digitalgov.gov/communities/web-managers-forum/web-content-managers-listserv/) and Open Data Listserve (Anyone with a .gov or .mil email address can join by emailing listserv@listserv.gsa.gov, the message should have no subject and the body should say "subscribe open-data.")
 
 ## Register the API with API Catalogs
 
@@ -25,6 +28,10 @@ Located at www.agency.gov/data.json, the public data listing enables third parti
 
 More details, including schema details and complete guidance for the maintenance of the public data listing is available at [Project Open Data](http://project-open-data.github.io).  
 
+## Engage with Developer Communities 
+
+* [A model](http://18f.github.io/API-All-the-X/pages/developer_engagement-a_model)
+
 ## Ensure SEO 
 
 * Clean URLs
@@ -32,7 +39,4 @@ More details, including schema details and complete guidance for the maintenance
 * Ensure the metadata for those pages and how they look in search results 
 * Ensure there are no conflicts with the robots.txt file
 
-## Engage with Developer Communities 
-
-* [A model](http://18f.github.io/API-All-the-X/pages/developer_engagement-a_model)
 
