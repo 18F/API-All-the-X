@@ -14,6 +14,16 @@ An API producer must begin by ensuring that an API homepage is available on thei
 * Utilize stakeholder forums to ensure that traditional users of the system are aware of the new API.  
 * Share news on the [Web Content Managers Listserve](http://www.digitalgov.gov/communities/web-managers-forum/web-content-managers-listserv/) and Open Data Listserve (Anyone with a .gov or .mil email address can join by emailing listserv@listserv.gsa.gov, the message should have no subject and the body should say "subscribe open-data.")
 
+## Add to the Agency's Developer Hub
+* If the agency or program has a [developer hub](http://18f.github.io/API-All-the-X/pages/developer_hubs) (often at agency.gov/developer), reach out to the appropriate webmaster to add links there to the new API.  All of an agency or program's public APIs should be available from their respective developer hubs.  
+* If there's not yet a developer hub, create one and start it off with your API and [any others from the agency or program](http://18f.github.io/API-All-the-X/pages/individual_apis).  You can easily clone [this open sourced template](https://github.com/USG-Website-Templates/developer-hub) for just that purpose.  
+
+## Include in the Agency's Public Data Listing 
+
+Located at www.agency.gov/data.json, the public data listing enables third parties to more easily discover an agency's data offerings.  This machine-readable file also populates the agency's data listing on Data.gov, so correctly-formatted inclusion of an API in the public data listing ensures that it is discoverable through Data.gov.  
+
+More details, including schema details and complete guidance for the maintenance of the public data listing is available at [Project Open Data](http://project-open-data.github.io).  
+
 ## Register the API with API Catalogs
 
 There are several, well-established API catalogs that many developers use to find new APIs with which to engage.  By ensuring that up-to-date records for each of an agency's APIs is available on at least the major catalogs, the API producer can drive greater awareness of the service and attract new developers.  Major API catalogs include: 
@@ -22,17 +32,11 @@ There are several, well-established API catalogs that many developers use to fin
 * [Mashape](http://www.mashape.com/explore)
 * [APIs.io](http://apis.io/) - *[Based on [apis.json schema](http://apisjson.org/)]*
 
-## Include in the Agency's Public Data Listing 
-
-Located at www.agency.gov/data.json, the public data listing enables third parties to more easily discover an agency's data offerings.  This machine-readable file also populates the agency's data listing on Data.gov, so correctly-formatted inclusion of an API in the public data listing ensures that it is discoverable through Data.gov.  
-
-More details, including schema details and complete guidance for the maintenance of the public data listing is available at [Project Open Data](http://project-open-data.github.io).  
-
 ## Engage with Developer Communities 
 
 * [A model](http://18f.github.io/API-All-the-X/pages/developer_engagement-a_model)
 
-## Ensure SEO 
+## Ensure SEO for the Developer Hub
 
 * Clean URLs
 * Ensure pages are being crawled
