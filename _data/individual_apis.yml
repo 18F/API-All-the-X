@@ -918,6 +918,8 @@
 
 - name: General Services Administration
   apis:
+  - name: "Auctions"
+    url: "http://gsa.github.io/auctions_api"
   - name: "BusinessUSA"
     url: "http://business.usa.gov/apis"
   - name: "Corporate Consumer Contact API Documentation"
