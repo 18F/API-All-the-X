@@ -35,5 +35,5 @@ There are several collections of best practices for API producers, each of which
 ### Don’t just tell them, show them  
 * Include plenty of examples (and go ahead and hyperlink them for convenience). Offer code samples and examples of applications that consume the API.
 * Share code samples, SDKs, and other developer resources through your agency’s GitHub account.
-* Include JSON support.  Offering JSONP support also goes a long way to encouraging re-use on third party websites.
+* Include JSON support.  Offering JSONP or CORS support also goes a long way to encouraging re-use on third party websites.
 * If API returns are lengthy, offer pagination.
