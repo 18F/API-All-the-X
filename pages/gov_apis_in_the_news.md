@@ -3,6 +3,9 @@ layout: page
 title: ".Gov APIs in the News"
 ---
 
+### October 1, 2014
+* [GSA hypes APIs, social media as means to publishing content](http://www.fiercegovernmentit.com/story/gsa-hypes-apis-social-media-means-publishing-content/2014-10-01?utm_campaign=AddThis&utm_medium=AddThis&utm_source=twitter#.VCwINWUV4eY.twitter)
+
 ### August 21, 2014
 * [FDA Finding Their API Mojo With A New Drug Label API](http://apievangelist.com/2014/08/21/fda-finding-their-api-mojo-with-a-new-drug-label-api/)
 
