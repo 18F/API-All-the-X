@@ -5,7 +5,7 @@
     $.getJSON( "developer_hubs.json", function(developer_hubs) {
       $.each(developer_hubs, function(publisher, attributes) {
         document.write("<h2>" + publisher + "</h2>");
-        document.write("<a href=\"" + attributes["url"] + "\">" + attributes["url"] + "</a><br />");
+        document.write("<a href=\"" + attributes["url"] + "\"  target="_blank">" + attributes["url"] + "</a><br />");
       });
     })
     </script>
