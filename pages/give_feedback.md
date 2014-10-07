@@ -9,7 +9,7 @@ Some agencies allow direct, constructive feedback by using GitHub issues for the
 * [All APIs](http://www.usda.gov/developer) / *[Issue Tracker](https://github.com/usda/USDA-APIs/issues)*
 
 ### Department of Commerce 
-* [International Trade Adminstration](https://github.com/InternationalTradeAdministration/developerportal)
+* [International Trade Adminstration](https://github.com/InternationalTradeAdministration/developerportal) / *[Issue Tracker](https://github.com/InternationalTradeAdministration/developerportal/issues)*
 
 ### Department of Health and Human Services
 * [Blue Button](http://bluebuttonconnector.healthit.gov/developers/) / *[Issue Tracker](https://github.com/blue-button/connector/issues)*
