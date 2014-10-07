@@ -14,6 +14,7 @@ Write APIs offer tremendous potential for federal agencies as they unleash the b
 * [EPA's EnergyStar Portfolio Manager](http://portfoliomanager.energystar.gov/webservices/home)
 * [GSA's FPDS Web Services](https://www.fpds.gov/downloads/FPDS-Specifications-WebServices_Integration_Specifications_V1.4.doc)
 * [GSA's FAADS Web Services](https://www.fpds.gov/downloads/FAADS/FAADS-Specifications-WebServices_Integration_Specifications_V2.doc)
+* [Go.USA.gov API](https://go.usa.gov/api)
 * [Immigration and Customs Enforcement SEVIS API](http://www.ice.gov/sevis/schools/batch.htm)
 * [Citizenship and Immigration Services E-Verify](http://www.uscis.gov/faq-page/web-services#t12823n46707) *[[More here](http://www.uscis.gov/sites/default/files/USCIS/Verification/E-Verify/E-Verify_Native_Documents/E-Verify%20Manuals%20and%20Guides/Supplemental_Guide_for_Web_Services_Users.pdf)]*
 * [IT Dashboard](https://www.itdashboard.gov/faq#faq24)
