@@ -41,6 +41,9 @@ Some agencies allow direct, constructive feedback by using GitHub issues for the
 ### ForeignAssistance.gov
 * [ForeignAssistance.gov](https://github.com/foreignassistance/FAD.API/issues)
 
+### Regulations.gov
+* [Regulations.gov](http://regulationsgov.github.io/developers/)
+
 ## You can also offer usefully share feedback through other front-facing feedback mechanisms 
 * [NCI - caDSR API](https://wiki.nci.nih.gov/display/caDSR/caDSR+APIs) / *[Issue Tracker](https://tracker.nci.nih.gov/browse/CADSRAPI)*
 * [Census Bureau APIs](http://www.census.gov/developers/) / *[Developer Forum](http://apiforum.ideascale.com/)*
