@@ -7,6 +7,7 @@ title: "Government API Blogposts"
 * [A Write API for We the People](http://www.whitehouse.gov/blog/2013/11/04/write-api-we-people)
 * [There's Now an API for We the People](http://www.whitehouse.gov/blog/2013/05/01/theres-now-api-we-people)
 * [Wrap Up: A Hackathon Here at the White House](http://www.whitehouse.gov/blog/2014/06/03/hackathon-here-white-house)
+* [The New We the People Write API, and What It Means for You](http://www.whitehouse.gov/blog/2014/10/23/new-we-people-write-api-and-what-it-means-you)
 
 ### Department of Agriculture 
 * [New API Helps Satisfy the Nation’s App-etite for Farmers Markets](http://blogs.usda.gov/2013/05/15/new-api-helps-satisfy-the-nations-app-etite-for-farmers-markets/)
