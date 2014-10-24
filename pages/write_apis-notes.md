@@ -8,7 +8,7 @@ Write APIs offer tremendous potential for federal agencies as they unleash the b
 
 ## Active Examples
 * [Regulations.gov](https://www.federalregister.gov/blog/2014/07/new-submit-a-formal-comment-feature) (non-public)
-* We The People ([in development](http://www.whitehouse.gov/blog/2013/11/04/write-api-we-people))/([in beta](http://www.whitehouse.gov/webform/apply-we-people-write-api-beta))
+* [We The People](http://www.whitehouse.gov/blog/2014/10/23/new-we-people-write-api-and-what-it-means-you)
 * [IRS](http://www.irs.gov/Tax-Professionals/e-File-Providers-&-Partners/Become-an-Authorized-e-file-Provider#phase3)
 * [USPS](https://www.usps.com/business/web-tools-apis/)
 * [EPA's EnergyStar Portfolio Manager](http://portfoliomanager.energystar.gov/webservices/home)
