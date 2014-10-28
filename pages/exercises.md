@@ -43,7 +43,7 @@ title: "Exercises for Using APIs"
 ## [CSV To API](https://www.data.gov/labs/)  
   
 ### Take a CSV   
-* https://github.com/GSA/Very-Simple-API-2/blob/gh-pages/_data/objects.csv
+* https://github.com/GSA/Very-Simple-API-2/blob/gh-pages/_data/objects.csv  
 ### Get CSV as JSONP (default behavior)  
 * http://labs.data.gov/csv-to-api/?source=https://raw.githubusercontent.com/GSA/Very-Simple-API-2/gh-pages/_data/objects.csv  
 ### Get results as XML  
@@ -57,8 +57,10 @@ title: "Exercises for Using APIs"
 ## [Databeam](https://www.data.gov/labs/)  
   
 ### Take a CSV  
+
 * https://raw.githubusercontent.com/GSA/Very-Simple-API-2/gh-pages/_data/objects.csv  
 ### Go To Town  
+
 * http://labs.data.gov/databeam/  
 
 
