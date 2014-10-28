@@ -16,6 +16,7 @@
 * [API Highlights](http://18f.github.io/API-All-the-X/pages/api_highlights)  
 * [Best Practices](http://18f.github.io/API-All-the-X/pages/best_practices)  
 * [Case Studies](http://18f.github.io/API-All-the-X/pages/case_study_lists)  
+* [Exercises](http://18f.github.io/API-All-the-X/pages/exercises#tools)
 * [Recommended Reading](http://18f.github.io/API-All-the-X/pages/recommended_reading)
 * [Videos & Webinars](http://18f.github.io/API-All-the-X/pages/videos_and_webinars)  
 
