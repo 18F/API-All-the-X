@@ -27,8 +27,8 @@ title: "Exercises for Using APIs"
 ## Building APIS 
 * [Very Simple API](https://github.com/GSA/Very-Simple-API)
   * [CSV-based](https://github.com/GSA/Very-Simple-API-2)
-* [CSV-to-API]()
-* [DataBeam]()
+* [CSV-to-API](http://18f.github.io/API-All-the-X/pages/exercises#tools)
+* [DataBeam](http://18f.github.io/API-All-the-X/pages/exercises#tools)
 
 ## Let Us Help You
 * [Trainings](http://18f.github.io/API-All-the-X/pages/api_training)
@@ -44,28 +44,28 @@ title: "Exercises for Using APIs"
 ## [CSV To API](https://www.data.gov/labs/)  
   
 **Take a CSV**     
-* https://github.com/GSA/Very-Simple-API-2/blob/gh-pages/_data/objects.csv  
+* [https://github.com/GSA/Very-Simple-API-2/blob/gh-pages/_data/objects.csv](https://github.com/GSA/Very-Simple-API-2/blob/gh-pages/_data/objects.csv)  
 
 **Get CSV as JSONP (default behavior)**    
-* http://labs.data.gov/csv-to-api/?source=https://raw.githubusercontent.com/GSA/Very-Simple-API-2/gh-pages/_data/objects.csv  
+* [http://labs.data.gov/csv-to-api/?source=https://raw.githubusercontent.com/GSA/Very-Simple-API-2/gh-pages/_data/objects.csv](http://labs.data.gov/csv-to-api/?source=https://raw.githubusercontent.com/GSA/Very-Simple-API-2/gh-pages/_data/objects.csv)  
 
 **Get results as XML**    
-* http://labs.data.gov/csv-to-api/?source=https://raw.githubusercontent.com/GSA/Very-Simple-API-2/gh-pages/_data/objects.csv&format=xml  
+* [http://labs.data.gov/csv-to-api/?source=https://raw.githubusercontent.com/GSA/Very-Simple-API-2/gh-pages/_data/objects.csv&format=xml](http://labs.data.gov/csv-to-api/?source=https://raw.githubusercontent.com/GSA/Very-Simple-API-2/gh-pages/_data/objects.csv&format=xml)  
 
 **Get results as HTML**    
-* http://labs.data.gov/csv-to-api/?source=https://raw.githubusercontent.com/GSA/Very-Simple-API-2/gh-pages/_data/objects.csv&format=html  
+* [http://labs.data.gov/csv-to-api/?source=https://raw.githubusercontent.com/GSA/Very-Simple-API-2/gh-pages/_data/objects.csv&format=html](http://labs.data.gov/csv-to-api/?source=https://raw.githubusercontent.com/GSA/Very-Simple-API-2/gh-pages/_data/objects.csv&format=html)  
 
 **Filter by a field**    
-* http://labs.data.gov/csv-to-api/?source=https://raw.githubusercontent.com/GSA/Very-Simple-API-2/gh-pages/_data/objects.csv&Color=Brown  
-* http://labs.data.gov/csv-to-api/?source=https://raw.githubusercontent.com/GSA/Very-Simple-API-2/gh-pages/_data/objects.csv&Color=White  
+* [http://labs.data.gov/csv-to-api/?source=https://raw.githubusercontent.com/GSA/Very-Simple-API-2/gh-pages/_data/objects.csv&Color=Brown](http://labs.data.gov/csv-to-api/?source=https://raw.githubusercontent.com/GSA/Very-Simple-API-2/gh-pages/_data/objects.csv&Color=Brown)  
+* [http://labs.data.gov/csv-to-api/?source=https://raw.githubusercontent.com/GSA/Very-Simple-API-2/gh-pages/_data/objects.csv&Color=White](http://labs.data.gov/csv-to-api/?source=https://raw.githubusercontent.com/GSA/Very-Simple-API-2/gh-pages/_data/objects.csv&Color=White)  
 
 ## [Databeam](https://www.data.gov/labs/)  
   
 **Take a CSV**  
-* https://raw.githubusercontent.com/GSA/Very-Simple-API-2/gh-pages/_data/objects.csv  
+* [https://raw.githubusercontent.com/GSA/Very-Simple-API-2/gh-pages/_data/objects.csv](https://raw.githubusercontent.com/GSA/Very-Simple-API-2/gh-pages/_data/objects.csv)  
 
 **Go To Town**  
-* http://labs.data.gov/databeam/  
+* [http://labs.data.gov/databeam/](http://labs.data.gov/databeam/)  
 
 
 
