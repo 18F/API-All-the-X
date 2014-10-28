@@ -36,10 +36,11 @@ title: "Exercises for Using APIs"
 * [API Usability Testing](http://18f.github.io/API-Usability-Testing/)
 * [api.data.gov](http://api.data.gov/)
   
+  
+  
 
-
-# Tools    
- 
+# Tools     
+    
 ## [CSV To API](https://www.data.gov/labs/)  
   
 **Take a CSV**     
@@ -64,7 +65,6 @@ title: "Exercises for Using APIs"
 * https://raw.githubusercontent.com/GSA/Very-Simple-API-2/gh-pages/_data/objects.csv  
 
 **Go To Town**  
-
 * http://labs.data.gov/databeam/  
 
 
