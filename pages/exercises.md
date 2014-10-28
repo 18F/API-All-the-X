@@ -36,7 +36,7 @@ title: "Exercises for Using APIs"
 * [API Usability Testing](http://18f.github.io/API-Usability-Testing/)
 * [api.data.gov](http://api.data.gov/)
   
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+----------------------------
   
 # Tools    
  
