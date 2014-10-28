@@ -25,10 +25,10 @@ title: "Exercises for Using APIs"
 * [API Strategy](http://18f.github.io/API-All-the-X/pages/agency_api_strategy)
 
 ## Building APIS 
-* [Very Simple API](https://github.com/GSA/Very-Simple-API)
-  * [CSV-based](https://github.com/GSA/Very-Simple-API-2)
 * [CSV-to-API](http://18f.github.io/API-All-the-X/pages/exercises#tools)
 * [DataBeam](http://18f.github.io/API-All-the-X/pages/exercises#tools)
+* [Very Simple API](https://github.com/GSA/Very-Simple-API)
+  * [CSV-based](https://github.com/GSA/Very-Simple-API-2)
 
 ## Let Us Help You
 * [Trainings](http://18f.github.io/API-All-the-X/pages/api_training)
@@ -41,7 +41,7 @@ title: "Exercises for Using APIs"
 
 # Tools     
     
-    
+Two ways to publish APIs 
     
 ## [CSV To API](https://www.data.gov/labs/)  
   
