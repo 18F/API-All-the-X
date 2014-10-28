@@ -36,20 +36,24 @@ title: "Exercises for Using APIs"
 * [API Usability Testing](http://18f.github.io/API-Usability-Testing/)
 * [api.data.gov](http://api.data.gov/)
   
-----------------------------
-  
+
+
 # Tools    
  
 ## [CSV To API](https://www.data.gov/labs/)  
   
 ## Take a CSV   
 * https://github.com/GSA/Very-Simple-API-2/blob/gh-pages/_data/objects.csv  
+
 ## Get CSV as JSONP (default behavior)  
 * http://labs.data.gov/csv-to-api/?source=https://raw.githubusercontent.com/GSA/Very-Simple-API-2/gh-pages/_data/objects.csv  
+
 ## Get results as XML  
 * http://labs.data.gov/csv-to-api/?source=https://raw.githubusercontent.com/GSA/Very-Simple-API-2/gh-pages/_data/objects.csv&format=xml  
+
 ## Get results as HTML  
 * http://labs.data.gov/csv-to-api/?source=https://raw.githubusercontent.com/GSA/Very-Simple-API-2/gh-pages/_data/objects.csv&format=html  
+
 ## Filter by a field  
 * http://labs.data.gov/csv-to-api/?source=https://raw.githubusercontent.com/GSA/Very-Simple-API-2/gh-pages/_data/objects.csv&Color=Brown  
 * http://labs.data.gov/csv-to-api/?source=https://raw.githubusercontent.com/GSA/Very-Simple-API-2/gh-pages/_data/objects.csv&Color=White  
@@ -57,11 +61,9 @@ title: "Exercises for Using APIs"
 ## [Databeam](https://www.data.gov/labs/)  
   
 ### Take a CSV  
-
 * https://raw.githubusercontent.com/GSA/Very-Simple-API-2/gh-pages/_data/objects.csv  
 
 ## Go To Town  
-
 * http://labs.data.gov/databeam/  
 
 
