@@ -5,4 +5,4 @@ authors: "Gray Brooks"
 
 ---
 
-...
+* [Education RFI Notes](https://github.com/gbinal/Education-API-RFI)
