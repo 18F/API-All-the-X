@@ -39,7 +39,7 @@ title: "Exercises for Using APIs"
   
   
 
-# Tools     
+## Tools     
     
 Two ways to publish APIs 
     
