@@ -72,6 +72,7 @@ title: "Government API Blogposts"
 
 
 ### General Services Administration
+* [A Picture Is Worth a Thousand Tokens](https://www.digitalgov.gov/2014/10/28/a-picture-is-worth-a-thousand-tokens/)
 * [Help the Public Find Your Information, Wherever and However You’ve Published It](http://www.digitalgov.gov/2014/08/26/help-the-public-find-your-information-wherever-and-however-youve-published-it/)
 * [The Minimum Viable Building Blocks For a Federal Government API Hub](http://www.digitalgov.gov/2014/08/18/the-minimum-viable-building-blocks-for-a-federal-government-api-hub/)
 * [Hot off the press: 18F’s API Standards](http://18fblog.tumblr.com/post/91868213233/hot-off-the-press-18fs-api-standards)
