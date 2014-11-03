@@ -84,7 +84,7 @@ If developers are required to request an API key, the entire experience should b
 
 ### .Gov Examples  
 * [Department of Labor](https://devtools.dol.gov/developer)
-* [Census Bureau](http://www.census.gov/developers/tos/key_request.html)
+* [Census Bureau](http://www.census.gov/developers/)
 * [National Climate Data Center](http://www.ncdc.noaa.gov/cdo-web/token)
 * [National Renewable Energy Laboratory](http://developer.nrel.gov/signup)
 * [Federal Motor Carrier Safety Administration](https://mobile.fmcsa.dot.gov/developer/home.page)
