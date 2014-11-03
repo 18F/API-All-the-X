@@ -73,7 +73,7 @@ A Terms of Service (ToS) provides the legal framework by which the API provider 
 * [White House - We The People Write API](http://www.whitehouse.gov/webform/apply-we-people-write-api-beta)
 * [Department of Labor](http://developer.dol.gov/terms-service)*
 * [Bureau of Economic Analysis - Commerce](http://www.bea.gov/API/_pdf/bea_api_tos.pdf)*
-* [Census Bureau - Commerce](http://www.census.gov/developers/tos/terms.html)*
+* [Census Bureau - Commerce](http://www.census.gov/data/developers/about/terms-of-service.html)*
 * [Agricultural Marketing Service - USDA](http://search.ams.usda.gov/farmersmarkets/v1/APITOS.html)
 * [Economic Research Service - USDA](http://www.ers.usda.gov/developer/api-terms-of-service.aspx)*
 * [Energy Information Administration](http://www.eia.gov/beta/api/tos.cfm)*
@@ -117,7 +117,7 @@ As agency API efforts become more complex and developers grow more dependent on 
 As agency and third-party developers consume the APIs in new projects, there is substantial value in highlighting the growing list of mobile and desktop applications that have been built on top of them. Highlighting these products rewards adoption, promotes further creative work, and raises awareness about the returns on investment for the APIs. This element is often composed of static page content such as links, descriptions, and screenshots.
 
 ### .Gov Examples  
-* [Census Bureau](http://www.census.gov/developers/apps/)
+* [Census Bureau](http://www.census.gov/data/developers/app-gallery.html)
 * [Environmental Protection Agency](http://www.epa.gov/developer/open_source.html)
 * [Federal Motor Carrier Safety Administration](https://mobile.fmcsa.dot.gov/developer/appgall.page?cid=1140526)
 * [USA.gov](http://www.usa.gov/About/developer-resources/1usagov.shtml#projects)
