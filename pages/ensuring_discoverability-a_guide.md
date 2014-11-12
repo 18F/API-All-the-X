@@ -30,7 +30,7 @@ More details, including schema details and complete guidance for the maintenance
 There are several, well-established API catalogs that many developers use to find new APIs with which to engage.  By ensuring that up-to-date records for each of an agency's APIs is available on at least the major catalogs, the API producer can drive greater awareness of the service and attract new developers.  Major API catalogs include: 
 
 * [ProgrammableWeb](http://www.programmableweb.com/apis/directory) - *[[Notes on adding](https://groups.google.com/d/msg/us-government-apis/6liPMum-qjU/EbJg-Cn8DtMJ)]*
-* [Mashape](http://www.mashape.com/explore)
+* [Mashape](http://www.mashape.com/explore) - *[Will also add to [PublicAPIs.com](http://www.publicapis.com/)]*
 * [APIs.io](http://apis.io/) - *[Based on [apis.json schema](http://apisjson.org/)]*
 
 ## Engage with Developer Communities 
