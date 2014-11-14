@@ -17,6 +17,9 @@ Some agencies allow direct, constructive feedback by using GitHub issues for the
 * [FDA Device Recalls API](https://open.fda.gov/device/enforcement/) / *[Issue Tracker](https://github.com/FDA/openfda/issues)*
 * [FDA Food Recalls API](https://open.fda.gov/food/enforcement/) / *[Issue Tracker](https://github.com/FDA/openfda/issues)*
 
+### Department of Energy 
+* [National Renewable Energy Laboratory](https://github.com/NREL/developer.nrel.gov/issues)
+
 ### Department of Labor
 * [All APIs](http://developer.dol.gov) / *[Issue Tracker](https://github.com/USDepartmentofLabor/DOLAPI/issues)*
 
