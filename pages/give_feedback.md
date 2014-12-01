@@ -38,6 +38,9 @@ Some agencies allow direct, constructive feedback by using GitHub issues for the
 ### National Aeronautics and Space Administration
 * [All APIs](http://open.nasa.gov/developer/) / *[Issue Tracker](https://github.com/nasa/NASA-APIs/issues)*
 
+### Peace Corps 
+* [Countries & Regions REST API](https://github.com/PeaceCorps/Countries-Regions-REST-API) / *[Issue Tracker](https://github.com/PeaceCorps/Countries-Regions-REST-API)
+
 ### US Agency for International Development
 * [All APIs](http://www.usaid.gov/developer) / *[Issue Tracker](https://github.com/usaid/Feedback/issues)*
 
