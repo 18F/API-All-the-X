@@ -3,7 +3,7 @@ layout: "page"
 title: "Guide to Including APIs in the Agency Data Catalog"
 ---
 
-API Discovery is an important component to any developer program.  You want anyone who might be interested in using your APIs to be able to find them with ease.  A critical component is including your APIs in your agency's Enterprise Data Listing (used within the agency and submitted to OMB) and Public Data Listing (located at agency.gov/data.json) 
+API discovery is an important component to any developer program.  You want anyone who might be interested in using your APIs to be able to find them with ease.  A critical component is including your APIs in your agency's Enterprise Data Listing (used within the agency and submitted to OMB) and Public Data Listing (located at agency.gov/data.json) 
 
 ## Overview
 
