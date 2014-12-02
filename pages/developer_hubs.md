@@ -7,5 +7,4 @@ title: "Developer Hubs"
 
 
 
-</br>
 <iframe src="http://18f.github.io/API-All-the-X/data/developer_hubs" frameborder="0" width="100%" height="7500"></iframe>
