@@ -15,4 +15,4 @@ Below is an example distribution of an agency API.
 
 ![screen shot 2014-12-02 at 3 43 19 pm](https://cloud.githubusercontent.com/assets/633088/5270545/fc4cda6a-7a39-11e4-909f-4708a255e928.png)
 
-Note that the API is alongside other distribution objects that describe downloadable access to the sample data.  More guidance on [describing distributions](https://project-open-data.cio.gov/v1.1/schema/#distribution) can be found on Project Open Data.  
+More guidance on [describing APIs in the metadata schema](https://project-open-data.cio.gov/v1.1/api/) can be found on Project Open Data.  
