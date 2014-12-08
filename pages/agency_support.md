@@ -17,7 +17,7 @@ This session can provide brief or in-depth support for an agency team during the
 
 ### Developer Outreach
 
-This service assists an agency team in planning and implementing a robust developer outreach program.  It focuses on first ensuring the [discoverability](http://18f.github.io/API-All-the-X/pages/ensuring_discoverability-a_guide) of the agency's APIs, then pursuin a range of [developer engagement methods](http://18f.github.io/API-All-the-X/pages/developer_engagement-a_model).  
+This service assists an agency team in planning and implementing a robust developer outreach program.  It focuses on first ensuring the [discoverability](http://18f.github.io/API-All-the-X/pages/ensuring_discoverability-a_guide) of the agency's APIs, then pursuing a range of [developer engagement methods](http://18f.github.io/API-All-the-X/pages/developer_engagement-a_model).  
 
 
 ### Documentation Support 
