@@ -14,3 +14,4 @@ title: "API Case Studies"
 * [National Broadband Map](http://www.wilsoncenter.org/sites/default/files/National%20Broadband%20Map%20Wilson%20Center%20Case%20Study.pdf)
 * [National Renewable Energy Laboratory](http://developer.nrel.gov/api-case-study/)
 * [Open Feedback](http://18f.github.io/API-All-the-X/pages/casestudy_open_feedback)
+* [GeoBrowser Deployment in the USDA Forest Service](http://www.fs.fed.us/wwetac/projects/PDFs/GeoCom_2010_WETAG_FINAL2.pdf)
