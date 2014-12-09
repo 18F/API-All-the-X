@@ -13,3 +13,7 @@ authors: "Gray Brooks"
 
 ### General Services Administration 
 * [18F's API Standards](https://github.com/18F/api-standards)
+
+### US Forest Service
+* [Web Services--A Buzz Word with Potentials](http://www.treesearch.fs.fed.us/pubs/26572)
+
