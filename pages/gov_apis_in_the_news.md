@@ -146,6 +146,12 @@ title: ".Gov APIs in the News"
 ### August 7, 2013
 * [National Farmer’s Market Week: How to Eat Local, Wherever You Are - ProgrammableWeb](http://blog.programmableweb.com/2013/08/07/national-farmers-market-week-how-to-eat-local-wherever-you-are/)
 
+### August 6, 2013 
+* [Worldwide Government Open Data Infrastructure Takes Shape](http://www.programmableweb.com/news/worldwide-government-open-data-infrastructure-takes-shape/2013/08/06)
+
+### August 2, 2013 
+* [Data.gov pilots an easier way to manage agency APIs](http://gcn.com/blogs/pulse/2013/08/agency-apis.aspx)
+
 ### July 30, 2013
 * [The Recent Rise of Government Open Data APIs - ProgrammableWeb](http://blog.programmableweb.com/2013/07/30/the-recent-rise-of-government-open-data-apis/)
 
