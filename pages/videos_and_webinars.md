@@ -17,3 +17,4 @@ title: "Videos and Webinars"
 * [APIs and the Digital Government Strategy](https://www.youtube.com/watch?v=xoO1TE9fw-I&list=UU5V8jrK77-8gsa9RL_taG9A) - [former homepage](http://www.howto.gov/training/classes/api-digital-government-strategy)
 * [API Standards from the White House](https://www.youtube.com/watch?v=-bJo6zii7lw&list=UU5V8jrK77-8gsa9RL_taG9A) - [former homepage](http://www.howto.gov/training/classes/api-standards-white-house)
 * [Learn How to Use and Create APIs](https://www.youtube.com/watch?v=SgJq4Ukx6yU&list=UU5V8jrK77-8gsa9RL_taG9A) - [former homepage](http://www.howto.gov/training/classes/learn-to-use-create-apis)
+* [Recent API Trends in Government: API Standards and Open Source Documentation](https://www.youtube.com/watch?v=ZRhRU5y0jEk&feature=youtu.be)
