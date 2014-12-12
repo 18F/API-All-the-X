@@ -20,6 +20,7 @@ title: "Government API Blogposts"
 * [New Online Tool Gives Public Wider Access to Key U.S. Statistics](http://www.commerce.gov/blog/2012/07/27/new-online-tool-gives-public-wider-access-key-us-statistics)
 * [Census Bureau’s API Continues Commitment to Innovation](http://www.commerce.gov/blog/2014/03/20/census-bureau%E2%80%99s-api-continues-commitment-innovation)
 * [More Data in the Census Bureau API to Help You #hackforchange](http://www.commerce.gov/blog/2014/06/10/more-data-census-bureau-api-help-you-hackforchange-0)
+* [New Search Tool Driven by API Helps U.S. Companies Comply with Export Laws](http://www.commerce.gov/blog/2014/11/20/new-search-tool-driven-api-helps-us-companies-comply-export-laws)
 
 ### Department of Defense 
 * [ADL Releases SCORM Version 1.2 and SCORM 2004 API Wrapper Files](http://www.adlnet.gov/adl-releases-scorm-version-1-2-and-scorm-2004-api-wrapper-files/)
