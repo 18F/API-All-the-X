@@ -20,6 +20,7 @@
 * [Government Challenges](http://18f.github.io/API-All-the-X/pages/government_challenges_with_apis)
 * [Model Developer Terms of Service](https://github.com/GSA/API-Resources/tree/master/developer_tos#readme)
 * [Model RFI for Agency APIs](http://18f.github.io/API-All-the-X/pages/model_RFI_for_agency_APIs)
+* [Open Source Documentation](http://18f.github.io/API-All-the-X/pages/open_source_documentation)
 * [Presentation Material](http://18f.github.io/API-All-the-X/pages/presentation_material)
 * [Sample API Requirements](http://18f.github.io/API-All-the-X/pages/sample_api_requirements)
 * [Talking Points - APIs in the Federal Government](http://18f.github.io/API-All-the-X/pages/talking_points-apis_in_government)
