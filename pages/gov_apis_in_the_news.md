@@ -3,6 +3,9 @@ layout: page
 title: ".Gov APIs in the News"
 ---
 
+### October 20, 2014
+* [Open Data for Open Lands](https://medium.com/@alyraz/open-data-for-93af9d3d30aa)
+
 ### October 7, 2014
 * [Checkout Pillbox at ONC's Next Innovation Engagement Google Hangout](http://www.programmableweb.com/news/checkout-pillbox-oncs-next-innovation-engagement-google-hangout/2014/10/06)
 
