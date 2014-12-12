@@ -29,7 +29,7 @@ This model has a range of benefits, discussed in greater detail in the case stud
 * [OpenFDA](http://open.fda.gov)
 * [DOL Developer Documentation](http://usdepartmentoflabor.github.io/DOLAPI/)
 * [API.Data.gov](http://API.Data.gov)
-* [Developer.Trade.Gov](http://Developer.Trade.Gov) - code
+* [Developer.Trade.Gov](http://Developer.Trade.Gov)
 * [DOI Data Hub - APIs](http://usinterior.github.io/doi-data-hub/pages/developers.html)
 * [DigitalGov Search APIs](http://search.digitalgov.gov/developer/)
 * [FBOpen API](http://18f.github.io/fbopen/apidocs)
