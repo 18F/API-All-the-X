@@ -10,6 +10,7 @@
 * [API Release Kit](http://18f.github.io/API-All-the-X/pages/api_release_kit)
 * [API Standards](http://18f.github.io/API-All-the-X/pages/api_standards)  
 * [Complete API model](http://18f.github.io/API-All-the-X/pages/complete_API_model)
+* [Components of an Example API Program](https://github.com/agency-x/API#api)
 * [Content APIs](https://github.com/GSA/.Gov-Content-as-an-API)
 * [Data.gov Guide - How to Include APIs in a Public Data Listing](http://18f.github.io/API-All-the-X/pages/apis_in_data_catalogs)
 * [Developer Engagement - A Model](http://18f.github.io/API-All-the-X/pages/developer_engagement-a_model)
