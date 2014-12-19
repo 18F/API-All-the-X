@@ -162,6 +162,9 @@ title: ".Gov APIs in the News"
 * [APIs at the core of TSA mobile strategy - Fierce Mobile Government](http://www.fiercemobilegovernment.com/story/apis-core-tsa-mobile-strategy/2013-07-17)
 * [RESTful APIs: White House Sets The Standard(s) - ProgrammableWeb](http://blog.programmableweb.com/2013/06/17/restful-apis-white-house-sets-the-standards/)
 
+### July 3, 2013 
+* [Market Mapper Shows Farmers Markets Near You](http://mobilitylab.org/2013/07/08/market-mapper-shows-farmers-markets-near-you/)
+
 ### June 12, 2013
 * [White House shares API standards guide - Fierce Mobile Government](http://www.fiercemobilegovernment.com/story/white-house-shares-api-standards-guide/2013-06-12)
 
