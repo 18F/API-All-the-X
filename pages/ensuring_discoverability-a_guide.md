@@ -36,6 +36,8 @@ There are several, well-established API catalogs that many developers use to fin
 ## Engage with Developer Communities 
 
 * [A model](http://18f.github.io/API-All-the-X/pages/developer_engagement-a_model)
+* Blog about the release, further updates, and examples of people using the API on the agency blog.  Also consider cross-posting with DigitalGov.gov, programmableweb.com, and apievangelist.com.  
+* Tweet about the release, further updates, and examples of people using the API.  @ relevant characters such as Alex Howard, Kin Lane, etc.  
 
 ## Ensure SEO for the Developer Hub
 
