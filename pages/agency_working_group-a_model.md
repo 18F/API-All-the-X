@@ -18,3 +18,7 @@ title: "Agency Working Group - A Model"
 An API working group should regularly meet, to ensure that the agency's conversation around APIs moves forward at a continuous pace.    
   
 It's also important to have a regular collaboration mechanism available for the working group, such as a listserve or internal chat room.  
+
+## Potential Activities
+* Recruit API points of contact from unrepresented 
+* Brainstorm how agency API programs can consolidate shared resources  
