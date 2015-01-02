@@ -3,6 +3,9 @@ layout: page
 title: ".Gov APIs in the News"
 ---
 
+### December 5, 2014
+* [History Of APIs: NOAA APIs Have Been RESTful For Over 20 Years](http://apievangelist.com/2014/12/05/history-of-apis-noaa-apis-have-been-restful-for-over-20-years/)
+
 ### October 20, 2014
 * [Open Data for Open Lands](https://medium.com/@alyraz/open-data-for-93af9d3d30aa)
 
