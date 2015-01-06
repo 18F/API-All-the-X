@@ -7,7 +7,7 @@ In addition to the Training and Direct Support options available to any federal 
 
 The Enterprise Agency Support package is available on demand and is managed via Inter-Agency Agreement.  The program provides three months of engagement that delivers each of the below and costs $12,400. Costs are for the direct reimbursement of FTE labor and includes no further expenses.  Each of the below deliverables will be customized to best fit the agency's current needs.  
 
-### Components
+### Components To Be Delivered
 * API Strategy 
 * API Standards 
 * Developer Hub 
@@ -24,7 +24,7 @@ The Enterprise Agency Support package is available on demand and is managed via 
   * API Training for Contracting Officers and Representatives
   * Other Agency-Customized Sessions
 
-### Support 
+### Support Provided
 * Developer Engagement 
 * Endpoint Design 
 * Contract Support 
