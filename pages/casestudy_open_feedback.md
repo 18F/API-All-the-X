@@ -19,5 +19,6 @@ title: "Open Source Feedback - A Case Study"
 ## Front Facing Feedback Tools
 * [Examples](http://18f.github.io/API-All-the-X/pages/give_feedback)
 
+How to see open issues, pull requests across an org - https://github.com/issues?q=is%3Aopen+user%3Aproject-open-data+ or just one repo - https://github.com/issues?q=is%3Aopen+repo%3A18f%2Fmidas+
 
 
