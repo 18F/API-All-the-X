@@ -2,6 +2,8 @@
 layout: page
 title: "Open Source API Documentation"
 ---
+[bit.ly/govapidocs](https://bit.ly/govapidocs)
+
 
 ## What Do You Mean 'Open Source API Documentation'
 
