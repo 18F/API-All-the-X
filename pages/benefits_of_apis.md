@@ -40,5 +40,6 @@ As needs change, APIs help to support unanticipated future uses. Making data ava
 
 * [Business Justification - Webinar](http://www.elasticpath.com/company/news/2012/api-webinar)
 * [PWC Case Study - The business value of APIs](http://www.pwc.com/us/en/technology-forecast/2012/issue2/download.jhtml)
+* [The Strategic Value of APIs - Harvard Business Review](https://hbr.org/2015/01/the-strategic-value-of-apis)
 
 
