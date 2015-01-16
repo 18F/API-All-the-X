@@ -4,7 +4,7 @@ title: ".Gov APIs in the News"
 ---
 
 ### January 15, 2015
-* [How Transparency, Innovation, Dogfooding, and Passion DRive Government APIs](http://www.programmableweb.com/news/how-transparency-innovation-dogfooding-and-passion-drive-government-apis/analysis/2015/01/15)
+* [How Transparency, Innovation, Dogfooding, and Passion Drive Government APIs](http://www.programmableweb.com/news/how-transparency-innovation-dogfooding-and-passion-drive-government-apis/analysis/2015/01/15)
 
 ### December 5, 2014
 * [History Of APIs: NOAA APIs Have Been RESTful For Over 20 Years](http://apievangelist.com/2014/12/05/history-of-apis-noaa-apis-have-been-restful-for-over-20-years/)
