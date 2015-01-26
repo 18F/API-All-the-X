@@ -29,6 +29,7 @@ This model has a range of benefits, discussed in greater detail in the case stud
 * [GSA Auctions API](http://gsa.github.io/auctions_api/)
 * [Open IAE](http://gsa.github.io/openIAE/)
 * [OpenFDA](http://open.fda.gov)
+* [NIH 3D Printing API](http://niaid.github.io/3dpx_api/)
 * [DOL Developer Documentation](http://usdepartmentoflabor.github.io/DOLAPI/)
 * [API.Data.gov](http://API.Data.gov)
 * [API.Data.gov Admin](http://nrel.github.io/api-umbrella/docs/admin-api/)
