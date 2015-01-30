@@ -3,6 +3,9 @@ layout: page
 title: ".Gov APIs in the News"
 ---
 
+### January 29, 2015
+* [FDA’s public data project to get an upgrade under $1.2M contract](http://fedscoop.com/fdas-public-data-project-to-receive-a-facelift-under-1-2m-contract)
+
 ### January 15, 2015
 * [How Transparency, Innovation, Dogfooding, and Passion Drive Government APIs](http://www.programmableweb.com/news/how-transparency-innovation-dogfooding-and-passion-drive-government-apis/analysis/2015/01/15)
 
