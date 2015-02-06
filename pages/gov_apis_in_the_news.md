@@ -3,6 +3,9 @@ layout: page
 title: ".Gov APIs in the News"
 ---
 
+### February 6, 2015 
+* [FDIC Bank Data API Available, Official Announcement Pending](http://www.programmableweb.com/news/fdic-bank-data-api-available-official-announcement-pending/2015/02/06)
+
 ### January 29, 2015
 * [FDA’s public data project to get an upgrade under $1.2M contract](http://fedscoop.com/fdas-public-data-project-to-receive-a-facelift-under-1-2m-contract)
 
@@ -12,8 +15,17 @@ title: ".Gov APIs in the News"
 ### January 15, 2015
 * [How Transparency, Innovation, Dogfooding, and Passion Drive Government APIs](http://www.programmableweb.com/news/how-transparency-innovation-dogfooding-and-passion-drive-government-apis/analysis/2015/01/15)
 
+### December 15, 2014
+* [Maximize Holiday Fuel Economy with .GOV Tool](http://www.programmableweb.com/news/maximize-holiday-fuel-economy-.gov-tool/elsewhere-web/2014/12/15)
+
+### December 12, 2014
+* [New U.S. DOJ APIs Expose Legal Jobs and News](http://www.programmableweb.com/news/new-u.s.-doj-apis-expose-legal-jobs-and-news/2014/12/12)
+
 ### December 5, 2014
 * [History Of APIs: NOAA APIs Have Been RESTful For Over 20 Years](http://apievangelist.com/2014/12/05/history-of-apis-noaa-apis-have-been-restful-for-over-20-years/)
+
+### December 1, 2014 
+* [Trade.gov Simplifies Denied Party Screening with the CSL API](http://www.programmableweb.com/news/trade.gov-simplifies-denied-party-screening-csl-api/2014/12/01)
 
 ### October 20, 2014
 * [Open Data for Open Lands](https://medium.com/@alyraz/open-data-for-93af9d3d30aa)
@@ -24,8 +36,15 @@ title: ".Gov APIs in the News"
 ### October 1, 2014
 * [GSA hypes APIs, social media as means to publishing content](http://www.fiercegovernmentit.com/story/gsa-hypes-apis-social-media-means-publishing-content/2014-10-01?utm_campaign=AddThis&utm_medium=AddThis&utm_source=twitter#.VCwINWUV4eY.twitter)
 
+### September 5, 2014
+* [Today In APIs: NASA Engages Developer Community to Create Open Data APIs](http://www.programmableweb.com/news/today-apis-nasa-engages-developer-community-to-create-open-data-apis/brief/2014/09/05)
+
+### August 26, 2014
+* [OpenFDA Hopes to Provide a Model for Government API Strategy](http://www.programmableweb.com/news/%E2%80%8Bopenfda-hopes-to-provide-model-government-api-strategy/analysis/2014/08/26)
+
 ### August 21, 2014
 * [FDA Finding Their API Mojo With A New Drug Label API](http://apievangelist.com/2014/08/21/fda-finding-their-api-mojo-with-a-new-drug-label-api/)
+* [USA.gov Releases Corporate Consumer Contact API](http://www.programmableweb.com/news/usa.gov-releases-corporate-consumer-contact-api/brief/2014/08/21)
 
 ### August 14, 2014
 * [The Speed Of Federal Government When It Runs On Github](http://apievangelist.com/2014/08/14/the-speed-of-federal-government-when-it-runs-on-github/)
