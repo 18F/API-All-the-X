@@ -6,11 +6,19 @@ title: ".Gov APIs in the News"
 ### February 6, 2015 
 * [FDIC Bank Data API Available, Official Announcement Pending](http://www.programmableweb.com/news/fdic-bank-data-api-available-official-announcement-pending/2015/02/06)
 
+### February 4, 2015 
+* [Recap Of APIs At Dept of Education, And The FAFSA API](http://apievangelist.com/2015/02/04/recap-of-apis-at-dept-of-education-and-the-fafsa-api/)
+
 ### January 29, 2015
-* [FDA’s public data project to get an upgrade under $1.2M contract](http://fedscoop.com/fdas-public-data-project-to-receive-a-facelift-under-1-2m-contract)
+* ['FDA’s public data project to get an upgrade under $1.2M contract'](http://fedscoop.com/fdas-public-data-project-to-receive-a-facelift-under-1-2m-contract)
 
 ### January 27, 2015
 * ['Less RFPs and more APIs'](http://fcw.com/articles/2015/01/27/less-rfps-and-more-apis.aspx)
+
+### January 21, 2015
+* ['The Next Steps For The The Recreation Information Database (RIDB) API'](http://apievangelist.com/2015/01/21/the-next-steps-for-the-the-recreation-information-database-ridb-api/)
+* ['A New 3D Print Exchange API from the National Institutes of Health (NIH)'](http://apievangelist.com/2015/01/21/a-new-3d-print-exchange-api-from-the-national-institutes-of-health-nih/)
+* [This Is How You On-Board With An API](http://apievangelist.com/2015/01/21/this-is-how-you-onboard-with-an-api/)
 
 ### January 15, 2015
 * [How Transparency, Innovation, Dogfooding, and Passion Drive Government APIs](http://www.programmableweb.com/news/how-transparency-innovation-dogfooding-and-passion-drive-government-apis/analysis/2015/01/15)
