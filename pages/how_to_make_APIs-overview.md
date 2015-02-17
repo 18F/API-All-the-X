@@ -47,5 +47,5 @@ Perhaps the most advanced method is to stand up a team that builds APIs directly
 
 This path may offer several advantages, including a consistent, integrated API across all of the agency’s data. When contrasted against a patchwork effort, such a consolidated approach encourages greater developer adoption.  
 
-Given the increasing role of APIs in agency digital efforts, such an investment can be well worth the effort. The significant success of the [Census Bureau](http://www.census.gov/developers), [Department of Labor](http://www.developer.dol.gov), and [Department of Health and Human Services](http://www.healthdata.gov)’ API efforts serve as models for mature and fully fleshed out API production.
+Given the increasing role of APIs in agency digital efforts, such an investment can be well worth the effort. The significant success of the [Census Bureau](http://www.census.gov/developers), [Department of Labor](http://developer.dol.gov), and [Department of Health and Human Services](http://www.healthdata.gov)’ API efforts serve as models for mature and fully fleshed out API production.
 
