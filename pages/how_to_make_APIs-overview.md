@@ -29,7 +29,7 @@ Given the ease of this method, it’s highly recommended as a good first step fo
 
 Several websites offer the same ease of use described above but with more powerful functionality. The starting point is the same. Agency staff take a piece of agency data that exists as .csv or .xls spreadsheets, upload it, choose a few descriptions and other options, and the website hosts the data file but also provides a RESTful API, along with documentation and helpful tools for consuming the API.    
 
-The Socrata toolset that powers Data.gov includes this means, such that spreadsheets that are served through Data.gov may benefit from this API access automatically. Other services go further and provide a more rich package in addition to simply standing up the API, automatically building in elements such as code samples, interactive documentation, API keys, and more. GSA's .gov domain and Data Center Consolidation APIs provide an example of this method.    
+The Socrata toolset, for example, includes this means, such that spreadsheets served through its data portal product may benefit from this API access automatically. Other services go further and provide a more rich package in addition to simply standing up the API, automatically building in elements such as code samples, interactive documentation, API keys, and more. GSA's .gov domain and Data Center Consolidation APIs provide an example of this method.    
 
 These first two approaches target data that is already in a spreadsheet file. Oftentimes, the data is more complex than that. 
 
