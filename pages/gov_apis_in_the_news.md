@@ -2,7 +2,8 @@
 layout: page
 title: ".Gov APIs in the News"
 ---
-
+### February 19, 2015
+* [Private and public sectors are companions in bold new IoT future](http://www.fiercemobileit.com/story/private-and-public-sectors-are-companions-bold-new-iot-future/2015-02-19)
 ### February 6, 2015 
 * [FDIC Bank Data API Available, Official Announcement Pending](http://www.programmableweb.com/news/fdic-bank-data-api-available-official-announcement-pending/2015/02/06)
 
