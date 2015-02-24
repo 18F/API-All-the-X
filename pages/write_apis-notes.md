@@ -21,6 +21,7 @@ Write APIs offer tremendous potential for federal agencies as they unleash the b
 * [Pacific Northwest National Laboratory - Commercial Building Energy Asset Scoring Tool](https://assetscoreapi.pnnl.gov/apidoc/)
 * [Lawrence Berkeley National Laboratory Home Energy Scoring Tool](https://developers.buildingsapi.lbl.gov/)
 * [Grants.gov APIs](http://www.grants.gov/web/grants/s2s/applicant/web-services.html  )
+* [National Archives Catalog API](https://github.com/usnationalarchives/Catalog-API)
 
 ## Potential Examples
 * [Argonne National Laboratory - PnetCDF API](https://trac.mcs.anl.gov/projects/parallel-netcdf/wiki/Documentation)
@@ -37,7 +38,6 @@ Write APIs offer tremendous potential for federal agencies as they unleash the b
 
 ## Under Consideration
 * [Department of Education](https://www.ifap.ed.gov/fregisters/FR041614.html)
-* [National Archives and Records Administration online catalog](http://blogs.archives.gov/online-public-access/wp-content/uploads/2014/04/NARA-Open-Government-Plan-2014-2016-Overview-4-1-14.pdf)
 
 ## Interim Notes
 * [Google: "write API" site:.gov](https://www.google.com/search?q="write+API"+site%3A.gov)
