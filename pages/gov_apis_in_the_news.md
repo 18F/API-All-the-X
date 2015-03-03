@@ -2,6 +2,9 @@
 layout: page
 title: ".Gov APIs in the News"
 ---
+### March 2, 2015 
+* [Government Agencies Turn to IFTTT To Make APIs Accessible](http://www.programmableweb.com/news/government-agencies-turn-to-ifttt-to-make-apis-accessible/2015/03/02)
+
 ### February 19, 2015
 * [Private and public sectors are companions in bold new IoT future](http://www.fiercemobileit.com/story/private-and-public-sectors-are-companions-bold-new-iot-future/2015-02-19)
 
