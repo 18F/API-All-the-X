@@ -3,6 +3,8 @@ layout: page
 title: "API Case Studies"
 ---
 
+## Federal
+
 * [Centers for Disease Control & Prevention](http://18f.github.io/API-All-the-X/pages/casestudy_cdc_content)
 * [CFPB Open Source API Documentation](http://18f.github.io/open-source-program/pages/case_study/CFPB_open_source_documentation)
 * [Department of Labor—Software Development Kits (SDKs)](http://18f.github.io/API-All-the-X/pages/casestudy_dol)
@@ -15,3 +17,6 @@ title: "API Case Studies"
 * [National Renewable Energy Laboratory](http://developer.nrel.gov/api-case-study/)
 * [Open Feedback](http://18f.github.io/API-All-the-X/pages/casestudy_open_feedback)
 * [GeoBrowser Deployment in the USDA Forest Service](http://www.fs.fed.us/wwetac/projects/PDFs/GeoCom_2010_WETAG_FINAL2.pdf)
+
+## Other 
+* [New Zealand Government](https://api.business.govt.nz/case-studies)
