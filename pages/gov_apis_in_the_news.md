@@ -2,6 +2,10 @@
 layout: page
 title: ".Gov APIs in the News"
 ---
+
+### March 9, 2015
+* [Outdoor Data for the Outdoors](https://medium.com/@alyraz/open-data-for-the-outdoors-b61646b1d2f3)
+
 ### March 2, 2015 
 * [Government Agencies Turn to IFTTT To Make APIs Accessible](http://www.programmableweb.com/news/government-agencies-turn-to-ifttt-to-make-apis-accessible/2015/03/02)
 
