@@ -66,8 +66,13 @@ In addition to static code examples, you can also provide interactive tools that
 * [I/O Docs](https://github.com/mashery/iodocs)
 
 ### .Gov Examples  
-* [Federal Register](https://www.federalregister.gov/blog/learn/developers)
 * [EnergyStar.gov](https://data.energystar.gov/developers/docs/energy-star-certified-clothes-washers)
+* [Federal Register](https://www.federalregister.gov/blog/learn/developers)
+* [Food and Drug Administration](https://open.fda.gov/drug/event/)
+* [GSA - Discovery](https://discovery.gsa.gov/docs/)
+* [GSA - System for Award Management](http://gsa.github.io/sam_api/sam/console/)
+* [National Renewable Energy Laboratory](http://developer.nrel.gov/docs/transportation/transportation-incentives-laws-v1/)
+* [Regulations.gov](http://regulationsgov.github.io/developers/console/)
 
 ## SDKs 
 Software Development Kits (SDKs) are small software libraries that make it easy to employ the associated API with a specific programming language, such as PHP or Ruby. Because many developers have a programming language of choice, you can ensure faster adoption by more developers by offering these in many popular languages. SDKs are often hosted as projects in your agency’s GitHub account, but should also be linked from the API’s homepage.  
