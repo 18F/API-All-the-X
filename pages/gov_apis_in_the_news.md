@@ -3,6 +3,9 @@ layout: page
 title: ".Gov APIs in the News"
 ---
 
+### March 17, 2015
+* [The API Journey: We Do Not Always Get Our API Strategy 100% Perfect, But We Can Communicate, Learn and Evolve](http://apievangelist.com/2015/03/17/the-api-journey-we-do-not-always-get-our-api-strategy-100-perfect-but-we-can-communicate-learn-and-evolve/)
+
 ### March 9, 2015
 * [Outdoor Data for the Outdoors](https://medium.com/@alyraz/open-data-for-the-outdoors-b61646b1d2f3)
 
