@@ -50,6 +50,7 @@ title: "Government API Blogposts"
 * [Pulse of a Community](http://www.hhs.gov/digitalstrategy/open-data/pulse-community.html)
 * [Open Data in Action: What is an API?](http://blog.aids.gov/2012/04/open-data-in-action-what-is-an-api.html)
 * [Announcing The Locator API](http://blog.aids.gov/2012/04/announcing-the-locator-api.html)
+* [Calling All Developers](http://3dprint.nih.gov/whats-new/news/3dpx-api-now-available)
 
 ### Department of Housing and Urban Development
 * [One-Year Anniversary of the Digital Government Strategy: HUD Releases Two APIs](http://blog.hud.gov/index.php/2013/05/23/one-year-anniversary-of-the-digital-government-strategy-hud-releases-two-apis/)
