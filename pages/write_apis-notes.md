@@ -19,6 +19,7 @@ Write APIs offer tremendous potential for federal agencies as they unleash the b
 * [Citizenship and Immigration Services E-Verify](http://www.uscis.gov/faq-page/web-services#t12823n46707) *[[More here](http://www.uscis.gov/sites/default/files/USCIS/Verification/E-Verify/E-Verify_Native_Documents/E-Verify%20Manuals%20and%20Guides/Supplemental_Guide_for_Web_Services_Users.pdf)]*
 * [IT Dashboard](https://www.itdashboard.gov/faq#faq24)
 * [Pacific Northwest National Laboratory - Commercial Building Energy Asset Scoring Tool](https://assetscoreapi.pnnl.gov/apidoc/)
+* Pay.gov [Non-public]
 * [Lawrence Berkeley National Laboratory Home Energy Scoring Tool](https://developers.buildingsapi.lbl.gov/)
 * [Grants.gov APIs](http://www.grants.gov/web/grants/s2s/applicant/web-services.html  )
 * [National Archives Catalog API](https://github.com/usnationalarchives/Catalog-API)
