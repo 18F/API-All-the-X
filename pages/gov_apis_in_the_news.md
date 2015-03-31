@@ -3,6 +3,12 @@ layout: page
 title: ".Gov APIs in the News"
 ---
 
+### March 30, 2015
+* [EIA Discusses Managing Open Innovation](http://www.programmableweb.com/news/eia-discusses-managing-open-innovation/analysis/2015/03/30)
+
+### March 19, 2015 
+* [U.S. Energy Information Agency Enchances APIs Accessibility](http://www.programmableweb.com/news/u.s.-energy-information-agency-enhances-apis-accessiblility/2015/03/19)
+
 ### March 17, 2015
 * [The API Journey: We Do Not Always Get Our API Strategy 100% Perfect, But We Can Communicate, Learn and Evolve](http://apievangelist.com/2015/03/17/the-api-journey-we-do-not-always-get-our-api-strategy-100-perfect-but-we-can-communicate-learn-and-evolve/)
 
