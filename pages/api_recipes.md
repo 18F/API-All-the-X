@@ -15,6 +15,15 @@ A place to share the technology stack and other recipe details behind assorted A
 * http://www.restapitutorial.com/
 * http://orchestrate.io/blog/2014/08/05/turning-csvs-into-apis/
 
+### Java
+
+* https://docs.oracle.com/javaee/7/tutorial/doc/jaxrs.htm
+* [Spark](http://sparkjava.com/)
+    * http://www.boxuk.com/blog/creating-rest-api-quickly-using-pure-java/
+    * http://java.dzone.com/articles/building-simple-restful-api
+* http://docs.spring.io/spring/docs/3.0.0.M3/spring-framework-reference/html/ch18s02.html
+* http://www.vogella.com/tutorials/REST/article.html
+
 ### Python
 
 * [Flask](http://flask.pocoo.org/)
@@ -27,14 +36,14 @@ A place to share the technology stack and other recipe details behind assorted A
         * [Flask-Restless](https://github.com/jfinkels/flask-restless/)
 * [Falcon](http://falconframework.org/)
 
-### Java
+### Ruby
 
-* https://docs.oracle.com/javaee/7/tutorial/doc/jaxrs.htm
-* [Spark](http://sparkjava.com/)
-    * http://www.boxuk.com/blog/creating-rest-api-quickly-using-pure-java/
-    * http://java.dzone.com/articles/building-simple-restful-api
-* http://docs.spring.io/spring/docs/3.0.0.M3/spring-framework-reference/html/ch18s02.html
-* http://www.vogella.com/tutorials/REST/article.html
+* [Grape](http://intridea.github.io/grape/)
+* [Sinatra](http://www.sinatrarb.com/)
+* [Rails](http://rubyonrails.org/) / [Rails::API](https://github.com/rails-api/rails-api)
+    * http://www.theodinproject.com/ruby-on-rails/apis-and-building-your-own
+    * https://www.codeschool.com/courses/surviving-apis-with-rails
+    * https://www.airpair.com/ruby-on-rails/posts/building-a-restful-api-in-a-rails-application
 
 ## Examples of Active APIs
 
