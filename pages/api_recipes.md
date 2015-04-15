@@ -35,6 +35,7 @@ A place to share the technology stack and other recipe details behind assorted A
         * [Flask-RESTful](http://flask-restful.readthedocs.org/en/latest/)
         * [Flask-Restless](https://github.com/jfinkels/flask-restless/)
 * [Falcon](http://falconframework.org/)
+* [Django REST Framework](http://www.django-rest-framework.org/)
 
 ### Ruby
 
