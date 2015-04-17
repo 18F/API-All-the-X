@@ -23,7 +23,7 @@ This model has a range of benefits, discussed in greater detail in the case stud
 
 ## Examples of API Documentation or Developer Hubs Hosted as Open Source Documentation
 * [CFPB's Developer Hub](http://cfpb.github.io)
-* [GSA's Developer Hub](http://gsa.github.io)
+* [GSA's Developer Hub](http://open.gsa.gov)
 * [CFPB API Documentation](http://cfpb.github.io/api/hmda/)
 * [SAM.gov API](http://gsa.github.io/sam_api/sam/)
 * [GSA Auctions API](http://gsa.github.io/auctions_api/)
