@@ -45,5 +45,6 @@ This model has a range of benefits, discussed in greater detail in the case stud
 ## Notes 
 * [Case Study](http://18f.github.io/open-source-program/pages/case_study/CFPB_open_source_documentation/) 
 * [Clonable Templates for API Documentation, Developer Hubs, and other microsites](http://usg-website-templates.github.io/)
+* [Another Clonable Template with Directions](http://18f.github.io/guides-template/)
 * [Webinar](http://youtu.be/ZRhRU5y0jEk?t=36m33s)
 * [Other examples of open source microsites](http://gsa.github.io/Open-Data-Collaboration-Sandbox/website_examples/)
