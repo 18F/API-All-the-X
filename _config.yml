@@ -1,8 +1,8 @@
 # Base configuration
-permalink: /news/:title 
+permalink: pretty
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 markdown: kramdown
-pygments: true
+highlighter: pygments
 gems:
   - jekyll-sitemap
 
@@ -11,8 +11,8 @@ repo_name: API-All-the-X
 branch: gh-pages
 #GitHub organization name *or* username
 gh_org: 18F
-prose_url: http://github.com/
-site_url: http://18f.github.io/API-All-the-X
+prose_url: https://github.com/
+site_url: https://pages.18f.gov/API-All-the-X
 media: assets/img
 
 
@@ -39,7 +39,7 @@ author:
 # ------------------------------------------------------------------
 navigation:
 - text: Home
-  url: index
+  url: /
   internal: true
 - text: Community
   url: pages/community
