@@ -1,0 +1,37 @@
+Agency,URL
+USDA,http://usda.gov/data.json
+Commerce,http://www.commerce.gov/data.json
+NIST,http://nist.gov/data.json
+NOAA,http://data.noaa.gov/data.json
+Defense,http://www.defense.gov/data.json
+Education,http://www2.ed.gov/data.json
+Energy,http://www.energy.gov/data.json
+NREL,http://nrel.gov/data.json
+HHS,http://healthdata.gov/data.json
+DHS,http://www.dhs.gov/sites/default/files/publications/digital-strategy/data.json
+HUD,http://www.hud.gov/data.json
+DOI,http://www.doi.gov/data.json
+DOJ,http://www.justice.gov/data.json
+DOL,http://www.dol.gov/data.json
+State Dept.,http://www.state.gov/data.json
+DOT,http://www.dot.gov/data.json
+Treasury,http://treasury.gov/data.json
+VA,http://www.va.gov/data.json
+US AID,http://www.usaid.gov/data.json
+EPA,http://www.epa.gov/data.json
+GSA,http://www.gsa.gov/data.json
+NASA,http://www.nasa.gov/data.json
+Archives,http://www.archives.gov/data.json
+NRC,http://www.nrc.gov/data.json
+NSF,http://www.nsf.gov/data.json
+OPM,http://www.opm.gov/data.json
+SBA,https://www.sba.gov/sites/default/files/data.json
+SSA,http://www.ssa.gov/data.json
+Consumer Finance,http://www.consumerfinance.gov/data.json
+FHFA,http://www.fhfa.gov/data.json
+IMLS,http://www.imls.gov/data.json
+MCC,http://data.mcc.gov/raw/index.json
+NITRD,http://www.nitrd.gov/data.json
+NTSB,http://www.ntsb.gov/data.json
+SEC,http://www.sec.gov/data.json
+White House,https://open.whitehouse.gov/data.json
