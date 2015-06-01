@@ -1,3 +1,4 @@
+#encoding: UTF-8
 require 'rubygems'
 require 'typhoeus'
 require 'csv'
@@ -8,12 +9,12 @@ class ApiRegistry
 	attr_accessor :apis
 
 	def initialize
-		@apis = []
+		@apis = {}
 	end
 
 	def process_json(agency, url, body)
 		puts "#{url}"
-
+		count = 0
 		data = MultiJson.load(body)
 
 		if data.is_a?(Array)
@@ -27,21 +28,25 @@ class ApiRegistry
 			if dist 
 				dist_records = dist.to_a
 
-				dist_records.select {|d| d["format"] == "API"}.each do |drec|
+				api_record = dist_records.detect {|d| d["format"] == "API" || d["format"] == "feed" }
+
+				if api_record
 					# add record to @apis
-					api_url = drec["accessURL"] || drec["downloadURL"]
-					@apis << {
-						agency: agency,
-						title: dataset["title"],
-						description: dataset["description"],
-						identifier: dataset["identifier"],
-						url: api_url
-					}
-
-					puts "  + #{api_url}"
-
+					api_url = api_record["accessURL"] || api_record["downloadURL"]
+	
+					unless @apis.key?(api_url) || dist_records.length == 1  # if a single API record only, save URL
+						@apis[api_url] = dataset
+						count += 1
+						puts "  + #{api_url}"
+					end
 				end
 			end
+		end
+
+		if (count > 0)
+			puts "  + #{count} APIs found"
+		else
+			puts "  ! NO APIS FOUND"
 		end
 	end
 
@@ -49,7 +54,7 @@ class ApiRegistry
 		hydra = Typhoeus::Hydra.new(max_concurrency: 5)
 
 		CSV.foreach('data_agencies.csv', :headers => true) do |row|
-			req = Typhoeus::Request.new(row["URL"], followlocation: true)
+			req = Typhoeus::Request.new(row["URL"], followlocation: true, timeout: 60, accept_encoding: "gzip")
 		
 			req.on_complete do |response|
 		  	if response.success?
@@ -75,10 +80,19 @@ class ApiRegistry
 		
 		hydra.run
 	end
+
+	def export_csv
+		# dump some fields to a CSV
+	end
+
+	def export_json
+		File.open("./combined_data.json", "wb") do |file|
+			file.write(MultiJson.dump(@apis.keys.sort.map {|k| @apis[k] }, pretty: true))
+		end
+	end
 end
 
 a = ApiRegistry.new
 a.run
-
-puts a.apis.inspect
+a.export_json
 
