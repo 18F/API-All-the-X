@@ -34,10 +34,10 @@ class ApiRegistry
 					# add record to @apis
 					api_url = api_record["accessURL"] || api_record["downloadURL"]
 	
-					unless @apis.key?(api_url) || dist_records.length == 1  # if a single API record only, save URL
+					unless @apis.key?(api_url)
 						@apis[api_url] = dataset
 						count += 1
-						puts "  + #{api_url}"
+						#puts "  + #{api_url}"
 					end
 				end
 			end
