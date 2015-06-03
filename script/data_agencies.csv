@@ -1,37 +1,35 @@
-Agency,URL
-USDA,http://usda.gov/data.json
-Commerce,http://www.commerce.gov/data.json
-NIST,http://nist.gov/data.json
-NOAA,http://data.noaa.gov/data.json
-Defense,http://www.defense.gov/data.json
-Education,http://www2.ed.gov/data.json
-Energy,http://www.energy.gov/data.json
-NREL,http://nrel.gov/data.json
-HHS,http://healthdata.gov/data.json
-DHS,http://www.dhs.gov/sites/default/files/publications/digital-strategy/data.json
-HUD,http://www.hud.gov/data.json
-DOI,http://www.doi.gov/data.json
-DOJ,http://www.justice.gov/data.json
-DOL,http://www.dol.gov/data.json
-State Dept.,http://www.state.gov/data.json
-DOT,http://www.dot.gov/data.json
-Treasury,http://treasury.gov/data.json
-VA,http://www.va.gov/data.json
-US AID,http://www.usaid.gov/data.json
-EPA,http://www.epa.gov/data.json
-GSA,http://www.gsa.gov/data.json
-NASA,http://www.nasa.gov/data.json
-Archives,http://www.archives.gov/data.json
-NRC,http://www.nrc.gov/data.json
-NSF,http://www.nsf.gov/data.json
-OPM,http://www.opm.gov/data.json
-SBA,https://www.sba.gov/sites/default/files/data.json
-SSA,http://www.ssa.gov/data.json
-Consumer Finance,http://www.consumerfinance.gov/data.json
-FHFA,http://www.fhfa.gov/data.json
-IMLS,http://www.imls.gov/data.json
-MCC,http://data.mcc.gov/raw/index.json
-NITRD,http://www.nitrd.gov/data.json
-NTSB,http://www.ntsb.gov/data.json
-SEC,http://www.sec.gov/data.json
-White House,https://open.whitehouse.gov/data.json
+Agency,URL,Count,Error
+Archives,http://www.archives.gov/data.json,3,
+Commerce,http://www.commerce.gov/data.json,5,
+Consumer Finance,http://www.consumerfinance.gov/data.json,2,
+DHS,http://www.dhs.gov/sites/default/files/publications/digital-strategy/data.json,0,HTTP 404
+DOI,http://www.doi.gov/data.json,57,
+DOJ,http://www.justice.gov/data.json,0,
+DOL,http://www.dol.gov/data.json,181,
+DOT,http://www.dot.gov/data.json,12,
+Defense,http://www.defense.gov/data.json,0,
+EPA,http://www.epa.gov/data.json,430,
+Energy,http://www.energy.gov/data.json,19,
+FHFA,http://www.fhfa.gov/data.json,0,
+GSA,http://www.gsa.gov/data.json,9,
+HHS,http://healthdata.gov/data.json,3,
+HUD,http://www.hud.gov/data.json,34,
+IMLS,http://www.imls.gov/data.json,0,
+MCC,http://data.mcc.gov/raw/index.json,0,
+NASA,http://www.nasa.gov/data.json,4,
+NIST,http://nist.gov/data.json,0,
+NITRD,http://www.nitrd.gov/data.json,0,HTTP 404
+NOAA,http://data.noaa.gov/data.json,0,
+NRC,http://www.nrc.gov/data.json,0,
+NREL,http://nrel.gov/data.json,0,
+NSF,http://www.nsf.gov/data.json,0,
+OPM,http://www.opm.gov/data.json,5,
+SBA,https://www.sba.gov/sites/default/files/data.json,3,
+SEC,http://www.sec.gov/data.json,0,
+SSA,http://www.ssa.gov/data.json,3,
+State Dept.,http://www.state.gov/data.json,0,
+Treasury,http://treasury.gov/data.json,5,
+US AID,http://www.usaid.gov/data.json,5,
+USDA,http://usda.gov/data.json,62,
+VA,http://www.va.gov/data.json,2,
+White House,https://open.whitehouse.gov/data.json,0,
