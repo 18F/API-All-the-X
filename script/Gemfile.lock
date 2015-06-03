@@ -1,0 +1,23 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    ethon (0.7.3)
+      ffi (>= 1.3.0)
+    ffi (1.9.8)
+    guess_html_encoding (0.0.11)
+    multi_json (1.11.0)
+    oj (2.12.9)
+    typhoeus (0.7.1)
+      ethon (>= 0.7.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  guess_html_encoding
+  multi_json
+  oj
+  typhoeus
+
+BUNDLED WITH
+   1.10.2
