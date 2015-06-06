@@ -1,0 +1,846 @@
+Agency,URL,Title,Identifier,Access
+Consumer Finance,http://data.consumerfinance.gov/api/views/x94z-ydhh.json,Consumer Complaint Database,CCDB,public
+Consumer Finance,https://api.consumerfinance.gov/data/hmda/slice/hmda_lar.json,Home Mortgage Disclosure Act Data for the years 2007-2013,hmda_lar,public
+US AID,http://aiddata.org/use-aiddatas-api,AidData,49fc4b3c-c556-4552-8551-797c1a84c83c,public
+US AID,http://api.dhsprogram.com,DHS STATCompiler,62a927d0-74e7-4802-96c2-90e78c85608c,public
+US AID,http://www.usaid.gov/developer/development-experience-clearinghouse-dec-api,Development Experience Clearinghouse (DEC),dd4fe488-3c50-4d57-92f7-48a4e6578069,public
+US AID,http://explore.data.gov/resource/7swc-ittd.json,Development Credit Authority (DCA) Data Set: Loan Transactions,854d1b81-a517-4966-957c-5428fb4c1821,public
+US AID,http://labs.data.gov/databeam/stephaniefaith/utilization-and-claims,Development Credit Authority (DCA) Data Set: Guarantee Utilization and Claims,31fbe412-d87a-41b1-bf62-259895057f79,public
+SBA,http://dsbs.sba.gov/dsbs/search/dsp_dsbs.cfm,Dynamic Small Business Search (DSBS),SBA-GCDB-2013-11-001,public
+SBA,http://api.sba.gov/doc/rec_sites.html#all,"Recommended federal, state and local websites",SBA-OCIO-2015-02-016,public
+SBA,http://api.sba.gov/doc/rec_sites.html#keyword,Recommended Sites by Keyword,SBA-OCIO-2015-02-015,public
+SSA,http://www.socialsecurity.gov/developer/api/HearingOfficeAverageProcessingTime,Hearing Office Average Processing Time Ranking Report,US-GOV-SSA-302,public
+SSA,http://www.socialsecurity.gov/developer/api/HearingOfficeWorkloadData,Hearing Office Workload Data,US-GOV-SSA-303,public
+SSA,http://www.socialsecurity.gov/developer/api/HearingOfficeTimeUntilHearingHeld,Average Wait Time Until Hearing Held Report (formerly NETSTAT Report),US-GOV-SSA-304,public
+GSA,http://jobcenter.usa.gov/apis,American Job Center Resource API,GSA - 138668,public
+GSA,http://business.usa.gov/apis,Auction Sale Data,GSA-4145,public
+GSA,http://www.usa.gov/About/developer-resources/social-media-registry.shtml#tags,Citizen Topics API,GSA - 138670,public
+GSA,https://inventory.data.gov/dataset/city-pair-program/resource/02c2b1c6-a42d-4a10-9e8b-9cf06e54a82b,City Pair Program API,GSA - 155327,public
+GSA,http://www.usa.gov/About/developer-resources/corporation-contact-directory/index.shtml,Corporate Consumer Contact API,GSA - 139632,public
+GSA,http://search.digitalgov.gov/manual/api.html,Data.gov Daily Visitor Statistics - Archival,GSA-32441,public
+GSA,http://docs.fbopen.apiary.io/,Data.gov Dataset Monthly Download Trends - Archival,GSA-32421,public
+GSA,https://www.fbo.gov/?s=generalinfo&mode=list&tab=list&tabmode=list&static=documentation,FedBizOpps Documentation,GSA - 138672,public
+GSA,https://go.usa.gov/api/,Go.USA.gov URL Shortner API,GSA-2014-02-14-1,public
+Treasury,http://www.treasurydirect.gov/instit/annceresult/annceresult_query.htm,Auction Query Page,015-BFS-2014Q4-004,public
+Treasury,http://www.treasurydirect.gov/instit/instit.htm,Auction Results,015-BFS-2014Q4-002,public
+Treasury,http://www.treasurydirect.gov/NP/debt/current,Debt to the Penny,015-BFS-2014Q3-065,public
+Treasury,http://www.treasurydirect.gov/instit/annceresult/press/press_auctionresults.htm,Today's Auction Results,015-BFS-2014Q4-001,public
+Treasury,http://www.treasurydirect.gov/instit/instit.htm?upcoming,Upcoming Auctions,015-BFS-2014Q4-003,public
+Archives,https://www.federalregister.gov/developers/api/v1,FederalRegister.gov and Public API,FEDREG,public
+Archives,https://catalog.archives.gov/api/v1/,National Archives Catalog and Public API,NARA-4794,public
+Archives,http://www.usa.gov/About/developer-resources/social-media-registry.shtml,Social Media Channels and Statistics at the National Archives,SOCMED,public
+EPA,https://edg.epa.gov,R2 & NE: State Level 2006-2010 ACS Housing Summary,{FC109CD7-8227-4E15-9CC1-E76E8A0AB0D5},public
+EPA,http://www.census.gov/geo/www/tiger,2010 Census Blocks with SF1/IGD: BLOCK10_SDE_SF1,{077F1AB9-0D56-4D98-BEE1-DA24B96C172E},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/al/al_eco_l3.zip,Level III Ecoregions of Alabama,{F7BFA26E-021E-4BD3-AE04-3978056C861F},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/al/al_eco_l4.zip,Level IV Ecoregions of Alabama,{38DD3AAE-8CCD-4C52-97EA-ED45FEDED970},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/ar/ar_eco_l3.zip,Level III Ecoregions of Arkansas,{C4E0E4F7-55E3-4F49-83D7-76243EC9C701},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/ar/ar_eco_l4.zip,Level IV Ecoregions of Arkansas,{632BB308-2858-4F8A-BA20-90D4F7D9FAE4},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/az/az_eco_l4.zip,Level IV Ecoregions of Arizona,{6D8EEA13-8FE2-4752-9E74-2107244E6023},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/az/az_eco_l3.zip,Level III Ecoregions of Arizona,{1FEDF694-BFB2-4166-B463-9CF8E801FC10},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/de/de_eco_l3.zip,Level III Ecoregions of Delaware,{766234AC-159D-4E2A-85CD-C43E4D0F1F43},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/de/de_eco_l4.zip,Level IV Ecoregions of Delaware,{CAE387BF-E5D2-4CE0-A699-2E36947EF96C},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/ca/ca_eco_l3.zip,Level III Ecoregions of California,{976FB0BA-BDB6-4AC5-821A-CDFDF78E0835},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/ca/ca_eco_l4.zip,Level IV Ecoregions of California,{A5578430-29D7-4A89-8414-9E9E9741CC9A},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/co/co_eco_l4.zip,Level IV Ecoregions of Colorado,{47BC5493-B60F-4D98-AFEB-370986A7B790},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/ct/ct_eco_l3.zip,Level III Ecoregions of Connecticut,{E02DF3BA-716B-46B2-B5D3-99B42EACCCDE},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/ct/ct_eco_l4.zip,Level IV Ecoregions of Connecticut,{B09A339F-AC35-4645-94B0-C48D83B98152},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/fl/fl_eco_l4.zip,Level IV Ecoregions of Florida,{25951D45-715C-4A10-9464-2AF3629B7F15},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/ia/ia_eco_l3.zip,Level III Ecoregions of Iowa,{CC752C88-2503-4C20-914F-12B981CED241},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/id/id_eco_l4.zip,Level IV Ecoregions of Idaho,{53D1FB95-8371-4337-A07E-88C475A0E37D},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/ia/ia_eco_l4.zip,Level IV Ecoregions of Iowa,{C911D8B6-F4AE-496C-BFE4-2D99C8D4BE3B},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/il/il_eco_l3.zip,Level III Ecoregions of Illinois,{6DB79254-E05A-4ECE-81C4-161D66CA147E},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/ga/ga_eco_l4.zip,Level IV Ecoregions of Georgia,{D2E0EC34-57B3-45CE-8BB8-E88320A44869},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/id/id_eco_l3.zip,Level III Ecoregions of Idaho,{F47FC159-7C40-4AFE-BB65-D246130828E1},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/il/il_eco_l4.zip,Level IV Ecoregions of Illinois,{DDEF0D86-19BF-4809-8449-C6E44DF44828},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/ks/ks_eco_l3.zip,Level III Ecoregions of Kansas,{BA951AEB-2903-4279-8F1A-0C8F409C37A7},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/ks/ks_eco_l4.zip,Level IV Ecoregions of Kansas,{2521D31F-7727-4E57-B82C-12A7C3D9B319},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/ky/ky_eco_l4.zip,Level IV Ecoregions of Kentucky,{782A4C70-9A4A-4E2D-910B-ED38CBB6A6DD},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/la/la_eco_l3.zip,Level III Ecoregions of Louisiana,{6EF596C3-BAF4-4729-AF4B-CDD44EF6DE8C},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/ky/ky_eco_l3.zip,Level III Ecoregions of Kentucky,{38B6B056-132B-451E-A00E-3AAFE9B81332},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/la/la_eco_l4.zip,Level IV Ecoregions of Louisiana,{14F9996E-BD95-40E3-B7C7-23B70BF96A4B},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/mi/mi_eco_l3.zip,Level III Ecoregions of Michigan,{BAF6C7BB-742B-429A-B10C-3533C39E39D7},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/ma/ma_eco_l4.zip,Level IV Ecoregions of Massachusetts,{E813974F-7EB2-4772-A046-E102761AF24A},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/md/md_eco_l3.zip,Level III Ecoregions of Maryland,{E21B6B42-535F-4B10-B374-ACE219F9BDC7},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/md/md_eco_l4.zip,Level IV Ecoregions of Maryland,{D35B31CE-47D9-41D4-8400-1EE0BC7BE60F},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/me/me_eco_l3.zip,Level III Ecoregions of Maine,{7058FED1-AB49-4907-8882-0A18051FE031},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/me/me_eco_l4.zip,Level IV Ecoregions of Maine,{6D3F337E-BFC0-4C08-BF26-43194844C8F9},public
+EPA,http://epamap5.epa.gov/ArcGIS/rest/services/IGD/StateAndCounty/MapServer,2010 States (Census Cartographic Boundaries)/IGD:  STATE10G,{6B63ABD4-D501-48A2-99A5-F0A055BBE93E},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/mn/mn_eco_l4.zip,Level IV Ecoregions of Minnesota,{B4385E61-E542-472F-B5AA-5F20492A993F},public
+EPA,http://edg.epa.gov/data/Restricted/OEI/OIAA/GeoGrantsGDB.gdb.zip,USEPA Grants,{169C612D-2489-4CC9-9851-75D07190B057},non-public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/mo/mo_eco_l3.zip,Level III Ecoregions of Missouri,{408CFCFB-8625-4254-A8FA-0B513C578064},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/mn/mn_eco_l3.zip,Level III Ecoregions of Minnesota,{C6EB3672-74F1-4329-A342-1AD3EA96E04D},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/ms/ms_eco_l3.zip,Level III Ecoregions of Mississippi,{4429B2AC-F296-4D41-B354-C218F515B405},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/ms/ms_eco_l4.zip,Level IV Ecoregions of Mississippi,{12E82344-9C25-4B4B-80DE-0E6D48562D95},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/nm/nm_eco_l3.zip,Level III Ecoregions of New Mexico,{3886A23E-EE4C-4D22-92D1-D1BCB0D0DA3B},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/reg10/reg10_eco_l3.zip,Level III Ecoregions of EPA Region 10,{A2F589DB-D8E9-4B44-80FA-344D0DFC1034},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/reg2/reg2_eco_l4.zip,Level IV Ecoregions of EPA Region 2,{19F3D7A1-DDFB-4604-841C-0CA03DFAC5B9},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/reg4/reg4_eco_l4.zip,Level IV Ecoregions of EPA Region 4,{58C52407-F80F-48D7-9D59-485103BD7596},public
+EPA,http://intranet.epa.gov/rtpgis/Xtoolsreqform.html,U.S. EPA's XTools Pro version 5.x License,{8522C57B-843B-4447-AC54-146A43B4BCF5},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/sc/sc_eco_l3.zip,Level III Ecoregions of South Carolina,{F6112EE0-B2E6-48BE-834D-0564F77211E8},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/tx/tx_eco_l3.zip,Level III Ecoregions of Texas,{0AC0669F-6E06-47A4-AA21-9788DFEBD617},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/wy/wy_eco_l4.zip,Level IV Ecoregions of Wyoming,{098D58BB-0252-426E-BC33-B026CCA1A501},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/wy/wy_eco_l3.zip,Level III Ecoregions of Wyoming,{4F1A8BC5-B2BA-4643-9CF0-D4644BFDBBD7},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/fl/fl_eco_l3.zip,Level III Ecoregions of Florida,{C095ECEA-80BC-4D17-8AAD-0BF06D1C988A},public
+EPA,https://edg.epa.gov/data/PUBLIC/OEI/EPA_Facilities/EPA_Locations.zip,"EPA Facilities and Regional Boundaries Service, US, 2012, US EPA, SEGS",{EB015EB1-24CD-498F-9485-CE05EE14BC99},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/ga/ga_eco_l3.zip,Level III Ecoregions of Georgia,{05855827-37E9-4934-B0F2-E8810E0F14F7},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/in/in_eco_l3.zip,Level III Ecoregions of Indiana,{EE1587A6-CFEC-4D24-ABAA-A5B3932D5D20},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/ma/ma_eco_l3.zip,Level III Ecoregions of Massachusetts,{D363D6CD-3949-4993-8AC1-091AD6C4E9B2},public
+EPA,https://edg.epa.gov/data/public/OEI/EPA_Facilities/EPA_Locations.zip,"EPA Facilities and Regional Boundaries Download Package, US, 2012, US EPA, SEGS",{F0DFDCC1-8226-4A3C-A3C4-FAEFB9CB9D36},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/mo/mo_eco_l4.zip,Level IV Ecoregions of Missouri,{A1859137-EE0C-4A95-81F1-E238AC2290B1},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/mt/mt_eco_l4.zip,Level IV Ecoregions of Montana,{2F9B1332-EBAA-4601-BC76-BF9D082D83E3},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/nc/nc_eco_l3.zip,Level III Ecoregions of North Carolina,{FA32D30C-6590-45A9-90A5-E06B7F3FF38C},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/nc/nc_eco_l4.zip,Level IV Ecoregions of North Carolina,{36B2BEAB-5A20-41CF-95C7-336C6A67DCC0},public
+EPA,https://edg.epa.gov/data/PUBLIC/ORD/NHEERL/LakeMorphometry.zip,Lake Morphometry for NHD Lakes in the Lower Portion of the Missouri Region 10 HUC,{EBDADC5E-BFC2-46AB-8FDF-CF8821B4450E},public
+EPA,http://www2.census.gov/geo/tiger/GENZ2010/,2010 Cartographic Boundary Counties with SF1/IGD: COUNTY10_SDE_SF1,{6C637443-0129-4DF8-80AB-9B8F39CD1F5E},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/ne/ne_eco_l4.zip,Level IV Ecoregions of Nebraska,{827A5297-78ED-486E-839E-2EB0536C2352},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/nh/nh_eco_l3.zip,Level III Ecoregions of New Hampshire,{C526482B-786F-4658-AB94-41459536E7DE},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/nd/nd_eco_l4.zip,Level IV Ecoregions of North Dakota,{921645FD-98E2-41F3-BF8A-B72281DB16DB},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/ne/ne_eco_l3.zip,Level III Ecoregions of Nebraska,{39BE88AB-F121-4896-B20E-BFD53C369A63},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/nv/nv_eco_l4.zip,Level IV Ecoregions of Nevada,{579068F8-DDD1-474B-8749-4E5FCC72CAF0},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/nm/nm_eco_l4.zip,Level IV Ecoregions of New Mexico,{928B2CB8-1ABA-4439-AA8B-3EB73B54C733},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/ny/ny_eco_l3.zip,Level III Ecoregions of New York,{CBF36A9B-20B4-4EE7-9342-EDA4D6FA2E67},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/nj/nj_eco_l3.zip,Level III Ecoregions of New Jersey,{3A4F80BA-702E-4D74-BFA5-6F12A35DB1DB},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/nj/nj_eco_l4.zip,Level IV Ecoregions of New Jersey,{029BB084-DEC5-4F24-A6F0-A0137574D999},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/nv/nv_eco_l3.zip,Level III Ecoregions of Nevada,{BA1F7E49-60F8-4014-9DF1-56F645550564},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/oh/oh_eco_l3.zip,Level III Ecoregions of Ohio,{96159B84-D6D1-424E-8C0D-C0B02F53C280},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/oh/oh_eco_l4.zip,Level IV Ecoregions of Ohio,{B2492CC6-823B-4336-B797-6181CA2D4569},public
+EPA,http://edg.epa.gov/data/Restricted/OEI/OIAA/Tribes/EPAtribes.zip,EPA Tribal Areas (4 of 4): Alaska Native Allotments,{15FEB09B-752E-4B48-B01B-D9F2D360623A},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/reg4/reg4_eco_l3.zip,Level III Ecoregions of EPA Region 4,{DF807C4D-685B-4F25-9C07-4E59DEFFBFB9},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/reg5/reg5_eco_l4.zip,Level IV Ecoregions of EPA Region 5,{1D35C180-02BD-4EEA-A02F-FB9A336C5D56},public
+EPA,http://edg.epa.gov/data/Public/ORD/NCEA/county_pop.zip,ICLUS v1.3 Population Projections,{1BB3ECBD-3EEB-43F3-AF78-B1196ACCC732},public
+EPA,https://edg.epa.gov/data/Public/ORD/NHEERL/EQI/Eqi_results_2013JULY22.csv,USEPA Environmental Quality Index (EQI) and Associated Domain Indices by County for the United States,{53AE6A65-E2C4-4B84-B012-66BC473F5C04},public
+EPA,https://edg.epa.gov/data/Public/ORD/NHEERL/EQI/Eqidata_all_domains_2014March11.csv,"USEPA Environmental Quality Index (EQI) - Air, Water, Land, Built, and Sociodemographic Domains Transformed Variables Dataset as Input for the USEPA EQI, by County for the United States",{7F1AAA3A-4950-490B-B809-EB49F77D55DB},public
+EPA,https://edg.epa.gov/data/Public/ORD/NHEERL/EQI/Eqidata_all_domains_non-transformed_2013JULY18.csv,"USEPA Environmental Quality Index (EQI) - Air, Water, Land, Built, and Sociodemographic Domains Non-Transformed Variables Dataset as Input for the USEPA EQI, by County for the United States",{6C622625-F820-47AA-9838-C4762AA1B916},public
+EPA,http://edg.epa.gov/data/Public/ORD/NCEA/is_iclus_a1.zip,ICLUS v1.3 Estimated Percent Impervious Suface for the Conterminous USA,{4D34EB4D-FDD9-4612-98DE-3C723B6B0095},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/va/va_eco_l4.zip,Level IV Ecoregions of Virginia,{62ED766D-2EBE-406D-81A7-1DE5536C6E4F},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/vt/vt_eco_l4.zip,Level IV Ecoregions of Vermont,{F4B66D86-EEC9-4AFF-A0F7-0D812A534326},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/wa/wa_eco_l3.zip,Level III Ecoregions of Washington,{791043A6-1A46-4A35-9EDA-573A92FCCE57},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/wa/wa_eco_l4.zip,Level IV Ecoregions of Washington,{6FAE7EA0-41A0-4573-85F2-D6F899FA1EBB},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/in/in_eco_l4.zip,Level IV Ecoregions of Indiana,{B3F30FAE-64E1-4EDA-BF2E-6C900CA4990B},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/co/co_eco_l3.zip,Level III Ecoregions of Colorado,{B4296183-58CD-4983-9E56-7712EC45F858},public
+EPA,http://edg.epa.gov,ICLUS v1.3 Housing Density for the Conterminous USA,{2E953B8B-08A1-42FB-BAAB-1D5C246BC7D0},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/ny/ny_eco_l4.zip,Level IV Ecoregions of New York,{608EBDD7-176E-4923-A70C-0AE6961EA51B},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/pa/pa_eco_l3.zip,Level III Ecoregions of Pennsylvania,{92F05D6D-BF7B-45BA-84AE-96560E69533B},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/nd/nd_eco_l3.zip,Level III Ecoregions of North Dakota,{4A9646DF-36DB-485B-AB62-6858E1C49395},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/nh/nh_eco_l4.zip,Level IV Ecoregions of New Hampshire,{066D2A6D-44EE-4CFA-AD85-D441C96767A4},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/pa/pa_eco_l4.zip,Level IV Ecoregions of Pennsylvania,{BAE9B6F0-C5DC-4228-BD49-A1ED5189FAC6},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/reg10/reg10_eco_l4.zip,Level IV Ecoregions of EPA Region 10,{1F281299-B700-416B-8CB4-0BAB7596CE7C},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/reg7/reg7_eco_l3.zip,Level III Ecoregions of EPA Region 7,{CA3AC0C7-13C6-4721-B976-18DC235C1F00},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/sc/sc_eco_l4.zip,Level IV Ecoregions of South Carolina,{7F18FDB6-28B1-4465-AFBD-9AFBA68E8E5A},public
+EPA,http://igeo.epa.gov/arcgis/rest/services/OEI_IGD/NRHP/MapServer,National Register of Historic Places/IGD: NRHP,{94C19CE2-AE61-4737-A452-53FA079EE6E9},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/tx/tx_eco_l4.zip,Level IV Ecoregions of Texas,{3B31F179-2418-4239-AC1E-D3356B35AB7E},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/va/va_eco_l3.zip,Level III Ecoregions of Virginia,{D23B33AC-2B9C-48D1-B550-01DE1377C7F9},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/us/us_eco_l4.zip,Level IV Ecoregions of the Conterminous United States,{E1B39B89-C3C7-429B-B235-7C05CEBE07A0},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/reg3/reg3_eco_l4.zip,Level IV Ecoregions of EPA Region 3,{D1CC7A8E-47E1-4EEC-93C9-EA47AACB3514},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/ri/ri_eco_l4.zip,Level IV Ecoregions of Rhode Island,{F33E5D88-DB9A-4D4B-843A-79E3CC73684D},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/mi/mi_eco_l4.zip,Level IV Ecoregions of Michigan,{17CBD969-A394-40D4-ACEB-E71CED9F006C},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/mt/mt_eco_l3.zip,Level III Ecoregions of Montana,{560DD6DE-88DF-41F1-9C86-F429EDC801C8},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/tn/tn_eco_l3.zip,Level III Ecoregions of Tennessee,{B0B01BE4-0407-434C-BB84-CC5A82D5B4FB},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/reg3/reg3_eco_l3.zip,Level III Ecoregions of EPA Region 3,{85E5D4D6-32AF-435E-9C54-9942BE5248FF},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/reg5/reg5_eco_l3.zip,Level III Ecoregions of EPA Region 5,{0CDB3784-755E-4563-A7E8-8B0C320F3CEC},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/reg1/reg1_eco_l4.zip,Level IV Ecoregions of EPA Region 1,{DB611EBF-C1AB-4335-B0F2-8CD8D05E1AE5},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/reg2/reg2_eco_l3.zip,Level III Ecoregions of EPA Region 2,{0817CD87-1EF3-4438-BBBC-17F0FADDB73A},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/reg6/reg6_eco_l3.zip,Level III Ecoregions of EPA Region 6,{CDB749D4-4973-4728-BEC5-606284926ED4},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/wi/wi_eco_l3.zip,Level III Ecoregions of Wisconsin,{2B9E1B15-DEA6-4E4C-B69C-25B10138142E},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/vt/vt_eco_l3.zip,Level III Ecoregions of Vermont,{8AA89333-314B-48A0-AF24-DEC9C0E765BF},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/reg7/reg7_eco_l4.zip,Level IV Ecoregions of EPA Region 7,{EA9D35F1-7EAF-4C16-9229-3B8354AD9F32},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/tn/tn_eco_l4.zip,Level IV Ecoregions of Tennessee,{60A5D872-EBEE-40AB-9A6A-517464D70F8C},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/ri/ri_eco_l3.zip,Level III Ecoregions of Rhode Island,{36BEE443-B7A8-4173-B5F2-CCBE0DC3AB5F},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/sd/sd_eco_l4.zip,Level IV Ecoregions of South Dakota,{1CF24656-294A-4592-9A6B-69B1A8FD311A},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/wv/wv_eco_l3.zip,Level III Ecoregions of West Virginia,{9CF6D6DC-D451-4411-ACE3-B6ED1CD8960C},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/ok/ok_eco_l4.zip,Level IV Ecoregions of Oklahoma,{B3359B1C-6394-46C5-80EC-6378CD223F0C},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/or/or_eco_l3.zip,Level III Ecoregions of Oregon,{419290DE-919D-451A-B1B1-03846B357D94},public
+EPA,http://water.epa.gov/type/rsl/monitoring/streamsurvey/index.cfm,National Aquatic Resource Surveys (NARS) N/P Values for Streams - Wadeable Streams Assessment,{2B8D2CC3-4A57-4B9B-9882-EA5B7C12A5D6},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/reg1/reg1_eco_l3.zip,Level III Ecoregions of EPA Region 1,{C6050182-DC51-4D2F-A0A5-C0C3B9BC06E7},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/or/or_eco_l4.zip,Level IV Ecoregions of Oregon,{A2DC5A45-2A19-4659-81F4-0B6A46CDE14A},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/wi/wi_eco_l4.zip,Level IV Ecoregions of Wisconsin,{0D8D86F8-C966-4BF4-BB89-8E97C5E150B8},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/ok/ok_eco_l3.zip,Level III Ecoregions of Oklahoma,{3E8F6CF7-2A8F-4FEC-92EA-5BA6A41663CE},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/reg6/reg6_eco_l4.zip,Level IV Ecoregions of EPA Region 6,{15054DC0-8771-40F8-82D2-15BFEEE6C949},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/wv/wv_eco_l4.zip,Level IV Ecoregions of West Virginia,{2EEB0F79-6845-4315-B0B5-DAD373AADBD1},public
+EPA,https://edg.epa.gov/data/public/ORD/LES/LES.zip,Lakes Ecosystem Services Download Package,{1636EBB0-7CB4-468D-BEF3-ACDBEA0F3709},public
+EPA,https://edg.epa.gov/data/public/ORD/Merganser/Merganser.zip,Merganser Download Package,{65E42A85-D34B-459E-821D-E892CC3D6C7E},public
+EPA,http://edg.epa.gov/data/Public/OEI/EPA_RegionalMasks/EPA_RegionalMasks.zip,"US EPA Regional Masks Download Package, US, 2015, US EPA, SEGS",{1D7F7793-57A3-4F61-A1C2-EE63B258E341},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/us/us_eco_l3.zip,Level III Ecoregions of the Conterminous United States,{A267B905-EB74-4B0B-B058-E25D0892B761},public
+EPA,file:////r6gis1/share1/census/acs/acs_5yr_06_10/acs_5yr_2010_County_tables.gdb,"American Community Survey 2006-2010 Derived Summary Tables for Counties in U.S. Environmental Protection Agency, Region 6",{159E02E2-AB93-449A-848D-7F5A2F0BED83},public
+EPA,file:////r6gis1/share1/Census/ACS/ACS_5yr_06_10/ACS_5yr_2010_BG_Tables.gdb/,"American Community Survey 2006-2010 Derived Summary Tables for Block Groups in U.S. Environmental Protection Agency, Region 6",{F3AD1132-ACBB-4D1E-8BED-B6C13ABCBCB7},public
+EPA,http://cook.rtp.epa.gov/ftp/data/CENSUS/ACS2010/ACS10StateSummaryTables.gdb.zip,"American Community Survey 2006-2010 Derived Summary Tables for U.S. Environmental Protection Agency, Region 6 States",{AD08547B-A09A-47A3-9415-4D4B60F0CEDF},public
+EPA,file:////r6gis1/share1/Census/ACS/ACS_5yr_06_10/ACS_5yr_2010_Tract_Tables.gdb/,"American Community Survey 2006-2010 Derived Summary Tables for Tracts in U.S. Environmental Protection Agency, Region 6",{6EE37E94-0A82-4E50-A130-9321845F80DC},public
+EPA,http://edg.epa.gov/EME/,U.S. EPA Metadata Editor (EME),{4952303A-D92C-4E23-8719-888BA2DF865A},public
+EPA,http://igeo.epa.gov/arcgis/rest/services/OEI/FRS_ESF10/MapServer,EPA Facility Registry Service (FRS): FRS_ESF10,{EF4A2554-B797-4604-ABAD-C9660E2AD749},public
+EPA,http://igeo.epa.gov/arcgis/rest/services/OEI/FRS_ESF3/MapServer,EPA Facility Registry Service (FRS): FRS_ESF3,{B4A867A5-89B2-4B39-BF64-5A5AD206F298},public
+EPA,http://geodata.epa.gov/ArcGIS/Rest/Services/OEI/EPA_RegionalMasks/MapServer,"US EPA Regional Masks, US, 2015, US EPA, SEGS",{6E1ADBAB-EF1F-4C30-9E8C-577D7E7D8C5F},public
+EPA,https://edg.epa.gov/data/Public/ORD/NERL/ReVA/ReVA_Data.zip,Percent Agricultural Land Cover on Steep Slopes,{12973A9D-95A5-4583-AB2E-9DD787047C70},public
+EPA,http://www.epa.gov/region02/,EPA Region 2 AIRS AQS GIS Layer,{6BEA79B0-07DD-45F7-858F-45096A17602D},public
+EPA,https://edg.epa.gov/clipship/,"EPA Region 2 Hazardous Waste Treatment, Storage and Disposal Facilities Permitted Under RCRA [EPA.R2_RCRA_TSD_FAC]",{9CC17307-DB67-4253-9524-FA650A9A7FC2},public
+EPA,https://edg.epa.gov/data/Public/ORD/EnviroAtlas/NBMA_community_metrics_Nov2014.zip,"EnviroAtlas - New Bedford, MA - Domestic Water Use per Day by U.S. Census Block Group",{300C9AEE-CE7E-4BA4-858F-62E5DDB4EC8B},public
+EPA,http://gispub2.epa.gov/NPDAT,EPA Office of Water (OW): 2002 SPARROW Total NP (Catchments),{70708A3D-D93D-4F8F-A53F-DD9CB01EF380},public
+EPA,http://gisint1.rtpnc.epa.gov/ArcGIS/rest/services/OA/EJ_Index_Alternatives/MapServer,"EJSCREEN Version 1, EJ Index Alternatives",{0E2A06B0-D413-4C3B-AA6A-EBF192A0645E},non-public
+EPA,http://gisint1.rtpnc.epa.gov/ArcGIS/rest/services/OA/EJ_Demographic_Data/MapServer,"EJSCREEN Version 1, Demographic Data",{F6DD1FC5-09AD-4578-996D-7F6228963BA6},non-public
+EPA,https://edg.epa.gov/data/Public/ORD/EnviroAtlas/PitPA_community_metrics_Nov2014.zip,"EnviroAtlas - Pittsburgh, PA - Riparian Buffer Land Cover by Block Group",{04FD87BB-E2A7-4D05-B817-C2121648C633},public
+EPA,http://www.epa.gov/waters/data/downloads.html,EPA Office of Water (OW): Impaired Waters with TMDLs NHDPlus Indexed Dataset,{2169A145-7615-4029-89A7-9FF9E6337A3D},public
+EPA,https://edg.epa.gov/data/Public/ORD/EnviroAtlas/PME_community_metrics_Nov2014.zip,"EnviroAtlas - Portland, ME - Potential Window Views of Water by Block Group",{1B3A2D2F-0FCA-4E88-A392-239B8FFA32F5},public
+EPA,https://edg.epa.gov/data/Public/ORD/EnviroAtlas/National_metrics_Nov2014.zip,EnviroAtlas - Domestic Water Demand by 12-Digit HUC for the Conterminous United States,{C6DBEBAB-03EF-43C8-8DCA-8D2845E06A96},public
+EPA,http://iaspub.epa.gov/sor_internet/registry/termreg/searchandretrieve/taxonomies/webTaxonomies.do,EPA Web Taxonomy,{9FC56CC1-2532-455A-9FA9-A58B0B35D304},public
+EPA,http://edg.epa.gov/data/Public/ORD/EnviroAtlas/WIA_community_metrics_Nov2014.zip,"EnviroAtlas - Woodbine, IA - BenMAP Results by Block Group",{B80563B5-28CD-49F8-A3A5-1F99FC6CC5D1},public
+EPA,https://edg.epa.gov/data/Public/ORD/EnviroAtlas/WIA_community_metrics_Nov2014.zip,"EnviroAtlas - Woodbine, IA - Domestic Water Use per Day by U.S. Census Block Group",{71AC4E10-EF6E-4361-A639-457F935A7B86},public
+EPA,https://edg.epa.gov/data/Public/ORD/EnviroAtlas/TFL_community_metrics_Nov2014.zip,"EnviroAtlas - Tampa, FL - 51m Riparian Buffer Vegetated Cover",{8CBCD2C4-15A5-41A2-88FD-DE098C2C1709},public
+EPA,http://www.epa.gov/ogc/documents.htm,EPA's Office of General Counsel (OGC) Web Page,{6F1D71AA-8011-4E22-B7C7-AF2856D460D6},public
+EPA,https://edg.epa.gov/data/Public/ORD/EnviroAtlas/PAZ_community_metrics_Nov2014.zip,"EnviroAtlas - Phoenix, AZ - 51m Riparian Buffer Vegetated Cover",{DB489B15-0C42-4835-9978-52704DB63170},public
+EPA,http://www.epa.gov/lawsregs/,EPA Laws and Regulations Gateway,{2332D145-EB10-4521-B585-43E62202E753},public
+EPA,https://edg.epa.gov/data/Public/ORD/EnviroAtlas/DNC_community_metrics_Nov2014.zip,"EnviroAtlas - Durham, NC - Park Access by Block Group",{0ECF494E-DF62-44CC-B7DE-598899314D2D},public
+EPA,https://homeport.uscg.mil/mycg/portal/ep/contentView.do?contentTypeId=2&channelId=-18374&contentId=149309&programId=91343&programPage=%2Fep%2Fprogram%2Feditorial.jsp&pageTypeId=13489,Marine Information for Safety and Law Enforcement 2015 (MISLE),{D70A4845-7E86-471C-941C-577669A70574},public
+EPA,http://watersgeo.epa.gov/ArcGIS/rest/services/OWPROGRAM/NPDESPERMIT_WMERC/MapServer/,EPA Office of Water (OW): NPDES Permitted Facilities,{8BADE071-7433-4B90-A24A-E940FEB834AE},public
+EPA,http://www.epa.gov/waters,National Hydrography Dataset Plus (NHDPlus),{C0627CEF-D34E-4C14-813F-85D68DEB6BE3},public
+EPA,http://www.epa.gov/tri/tridata/current_data/index.html,2003 Toxics Release Inventory data for the state of Maryland,{567DD1AE-7675-4C1A-BB2C-614CDA1A3FAC},public
+EPA,http://watersgeo.epa.gov/ArcGIS/rest/services/OWRAD_NP21/FISH_NP21/MapServer/,EPA Office of Water (OW): Fish Consumption Advisories and Fish Tissue Sampling Stations NHDPlus Indexed Datasets,{02DB5327-FD21-4B23-B34B-DF00FD38EDBE},public
+EPA,http://www.regulations.gov/search/Regs/home.html#documentDetail?R=09000064801de8ec,Unit Cost Compendium Calculations,{7C9F166A-19EB-4CF7-BC8F-B406A4AAFF48},public
+EPA,http://camddataandmaps.epa.gov/gdm/index.cfm?fuseaction=allowances.wizard,Allowance Holdings and Transfers Data Inventory,{A422ACAC-9E49-41E7-967B-A48911EB46B6},public
+EPA,http://water.epa.gov/type/groundwater/uic/class2/hydraulicfracturing/index.cfm,Hydraulic Fracturing and the Safe Drinking Water Act Website,{839972D0-145F-45C6-A3B8-F9110C0B6B81},public
+EPA,https://www.energystar.gov/istar/,Integrated Strategic Tracking and Recruiting Database (iSTAR) Data Inventory,{87793ADF-2B3C-41D2-97F6-873704B58533},public
+EPA,https://edg.epa.gov/data/Public/ORD/EnviroAtlas/,"EnviroAtlas -Phoenix, AZ- One Meter Resolution Urban Land Cover Data (2010)",{D556044C-FCCC-4E8B-B157-5E7B8587AEE7},public
+EPA,http://www.epa.gov/radiation/tenorm/pubs.html#uraniumdatabase,Uranium Location Database,{2E4A8313-B6C8-4638-B683-7F8445101725},public
+EPA,http://geodata.epa.gov/arcgis/rest/services/OEI/FRS_INTERESTS/MapServer,EPA Facility Registry Service (FRS): NEI,{223102FE-585F-43FC-A531-A0703AA88ACE},public
+EPA,http://www.epa.gov/oar/oaqps/greenbk/gis_download.html,2008 Lead NAAQS Nonattainment Areas-2010 designations,{0E5BE037-67E9-4F73-91C9-62DA9A0AB44C},public
+EPA,http://watersgeo.epa.gov/ArcGIS/rest/services/OWPROGRAM/STORET_NAD83/MapServer/,EPA Office of Water (OW): STORET Water Quality Monitoring Stations Source Dataset,{EA5880E2-CA61-47DC-A899-91CD45546E48},public
+EPA,http://www.epa.gov/region9/air/maps/,R9 Annual PM-2.5 Designated Areas,{864448BC-C62F-40C8-91C7-E9212F97F78E},public
+EPA,http://www.epa.gov/wastes/inforesources/index.htm,Consolidated Recovered Materials Advisory Notice (RMAN) for the Comprehensive Procurement Guideline (CPG),{79B43492-3A10-4577-AED4-E57ADD2990F7},public
+EPA,http://ghgreporting.epa.gov/ghg/login.do,National Greenhouse Gas Emission Inventory,{749A4BBB-82A8-4224-9EF4-024C377B459B},public
+EPA,http://www.epa.gov/bpspill/download.html,BP Spill Sampling Data April-September 2010,{93F43D90-F213-4EE0-BFBD-B7A7623E7034},public
+EPA,http://gispub2.epa.gov/ArcGIS/rest/services/NEPmap,NEPmap (National Estuary Program Mapper),{8D880D83-3255-4F04-AE0C-B8C005C0F658},public
+EPA,https://edg.epa.gov/data/Public/ORD/EnviroAtlas/MWI_community_metrics_Nov2014.zip,"EnviroAtlas - Milwaukee, WI - Residents with Potential Window Views of Trees by Block Group",{C2C6C515-654B-4C2F-9917-594D7E920A67},public
+EPA,https://edg.epa.gov/data/Public/ORD/EnviroAtlas/FCA_community_metrics_Nov2014.zip,"EnviroAtlas - Fresno, CA - Ecosystem Services by Block Group",{A101F058-B7A7-4E0C-85D7-B0ACCC5B0D90},public
+EPA,https://edg.epa.gov/data/Public/ORD/EnviroAtlas/GBWI_community_metrics_Nov2014.zip,"EnviroAtlas - Green Bay, WI - Land Cover by Block Group",{384D86C0-1B54-48CC-AFB4-2419D479A1B3},public
+EPA,http://www.epa.gov/airquality/airdata/,R9 Carbon Monoxide Air Quality Monitoring Sites - 2011-2013,{52CDB9B6-0BE2-4DE4-A7F2-34842C4FED1F},public
+EPA,http://edg.epa.gov/data/Public/ORD/EnviroAtlas/PAZ_community_metrics_Nov2014.zip,"EnviroAtlas - Phoenix, AZ - Domestic Water Demand per Day by U.S. Census Block Group",{822B887E-004D-4E45-9085-C437D79E2B4F},public
+EPA,http://www.epa.gov/waters/geoservices/docs/point_indexing_service.html,EPA Water Services - Point Indexing Service,{9AAB77D6-F111-4720-94E3-2022086F3C72},public
+EPA,http://geodata.epa.gov/ArcGIS/rest/services/R10/TRI2011_Region10Air/MapServer,Region 10 Toxic Release Inventory-Release to Air,{80B0BCDF-564C-4391-870F-334E965B172B},public
+EPA,http://epa.gov/energy/,EPA's Energy Portal,{A9F59115-7A56-4BA4-8F11-4CF9796EB8A0},public
+EPA,http://epa.gov/energy/whereyoulive.htm,EPA's Energy Where You Live Website,{C8AA0012-3201-4EE4-904E-CB56938B284B},public
+EPA,http://geodata.epa.gov/ArcGIS/rest/services/R10/TRI2011_Region10Land/MapServer,Region 10 Toxic Release Inventory-Release to Land,{9E713CDD-9B9F-4F36-A470-D2680977B179},public
+EPA,https://edg.epa.gov/data/PUBLIC/ORD/ENVIROATLAS/,EnviroAtlas - Biodiversity Conservation Metrics for Conterminous United States,{AB46B671-BAA6-49AB-A1D4-67CF44CBEA11},public
+EPA,http://watersgeo.epa.gov/ArcGIS/rest/services/OWRAD_NP21/CWNS_NP21/MapServer/,EPA Office of Water (OW): Clean Watersheds Needs Survey NHDPlus Indexed Dataset,{799C26D1-2AFB-4A6B-AA7B-ED536CC9CC3F},public
+EPA,http://watersgeo.epa.gov/arcgis/rest/services/OWRAD_NP21/STORET_NP21/MapServer/,EPA Office of Water (OW): STORET Water Quality Monitoring Stations NHDPlus Indexed Dataset,{A95D2B4C-0342-4133-8C17-EDAD2F1D982D},public
+EPA,https://edg.epa.gov/data/Public/R1/ESA_polys_r24.zip,EPA Region 1 Environmentally Sensitive Areas,{6E4069CF-5568-4326-BA1F-47B9A3046422},public
+EPA,http://watersgeo.epa.gov/arcgis/rest/services/OWRAD_NP21/GRTS_NP21/MapServer/,EPA Office of Water (OW): Nonpoint Source Projects NHDPlus Indexed Dataset,{ACFE9920-1147-23CF-2017-23B3CBFED562},public
+EPA,https://edg.epa.gov/data/Public/R1/ESA_points_r24.zip,EPA Region 1 Environmentally Sensitive Areas (Points),{E5BA7382-29A1-4D15-8C8D-D35455B1F1AB},public
+EPA,https://edg.epa.gov/data/Public/R1/CG_poly_r100.zip,EPA Region 1 Coast Guard Jurisdictional Boundary - Polygons,{CA7D0BB0-EE4D-46D1-8AB8-F6B5C6F8ECA4},public
+EPA,https://edg.epa.gov/data/Public/R1/CG_line_r100.zip,EPA Region 1 Coast Guard Jurisdictional Boundary - Arcs,{445EFB7A-F172-4C94-B445-F4573C3DAF33},public
+EPA,https://edg.epa.gov/data/Public/R7/ALL_OP_AREAS.zip,All Conservation Opportunity Areas (ECO.RES.ALL_OP_AREAS),{2A7936AE-D066-4D4A-9B95-B4CA3565DDE4},public
+EPA,http://watersgeo.epa.gov/arcgis/rest/services/OWRAD_NP21/BEACH_NP21/MapServer/,EPA Office of Water (OW): Beaches NHDPlus Indexed Dataset,{4A2F897E-E1E4-453E-9A29-674A520E4B92},public
+EPA,http://www.epa.gov/castnet/data.html,Clean Air Status and Trends Network (CASTNET): Visibility,{78745BEC-83F3-434E-849D-4D7BA4D4790C},public
+EPA,https://edg.epa.gov/data/Public/R7/COA_FOREST66.zip,Forest Conservation Opportunity Areas - Conservative Model (ECO_RES.COA_FORREST66),{63CD224C-ECBA-42F9-A003-789357542603},public
+EPA,https://edg.epa.gov/data/Public/R7/COA_GRASS33.zip,Grassland Conservation Opportunity Areas - Liberal Model (ECO_RES.COA_GRASS33),{9F28B65B-A935-4DF8-ADB3-EB29A3241044},public
+EPA,https://edg.epa.gov/data/public/R7/COA_MOSAIC66.zip,Mosaic Conservation Opportunity Areas - Conservativel Model (ECO_RES.COA_MOSAIC66),{C0697E75-DF05-4BC8-A207-D60CC1ECC47A},public
+EPA,https://edg.epa.gov/data/public/R7/ECO_FOC_GEO10.zip,Terrestrial Conservation Focus Areas > 10 Hectares (ECO_RES.ECOFOC_GEO10),{49CEDC6B-5C4E-4A18-83A8-627F95D8A760},public
+EPA,http://www.epa.gov/enviro/geo_data.html,U.S. EPAs Geospatial Data Access Project,{B621E395-213A-4A95-BE12-B8B4B97A803A},public
+EPA,https://cdx.epa.gov,RadNet Air Quality (Fixed Station) Data,{2D35FF7E-E40E-43B0-85EF-6525F154C1A7},public
+EPA,http://www.epa.gov/airmarkets/,Clean Air Markets Division Data and Maps,{072376D3-9B6A-48CD-AD96-1D5693BEA0CD},public
+EPA,https://edg.epa.gov/data/public/R7/SIGECO_SITES.zip,Public Lands and Other Managed/Preserved Areas  (ECO_RES.SIGECO_SITES),{6AEC1F03-0A3F-4722-89AE-2EF2D2DED838},public
+EPA,http://geogateway-intranet.epa.gov/data/OSWER-OEM/landfills2007.zip,Directory of Non-Hazardous Waste Sites,{0AE43ECB-FB7F-4AB3-AEF5-95C6AD9AE968},public
+EPA,https://edg.epa.gov/data/PUBLIC/R5/EDGddrd.zip,Disaster Debris Recovery Database,{628E37F2-7457-4157-A5CC-C7DD7504CDF8},public
+EPA,https://edg.epa.gov/data/PUBLIC/R5/EDG%20R5%20Chemical%20Reporters%20TRI.zip,Region 5 Toxic Release Inventory Reporters,{9A9DEC12-44F3-466E-8D76-41B94F611C32},public
+EPA,https://edg.epa.gov/,Region 9 NPL Sites (Superfund Sites 2013) Polygons,{075537FF-4660-420F-BA80-32D5C1CDA0B8},public
+EPA,https://edg.epa.gov/data/Public/R7/WestLakeBnd2014.zip,"Approximate Boundaries for West Lake Landfill, Missouri, 2014, EPA REG 07",{25E9A7D3-600E-4B75-81FC-D5275D730D2C},public
+EPA,http://water.epa.gov/scitech/datait/tools/waters/data/downloads.cfm,EPA Office of Water (OW): 303(d) Listed Impaired Waters by Causes of Impairment and Probable Sources,{631CE863-2DCD-4DA3-8F46-9D4D570E6A48},public
+EPA,http://watersgeo.epa.gov/arcgis/rest/services/OWRAD_NP21/TMDL_NP21/MapServer/,EPA Office of Water (OW): TMDLs on Impaired Waters NHDPlus Indexed Dataset,{88E53742-CF0D-443C-94AF-8139C09471F9},public
+EPA,http://www.epa.gov/airtrends/values.html,2012 Nitrogen Dioxide Monitoring Site Design Values,{38CB0E82-B9DD-4E25-8094-33DB39822582},public
+EPA,https://edg.epa.gov/data/public/R7/SIG_REGIONS.zip,Region 7 Significant Ecological Resource Areas (ECO_RES.SIG_REGIONS),{14DE2E74-85A8-4555-807C-6F64C81081A4},public
+EPA,http://www.epa.gov/superfund/sites/phonefax/products.htm,CERCLIS (Superfund) ASCII Text Format - CPAD Database,{A874F53C-00B5-4FAF-9155-7D45CA246039},public
+EPA,http://www.epa.gov/region9/water/groundwater/uic-hicesspools.html,Hawaii Large Capacity Cesspools(LCC) Enforcement Sept. 2014,{8A8913B8-920E-4CB5-9A9B-9E3F10B25E9E},non-public
+EPA,https://edg.epa.gov/data/public/R7/RANKED_OAS.zip,Ranked Conservation Opportunity Areas for Region 7 (ECO_RES.RANKED_OAS),{602E52EF-A297-4494-A947-51F4FBE076AC},public
+EPA,http://www.epa.gov/superfund/sites/products,SITE COMPREHENSIVE LISTING (CERCLIS) (Superfund),{84DBF554-46CB-45D3-82E1-F40F65974676},public
+EPA,http://www.epa.gov/renewableenergyland/maps/EPA_sites_renewable_energy_shapefile.zip,Region 9 Renewable Energy,{F80F7FC1-1A14-4202-8854-8A2CC6E0AEBC},non-public
+EPA,http://www.vicmaui.org/index.php?articleid=453,Observed Marine Debris in the Pacific Ocean Ì¢?? Victoria to Maui 2012,{BF94836D-6DDA-4635-8FB0-B7D97E28112C},non-public
+EPA,https://edg.epa.gov/data/PUBLIC/ORD/ENVIROATLAS,"EnviroAtlas - Paterson, NJ - Greenspace Proximity Gradient",{D3D3A390-9BCE-41F2-B69A-D24ECB969C0F},public
+EPA,http://geodata.epa.gov/ArcGIS/rest/services/OEI/FRS_INTERESTS/MapServer,EPA Facility Registry System (FRS): NCES,{328D563D-35D9-40E8-8AB4-4E907BBA8C83},public
+EPA,https://edg.epa.gov/data/Public/ow/SSAGISFiles.zip,National Sole Source Aquifer GIS Layer,{1D329CAA-31BB-496B-B0DF-23CBDA27E3AD},public
+EPA,http://epamap17.epa.gov/arra/,EPA Recovery Mapper,{B756C475-07D8-4509-8427-E4FB3E28CBCC},public
+EPA,http://www.epa.gov/enviro/html/erams/index.html,Historical RadNet Air Quality Data,{2CB3C263-8F42-406E-A0D0-265ECED680E8},public
+EPA,http://yosemite.epa.gov/oswer/lepcdb.nsf/HomePage?openForm,Local Emergency Planning Committee (LEPC) Data,{9E1AD3C6-EF26-4C88-A898-64394A18F39E},public
+EPA,http://www.epa.gov/renewableenergyland/maps/RE-Powering_Screening_shapefile.zip,RE-Powering Screening Shapefile,{31F9AC09-BAD8-4645-B6D7-CD4A838831AA},public
+EPA,http://watersgeo.epa.gov/mwm/,EPA Office of Water (OW): Pollutant Discharge Permit Status,{7CC45F93-C7FB-438D-BBDB-040146AF3EEF},public
+EPA,http://geogateway-intranet.epa.gov/data/OSWER-OEM/FY08_Removals.zip,FY08_Removals,{980E52E1-C4CC-4754-8B3D-3E38F88FF774},public
+EPA,https://edg.epa.gov/data/Public/R7/COA_FOREST33.zip,Forest Conservation Opportunity Areas - Liberal Model (ECO_RES.COA_FORREST33),{469C94E1-8555-4A23-92B4-122D7D0B3287},public
+EPA,http://www.epaosc.org/site/site_profile.aspx?site_id=ScribeGIS,Region 9 Scribe Sites,{28A582D8-8423-4DDC-9BC3-03FCCBB38350},public
+EPA,http://water.epa.gov/scitech/datait/databases/drink/sdwisfed/basicinformation.cfm#overview,Region 9 Reservoirs (SDWIS),{58EB1B58-99B0-44D2-8B55-F99407187602},non-public
+EPA,https://edg.epa.gov/data/public/R7/COA_GRASS66.zip,Grassland Conservation Opportunity Areas - Conservative Model (ECO_RES.COA_GRASS66),{6608336B-B335-4904-B200-1063354D7FB6},public
+EPA,https://edg.epa.gov/data/public/R7/COA_MOSAIC33.zip,Mosaic Conservation Opportunity Areas - Liberal Model (ECO_RES.COA_MOSAIC33),{82C751DB-9433-49CC-AF18-7FA8563219E6},public
+EPA,https://edg.epa.gov/data/public/R7/NPLpoly09.zip,Superfund Polygons (2009),{574E4C5B-C37C-4A88-95EC-FA1FB6035688},public
+EPA,http://www.epa.gov/enviro/,EPA Envirofacts API,{A4EBFA50-EC19-4F00-9866-C09D01B951E0},public
+EPA,https://edg.epa.gov/data/public/R7/AQUATIC_FOCUS_AREA.zip,EPA Region 7 Aquatic Focus Areas (ECO_RES.R7_AQUATIC_FOCUS_AREAS),{D367FC67-9833-4B61-A90A-0C8925A9CAC1},public
+EPA,https://edg.epa.gov/data/public/R7/ECO_SEC_40HEX.zip,40 Square Km Hexagon Coverage over Region 7 (ECO_RES.ECO_SECT_40KHEX),{85049DA8-6890-4956-996E-051F2A47B4F9},public
+EPA,http://www.epa.gov/tri/tridata/data/basic/index.html,2010 Toxics Release Inventory data for the state of Alaska,{4A526E72-DD7C-4371-8C90-02D8C0D97CF7},public
+EPA,https://edg.epa.gov/data/Public/OEI/OIC/FRS_Wastewater.zip,EPA Facility Registry Service (FRS): Wastewater Treatment Plants,{86C00471-0D39-4352-B629-14E3C0E2D042},public
+EPA,http://www.hifldwg.org,U.S. EPAs Access to the Homeland Security Infrastructure Program (HSIP) GOLD Dataset,{F7A42F66-C2FB-4405-919C-0537FAF9E0A6},non-public
+EPA,http://www.epa.gov/newsroom/,EPA's Energy News Site,{0768F47B-D966-418E-95AC-D063FB0A5962},public
+EPA,https://edg.epa.gov/data/Public/OEI/OIC/FRS_PowerPlants.zip,EPA Facility Registry Service (FRS): Power Plants,{07305653-564D-4D03-A7D8-C5D1BAFB6322},public
+EPA,http://www.epa.gov/datafinder,EPA Data Finder,{FFB66DC2-1FEA-4F6F-92DF-D6EBC6364E11},public
+EPA,http://www.epa.gov/bpspill/,BP Spill Sampling and Monitoring Data.,{AD089212-9E51-4FF2-92D9-9F8F51DEA146},public
+EPA,http://watersgeo.epa.gov/ARCGIS/REST/services/OWOTHER/TOPWATERIMP/MapServer/,"EPA Office of Water (OW): Nutrient, Sediment, and Pathogens Water Impairments",{23DCBEBD-44AE-4558-8F6F-258875AF88B9},public
+EPA,http://geogateway-intranet.epa.gov/data/OSWER-OEM/NARFCOM_SAT_LOC.zip,National Approach to Response Field Communications (NARFCOM) Satellite Locations,{067230FC-E99A-4A9D-BCBF-64746E1DC257},public
+EPA,http://yosemite.epa.gov/oswer/lol.nsf/homepage,Title III List of Lists -- Data Tool,{B60003DB-5AB9-4371-8AF7-8C1C0889D530},public
+EPA,http://www.epa.gov/ogwdw/databases.html,Drinking Water Mapping Application (DWMA),{856C6DCD-510B-692E-F1CD-3B60A33D5D92},public
+EPA,http://geodata.epa.gov/ArcGIS/rest/services/OA/SLD_Trans30/MapServer,Jobs within a 30-minute transit ride - Service,{781BDD8F-2BF4-4072-86E9-FA67BC6C5E8B},public
+EPA,https://edg.epa.gov/data/Public/OP/SLD/SLD_trans30.zip,Jobs within a 30-minute transit ride - Download,{1B762BFE-5C63-4CA7-81FC-5A7371295A61},public
+EPA,http://geodata.epa.gov/ArcGIS/rest/services/OA/SLD_Trans45/MapServer,Access to Jobs and Workers via Transit - Service,{09649C32-7B39-4690-BFFB-88B250F6DF1B},public
+EPA,https://edg.epa.gov/data/Public/OP/SLD/SLD_trans45.zip,Access to Jobs and Workers via Transit - Download,{8E9DDDA1-1F38-44F0-9114-CD81DC15019A},public
+EPA,http://watersgeo.epa.gov/ArcGIS/rest/services/OWRAD_NP21/305B_NP21/MapServer/,EPA Office of Water (OW): 305(b) Assessed Waters NHDPlus Indexed Dataset,{FE2FB897-3549-48F8-B89C-CEE36EA4353A},public
+EPA,http://watersgeo.epa.gov/ArcGIS/rest/services/OWRAD_NP21/NPDES_NP21/MapServer/,EPA Office of Water (OW): Facilities that Discharge to Water NHDPlus Indexed Dataset,{091FC504-8762-8E7F-DCD7-513F648BC5B5},public
+EPA,http://igeo.epa.gov/ArcGIS/rest/services/OEI/FRS_ESF3/MapServer,EPA Facility Registry Service (FRS): ER_WTP,{63958777-1269-4D22-92E4-13E1285FBAFF},public
+EPA,http://www.epa.gov/waters/geoservices/docs/navigation_delineation_service.html,EPA Water Services - Navigation Delineation Service,{D026627C-4AD7-42C8-A3B0-513E498B6DE6},public
+EPA,https://edg.epa.gov/data/Public/OW/Office_of_Wetlands_Oceans_and_Watersheds/NEP_BoundariesFY12.zip,National Estuary Program Study Area Boundaries,{76256B1F-5B2B-47C7-BBED-677803A61E49},public
+EPA,http://www.epa.gov/waters/geoservices/docs/event_indexing_service.html,EPA Water Services - Event Indexing Service,{04513E92-E5E5-42A6-A566-47EC5782CDFF},public
+EPA,http://www.epa.gov/waters/geoservices/docs/spatial_assignment_service.html,EPA Water Services - Spatial Assignment Service,{F6A6D643-21F4-4C9C-B494-BA031AD6CF50},public
+EPA,http://www.epa.gov/waters/geoservices/docs/total_waters_service.html,EPA Water Services - Total Waters Geometry Service,{FBE7C742-0964-4FFA-8201-19D0D385DB98},public
+EPA,http://www.epa.gov/waters/geoservices/docs/rad_event_info_service.html,EPA Water Services - RAD Event Information Service,{0B19DC82-E751-433C-81A1-CBFC929C8B15},public
+EPA,http://qwwebservices.usgs.gov/,EPA Water Services - NWISQWResultService,{C651A4DB-FB52-4B78-B5DA-FBCE8E399892},public
+EPA,http://www.epa.gov/waters/geoservices/docs/upstreamdownstream_service.html,EPA Water Services - Upstream/Downstream Service,{523804B9-776F-4EA6-9255-70C8C56EF5E0},public
+EPA,http://www.epa.gov/waters/geoservices/docs/name_service.html,EPA Water Services - Name Service,{DD49CB3D-7B55-41F1-A4EF-0C085CF6FEE5},public
+EPA,http://www.epa.gov/waters/tmdl/expert_query.html,WATERS Expert Query Tool,{0D772508-5CD2-A4F6-5BB1-93AE99E6C8AF},public
+EPA,http://www.epa.gov/waters/geoservices/docs/results_queue_service.html,EPA Water Services - Results Queue Service,{E6DD9507-CA3D-434C-9F2A-EBB02183CB5F},public
+EPA,http://www.state.nj.us/dep/njgs/geodata/dgs04-5.htm,Well Head Protection Areas For Public Non-Community Water Supply Wells In New Jersey,{9E8BD0F4-BEBB-47E9-8614-A97FF57B1CCB},public
+EPA,http://www.epa.gov/region9/marine-debris/,Fleet Debris Levels,{F31E2DB5-936B-4A21-BEA4-955CBC73CA8F},public
+EPA,http://www.epa.gov/waters/geoservices/docs/navigation_service.html,EPA Water Services - Navigation Service,{801B2A2D-19E6-4F49-8BC9-4B4C160828AD},public
+EPA,http://water.epa.gov/type/lakes/lakessurvey_index.cfm,National Aquatic Resource Surveys (NARS) N/P Values for Lakes •À_?? National Lake Assessment,{AB40E7D0-2F4E-4E14-BB97-E346ABF8BE08},public
+EPA,http://geodata.epa.gov/ArcGIS/rest/services/OW/AquaticNuisanceSpeciesLocator/MapServer,Aquatic Nuisance Species Locator,{E9C96806-73EE-42C4-B65A-973EA91D77FB},public
+EPA,https://cdxnode64.epa.gov/radnet-public/showMap.do,RadNet Map Interface for Near-Real-Time Radiation Monitoring Data,{9B282057-4B89-4A1B-AC84-B47930ACF7D2},public
+EPA,http://www.epa.gov/waterscience/basins/,"1:250,000 Scale Quadrangles of Landuse/LandcoverGIRAS Spatial Data of CONUS in BASINS",{D4FAFE7C-CC25-3EAC-7056-B3DD7AA42431},public
+EPA,http://enviroatlas.epa.gov/arcgis/rest/services/Communities/ESC_TFL_CleanAir/MapServer,"EnviroAtlas - Metrics for Tampa, FL",{86E20C56-0A43-4C92-8ABC-93546EC140D5},public
+EPA,http://enviroatlas.epa.gov/arcgis/rest/services/PeopleBuiltSpaces/ESC_TFL_demographics/MapServer,"EnviroAtlas - Tampa, FL - Demographics by Block Group Web Service",{DDAE0DA5-8641-4BAB-A7D8-541E3C2F90A2},public
+EPA,http://camddataandmaps.epa.gov/gdm/index.cfm?fuseaction=allowances.prepackageddatasets&AQW_fuseaction=allowances.prepackageddatasets&AQW_criteria_fuseaction=allowances.program&AQW_tabMode=1&AQW_datasetSelection=PrePackaged+Datasets&AQW_menuSelection=&AQW_criteriaAction=reset&AQW_requiredSelectionMade=false&AQW_requiredMenuItem=&divinstructions=Download+allowance+transaction+and+holdings+data.+,Clean Air Markets Clean Air Interstate Rule (CAIR) NOx Ozone Season Program Allowance Holdings,{E2EA7B02-E563-4EAC-8848-5FCA6411E941},public
+EPA,http://java.epa.gov/castnet/reportPage.do,Clean Air Status and Trends Network (CASTNET) Download Data Module,{5936F352-D87F-4D70-B5C2-1EDA46CD0CF1},public
+EPA,http://camddataandmaps.epa.gov/gdm/index.cfm?fuseaction=facilities.wizard,Clean Air Markets - Facility Attributes and Contacts Query Wizard,{87A68F4A-5AA8-4974-A266-187D0378E3EB},public
+EPA,http://www.epa.gov/roe/,Ecological Hubs and Corridors Web Service,{EE0477A4-3CD3-4675-8429-9F82DCFE18F0},public
+EPA,http://www.epa.gov/tri/tridotnet/,TRI.NET data engine for EPA Toxics Release Inventory,{111E8E4C-0FB8-4334-A739-CB54BC9568A3},public
+EPA,https://edg.epa.gov/data/Public/Katrina/MurphyOilSpillBndy.zip,Hurricane Katrina - Murphy Oil Spill Boundary,{26B145ED-F8AD-43AD-9EE4-5664E52BD403},public
+EPA,http://camddataandmaps.epa.gov/gdm/index.cfm?fuseaction=allowances.wizard&AQW_datasetSelection=,Clean Air Markets - Allowances Query Wizard,{94AAED23-8775-4A2F-BFB7-74F972F5251C},public
+EPA,http://camddataandmaps.epa.gov/gdm/index.cfm?fuseaction=factstrends.choose,Clean Air Markets - Quick Facts and Trends,{CD89D57C-E360-4919-A421-2599D4DDA6A8},public
+EPA,http://water.epa.gov/scitech/swguidance/fishshellfish/fishadvisories/index.cfm,EPA Fish Consumption Advisories Website,{76E9333B-F87E-48D6-BA4A-D9BD237FDE32},public
+EPA,http://camddataandmaps.epa.gov/gdm/index.cfm?fuseaction=whereyoulive.nation,Clean Air Markets - Where You Live (National and State Maps),{D0E74A80-0E84-4372-A8D7-7B131357AFF9},public
+EPA,https://edg.epa.gov/data/PUBLIC/ORD/ENVIROATLAS/NHDPlusV2_WBDSnapshot_EnviroAtlas_CONUS.gdb.zip,"EnviroAtlas - NHDPlus V2 WBD Snapshot, EnviroAtlas version - Conterminous United States",{BA1041E9-02B6-40ED-8DB0-B1EEF68B6CA7},public
+EPA,http://watersgeo.epa.gov/arcgis/rest/services/OWRAD_NP21/303D_NP21/MapServer/,EPA Office of Water (OW): 303(d) Listed Impaired Waters NHDPlus Indexed Dataset,{66F27299-6B1B-42BF-8AA0-1127D7646631},public
+EPA,http://gisint1.rtpnc.epa.gov/ArcGIS/rest/services/OA/EJ_Environmental_Data/MapServer,"EJSCREEN Version 1, Environmental Data",{7C5B5C7F-04C2-46A9-A5A7-C799CEAB9A6A},non-public
+EPA,http://geodata.epa.gov/wfsconnector/com.esri.wfs.Esrimap/WasteWaterFeature?request=getcapabilities&service=WFS,EPA Office of Water (OW): Waste Water Feature Service,{37E36FDD-F99A-4954-A1A0-81F8F6E5531A},public
+EPA,https://edg.epa.gov/data/Public/OECA/CAFO_Density.zip,"Concentrated Animal Feeding Operations (CAFOs) per County, US, 2013, US EPA",{A0D7B216-6364-46E0-9421-A43E79E5FD92},public
+EPA,ftp://ftp.epa.gov/wed/ecoregions/us,U.S. Level III and IV Ecoregions (U.S. EPA),{02C99043-2E25-4A4E-BBE3-6AAE81ED7FC8},public
+EPA,https://edg.epa.gov/data/public/OSWER/OEM/6KQuads/6kquads_epa.zip,"6K Quads for ER Reference, US, EPA, SEGS",{7A5A7E02-E65D-465A-AD89-416C8D611D6C},public
+EPA,http://epa.maps.arcgis.com/home/webmap/viewer.html?webmap=71763c660bc349b7b3a8bd94afe82278,Distribution and Aggregate Thickness of Salt Deposits of the United States,{8D2FEA0E-A96C-4167-A04C-4A827B71B86F},public
+EPA,http://enviroatlas.epa.gov/arcgis/rest/services/PeopleBuiltSpaces/ESC_PME_demographics/MapServer,"EnviroAtlas - Portland, ME - Demographics by Block Group Web Service",{14AE5238-6F24-4C05-8617-E03B546AA7C1},public
+EPA,https://edg.epa.gov/data/Public/R1/SSAquif_2008_r24_EPA.zip,EPA Region 1 Sole Source Aquifers,{636A4B9A-6A36-4F01-A992-9B7E50E4D09C},public
+EPA,http://www.epa.gov/oar/oaqps/greenbk/index.html,1971 SO2 Nonattainment Areas •À_?? 1978 designation,{A4D5A2EA-8890-4C36-8A54-575611DF236D},public
+EPA,http://r2notes3.r02.epa.gov/Intranet/iOPM-ISB.nsf/e0686959b32516a185256cd900531291/654bb9e2891d438585256d96006f357c?OpenDocument,"R2 ESA Grant Condition Boundaries
+[EPA.R2_ESA_Grant_Condition_bnd]",{057CB74C-50BE-4F3B-A4C0-E20FC8F67638},public
+EPA,https://edg.epa.gov/data/Public/R9/R9_Stakeholder_Outreach/NPDES_Facilities.gdb.zip,Region 9 NPDES2011 Facilities,{4E5FE47D-D6E3-409C-9C5B-C19513F2C754},public
+EPA,https://edg.epa.gov/data/,Region 9 NPDES2011 Outfalls,{F2BC728E-FABA-44F8-B53F-99F756221BCD},public
+EPA,https://edg.epa.gov/data/PUBLIC/R5/R5IndianLandsCensus2010.zip,"TIGER/Line Shapefile, 2010 Census, American Indian/Alaska Native/Native Hawaiian Area (AIANNH) State-based Boundaries in Michigan, Minnesota, and Wisconsin.",{02E8DAB2-3D5F-4602-9A12-9D096D2FD5B4},public
+EPA,http://www.epa.gov/oppt/rsei/index.html,RSEI_FACILITY_BYYEAR_SP,{E6772996-6B41-4BDB-AB69-039846B34A47},public
+EPA,ftp://newftp.epa.gov/EJSCREEN/EJSCREENData2014/,Environmental Justice (EJSCREEN) Block Group Data (USEPA),{7D226C03-7726-418E-8A02-754932A7AE99},public
+EPA,http://geodata.epa.gov/ArcGIS/rest/services/OA/SmartLocationDatabase/MapServer,Smart Location Database - Service,{BFD45A45-D3D1-4C0E-A21B-0B21BC45677D},public
+EPA,https://edg.epa.gov/data/Public/OP/SLD/SmartLocationDb.zip,Smart Location Database - Download,{BCE98875-BED3-4911-8BEA-32220B3E15E7},public
+EPA,http://www.epa.gov/region9/superfund/navajo-nation/,"Navajo Nation - Abandoned Uranium Mines, for Enforcement Action (2015)",{C0F00F43-84E3-4B85-860F-174906F168D9},public
+EPA,http://www.epa.gov/region9/superfund/navajo-nation/abandoned-uranium.html,Navajo Nation - AUM Priority Mines (20141212),{F6A3131D-CF6F-464C-9866-E39F53BF5BF7},public
+EPA,http://www.epa.gov/region9/water/nonpoint/cal/,Nonpoint Source Pollution Control Projects Grants (Section 319) - 2008 active projects,{80FA00D3-B855-4FC7-A1BB-1F871284CE80},public
+EPA,http://www.dec.ny.gov/geodata/,NYSDEC Tidal Wetlands - NYC and Long Island - 1974 [NYS.TIDAL_WETLANDS],{B5B6D920-E5B2-4702-B985-633EC1258811},public
+EPA,http://www.epa.gov/sfbay-delta/sfbaywqfund/,San Francisco Bay Water Quality Improvement Fund 2015,{3B3F9A94-12AE-491C-A70B-CF431BD2FBC7},public
+EPA,http://geodata.epa.gov/arcgis/rest/services/OEI/FRS_Subfacilities/MapServer,EPA Facility Registry Service (FRS): AIRS_AFS Sub Facilities,{7FB06C94-5119-4343-A514-05427E9113F2},public
+EPA,http://www.epa.gov/region01/,Superfund National Priority List (NPL) Site Boundaries,{06A64F66-D10D-43DD-A2E7-06510ED8F340},public
+EPA,http://igeo.epa.gov/arcgis/rest/services/OAR/USEPA_NEI_2008/MapServer,National Emissions Inventory (NEI) 2008 Point Facility Data for the US (US EPA),{EF695259-9E86-4044-A561-186C4BF4C919},public
+EPA,http://enviroatlas.epa.gov/arcgis/rest/services/Communities/ESC_PME_CleanAir/MapServer,"EnviroAtlas - Metrics for Portland, ME",{44701EB9-8500-473B-93C7-31E668242489},public
+EPA,https://edg.epa.gov/data/Public/OSWER/Katrina_Air_Quality_Sampling_Daily_Monitoring.zip,Hurricane Katrina Air Quality Sampling/Daily Monitoring (AQSDM),{00C1BF22-1D06-4607-A199-E8BA7415CFAD},public
+EPA,http://www.epa.gov/oust/lust/corrective_action.html,Hawaii Large Capacity Cesspools (LCC) noncompliance,{114DEA38-3A92-4EEF-BB42-A4A7F45F27B8},non-public
+EPA,http:www.waterboards.ca.gov/centralvalley/water_issues/dairies/index.shtml,California Central Valley Dairies,{45DD95D7-A7BD-4F83-972C-F1E4101CF317},non-public
+EPA,http://www.epa.gov/region09/,Region 9 Sole Source Aquifers,{1BB5C1B2-4993-45B5-82BE-B4437C799B42},public
+EPA,https://edg.epa.gov/data/Public/OSWER/Katrina/KatrinaSedimentSampling.zip,Hurricane Katrina Sediment Sampling,{51146C18-8E33-4B93-946F-866D606FBEA6},public
+EPA,https://edg.epa.gov/data/Public/OSWER/Katrina/KatrinaWaterSampling.zip,Hurricane Katrina Water Sampling,{C732C27E-4B68-4408-B2A6-C932F4DCA05D},public
+EPA,https://edg.epa.gov/data/Public/OSWER/Katrina/KatrinaSoilSampling.zip,Hurricane Katrina Soil Sampling,{ADEEEDE9-9847-4BF8-B7DE-1E5F1A54F418},public
+EPA,http://www.kstrom.net/isk/maps/ca/sacramento.html,Region 9 Tribal Lands,{E96FA0AA-4FF4-45C1-A287-8589622EFC20},public
+EPA,http://www.wastebusinessjournal.com/diratlas.htm,Waste Processing and Disposal Operations,{2FFA1AE7-A0D1-48AC-852C-46692760B013},public
+EPA,http://igeo.epa.gov/ArcGIS/rest/services/OEI/FRS_ESF10/MapServer,EPA Facility Registry Service (FRS): ER_TSCA,{2C0378A1-4160-45A4-AAF6-82F39F44CFF6},public
+EPA,https://edg.epa.gov/data/Public/ORD/EnviroAtlas/PNJ_community_metrics_Mar2015.zip,"EnviroAtlas - Metrics for Paterson, NJ",{25CACE1D-C027-49E2-A14E-560F6523D677},public
+EPA,https://edg.epa.gov/data/Public/ORD/EnviroAtlas/POR_community_metrics_Mar2015.zip,"EnviroAtlas - Metrics for Portland, OR",{1E45A164-1294-4CB6-96B2-9C8B8D4A0F9A},public
+EPA,https://edg.epa.gov/data/PUBLIC/R5/EDG%20R5%20Chemical%20Reporters%20TSCA%20Reporters.zip,Region 5 Toxic Substances Control Act Reporters,{0E9FCA51-A3FC-489F-A97A-12F29C8E90F2},public
+EPA,https://edg.epa.gov/data/Public/R1/R1_NDZs.zip,EPA Region 1 No Discharge Zones,{EBD84E6B-07F7-4E24-8DF5-936B9294E789},public
+EPA,https://edg.epa.gov/data/Public/R1/Tribes_r24_EPA.zip,EPA Region 1 Tribal Lands,{CD62BFF6-121C-4835-AE66-429FC919C627},public
+EPA,file:////r6gis1/share1/Facilities/CERCLIS/CERCLIS_nonNPL_Sites_March2012.lyr,"CERCLIS Non-NPL Sites in U.S. Environmental Protection Agency, Region 6",{FA32ADF4-663D-4915-A4B2-72AEF15F2461},public
+EPA,file:////r6gis1/share1/Border/Border/BorderXXI_Regions.shp,Border XXI Regions,{DFB4AC19-3DA3-4972-A482-BF5B4297C5BA},public
+EPA,file:////r6gis1/share1/Border/Border/2012_Regional_Work_Groups.shp,Border XXI Regions,{D0E8A9F7-EE47-492D-BF2C-D63BF6555B6D},public
+EPA,file:////r6gis1/share1/Facilities/AFS/AIRS_Jul_2011.gdb/AFS_Sites,"AFS (Air Facility System) Sites in U.S. Environmental Protection Agency, Region 6",{156D1FF2-DED8-49CC-93E5-45723D048D5A},public
+EPA,file:////r6gis1/share1/Admin/Buffers/Coastline_100miles.shp,100 miles Inland from the Region 6 Gulf Coast Shoreline,{ED1712EF-ABCA-427D-9ED3-DAB31A37E32A},public
+EPA,https://edg.epa.gov/data/Public/R6/TEAP/teap_data.zip,TEAP Composite Layer (Raw Scores),{85803427-A13C-4323-80DC-ABA82A1447BD},public
+EPA,file:////r6gis1/share1/Border/Mexico/Mexico_Data.gdb/hwys,Highways in Mexico,{9FB6979B-96AD-45F2-90B7-D9E639297599},public
+EPA,file:////R6gis1/share1/Admin/Tribal_Lands/indhqcities.shp,Tribal HQ Cities,{D521FC58-01BA-4665-94E5-4E4E4424B4F4},public
+EPA,file:////r6gis1/share1/Admin/LA/LA_DNR_Conservation_Districts.gdb/LA_DNR_Conservation_Districts,"Louisiana Department of Natural Resources Conservation Districts, U.S. Environmental Protection Agency, Region 6",{B23415C8-EC44-475A-BEBF-B67AD2B279A0},public
+EPA,file:////r6gis1/share1/admin/LA/Louisiana_GOHSEP_State_Regions.gdb/Louisiana_GOHSEP_State_Regions,Louisiana Governor's Office of Homeland Security & Emergency Preparedness Region Boundaries,{982F797D-D270-40A2-8A26-AC7888DD2FAC},public
+EPA,file:////r6gis1/share1/admin/LA/LA_LOSCO.gdb/LA_LOSCO_State,Louisiana Oil Spill Coordinator's Office (LOSCO) District Boundaries,{DDE6E8D1-DB91-41C8-90FF-EFF0408B8204},public
+EPA,file:////r6gis1/share1/Admin/LA/LA_StatePolice_Troops.gdb/LA_StatePolice_Troops,Louisiana State Police Troop Boundaries,{BA3E6632-1D34-4311-B647-6A30036FEFA3},public
+EPA,file:////r6gis1/share1/Air/Nonattainment/Nonattainment_2012.gdb/MaintenanceEAC_2012,"Maintenance and EAC Areas for Criteria Pollutants, 3/30/2012, Region 6",{D5B94C5D-8F48-48F7-9B90-2ED388D774F4},public
+EPA,file:////r6gis1/share1/Air/Nonattainment/MaintenanceEAC_July2012.shp,"Maintenance and EAC Areas for Criteria Pollutants as of 7/15/2012, U.S. Environmental Protection Agency, Region 6",{27515C90-936B-44A7-B3C0-F252FA64F425},public
+EPA,http://www.epa.gov/air/oaqps/greenbk/index.html,"Maintenance and EAC Areas for Criteria Pollutants as of 7/30/2013, U.S. Environmental Protection Agency, Region 6",{4C43960E-E72D-4EAE-BB66-94442B69DB6D},public
+EPA,http://gispub.epa.gov/arcgis/rest/services/r6/albuquerquenmurbanwaters/MapServer,Albuquerque/Middle Rio Grande Urban Waters Viewer,{C24E9DCF-A112-4873-BB80-5A7AACA8CEDF},public
+EPA,file:////r6gis1/share1/Admin/NM/New_Mexico_NMED_Districts.gdb,New Mexico Environment Department (NMED) Districts,{6B0DDEDD-DA02-436D-8A46-EC72216035FD},public
+EPA,file:////r6gis1/share1/Admin/NM/NMHSEM_Districts.gdb/NMHSEM_District_Boundaries,New Mexico Homeland Security and Emergency Management Districts,{82A1CC4A-55E7-4BE6-8FF2-6F5F5A55AAE8},public
+EPA,file:////r6gis1/share1/Admin/Congress/c112/CD112_July2011.gdb/CD112_R6,"112th Congressional Districts in U.S. Environmental Protection Agency, Region 6",{BC848707-8C00-403B-B5EB-4B874B9241A2},public
+EPA,file:////r6gis1/share1/Admin/USCG/EPA_USCG_Boundary_02242011.gdb/EPA_USCG_Lines,EPA/USCG Jurisdictional Boundary,{047BE9DB-A474-417C-A707-D08BBD848973},public
+EPA,file:////r6gis1/share1/Admin/USCG/EPA_USCG_Boundary_04112012.gdb/EPA_USCG_Lines,"U.S. Environmental Protection Agency, Region 6/US Coast Guard Jurisdictional Boundary (Lines)",{E042A430-0037-4BBD-9699-C593453AA4E8},public
+EPA,file:////r6gis1/share1/Admin/USCG/EPA_USCG_Boundary_04112012.gdb/EPA_USCG_Polygons,"U.S. Environmental Protection Agency, Region 6/US Coast Guard Jurisdictional Boundary (Polygon)",{3C43694D-4D9D-4C8A-BF4E-9C51D01BB0CE},public
+EPA,file:////r6gis1/share1/admin/grids/albuquerque/flt06grid_new.shp,"U.S. Environmental Protection Agency, 3000 foot Grid Cells in Albuquerque, NM area",{8A4FEB15-CF73-43C2-BD5E-8BA5202D9D5E},public
+EPA,file:////r6gis1/share1/Facilities/FRP/R6_FRP_20110505.gdb,"Facility Response Plan (FRP) Sites in Region 6, 5/2011",{C5F8BB4D-4AF4-4AD1-AD8F-FBB04086C1E1},public
+EPA,file:////r6gis1/share1/Facilities/NPL/2012/NPL_2012.gdb/NPLpy09182012,"National Priorities List Boundaries (NPL), 9/18/2012, U.S. Environmental Protection Agency, Region 6",{7F256FC3-AAFF-4EC1-B0D4-ECC10C6CFB4A},public
+EPA,http://www.epa.gov/superfund/sites/npl/status.htm,"Superfund National Priorities List (NPL) Sites, U.S. Environmental Protection Agency, Region 6,  05/24/2013, Public",{FD83176A-F0A5-4579-8A3E-BAAC72471D06},public
+EPA,file:////r6gis1/share1/Admin/OK/OK_EmergencyManagementDirectors.gdb/OEMDirectors_Table,"Oklahoma Emergency Management Contacts for U.S. Environmental Protection Agency, Region 6 ER",{880F52B1-3F71-48B2-BA82-57D7BD6D8023},public
+EPA,file:////r6gis1/share1/admin/OK/OK_Corporation_Commision_Districts.gdb/OK_Corporation_Commision_Districts,Oklahoma Corporation Commission District Boundaries,{1615F670-23BC-439A-B4B4-4048F29EDF59},public
+EPA,file:////r6gis1/share1/Admin/OK/OK_OHS_Regional_Response_System.gdb,Oklahoma Office of Homeland Security Hazmat Response Districts,{8546E0D4-77C8-441F-8E6C-B822E48348C2},public
+EPA,file:////r6gis1/share1/Admin/Parcels/Parcel_status_r6.shp,Region 6 Parcel Boundary Collection,{D3DF7B7E-6DC9-4E25-96E1-D31389BDA925},public
+EPA,https://www.edg.epa.gov/data/public/R6/Brownfields/R6Brownfields_kmz.zip,"U.S. Environmental Protection Agency, Region 6 Brownfields KMZ, June 2012",{DCDC9663-17E7-497B-B0E1-AB1741B75527},public
+EPA,https://edg.epa.gov/data/public/R6/Brownfields/R6Brownfields_062612.zip,"U.S. Environmental Protection Agency, Region 6 Brownfields",{A809AF54-4A86-4673-8F17-2FA33F1205BE},public
+EPA,http://edg.epa.gov/data/public/R6/Brownfields/R6Brownfields.zip,"U.S. Environmental Protection Agency, Region 6 Brownfields Dec. 2011",{55C0B2FC-FA41-4352-9C44-DAEAB64AF14A},public
+EPA,file:////r6gis1/share1/Census/Census2010/PL94171_2010.gdb/R6_PL2010_Block,"Race, Ethnicity, Housing Unit Calculations, 2010 Census, U.S. Environmental Protection Agency, Region 6 States",{B3E863DB-8970-45FF-9F37-324E4EF442C4},public
+EPA,file:////r6gis1/share1/Census/Census2010/PL94171_2010_SumByOtherGeog.gdb/R6_PL2010_BlockGroup,"Race, Ethnicity, Housing Unit Calculations, 2010 Census Block Group Level, U.S. Environmental Protection Agency, Region 6 States",{721E629A-39DA-4AB4-A9B1-ED68770EB807},public
+EPA,file:////r6gis1/share1/admin/NM/NM_OCD_Divisions.gdb/NM_Oil_Conservation_Divisions,New Mexico Oil Conservation Division Boundaries,{C0819DCE-6B8E-4CC0-9A50-4EC4C2E8F15B},public
+EPA,file:////r6gis1/share1/Air/Nonattainment/Nonattainment_July2012.shp,"Nonattainment Areas for Criteria Pollutants as of 7/15/2012, U.S. Environmental Protection Agency, Region 6",{6A51C12A-4B0A-4A5C-901B-56202C107403},public
+EPA,file:////r6gis1/share1/Air/Nonattainment/Nonattainment_2012.gdb/Nonattainment_2012,"Nonattainment Areas for Criteria Pollutants, 3/30/2012, Region 6",{8D33D476-2584-4F31-89E0-203827D5F8F0},public
+EPA,file:////r6gis1/share1/Air/Nonattainment/Nonattainment_2013.gdb/Nonattainment_July2012,"Nonattainment Areas for Criteria Pollutants as of 7/30/2013, U.S. Environmental Protection Agency, Region 6",{DAA42D91-712E-4220-978C-5D404AF2DDD4},public
+EPA,https://edg.epa.gov/data/public/r6/NPL/NPLpt05122014.zip,"U.S. Environmental Protection Agency, Region 6 National Priorities List (NPL) Sites - 05/12/2014",{7CE596A5-3E6A-44C3-A0BF-B519FBDBB239},public
+EPA,https://edg.epa.gov/data/public/r6/npl/NPLpy05122014.zip,"U.S. Environmental Protection Agency, Region 6 National Priorities List (NPL) Boundaries - 05/12/2014",{77C2810A-21E6-4828-9699-1C2113F38A7F},public
+EPA,https://edg.epa.gov/data/Public/R6/Aquifers/R6SSAquifers.zip,"Sole Source Aquifers, U.S. Environmental Protection Agency, Region 6",{FA318B63-BD05-4E61-933C-B2350A8AED64},public
+EPA,file:////r6gis1/share1/Facilities/TRI/tri2011/r6tri2011.gdb/R6TRI2011,"TRI (Toxic Release Inventory) Facilities 2011 in U.S. Environmental Protection Agency, Region 6",{75947C0F-BC55-48D3-8B9A-656B959753BF},public
+EPA,file:////r6gis1/share1/Border/Mexico/Mexico_Data.gdb/rail,Railways in Mexico,{0DF424E0-AC33-4D6D-A1EF-ACEF50ACBAE0},public
+EPA,https://edg.epa.gov/data/Public/R6/TEAP/TEAP_Data.zip,TEAP Rarity Layer (Raw Scores),{EFE46178-ECA1-4B7F-B7C1-ABDA89476163},public
+EPA,file:////r6gis1/share1/Facilities/RCRA/RCRA_Sites_Mar_2012.lyr,"RCRA Sites in U.S. Environmental Protection Agency, Region 6",{EFCA3054-6D59-4727-B4E6-3CDFA601F9C0},public
+EPA,file:////r6gis1/share1/Facilities/RCRA/Previous_Years/rcra_tsd/RCRA_TSD_Only.gdb/RCRATSD_PT_July2011,"RCRA Sites in U.S. Environmental Protection Agency, Region 6, 7/2011",{49EA19E7-5E21-42E3-BD67-EF24D50D7F13},non-public
+EPA,file:////r6gis1/share1/Facilities/RCRA/Previous_Years/rcra_tsd/rcratsdpy_030209.shp,"RCRA TSD Boundaries for U.S. Environmental Protection Agency, Region 6, 2009",{FAD991F5-3DEE-4DC1-93F6-E8E21C999AEC},public
+EPA,file:////r6gis1/share1/Facilities/RMP/RMP_Sites_Mar_2012.lyr,"RMP Sites in U.S. Environmental Protection Agency, Region 6",{48B134A3-F34C-4F5A-8FF0-D2AD241EF0CF},public
+EPA,file:////R6gis1/share1/Border/Border/SisterCitys.shp,Sister Cities along US/Mexico Border,{0288FAF5-49D0-41A2-8035-4024B74B4CBF},public
+EPA,https://edg.epa.gov/data/Public/R6/TEAP/TEAP_data.zip,TEAP Sustainability Layer (Raw Scores),{C4425408-0E35-4B4C-B303-C734268A6C16},public
+EPA,file:////r6gis1/share1/Admin/Tribal_Lands/TribalLands2010.gdb/TribalHQ_2012,"Tribal Headquarters for U.S. Environmental Protection Agency, Region 6",{D4550153-EBF2-4B8C-A538-0DF43C983D53},public
+EPA,https://edg.epa.gov/data/Public/R6/GISST/R6GISST250.zip,R6 GISST 250m Grid,{35959A83-CFCB-4C36-BC0A-313A7BFCF8C6},public
+EPA,file:////r6gis1/share1/Admin/Grids/r6grid250m.gdb,"U.S. Environmental Protection Agency, Region 6 250 meter Grid Cells",{1549B261-D22F-451B-8457-17DF4C344D1D},public
+EPA,file:////r6gis1/share1/admin/grids/r6gridalb,"24k Quadrangle Boundaries in U.S. Environmental Protection Agency, Region 6 States",{0C5E34CD-0D88-46E1-82F3-90F8AECB405E},public
+EPA,file:////r6gis1/share1/admin/grids/imageconnect/r6imageselect.shp,"ImageConnect Index for U.S. Environmental Protection Agency, Region 6",{DE6D43A8-6EA1-4223-9EFE-4F25C400F532},public
+EPA,https://edg.epa.gov/data/Public/R6/REAP/r6reap_diversity.zip,"U.S. Environmental Protection Agency, Region 6 REAP Diversity Layer (Raw Scores)",{142A9F17-624F-45A5-A15C-C30EB94ACF5B},public
+EPA,https://edg.epa.gov/data/Public/R6/REAP/r6reap_sustainability.zip,"U.S. Environmental Protection Agency, Region 6 REAP Sustainability Layer (Raw Scores)",{020B1B2E-428F-40C1-BC26-26DCA569B6A8},public
+EPA,https://edg.epa.gov/data/Public/R6/REAP/r6reap_rarity.zip,"U.S. Environmental Protection Agency, Region 6 REAP Rarity Layer (Rank)",{635560AE-43BF-441F-A88F-22ECA1026AB9},public
+EPA,file:////r6gis1/share1/Admin/TX/TX_Disaster_Districts_010908.shp,Texas Disaster Districts,{F8D51629-EF02-4CF1-B874-D5FEAF49871B},restricted public
+EPA,file:////r6gis1/share1/Admin/TX/LEPC/tx_lepc_cou2,Texas Local Emergency Commission Planning Boundaries,{50CD1A9A-72B8-41FE-8A43-1D831611711C},public
+EPA,file:////r6gis1/share1/Border/Border/USAMexBorder.shp,USA and Mexico Border,{979AC3B8-C29D-44DF-BACA-93AA7B72DC89},public
+EPA,https://edg.epa.gov/data/Public/R6/REAP/r6reap_composite.zip,"U.S. Environmental Protection Agency, Region 6 REAP Composite Layer (Raw Scores)",{FC721366-7EE6-4074-AE42-21182D70AA5A},public
+EPA,file:////r6gis1/share1/Admin/Grids/grid250k.shp,"1:250,000 scale quadrangle boundaries in U.S. Environmental Protection Agency, Region 6",{A200A752-A204-4A68-9603-55191C69A91A},public
+EPA,file:////r6gis1/share1/Admin/Grids/grid100k.shp,"1:100,000 scale quadrangle boundaries in U.S. Environmental Protection Agency, Region 6",{42EFAA9A-9E0A-4608-A9C4-3249B47699E8},public
+EPA,https://edg.epa.gov/data/public/R6/NPL/NPLpt09182012.zip,"Superfund National Priorities List (NPL) Site Locations, U.S. Environmental Protection Agency, Region 6, 9/18/2012, Public",{6C62473A-1201-4CBA-A00E-6005CCDD7AB0},public
+EPA,file:////r6gis1/share1/Facilities/NPL/2012/NPL_2012.gdb/NPLpt09182012,"National Priorities List Sites (NPL), 09/18/2012, U.S. Environmental Protection Agency, Region 6",{D4B18658-8C2D-4424-BACA-E3A304461B8F},public
+EPA,https://edg.epa.gov/data/PUBLIC/R5/EDG%20R5%20Chemical%20Reporters%20TSCA%20Producers.zip,Region 5 Toxic Substances Control Act Producers,{FFA59687-C455-41A9-BCBE-927322E5BFCC},public
+EPA,https://edg.epa.gov/data/public/R6/NPL/NPLpy09182012.zip,"Superfund National Priorities List (NPL) Site Boundaries, U.S. Environmental Protection Agency, Region 6, 9/18/2012, Public",{57DF5CC4-249C-4EF0-92C5-5FA7CB4B0953},public
+EPA,file:////r6gis1/share1/Admin/Grids/6k/quads6k_us20070104.shp,"6k Quadrangle Boundaries for the US; U.S. Environmental Protection Agency, Region 6 Emergency Response",{1BAF5673-3718-41F6-AE05-39C817D05DF0},restricted public
+EPA,file:////r6gis1/share1/admin/grids/r6griddd,"24k Quadrangle Boundaries in U.S. Environmental Protection Agency, Region 6 States",{2ABEE4AB-DED9-4734-B560-DC2F8359EDAE},public
+EPA,file:////r6gis1/share1/Admin/TX/Texas_RRC_Oil_Gas_Boundaries.gdb,Texas Railroad Commission Oil and Gas Division District Boundaries,{FDB93788-1226-4B9C-9EF6-99C39E760964},public
+EPA,file:////r6gis1/share1/Census/Census2000/TX/TX2000_SF3_Compiled.gdb/txpercentminority00,"Texas Percent Minority per County, 2000 Census",{726C388F-8A26-499F-A86A-43BB0AB9AAC6},public
+EPA,file:////r6gis1/share1/Air/Nonattainment/Nonattainment_2013.gdb/MaintenanceEAC_July2013,"Maintenance and EAC Areas for Criteria Pollutants as of 7/30/2013, U.S. Environmental Protection Agency, Region 6",{25688757-6AB6-49EA-870B-11A890C8039C},public
+EPA,http://enviroatlas.epa.gov/arcgis/rest/services/Communities,"EnviroAtlas - Portland, ME - Historic Places by Census Block Group",{7380812D-6E33-4022-A3B8-6E2585339703},public
+EPA,https://edg.epa.gov/data/PUBLIC/ORD/ENVIROATLAS/WBD_HUC12alb_22MAR2011.gdb.zip,EnviroAtlas - HU12_polygon,{C78DF01D-0446-4BA0-B504-F9527F3ED4DB},public
+EPA,http://geodata.epa.gov/ArcGIS/rest/services/ORD/ROE_LongIslandHypoxia/MapServer,ROE Gulf of Mexico Hypoxia Sample Locations,{1F057D34-77FB-451E-A528-07954C31A2D8},public
+EPA,http://epa.gov/cimc,Cleanups in My Community,{2BD21583-A3CE-499B-B2E0-71B383D1DD20},public
+EPA,https://edg.epa.gov/data/Public/OSWER/6kquads_epa.zip,"1:6000  Scale (6K) Quadrangles developed by USEPA to Support Reconnaissance, and Tactical and Strategic Planning for Emergency Responses and Homeland Security Events (Downloadable Data)",{722451B3-3B3C-41FD-A081-B307F47C47B3},public
+EPA,https://edg.epa.gov/data/Public/OSWER/6kquadr1.zip,"Draft 1;6000  Scale (6K) Quadrangles developed by USEPA to Support Reconnaissance, and Tactical and Strategic Planning for Emergency Responses and Homeland Security Events (Region 1 Extract)",{FA46D66F-2338-4042-AAE6-55CBA79C0060},restricted public
+EPA,https://edg.epa.gov/data/Public/OSWER/6kquadr10.zip,"Draft 1;6000  Scale (6K) Quadrangles developed by USEPA to Support Reconnaissance, and Tactical and Strategic Planning for Emergency Responses and Homeland Security Events (Region 10 Extract)",{C6F82D7A-B1DC-4626-B55C-73CA9EECED44},restricted public
+EPA,https://edg.epa.gov/data/Public/OSWER/6kquadr2.zip,"Draft 1;6000  Scale (6K) Quadrangles developed by USEPA to Support Reconnaissance, and Tactical and Strategic Planning for Emergency Responses and Homeland Security Events (Region 2 Extract)",{5FFC698B-5351-4A93-B66F-09A1C5C6D00C},restricted public
+EPA,https://edg.epa.gov/data/Public/OSWER/6kquadr3.zip,"Draft 1;6000  Scale (6K) Quadrangles developed by USEPA to Support Reconnaissance, and Tactical and Strategic Planning for Emergency Responses and Homeland Security Events (Region 3 Extract)",{6F3F63C7-5144-412C-B70F-B2003FAF1DB4},restricted public
+EPA,https://edg.epa.gov/data/Public/OSWER/6kquadr4.zip,"Draft 1;6000  Scale (6K) Quadrangles developed by USEPA to Support Reconnaissance, and Tactical and Strategic Planning for Emergency Responses and Homeland Security Events (Region 4 Extract)",{5C4F8E98-D775-4BA4-BEF6-44D3A28FE78D},restricted public
+EPA,https://edg.epa.gov/data/Public/OSWER/6kquadr5.zip,"Draft 1;6000  Scale (6K) Quadrangles developed by USEPA to Support Reconnaissance, and Tactical and Strategic Planning for Emergency Responses and Homeland Security Events (Region 5 Extract)",{FA69E75A-489C-4A57-AEB6-ED282F9D3E26},restricted public
+EPA,https://edg.epa.gov/data/Public/data/6kquadr6.zip,"Draft 1;6000  Scale (6K) Quadrangles developed by USEPA to Support Reconnaissance, and Tactical and Strategic Planning for Emergency Responses and Homeland Security Events (Region 6 Extract)",{57088F8B-70F1-44E3-8F02-A93EBB522E27},restricted public
+EPA,https://edg.epa.gov/data/Public/data/OSWER/6kquadr7.zip,"Draft 1;6000  Scale (6K) Quadrangles developed by USEPA to Support Reconnaissance, and Tactical and Strategic Planning for Emergency Responses and Homeland Security Events (Region 7 Extract)",{66AF768F-4F6D-4708-AD7C-623229BD321A},restricted public
+EPA,https://edg.epa.gov/data/Public/OSWER/6kquadr8.zip,"Draft 1;6000  Scale (6K) Quadrangles developed by USEPA to Support Reconnaissance, and Tactical and Strategic Planning for Emergency Responses and Homeland Security Events (Region 8 Extract)",{093F05BA-6B78-4013-8150-27156AEDD17A},restricted public
+EPA,https://edg.epa.gov/data/Public/OSWER/6kquadr9.zip,"Draft 1;6000  Scale (6K) Quadrangles developed by USEPA to Support Reconnaissance, and Tactical and Strategic Planning for Emergency Responses and Homeland Security Events (Region 9 Extract)",{CE21B92B-A597-4581-96BE-6F79D5CE977F},restricted public
+EPA,http://java.epa.gov/oppt_chemical_search/db/CDR-2012_Updated_June_2014.zip,"Chemical Data Reporting (CDR), 2012",{0A08CE3D-5575-4325-83E3-270133C198F5},public
+EPA,http://geodata.epa.gov/ArcGIS/rest/services/OPPT/CDR/MapServer,"Chemical Data Reporting (CDR), 2012",{4B5CBF21-3BEF-472C-AFD2-194479E0D9C6},public
+EPA,https://edg.epa.gov/data/public/OECA/CAFO_Density.zip,"Concentrated Animal Feeding Operations (CAFOs) per County Downloadable Package, US, 2013, US EPA",{A811129F-3796-4940-A3F8-1BC216AF5D15},public
+EPA,http://edg.epa.gov/data/public/OECA/AnnualReport.zip,OECA Annual Report 2012 Data Package,{6764FA96-51ED-4D47-BC2D-353951E49E00},public
+EPA,https://edg.epa.gov/data/Public/OECA/annual_results_2009.kmz,U.S. Environmental Protection Agency Office of Enforcement and Compliance Assurance New Mapping Tool for Enforcement Cases,{226AFF82-843B-4611-9054-922181FD1C6B},public
+EPA,http://edg-intranet.epa.gov/data/Restricted/OECA/Wells/AllWells2015.zip,AllWells2015 Map Service,{FE558E75-FF1A-40C9-8574-23C88BADB377},non-public
+EPA,http://edg.epa.gov/data/Restricted/OECA/Wells/WellsTopTen2013.zip,WellsTopTen2013 Map Service,{F504D9DF-4E0E-4856-A45B-1934A5444907},non-public
+EPA,https://edg.epa.gov/data/Public/OEI/,EPA Facility Registry Service (FRS): Facility Interests Dataset Download,{762F413E-76B7-4E29-ACD1-E8D5161A3074},public
+EPA,http://edg-intranet.epa.gov/data/restricted/OEI/FRS/,EPA Facility Registry Service (FRS): Facility Interests Dataset - Intranet Download,{37009592-BC14-4976-A15D-1DF3EC95E3A4},public
+EPA,http://igeo.epa.gov/arcgis/rest/services/OEI/FRS/MapServer,EPA Facility Registry Service (FRS): Facility Interests Dataset - Intranet,{0C55DD47-83EC-4124-AE58-C8BF83E9652D},public
+USDA,http://www.ers.usda.gov/developer/data-apis.aspx,ARMS Farm Financial and Crop Production Practices,USDA-ERS-02580,public
+USDA,http://gis.ers.usda.gov/arcgis/rest/services/,Atlas of Rural and Small-Town America,USDA-ERS-05398,public
+USDA,http://www.ers.usda.gov/rss/calendar.aspx?type=data&n=1,Data Product RSS Feed,USDA-ERS-00101,public
+USDA,http://gis.ers.usda.gov/arcgis/rest/,GIS Map Services and API User Guide,USDA-ERS-00097,public
+USDA,http://www.ers.usda.gov/rss,Subscribe to RSS Feeds,USDA-ERS-00100,public
+USDA,http://api.ers.usda.gov/,Website Content API,USDA-ERS-00098,public
+USDA,http://www.ers.usda.gov/developer/widgets.aspx,Widgets,USDA-ERS-00099,public
+USDA,http://apps.fs.fed.us/ArcX/rest/services/EDW/EDW_ProclaimedForestBoundaries_01/MapServer,FS National Forest Dataset (US Forest Service Proclaimed Forests),USDA-FS-00033,public
+USDA,http://apps.fs.fed.us/ArcX/rest/services/EDW/EDW_ALPStatusAndEncumbrance_01/MapServer,U.S. Forest Service ALP Status And Encumbrance,USDA-FS-00020,public
+USDA,http://apps.fs.fed.us/arcx/rest/services/EDW/EDW_ForestSystemBoundaries_01/MapServer,U.S. Forest Service Administrative Forest Boundaries,USDA-FS-00064,public
+USDA,http://apps.fs.fed.us/arcx/rest/services/EDW/EDW_RangerDistricts_01/MapServer,U.S. Forest Service Administrative Ranger District Boundaries,USDA-FS-00031,public
+USDA,http://apps.fs.fed.us/ArcX/rest/services/EDW/EDW_RangerDistricts_03/MapServer,U.S. Forest Service Administrative Ranger District Boundaries - with Regions Table,USDA-FS-00036,public
+USDA,http://apps.fs.fed.us/arcx/rest/services/EDW/EDW_RegionBoundaries_01/MapServer,U.S. Forest Service Administrative Region Boundaries,USDA-FS-00018,public
+USDA,http://apps.fs.fed.us/ArcX/rest/services/EDW/EDW_AerialFireRetardantHydrographicAvoidanceAreas_01/MapServer,U.S. Forest Service Aerial Fire Retardant Avoidance Area Hydro,USDA-FS-00021,public
+USDA,http://apps.fs.fed.us/ArcX/rest/services/EDW/EDW_AerialFireRetardantAvoidanceAreas_01/MapServer,U.S. Forest Service Aerial Fire Retardant Avoidance Areas,USDA-FS-00022,public
+USDA,http://apps.fs.fed.us/ArcX/rest/services/EDW/EDW_BasicOwnership_01/MapServer,U.S. Forest Service Basic Ownership,USDA-FS-00019,public
+USDA,http://apps.fs.fed.us/ArcX/rest/services/EDW/EDW_BasicOwnership_02/MapServer,U.S. Forest Service Basic Ownership 2,USDA-FS-00067,public
+USDA,http://apps.fs.fed.us/ArcX/rest/services/EDW/EDW_CFLRProjectAccomplishments_01/MapServer,U.S. Forest Service CFLR Project Accomplishments,USDA-FS-00017,public
+USDA,http://apps.fs.fed.us/arcx/rest/services/EDW/EDW_ColoradoRoadlessAreas2012_01/MapServer,U.S. Forest Service Colorado Roadless Areas 2012,USDA-FS-00062-2015,public
+USDA,http://apps.fs.fed.us/ArcX/rest/services/EDW/EDW_InvasiveSpecies_01/MapServer,U.S. Forest Service Current Invasive Plant Locations,USDA-FS-00006,public
+USDA,http://apps.fs.fed.us/ArcX/rest/services/EDW/EDW_DevelopedSite_01/MapServer,U.S. Forest Service Developed Site,USDA-FS-00016,public
+USDA,http://apps.fs.fed.us/ArcX/rest/services/EDW/EDW_EcomapSections_01/MapServer,U.S. Forest Service Ecological Sections,USDA-FS-00015,public
+USDA,http://apps.fs.fed.us/ArcX/rest/services/EDW/EDW_ForestsToFaucets_01/MapServer,U.S. Forest Service Forests to Faucets,USDA-FS-00014,public
+USDA,http://apps.fs.fed.us/ArcX/rest/services/EDW/EDW_GeopoliticalUnit_01/MapServer,U.S. Forest Service Geopolitical Units,USDA-FS-00013,public
+USDA,http://apps.fs.fed.us/ArcX/rest/services/EDW/EDW_HazardousFuelsTreatments_01/MapServer,U.S. Forest Service Hazardous Fuels Treatments,USDA-FS-00012,public
+USDA,http://apps.fs.fed.us/arcx/rest/services/EDW/EDW_IRR_01/MapServer,U.S. Forest Service Integrated Resource Restoration,USDA-FS-00030,public
+USDA,http://apps.fs.fed.us/ArcX/rest/services/EDW/EDW_NFSLandUnit_01/MapServer,U.S. Forest Service Land Units,USDA-FS-00024,public
+USDA,http://apps.fs.fed.us/ArcX/rest/services/EDW/EDW_LandUtilizationProject_01/MapServer,U.S. Forest Service Land Utilization Project,USDA-FS-00004,public
+USDA,http://apps.fs.fed.us/ArcX/rest/services/EDW/EDW_LWCF_01/MapServer,U.S. Forest Service Land and Water Conservation Fund,USDA-FS-00003,public
+USDA,http://apps.fs.fed.us/ArcX/rest/services/EDW/EDW_NationalGrassland_01/MapServer,U.S. Forest Service National Grasslands,USDA-FS-00001,public
+USDA,http://apps.fs.fed.us/ArcX/rest/services/EDW/EDW_InventoriedRoadlessAreas2001_01/MapServer,U.S. Forest Service National Inventoried Roadless Areas,USDA-FS-00005,public
+USDA,http://apps.fs.fed.us/arcx/rest/services/EDW/EDW_InventoriedRoadlessAreas2001IdCo_01/MapServer,U.S. Forest Service National Inventoried Roadless Areas Including Idaho and Colorado,USDA-FS-00055-2015,public
+USDA,http://apps.fs.fed.us/arcx/rest/services/EDW/EDW_InventoriedRoadlessAreas2008Id_01/MapServer,U.S. Forest Service National Inventoried Roadless Areas in Idaho 2008,USDA-FS-00056-2015,public
+USDA,http://apps.fs.fed.us/ArcX/rest/services/EDW/EDW_OtherNationalDesignatedArea_01/MapServer,U.S. Forest Service Other National Designated Areas,USDA-FS-00025,public
+USDA,http://apps.fs.fed.us/ArcX/rest/services/EDW/EDW_OtherNationalDesignatedAreaStatus_01/MapServer,U.S. Forest Service Other National Designated Areas Status,USDA-FS-00026,public
+USDA,http://apps.fs.fed.us/ArcX/rest/services/EDW/EDW_PeriodicalCicadaBroods_01/MapServer,U.S. Forest Service Periodical Cicada Broods,USDA-FS-00023,public
+USDA,http://apps.fs.fed.us/ArcX/rest/services/EDW/EDW_PriorityWatersheds_01/MapServer,U.S. Forest Service Priority Watersheds,USDA-FS-00066,public
+USDA,http://apps.fs.fed.us/ArcX/rest/services/EDW/EDW_ProclaimedForestsAndGrasslands_01/MapServer,U.S. Forest Service Proclaimed Forests and Grasslands,USDA-FS-00034,public
+USDA,http://apps.fs.fed.us/ArcX/rest/services/EDW/EDW_PurchaseUnit_01/MapServer,U.S. Forest Service Purchase Units,USDA-FS-00035,public
+USDA,http://apps.fs.fed.us/arcx/rest/services/EDW/EDW_RecreationOpportunities_01/MapServer,U.S. Forest Service Recreation Opportunities,USDA-FS-00063,public
+USDA,http://apps.fs.fed.us/ArcX/rest/services/EDW/EDW_RoadBasic_01/MapServer,U.S. Forest Service Road Basic,USDA-FS-00038,public
+USDA,http://apps.fs.fed.us/ArcX/rest/services/EDW/EDW_MVUM_01/MapServer,U.S. Forest Service Road and Trail MVUM,USDA-FS-00053,public
+USDA,http://apps.fs.fed.us/ArcX/rest/services/EDW/EDW_Section_01/MapServer,U.S. Forest Service Sections,USDA-FS-00039,public
+USDA,http://apps.fs.fed.us/ArcX/rest/services/EDW/EDW_SpecialStatusArea_01/MapServer,U.S. Forest Service Special Status Areas,USDA-FS-00042,public
+USDA,http://apps.fs.fed.us/ArcX/rest/services/EDW/EDW_SMABoundary_01/MapServer,U.S. Forest Service Surface Management Agency Lines,USDA-FS-00040,public
+USDA,http://apps.fs.fed.us/ArcX/rest/services/EDW/EDW_SurfaceOwnership_01/MapServer,U.S. Forest Service Surface Ownership,USDA-FS-00043,public
+USDA,http://apps.fs.fed.us/ArcX/rest/services/EDW/EDW_Township_01/MapServer,U.S. Forest Service Townships,USDA-FS-00044,public
+USDA,http://apps.fs.fed.us/ArcX/rest/services/EDW/EDW_Tract_01/MapServer,U.S. Forest Service Tracts,USDA-FS-00045,public
+USDA,http://apps.fs.fed.us/arcx/rest/services/EDW/EDW_TrailNFSPublish_01/MapServer,U.S. Forest Service Trails,USDA-FS-00068-2015,public
+USDA,http://apps.fs.fed.us/arcx/rest/services/EDW/EDW_TrailNFSPublishWithDataStatus_01/MapServer,U.S. Forest Service Trails With Data Status,USDA-FS-00069-2015,public
+USDA,http://apps.fs.fed.us/arcx/rest/services/EDW/EDW_Watersheds_01/MapServer,U.S. Forest Service Watershed Boundaries,USDA-FS-00065,public
+USDA,http://apps.fs.fed.us/ArcX/rest/services/wo_nrm_iweb/NRM_WCATTWatershedCondAssess2011_01/MapServer,U.S. Forest Service Watershed Condition Class and Assessment Status 2011,USDA-FS-00052,public
+USDA,http://apps.fs.fed.us/arcx/rest/services/EDW/EDW_WBBS_01/MapServer,U.S. Forest Service Western Bark Beetle Strategy,USDA-FS-00060,public
+USDA,http://apps.fs.fed.us/ArcX/rest/services/EDW/EDW_WildScenicRiver_01/MapServer,U.S. Forest Service Wild and Scenic Rivers,USDA-FS-0049,public
+USDA,http://apps.fs.fed.us/ArcX/rest/services/EDW/EDW_WildScenicRiverStatus_01/MapServer,U.S. Forest Service Wild and Scenic Rivers Status,USDA-FS-0050,public
+USDA,http://apps.fs.fed.us/ArcX/rest/services/EDW/EDW_Wilderness_01/MapServer,U.S. Forest Service Wilderness Areas,USDA-FS-00047,public
+USDA,http://apps.fs.fed.us/ArcX/rest/services/EDW/EDW_WildernessStatus_01/MapServer,U.S. Forest Service Wilderness Areas Status,USDA-FS-00048,public
+USDA,http://apps.fs.fed.us/ArcX/rest/services/EDW/EDW_Withdrawal_01/MapServer,U.S. Forest Service Withdrawal,USDA-FS-0051,public
+USDA,http://apps.fs.fed.us/ArcX/rest/services/EDW/EDW_SpecialInterestManagementArea_01/MapServer,US Forest Service Special Interest Management Areas,USDA-FS-00041,public
+USDA,http://nassgeodata.gmu.edu/CropScape/devhelp/help.html,CropScape - Cropland Data Layer,USDA-NASS-00004,public
+USDA,http://quickstats.nass.usda.gov/api,Quick Stats Agricultural Database,USDA-NASS-00001,public
+USDA,http://nassgeodata.gmu.edu/VegScape/devhelp/help.html,VegScape - Vegetative Condition Explorer,USDA-NASS-00005,public
+DOT,http://www.nhtsa.gov/webapi/,NHTSA Child Safety Seat Inspection Station Locator - NCSSISL: NHTSA API,80,public
+DOT,http://www.nhtsa.gov/webapi/Default.aspx?Complaints/API/81/,NHTSA's Office of Defects Investigation (ODI) - Complaints: NHTSA API,81.1,public
+DOT,https://mobile.fmcsa.dot.gov/developer/qcapi.page?cid=172678,Licensing and Insurance: QCMobile API,99.1,public
+DOT,http://ogd.nhtsa.gov/services/gov.dot.nhtsa.ocio.UTQG.gov.dot.nhtsa.ocio.UTQGHttpEndpoint/getAllUTQS,Uniform Tire Quality Grading System (UTQGS): Uniform Tire Quality Grading System (UTQGS): Web API,4.1,public
+DOT,https://safetydata.fra.dot.gov/MASTERWEBSERVICE/DatadownloadService.asmx?op=GetAccident57DataByState,Highway Rail Accidents: Master Web Service,214.14,public
+DOT,https://safetydata.fra.dot.gov/MasterWebService/publicapi,Highway-Rail Crossings Inventory Data: GCIS Public API,224.1,public
+DOT,https://safetydata.fra.dot.gov/MasterWebService/SecureAPI/,Highway-Rail Crossings Inventory Data: GCIS Secure API,224.2,public
+DOT,https://safetydata.fra.dot.gov/MasterWebService/LiteApiService.asmx?op=GetEnforcementDataByYear,Annual Civil Penalty Report: API,256.1,public
+DOT,http://www.nhtsa.gov/webapi/Default.aspx?CivilPenalties/API/251,Summary of Corporate Average Fuel Economy (CAFE) Fines collected: NHTSA Civil Penalty Payments,259.1,public
+DOT,http://webapi.nhtsa.gov/Default.aspx?SafetyRatings/API/5,New Car Assessment Program (NCAP) - 5 Star Safety Ratings: New Car Assessment Program (NCAP) - 5 Star Safety Ratings,248,public
+DOT,https://www.its-rde.net/showdf?dataSetNumber=10171,Intelligent Transportation Systems Research Data Exchange - Minnesota DOT Mobile Observation data: live data,446.1,public
+DOT,https://mobile.fmcsa.dot.gov/developer/apidoc.page?cid=172675,SaferBus API: Documentation,1668,public
+HUD,http://egis.hud.gov/ArcGIS/rest/services/public/AssistedHousing/MapServer/5,Assisted Housing - Housing Choice Vouchers by Tract - National Geospatial Data Asset (NGDA),HUD084,public
+HUD,http://egis.hud.gov/ArcGIS/rest/services/public/AssistedHousing/MapServer/3,Assisted Housing - Low Income Housing Tax Credit Properties - National Geospatial Data Asset (NGDA),HUD085,public
+HUD,http://egis.hud.gov/ArcGIS/rest/services/public/AssistedHousing/MapServer/4,Assisted Housing - Multifamily Properties - Assisted,HUD086,public
+HUD,http://egis.hud.gov/ArcGIS/rest/services/public/AssistedHousing/MapServer/0,Assisted Housing - Public Housing Authorities - National Geospatial Data Asset (NGDA),HUD087,public
+HUD,http://egis.hud.gov/ArcGIS/rest/services/public/AssistedHousing/MapServer/1,Assisted Housing - Public Housing Buildings - National Geospatial Data Asset (NGDA),HUD088,public
+HUD,http://egis.hud.gov/ArcGIS/rest/services/public/AssistedHousing/MapServer/2,Assisted Housing - Public Housing Developments - National Geospatial Data Asset (NGDA),HUD089,public
+HUD,http://egis.hud.gov/ArcGIS/rest/services/public/HudGranteeActivities/MapServer/0,CDBG Acquisition Activity,HUD090,public
+HUD,http://egis.hud.gov/ArcGIS/rest/services/public/HudGranteeActivities/MapServer/7,CDBG Activity Funding by Tract,HUD091,public
+HUD,http://egis.hud.gov/ArcGIS/rest/services/public/HudGranteeActivities/MapServer/1,CDBG Economic Development Activity,HUD092,public
+HUD,http://egis.hud.gov/ArcGIS/rest/services/public/HudGranteeActivities/MapServer/2,CDBG Housing Activity,HUD094,public
+HUD,http://egis.hud.gov/ArcGIS/rest/services/public/HudGranteeActivities/MapServer/5,CDBG Other Activity,HUD095,public
+HUD,http://egis.hud.gov/ArcGIS/rest/services/public/HudGranteeActivities/MapServer/3,CDBG Public Improvements Activity,HUD096,public
+HUD,http://egis.hud.gov/ArcGIS/rest/services/public/HudGranteeActivities/MapServer/4,CDBG Public Services Activity,HUD097,public
+HUD,http://egis.hud.gov/ArcGIS/rest/services/public/HudGrantees/MapServer/6,Choice Neighborhood Grantees,HUD099,public
+HUD,http://egis.hud.gov/ArcGIS/rest/services/public/HudGrantees/MapServer/0,Community Challenge Grantees,HUD098,public
+HUD,http://egis.hud.gov/ArcGIS/rest/services/public/HudGrantees/MapServer/5,Continuum of Care (COC) Areas,HUD100,public
+HUD,http://egis.hud.gov/ArcGIS/rest/services/public/HudGrantees/MapServer/2,Emergency Shelter Grantee (ESG) Areas,HUD102,public
+HUD,http://egis.hud.gov/ArcGIS/rest/services/public/FairMarketRents/MapServer/0,Fair Market Rents (Fair Market Rents For The Section 8 Housing Assistance Payments Program) - National Geospatial Data Asset (NGDA),HUD103,public
+HUD,http://egis.hud.gov/ArcGIS/rest/services/public/HudInsuredOwned/MapServer/2,FHA Single Family REO Properties for Sale,HUD105,public
+HUD,http://egis.hud.gov/ArcGIS/rest/services/public/HudGranteeActivities/MapServer/8,HOME Activity Funding by Tract,HUD107,public
+HUD,http://egis.hud.gov/ArcGIS/rest/services/public/HudGrantees/MapServer/3,HOME Grantee Areas,HUD108,public
+HUD,http://egis.hud.gov/ArcGIS/rest/services/public/HudGranteeActivities/MapServer/6,HOME Rental Activity,HUD109,public
+HUD,http://egis.hud.gov/ArcGIS/rest/services/public/HudGrantees/MapServer/4,HOPWA Grantee Areas,HUD111,public
+HUD,http://egis.hud.gov/ArcGIS/rest/services/public/HudGrantees/MapServer/1,HUD Entitlement Grantee Jurisdiction - National Geospatial Data Asset (NGDA),HUD093,public
+HUD,http://egis.hud.gov/ArcGIS/rest/services/public/HudInsuredOwned/MapServer/0,HUD Insured Hospitals,HUD112,public
+HUD,http://egis.hud.gov/ArcGIS/rest/services/public/HudInsuredOwned/MapServer/1,HUD Insured Multifamily Properties,HUD113,public
+HUD,http://egis.hud.gov/ArcGIS/rest/services/public/HudLowMod/MapServer/0,HUD Low and Moderate Income Areas,HUD114,public
+HUD,http://egis.hud.gov/ArcGIS/rest/services/public/HudNsp/MapServer/3,Neighborhood Stabilization Program (NSP) Activities by Tract,HUD116,public
+HUD,http://egis.hud.gov/ArcGIS/rest/services/public/HudNsp/MapServer/0,NSP1 Target Areas,HUD117,public
+HUD,http://egis.hud.gov/ArcGIS/rest/services/public/HudNsp/MapServer/1,NSP2 Target Areas,HUD118,public
+HUD,http://egis.hud.gov/ArcGIS/rest/services/public/HudNsp/MapServer/2,NSP3 Target Areas,HUD119,public
+HUD,http://egis.hud.gov/ArcGIS/rest/services/public/HudGrantees/MapServer/7,Rural Innovation Fund Grantees,HUD123,public
+HUD,http://egis.hud.gov/ArcGIS/rest/services/public/HudGrantees/MapServer/8,Sustainable Communities Regional Planning Grantees,HUD124,public
+HUD,http://egis.hud.gov/ArcGIS/rest/services/public/HudGrantees/MapServer/9,UGLG (Unit of General Local Government),HUD125,public
+HHS,http://www.fda.gov/AboutFDA/ContactFDA/StayInformed/RSSFeeds/Consumers/rss.xml,Health Information Updates,33dc8571-0149-44d2-ba23-49e05d5b83ff,public
+HHS,http://healthit.hhs.gov/portal/server.pt/gateway/PTARGS_0_0_5561_2905_19695_43/http%3B/wci-pubcontent/publish/onc/public_communities/a_e/cds/rss.xml,Clinical Decision Support (CDS) Inventory,8cce3a41-32dd-4239-bf86-b1a92762214e,public
+HHS,http://www.fda.gov/AboutFDA/ContactFDA/StayInformed/RSSFeeds/Recalls/rss.xml,Food and Drug Administration--Recalls,2e3f01f6-19e7-460a-ac98-7cc368f9efa9,public
+DOL,http://api.dol.gov/V1/Statistics/OES2010/area?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,2010 Occupational Employment Statistics - Area,DOL-BLS-114,public
+DOL,http://api.dol.gov/V1/Statistics/OES2010/area_definitions?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,2010 Occupational Employment Statistics - Area Definitions,DOL-BLS-115,public
+DOL,http://api.dol.gov/V1/Statistics/OES2010/areatype?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,2010 Occupational Employment Statistics - Area Type,DOL-BLS-116,public
+DOL,http://api.dol.gov/V1/Statistics/OES2010/data?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,2010 Occupational Employment Statistics - Data,DOL-BLS-117,public
+DOL,http://api.dol.gov/V1/Statistics/OES2010/datatype?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,2010 Occupational Employment Statistics - Data Type,DOL-BLS-118,public
+DOL,http://api.dol.gov/V1/Statistics/OES2010/footnote?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,2010 Occupational Employment Statistics - Footnote,DOL-BLS-119,public
+DOL,http://api.dol.gov/V1/Statistics/OES2010/industry?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,2010 Occupational Employment Statistics - Industry,DOL-BLS-120,public
+DOL,http://api.dol.gov/V1/Statistics/OES2010/industry_title?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,2010 Occupational Employment Statistics - Industry Titles,DOL-BLS-121,public
+DOL,http://api.dol.gov/V1/Statistics/OES2010/occugroup?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,2010 Occupational Employment Statistics - Occugroup,DOL-BLS-122,public
+DOL,http://api.dol.gov/V1/Statistics/OES2010/occupation_definitions?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,2010 Occupational Employment Statistics - Occupation Definitions,DOL-BLS-123,public
+DOL,http://api.dol.gov/V1/Statistics/OES2010/release?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,2010 Occupational Employment Statistics - Release,DOL-BLS-124,public
+DOL,http://api.dol.gov/V1/Statistics/OES2010/Seasonal?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,2010 Occupational Employment Statistics - Seasonal,DOL-BLS-125,public
+DOL,http://api.dol.gov/V1/Statistics/OES2010/sector?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,2010 Occupational Employment Statistics - Sector,DOL-BLS-126,public
+DOL,http://api.dol.gov/V1/Statistics/OES2010/series?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,2010 Occupational Employment Statistics - Series,DOL-BLS-127,public
+DOL,http://api.dol.gov/V1/Statistics/OES2010/statemsa?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,2010 Occupational Employment Statistics - Statemsa,DOL-BLS-128,public
+DOL,http://api.dol.gov/V1/statistics/BLS_Numbers/averageHourlyEarnings1MonthNetChange?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Average Houly Earnings - 1 Month Net Change,DOL-BLS-75,public
+DOL,http://api.dol.gov/V1/statistics/BLS_Numbers/averageHourlyEarnings?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Average Hourly Earnings,DOL-BLS-64,public
+DOL,http://api.dol.gov/V1/statistics/BLS_Numbers/BLS_Numbers?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Average Hourly Earnings - 12 Month Change,DOL-BLS-73,public
+DOL,http://api.dol.gov/V1/statistics/BLS_Numbers/averageHoulryEarnings1MonthChange?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Average Hourly Earnings - 1 Month Change,DOL-BLS-74,public
+DOL,http://api.dol.gov/V1/statistics/BLS_Numbers/consumerPriceIndex?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Consumer Price Index,DOL-BLS-65,public
+DOL,http://api.dol.gov/V1/statistics/BLS_Numbers/consumerPriceIndex12MonthChange?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Consumer Price Index - 12 Month Change,DOL-BLS-76,public
+DOL,http://api.dol.gov/V1/statistics/BLS_Numbers/consumerPriceIndex1MonthChange?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Consumer Price Index - 1 Month Change,DOL-BLS-77,public
+DOL,http://api.dol.gov/V1/Statistics/CPI/CU_AREA?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Consumer Price Indexes - Area,DOL-BLS-102,public
+DOL,http://api.dol.gov/V1/Statistics/CPI/CU_BASE?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Consumer Price Indexes - Base,DOL-BLS-103,public
+DOL,http://api.dol.gov/V1/Statistics/CPI/CU_DATAPUB?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Consumer Price Indexes - Data Pub,DOL-BLS-104,public
+DOL,http://api.dol.gov/V1/Statistics/CPI/CU_FOOTNOTE?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Consumer Price Indexes - Footnote,DOL-BLS-105,public
+DOL,http://api.dol.gov/V1/Statistics/CPI/CU_ITEM?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Consumer Price Indexes - Item,DOL-BLS-106,public
+DOL,http://api.dol.gov/V1/Statistics/CPI/CU_PERIODICITY?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Consumer Price Indexes - Periodicity,DOL-BLS-107,public
+DOL,http://api.dol.gov/V1/Statistics/CPI/CU_SEASONAL?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Consumer Price Indexes - Seasonal,DOL-BLS-108,public
+DOL,http://api.dol.gov/V1/Statistics/CPI/CU_SERIES?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Consumer Price Indexes - Series,DOL-BLS-109,public
+DOL,http://api.dol.gov/V1/Statistics/CES/CE_SERIES?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Current Employment Statistics - Series,DOL-BLS-100,public
+DOL,http://api.dol.gov/V1/Statistics/CES/CE_SUPERSECTOR?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Current Employment Statistics - Supersector,DOL-BLS-101,public
+DOL,http://api.dol.gov/V1/Statistics/CPS/LE_AGES?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Current Population Survey (CPS) - Ages,DOL-BLS-151,public
+DOL,http://api.dol.gov/V1/Statistics/CPS/LE_BORN?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Current Population Survey (CPS) - Born,DOL-BLS-152,public
+DOL,http://api.dol.gov/V1/Statistics/CPS/LE_CLASS?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Current Population Survey (CPS) - Class,DOL-BLS-153,public
+DOL,http://api.dol.gov/V1/Statistics/CPS/LE_DATA_PUB?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Current Population Survey (CPS) - Data Pub,DOL-BLS-154,public
+DOL,http://api.dol.gov/V1/Statistics/CPS/LE_EARN?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Current Population Survey (CPS) - Earn,DOL-BLS-155,public
+DOL,http://api.dol.gov/V1/Statistics/CPS/LE_EDUCATION?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Current Population Survey (CPS) - Education,DOL-BLS-156,public
+DOL,http://api.dol.gov/V1/Statistics/CPS/LE_FIPS?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Current Population Survey (CPS) - FIPS,DOL-BLS-157,public
+DOL,http://api.dol.gov/V1/Statistics/CPS/LE_FOOTNOTE?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Current Population Survey (CPS) - Footnote,DOL-BLS-158,public
+DOL,http://api.dol.gov/V1/Statistics/CPS/LE_INDY?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Current Population Survey (CPS) - Indy,DOL-BLS-159,public
+DOL,http://api.dol.gov/V1/Statistics/CPS/LE_LFST?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Current Population Survey (CPS) - LFST,DOL-BLS-160,public
+DOL,http://api.dol.gov/V1/Statistics/CPS/LE_OCCUPATION?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Current Population Survey (CPS) - Occupation,DOL-BLS-161,public
+DOL,http://api.dol.gov/V1/Statistics/CPS/LE_ORIG?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Current Population Survey (CPS) - ORIG,DOL-BLS-162,public
+DOL,http://api.dol.gov/V1/Statistics/CPS/LE_PCTS?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Current Population Survey (CPS) - PCTS,DOL-BLS-163,public
+DOL,http://api.dol.gov/V1/Statistics/CPS/LE_RACE?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Current Population Survey (CPS) - Race,DOL-BLS-164,public
+DOL,http://api.dol.gov/V1/Statistics/CPS/LE_SEASONAL?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Current Population Survey (CPS) - Seasonal,DOL-BLS-165,public
+DOL,http://api.dol.gov/V1/Statistics/CPS/LE_SERIES?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Current Population Survey (CPS) - Series,DOL-BLS-166,public
+DOL,http://api.dol.gov/V1/Statistics/CPS/LE_SEXS?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Current Population Survey (CPS) - SEXS,DOL-BLS-167,public
+DOL,http://api.dol.gov/V1/Statistics/CPS/LE_TDATA?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Current Population Survey (CPS) - TDATA,DOL-BLS-168,public
+DOL,http://api.dol.gov/V1/Statistics/CPS/LE_UNIN?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Current Population Survey (CPS) - UNIN,DOL-BLS-169,public
+DOL,http://api.dol.gov/V1/statistics/BLS_Numbers/employmentCostIndex?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Employment Cost Index,DOL-BLS-66,public
+DOL,http://api.dol.gov/V1/statistics/BLS_Numbers/exportPriceIndex?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Export Price Index,DOL-BLS-67,public
+DOL,http://api.dol.gov/V1/statistics/BLS_Numbers/exportPriceIndex12MonthChange?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Export Price Index - 12 Month Change,DOL-BLS-78,public
+DOL,http://api.dol.gov/V1/statistics/BLS_Numbers/exportPriceIndex1MonthChange?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Export Price Index - 1 Month Change,DOL-BLS-79,public
+DOL,http://api.dol.gov/V1/Safety/FatalOccupationalInjuries/FI_AREA?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Fatal Occupational Injuries - Area,DOL-BLS-33,public
+DOL,http://api.dol.gov/V1/Safety/FatalOccupationalInjuries/FI_CASE?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Fatal Occupational Injuries - Case,DOL-BLS-34,public
+DOL,http://api.dol.gov/V1/Safety/FatalOccupationalInjuries/FI_CATEGORY?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Fatal Occupational Injuries - CATEGORY,DOL-BLS-35,public
+DOL,http://api.dol.gov/V1/Safety/FatalOccupationalInjuries/FI_CATEGORY2?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Fatal Occupational Injuries - CATEGORY2,DOL-BLS-36,public
+DOL,http://api.dol.gov/V1/Safety/FatalOccupationalInjuries/FI_DATA_PUB?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Fatal Occupational Injuries - DATA PUB,DOL-BLS-37,public
+DOL,http://api.dol.gov/V1/Safety/FatalOccupationalInjuries/FI_DATA_TYPE?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Fatal Occupational Injuries - Data Type,DOL-BLS-38,public
+DOL,http://api.dol.gov/V1/Safety/FatalOccupationalInjuries/FI_EVENT?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Fatal Occupational Injuries - Event,DOL-BLS-39,public
+DOL,http://api.dol.gov/V1/Safety/FatalOccupationalInjuries/FI_FOOTNOTE?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Fatal Occupational Injuries - Footnote,DOL-BLS-40,public
+DOL,http://api.dol.gov/V1/Safety/FatalOccupationalInjuries/FI_GQT_CASE?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Fatal Occupational Injuries - GQT Case,DOL-BLS-41,public
+DOL,http://api.dol.gov/V1/Safety/FatalOccupationalInjuries/FI_GQT_CHAR?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Fatal Occupational Injuries - GQT Char,DOL-BLS-42,public
+DOL,http://api.dol.gov/V1/Safety/FatalOccupationalInjuries/FI_GQT_CHAR_OWNERSHIP?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Fatal Occupational Injuries - GQT Char Ownership,DOL-BLS-43,public
+DOL,http://api.dol.gov/V1/Safety/FatalOccupationalInjuries/FI_GQT_OWNERSHIP?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Fatal Occupational Injuries - GQT Ownership,DOL-BLS-44,public
+DOL,http://api.dol.gov/V1/Safety/FatalOccupationalInjuries/FI_GQT_STATE?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Fatal Occupational Injuries - GQT State,DOL-BLS-45,public
+DOL,http://api.dol.gov/V1/Safety/FatalOccupationalInjuries/FI_GQT_STATE_OWNERSHIP?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Fatal Occupational Injuries - GQT State Ownership,DOL-BLS-46,public
+DOL,http://api.dol.gov/V1/Safety/FatalOccupationalInjuries/FI_INDUSTRY?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Fatal Occupational Injuries - Industry,DOL-BLS-47,public
+DOL,http://api.dol.gov/V1/Safety/FatalOccupationalInjuries/FI_SERIES?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Fatal Occupational Injuries - Series,DOL-BLS-48,public
+DOL,http://api.dol.gov/V1/Safety/FatalOccupationalInjuries/FI_SUPERSECTOR?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Fatal Occupational Injuries - Supersector,DOL-BLS-49,public
+DOL,http://api.dol.gov/V1/statistics/BLS_Numbers/importPriceIndex?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Import Price Index,DOL-BLS-68,public
+DOL,http://api.dol.gov/V1/statistics/BLS_Numbers/importPriceIndex12MonthChange?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Import Price Index - 12 Month Change,DOL-BLS-80,public
+DOL,http://api.dol.gov/V1/statistics/BLS_Numbers/importPriceIndex1MonthChange?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Import Price Index - 1 Month Change,DOL-BLS-81,public
+DOL,http://api.dol.gov/V1/Safety/InjuriesAndIllness/II_AREA?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Injuries and Illness - Area,DOL-BLS-17,public
+DOL,http://api.dol.gov/V1/Safety/InjuriesAndIllness/II_CASE_TYPE?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Injuries and Illness - Case Type,DOL-BLS-18,public
+DOL,http://api.dol.gov/V1/Safety/InjuriesAndIllness/II_DATA_PUB?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Injuries and Illness - DATA PUB,DOL-BLS-19,public
+DOL,http://api.dol.gov/V1/Safety/InjuriesAndIllness/II_DATA_TYPE?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Injuries and Illness - DATA TYPE,DOL-BLS-20,public
+DOL,http://api.dol.gov/V1/Safety/InjuriesAndIllness/II_FOOTNOTE?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Injuries and Illness - Footnote,DOL-BLS-21,public
+DOL,http://api.dol.gov/V1/Safety/InjuriesAndIllness/II_GQT_CASE?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Injuries and Illness - GQT Case,DOL-BLS-22,public
+DOL,http://api.dol.gov/V1/Safety/InjuriesAndIllness/II_GQT_CHAR?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Injuries and Illness - GQT Char,DOL-BLS-23,public
+DOL,http://api.dol.gov/V1/Safety/InjuriesAndIllness/II_GQT_OWNERSHIP?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Injuries and Illness - GQT Ownership,DOL-BLS-24,public
+DOL,http://api.dol.gov/V1/Safety/InjuriesAndIllness/II_GQT_STATE?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Injuries and Illness - GQT State,DOL-BLS-25,public
+DOL,http://api.dol.gov/V1/Safety/InjuriesAndIllness/II_GQT_STATE_OWNERSHIP?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Injuries and Illness - GQT State Ownership,DOL-BLS-26,public
+DOL,http://api.dol.gov/V1/Safety/InjuriesAndIllness/II_INDUSTRY?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Injuries and Illness - Industry,DOL-BLS-27,public
+DOL,http://api.dol.gov/V1/Safety/InjuriesAndIllness/II_SERIES?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Injuries and Illness - Series,DOL-BLS-28,public
+DOL,http://api.dol.gov/V1/Safety/InjuriesAndIllness/II_SUPERSECTOR?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Injuries and Illness - Supersector,DOL-BLS-29,public
+DOL,http://www.bls.gov/developers/,National Compensation Survey - Wages,DOL-BLS-1075-01,public
+DOL,http://api.dol.gov/V1/Statistics/OES/OE_AREA?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Occupational Employment Statistics Survey (OES) - Area,DOL-BLS-138,public
+DOL,http://api.dol.gov/V1/Statistics/OES/OE_AREATYPE?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Occupational Employment Statistics Survey (OES) - Area Type,DOL-BLS-139,public
+DOL,http://api.dol.gov/V1/Statistics/OES/OE_DATA_PUB?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Occupational Employment Statistics Survey (OES) - Data Pub,DOL-BLS-140,public
+DOL,http://api.dol.gov/V1/Statistics/OES/OE_DATATYPE?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Occupational Employment Statistics Survey (OES) - Data Type,DOL-BLS-141,public
+DOL,http://api.dol.gov/V1/Statistics/OES/OE_FOOTNOTE?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Occupational Employment Statistics Survey (OES) - Footnote,DOL-BLS-142,public
+DOL,http://api.dol.gov/V1/Statistics/OES/OE_INDUSTRY?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Occupational Employment Statistics Survey (OES) - Industry,DOL-BLS-143,public
+DOL,http://api.dol.gov/V1/Statistics/OES/OE_OCCUGROUP?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Occupational Employment Statistics Survey (OES) - Occugroup,DOL-BLS-144,public
+DOL,http://api.dol.gov/V1/Statistics/OES/OE_OCCUPATION?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Occupational Employment Statistics Survey (OES) - Occupation,DOL-BLS-145,public
+DOL,http://api.dol.gov/V1/Statistics/OES/OE_RELEASE?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Occupational Employment Statistics Survey (OES) - Release,DOL-BLS-146,public
+DOL,http://api.dol.gov/V1/Statistics/OES/OE_SEASONAL?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Occupational Employment Statistics Survey (OES) - Seasonal,DOL-BLS-147,public
+DOL,http://api.dol.gov/V1/Statistics/OES/OE_SECTOR?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Occupational Employment Statistics Survey (OES) - Sector,DOL-BLS-148,public
+DOL,http://api.dol.gov/V1/Statistics/OES/OE_SERIES?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Occupational Employment Statistics Survey (OES) - Series,DOL-BLS-149,public
+DOL,http://api.dol.gov/V1/Statistics/OES/OE_STATEMSA?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Occupational Employment Statistics Survey (OES) - StateMSA,DOL-BLS-150,public
+DOL,http://api.dol.gov/V1/statistics/BLS_Numbers/payrollEmployment?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Payroll Employment,DOL-BLS-69,public
+DOL,http://api.dol.gov/V1/statistics/BLS_Numbers/payrollEmployment12MonthChange?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Payroll Employment - 12 Month Change,DOL-BLS-82,public
+DOL,http://api.dol.gov/V1/statistics/BLS_Numbers/payrollEmployment12MonthNetChange?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Payroll Employment - 12 Month Net Change,DOL-BLS-83,public
+DOL,http://api.dol.gov/V1/statistics/BLS_Numbers/payrollEmployment1MonthChange?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Payroll Employment - 1 Month Change,DOL-BLS-84,public
+DOL,http://api.dol.gov/V1/statistics/BLS_Numbers/payrollEmployment1MonthNetChange?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Payroll Employment - 1 Month Net Change,DOL-BLS-85,public
+DOL,http://api.dol.gov/V1/statistics/BLS_Numbers/producerPriceIndex?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Producer Price Index,DOL-BLS-70,public
+DOL,http://api.dol.gov/V1/statistics/BLS_Numbers/producerPriceIndex12MonthChange?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Producer Price Index - 12 Month Change,DOL-BLS-86,public
+DOL,http://api.dol.gov/V1/statistics/BLS_Numbers/producerPriceIndex1MonthChange?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Producer Price Index - 1 Month Change,DOL-BLS-87,public
+DOL,http://api.dol.gov/V1/statistics/BLS_Numbers/productivity?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Productivity,DOL-BLS-71,public
+DOL,http://api.dol.gov/V1/Statistics/CEW/EN_AREA?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Quarterly Census Employment and Wage - Area,DOL-BLS-129,public
+DOL,http://api.dol.gov/V1/Statistics/CEW/EN_DATA_PUB?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Quarterly Census Employment and Wage - Data Pub,DOL-BLS-130,public
+DOL,http://api.dol.gov/V1/Statistics/CEW/EN_FOOTNOTE?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Quarterly Census Employment and Wage - Footnote,DOL-BLS-131,public
+DOL,http://api.dol.gov/V1/Statistics/CEW/EN_INDUSTRY?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Quarterly Census Employment and Wage - Industry,DOL-BLS-132,public
+DOL,http://api.dol.gov/V1/Statistics/CEW/EN_LQAREA?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Quarterly Census Employment and Wage - LQArea,DOL-BLS-133,public
+DOL,http://api.dol.gov/V1/Statistics/CEW/EN_OWNER?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Quarterly Census Employment and Wage - Owner,DOL-BLS-134,public
+DOL,http://api.dol.gov/V1/Statistics/CEW/EN_SERIES?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Quarterly Census Employment and Wage - Series,DOL-BLS-135,public
+DOL,http://api.dol.gov/V1/Statistics/CEW/EN_STATE?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Quarterly Census Employment and Wage - State,DOL-BLS-136,public
+DOL,http://api.dol.gov/V1/Statistics/CEW/EN_TYPE?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Quarterly Census Employment and Wage - Type,DOL-BLS-137,public
+DOL,http://api.dol.gov/V1/statistics/BLS_Numbers/unemploymentRate?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Unemployment Rate,DOL-BLS-72,public
+DOL,http://api.dol.gov/V1/statistics/BLS_Numbers/unemploymentRate12MonthChange?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Unemployment Rate - 12 Month Change,DOL-BLS-88,public
+DOL,http://api.dol.gov/V1/statistics/BLS_Numbers/unemploymentRate12MonthNetChange?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Unemployment Rate - 12 Month Net Change,DOL-BLS-173,public
+DOL,http://api.dol.gov/V1/statistics/BLS_Numbers/unemploymentRate1MonthChange?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Unemployment Rate - 1 Month Change,DOL-BLS-89,public
+DOL,http://api.dol.gov/V1/statistics/BLS_Numbers/unemploymentRate1MonthNetChange?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Unemployment Rate - 1 Month Net Change,DOL-BLS-90,public
+DOL,http://api.dol.gov/V1/Statistics/WIA/workforceInvestmentActUi?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,2010 Workforce investment Act,DOL-ETA-92,public
+DOL,http://api.dol.gov/V1/Statistics/WIA/workforceInvestmentActWages?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,2010 Workforce Investment Act Wages,DOL-ETA-94,public
+DOL,http://api.dol.gov/V1/IPIA/IPIA_1Year?KEY=352e8ef9-7b38-4428-875b-eefd39df6289?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,IPIA 1 Year,DOL-ETA-172,public
+DOL,http://api.dol.gov/V1/IPIA/IPIA_3Year?KEY=352e8ef9-7b38-4428-875b-eefd39df6289?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,IPIA 3 Year,DOL-ETA-173,public
+DOL,http://api.dol.gov/V1/IPIA/IPIA_CalendarYear?KEY=352e8ef9-7b38-4428-875b-eefd39df6289?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,IPIA Calendar Year,DOL-ETA-175,public
+DOL,http://api.dol.gov/V1/IPIA/IPIA_Fiscal_Year?KEY=352e8ef9-7b38-4428-875b-eefd39df6289?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,IPIA Fiscal Year,DOL-ETA-176,public
+DOL,http://api.dol.gov/V1/Statistics/OUI_InitialClaims/unemploymentInsuranceInitialClaims?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,OUI Initial Claims,DOL-ETA-177,public
+DOL,http://api.dol.gov/V1/Statistics/PWSD/esFinal?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Public Workforce System - esFinal,DOL-ETA-222,public
+DOL,http://api.dol.gov/V1/Mining/BasicMineInfo/addressOfRecord?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Basic Mine Information (Mine Address of Record),DOL-MSHA-56,public
+DOL,http://api.dol.gov/V1/Mining/FullMineInfo/MSHA_mines?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Full Mine Info,DOL-MSHA-55,public
+DOL,http://api.dol.gov/V1/Safety/Accidents/mineAccidents?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Mine Accident Injuries,DOL-MSHA-15,public
+DOL,http://api.dol.gov/V1/Compliance/MineInspection/mineInspections?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Mine Inspections,DOL-MSHA-15,public
+DOL,http://api.dol.gov/V1/Mining/Violation/MSHA_violations?KEY=352e8ef9-7b38-4428-875b-eefd39df6289352e8ef9-7b38-4428-875b-eefd39df6289,Mine Violations,DOL-MSHA-13,public
+DOL,http://api.dol.gov/V1/Mining/Violation/MSHA_violations?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Mine Violations,DOL-MSHA-54,public
+DOL,http://api.dol.gov/V1/Employment/MSHA_employmentProduction?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,MSHA Employment Production,DOL-MSHA-53,public
+DOL,http://api.dol.gov/V1/Statistics/REI?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Research and Evaluation Inventory,DOL-OASP-8,public
+DOL,http://api.dol.gov/V1/AutoWorkers/CAR_ClosedRepurposed?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Auto Workers,DOL-OPA-57,public
+DOL,http://api.dol.gov/V1/DOLAgency/Agencies?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,DOL Agencies,DOL-OPA-2,public
+DOL,http://api.dol.gov/V1/FAQ/SubTopics?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,DOL FAQ SubTopics,DOL-OPA-4,public
+DOL,http://api.dol.gov/V1/FAQ/TopicQuestions?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,DOL FAQ TopicQuestions,DOL-OPA-5,public
+DOL,http://api.dol.gov/V1/FAQ/Topics?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,DOL FAQ Topics,DOL-OPA-3,public
+DOL,http://api.dol.gov/V1/FORMS/Agencies?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,DOL Form Agencies,DOL-OPA-6,public
+DOL,http://api.dol.gov/V1/FORMS/AgencyForms?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,DOL Form AgencyForms,DOL-OPA-7,public
+DOL,http://api.dol.gov/V1/ApiMetrics/PerKey/NumberOfRequestsPerDayByKeys?KEY=352e8ef9-7b38-4428-875b-eefd39df6289&$filter=TOKEN%20eq%20guid%27352e8ef9-7b38-4428-875b-eefd39df6289%27,Number of Requests Per Day per Key,DOL-OPA-179,public
+DOL,http://api.dol.gov/V1/ApiMetrics/PerKey/NumberOfRequestsPerKeys?KEY=352e8ef9-7b38-4428-875b-eefd39df6289&$filter=TOKEN%20eq%20guid%27352e8ef9-7b38-4428-875b-eefd39df6289%27,Number of Requests Per Key,DOL-OPA-178,public
+DOL,http://api.dol.gov/V1/ApiMetrics/PerKey/NumberOfRequestsPerMonthByKeys?KEY=352e8ef9-7b38-4428-875b-eefd39df6289&$filter=TOKEN%20eq%20guid%27352e8ef9-7b38-4428-875b-eefd39df6289%27,Number of Requests Per Month per Key,DOL-OPA-180,public
+DOL,http://api.dol.gov/V1/ApiMetrics/PerKey/NumberOfRequestsPerYearByWeeks?KEY=352e8ef9-7b38-4428-875b-eefd39df6289&$filter=TOKEN%20eq%20guid%27352e8ef9-7b38-4428-875b-eefd39df6289%27,Number of Requests Per Year by Week per Key,DOL-OPA-182,public
+DOL,http://api.dol.gov/V1/ApiMetrics/PerKey/NumberOfRequestsPerYearByKeys?KEY=352e8ef9-7b38-4428-875b-eefd39df6289&$filter=TOKEN%20eq%20guid%27352e8ef9-7b38-4428-875b-eefd39df6289%27,Number of Requests Per Year per Key,DOL-OPA-181,public
+DOL,http://api.dol.gov/V1/ApiMetrics/PerKey/TopDatasetsPerDayPerKeys?KEY=352e8ef9-7b38-4428-875b-eefd39df6289&$filter=TOKEN%20eq%20guid%27352e8ef9-7b38-4428-875b-eefd39df6289%27,Top Datasets Per Day per Key,DOL-OPA-187,public
+DOL,http://api.dol.gov/V1/ApiMetrics/PerKey/TopDatasetsPerKeys?KEY=352e8ef9-7b38-4428-875b-eefd39df6289&$filter=TOKEN%20eq%20guid%27352e8ef9-7b38-4428-875b-eefd39df6289%27,Top Datasets Per Key,DOL-OPA-183,public
+DOL,http://api.dol.gov/V1/ApiMetrics/PerKey/TopDatasetsPerMonthPerKeys?KEY=352e8ef9-7b38-4428-875b-eefd39df6289&$filter=TOKEN%20eq%20guid%27352e8ef9-7b38-4428-875b-eefd39df6289%27,Top Datasets Per Month per Key,DOL-OPA-185,public
+DOL,http://api.dol.gov/V1/ApiMetrics/PerKey/TopDatasetsPerWeekPerKeys?KEY=352e8ef9-7b38-4428-875b-eefd39df6289&$filter=TOKEN%20eq%20guid%27352e8ef9-7b38-4428-875b-eefd39df6289%27,Top Datasets Per Year by Week per Key,DOL-OPA-186,public
+DOL,http://api.dol.gov/V1/ApiMetrics/PerKey/TopDatasetsPerYearPerKeys?KEY=352e8ef9-7b38-4428-875b-eefd39df6289&$filter=TOKEN%20eq%20guid%27352e8ef9-7b38-4428-875b-eefd39df6289%27,Top Datasets Per Year per Key,DOL-OPA-184,public
+DOL,http://api.dol.gov/V1/ApiMetrics/PerKey/TopDataTablesPerKeyDays?KEY=352e8ef9-7b38-4428-875b-eefd39df6289&$filter=TOKEN%20eq%20guid%27352e8ef9-7b38-4428-875b-eefd39df6289%27,Top Data Tables Per Day per Key,DOL-OPA-189,public
+DOL,http://api.dol.gov/V1/ApiMetrics/PerKey/TopDataTablesPerKeys?KEY=352e8ef9-7b38-4428-875b-eefd39df6289&$filter=TOKEN%20eq%20guid%27352e8ef9-7b38-4428-875b-eefd39df6289%27,Top Data Tables Per Key,DOL-OPA-188,public
+DOL,http://api.dol.gov/V1/ApiMetrics/PerKey/TopDataTablesPerKeyMonths?KEY=352e8ef9-7b38-4428-875b-eefd39df6289&$filter=TOKEN%20eq%20guid%27352e8ef9-7b38-4428-875b-eefd39df6289%27,Top Data Tables Per Month per Key,DOL-OPA-190,public
+DOL,http://api.dol.gov/V1/ApiMetrics/PerKey/TopDataTablesPerKeyWeeks?KEY=352e8ef9-7b38-4428-875b-eefd39df6289&$filter=TOKEN%20eq%20guid%27352e8ef9-7b38-4428-875b-eefd39df6289%27,Top Data Tables Per Year by Week per Key,DOL-OPA-191,public
+DOL,http://api.dol.gov/V1/ApiMetrics/PerKey/TopDataTablesPerKeyYears?KEY=352e8ef9-7b38-4428-875b-eefd39df6289&$filter=TOKEN%20eq%20guid%27352e8ef9-7b38-4428-875b-eefd39df6289%27,Top Data Tables Per Year per Key,DOL-OPA-192,public
+DOL,http://api.dol.gov/V1/VETS100/V100DataDotGov?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,VETS-100,DOL-VETS-1,public
+DOL,http://api.dol.gov/V1/VETS100/V100ADataDotGov?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,VETS-100A,DOL-VETS-2,public
+DOL,http://api.dol.gov/V1/Safety/GulfOilSpill/OSHA_Direct_Read_Sampling?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Gulf Oil Spill - OSHA Direct Read Sampling,DOL-OSHA-30,public
+DOL,http://api.dol.gov/V1/Safety/GulfOilSpill/OSHA_Laboratory_Sampling?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Gulf Oil Spill - OSHA Laboratory Sampling,DOL-OSHA-31,public
+DOL,http://api.dol.gov/V1/Safety/GulfOilSpill/OSHA_Noise_Report?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Gulf Oil Spill - OSHA Noise Report,DOL-OSHA-32,public
+DOL,http://api.dol.gov/V1/Compliance/OSHA/foodService?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,OSHA Compliance - FoodService,DOL-OSHA-10,public
+DOL,http://api.dol.gov/V1/Compliance/OSHA/full?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,OSHA Compliance - full,DOL-OSHA-9,public
+DOL,http://api.dol.gov/V1/Compliance/OSHA/hospitality?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,OSHA Compliance - Hospitality,DOL-OSHA-11,public
+DOL,http://api.dol.gov/V1/Compliance/OSHA/occupationCode?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,OSHA Compliance - OccupationCode,DOL-OSHA-13,public
+DOL,http://api.dol.gov/V1/Compliance/OSHA/retail?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,OSHA Compliance - Retail,DOL-OSHA-12,public
+DOL,http://api.dol.gov/V1/Compliance/OSHA/substanceCode?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,OSHA Compliance - SubstanceCode,DOL-OSHA-14,public
+DOL,http://api.dol.gov/V1/SafetyHealth/ChemicalExposureInspection?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Safety & Health - Chemical Exposure Inspection,DOL-OSHA-50,public
+DOL,http://api.dol.gov/V1/SafetyHealth/EstablishmentSpecificInjuryIllnessRates?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,Safety & Health - Establishment Specific Injury Illness Rates,DOL-OSHA-51,public
+DOL,http://api.dol.gov/V1/Compliance/WHD/foodService?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,WHD Compliance - Food Service,DOL-WHD-61,public
+DOL,http://api.dol.gov/V1/Compliance/WHD/Frequency?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,WHD Compliance - Frequency,DOL-WHD-59,public
+DOL,http://api.dol.gov/V1/Compliance/WHD/full?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,WHD Compliance - full,DOL-WHD-60,public
+DOL,http://api.dol.gov/V1/Compliance/WHD/hospitality?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,WHD Compliance - Hospitality,DOL-WHD-62,public
+DOL,http://api.dol.gov/V1/Compliance/WHD/retail?KEY=352e8ef9-7b38-4428-875b-eefd39df6289,WHD Compliance - Retail,DOL-WHD-63,public
+OPM,http://www.opm.gov/json/operatingstatus.json,"Federal Government Current Operating Status Washington, DC Area API",OPM-Status-0002,public
+OPM,http://www.opm.gov/json/operatingstatushistory.json,"Federal Government Operating Status History Washington, DC Area API",OPM-Status-0006,public
+OPM,http://www.opm.gov/xml/statustypes.xml,"Federal Government Operating Status Types Washington, DC Area API",OPM-Status-0003,public
+OPM,https://data.usajobs.gov/Rest,USAJOBS Job Opportunity Announcements (JOA) REST API,OPM-USAJOBS-0002,public
+OPM,https://data.usajobs.gov/Soap,USAJOBS Job Opportunity Announcements (JOA) SOAP API,OPM-USAJOBS-0003,public
+Commerce,http://www.bea.gov/api/signup/index.cfm,"National Accounts - Personal Income, Advanced Download Section",http://www.bea.gov/national/nipaweb/downss2.asp,public
+Commerce,http://www.bea.gov/iTable/bp_download_modern.cfm?pid=1,International Accounts,http://www.bea.gov/iTable/bp_download_modern.cfm?pid=1,public
+Commerce,http://www.bea.gov/industry/gdpbyind_data.htm,Industry Accounts - Annual Industry,http://www.bea.gov/industry/gdpbyind_data.htm,public
+Commerce,http://www.bea.gov/industry/io_annual.htm,Industry Accounts - Annual Input-Output,http://www.bea.gov/industry/io_annual.htm,public
+Commerce,http://www.bea.gov/data.htm,Public Data Listing,http://www.bea.gov/data.htm,public
+VA,http://www.va.gov/webservices/fandl/documentation/fandl.cfm,Facilities & Leadership,VA-OIT-WSG-01,public
+VA,http://www.va.gov/webservices/press/documentation/releases.cfm,Press Release,VA-OIT-WSG-02,public
+Energy,http://api.eia.gov/category/?api_key=YOUR_API_KEY_HERE&category_id=40203,Crude Oil Imports Application Programming Interface (API),eia-oilimports-2008api-0001,restricted public
+Energy,http://www.eia.gov/beta/api/qb.cfm?category=717234,Coal Data Application Programming Interface (API),DOE-019-6548765908,restricted public
+Energy,http://www.osti.gov/dataexplorer/xml,DOE Data Explorer Data Service,DOE-019-7311658976-1,public
+Energy,http://www.osti.gov/doepatents/xml,DOepatents XML Data Service,DOE-019-2956116573,public
+Energy,http://www.osti.gov/cgi-bin/rd_accomplishments/xml.cgi,DOE R&D Accomplishments,DOE-019-3008115437,public
+Energy,http://www.osti.gov/geoxml/,Geothermal Technologies Legacy Collection,DOE-019-3009138835,public
+Energy,http://www.osti.gov/pages/pagesxml,DOE PAGES (Beta),DOE-019-2956156643,public
+Energy,http://developer.nrel.gov/docs/transportation/alt-fuel-stations-v1/,Alternative Fuels Data Center,DOE-019-4737201083,public
+Energy,https://bioenergykdf.net/apidocs/restapi,Bioenergy Knowledge Discovery Framework (KDF),DOE-019-5048006789,restricted public
+Energy,http://bcl.nrel.gov/api,Building Component Library,DOE-019-2039840921,public
+Energy,https://bpd.lbl.gov/developers/,Buildings Performance Database,DOE-019-1400589557,restricted public
+Energy,http://developer.nrel.gov/docs/buildings/commercial-building-resource-database-v1/,Commercial Buildings Resource Database,DOE-019-1284772391,public
+Energy,http://developer.nrel.gov/docs/electricity/energy-incentives-v1/,Database of State Incentives for Renewables & Efficiency,DOE-019-3942224134,public
+Energy,http://geothermaldata.org/ngds/data,National Geothermal Data System,DOE-019-3478546533,public
+Energy,https://performance.nrel.gov/developers,Technology Performance Exchange (TPEx),DOE-019-7756349243,restricted public
+Energy,http://en.openei.org/w/api.php,Open Energy Information (OpenEI.org),DOE-019-5052667844,public
+Energy,http://developer.nrel.gov/docs/solar/pvwatts-v5/,PVWatts Calculator,DOE-019-0984375089,public
+Energy,https://openpv.nrel.gov/api.php,The Open PV Project,DOE-019-6132651944,restricted public
+Energy,http://energy.gov/nepa/nepa-documents,DOE NEPA Documents,DOE-019-4379345678,public
+DOI,http://mrdata.usgs.gov/services/vms?request=getcapabilities&service=WMS&version=1.0.0&,Volcanogenic massive sulfide deposits of the world: Database and grade and tonnage models,030f25ce-7d73-4e6b-84ea-cc0aabf09668,public
+DOI,http://gis1.usgs.gov/arcgis/rest/services/gap/PADUS_Owner/MapServer,Protected Areas Database of the United States (PADUS) - Combined: Version 1.3,0452dbf6-60fa-4c21-9552-f1b0bcacdbbc,public
+DOI,http://gis.fws.gov/ArcGIS/rest/services/FWS_Regional_Boundaries/MapServer,U.S. Fish and Wildlife Service Regional Boundaries Map Services,087903ed-4d66-487a-a5b1-22dc3391479b,public
+DOI,http://mrdata.usgs.gov/services/hi?request=getcapabilities&service=WMS&version=1.1.1&,Geologic map of the State of Hawaii,1028eec8-fd06-4db2-a5fe-150c3f9be4db,public
+DOI,http://watersgeo.epa.gov/ArcGIS/rest/services/OWRAD/ALL_OWRAD_NAD83/MapServer/,REA NGB EPA 303(d) Streams,1f8ae74f-a67a-4714-a503-f3069f2a9151,public
+DOI,http://mrdata.usgs.gov/services/mrds?request=getcapabilities&service=WFS&version=1.0.0&,REA NGB MRDS Mineral Resources in the Northern Great Basin,24c8e381-8942-4f76-86e0-96c3a1217567,public
+DOI,http://mrdata.usgs.gov/services/ngdbrock?request=getcapabilities&service=WMS&version=1.1.1&,Geochemistry of rock samples from the National Geochemical Database,356b5203-7f48-4877-a62c-ac640264ea59,public
+DOI,http://webqa.coast.noaa.gov/arcgis/rest/services/geoESPIS/CaliforniaGeologicOil/MapServer,Produced and Seep Oil along the California Coastline,421cb245-1dec-4153-b287-1078e00685b1,public
+DOI,http://mrdata.usgs.gov/services/agdb2?request=GetCapabilities&service=WMS&version=1.1.1,"Alaska Geochemical Database Version 2.0 (AGDB2) - Including ""Best Value"" Data Compilations for Geochemical Data for Rock, Sediment, Soil, Mineral, and Concentrate Sample Media",43ad90e0-cb76-4ec3-ba7c-8d812bc5c2fa,public
+DOI,http://mrdata.usgs.gov/services/sedznpb?request=getcapabilities&service=WMS&version=1.1.1&,Sediment-hosted zinc-lead deposits of the world,470f958a-53a2-4773-8453-68ddc19aafa5,public
+DOI,http://mrdata.usgs.gov/services/porcu?request=getcapabilities&service=WMS&version=1.1.1&,Porphyry copper deposits of the world,4a427351-e223-420b-9bfb-730e8c35d92f,public
+DOI,http://mrdata.usgs.gov/services/ardf?request=getcapabilities&service=WMS&version=1.1.1&,Alaska Resource Data File (ARDF),4a713cec-c544-4b59-ab84-737d1a0ebb07,public
+DOI,http://geoport.whoi.edu/thredds/wms/bathy/gom03_v1_0?service=WMS&amp;version=1.3.0&amp;request=GetCapabilities,3 arc second digital elevation model of the Gulf of Maine,51efc9d6-a9da-4b09-b9e8-20c1d84b1385,public
+DOI,http://mrdata.usgs.gov/services/ngs?request=getcapabilities&service=WMS&version=1.0.0&,The National Geochemical Survey - database and documentation,523a79df-bf47-4e4a-a606-c3d90d4842c3,public
+DOI,http://mrdata.usgs.gov/services/ds801?service=WMS&request=getCapabilities&version=1.1.1&,Geochemical and mineralogical data for soils of the conterminous United States,55eb690a-20ba-42f6-b926-0ccb4f554867,public
+DOI,http://mrdata.usgs.gov/services/phosphate?request=GetCapabilities&service=WMS&version=1.1.1,"World phosphate mines, deposits, and occurrences",56945fbc-5495-48c2-adf0-29e4eb4e1db1,public
+DOI,http://webqa.coast.noaa.gov/arcgis/rest/services/geoESPIS/AlaskaProgramData/MapServer/0,"Alaska Point Feature GIS Data from COMIDA, ANIMIDA and cANIMIDA Programs",592c140e-b33b-4129-b6e1-bd7b2df28072,public
+DOI,http://mrdata.usgs.gov/services/carbonatite?request=GetCapabilities&service=WMS&version=1.1.1,"Carbonatites of the world, explored deposits of Nb and REE",5a96f935-c386-4563-84a6-fa39af430d34,public
+DOI,http://criticalhabitat.fws.gov/arcgis/rest/services/crithab/usfwsCriticalHabitat/MapServer/kml/mapImage.kmz,FWS Critical Habitat for Threatened and Endangered Species Dataset,5e17213b-e56e-4fcf-b105-84b298c2927a,public
+DOI,http://mrdata.usgs.gov/services/asbestos?request=GetCapabilities&service=WMS&version=1.1.1,"Asbestos mines, prospects, and occurrences in the US",5fde9078-07d0-4fa0-bea8-490068250a82,public
+DOI,http://mrdata.usgs.gov/services/mrds?request=getcapabilities&service=WMS&version=1.1.1&,Mineral Resources Data System,60e62f65-e4d8-4ec0-83ae-3cce6629ed49,public
+DOI,http://mrdata.usgs.gov/ArcGIS/services/Geophysics/NorthAmericaCompilation_static/MapServer/WMSServer?request=getcapabilities&service=WMS&version=1.1.1&,Digital data grids for the magnetic anomaly map of North America,66c7c483-28cd-4a7c-be3e-92d0bee85755,public
+DOI,http://mrdata.usgs.gov/cgi-bin/mapserv?map=mrds.map&request=getcapabilities&service=WFS&version=1.0.0&,REA CBR BLM Mineral Resources Data System - Abandoned Mines,6efec02b-b28f-4b24-b615-13a57a0fa471,public
+DOI,http://gis1.usgs.gov/arcgis/rest/services/OBISUSA/OBIS_USA_All_Marine_Biogeographic_Records/MapServer,Ocean Biogeographic Information System (OBIS) - USA Dataset Collection,70f329e8-a1df-4a9b-920c-401ba7d5b4e1,public
+DOI,http://gis.fws.gov/ArcGIS/rest/services/FWS_LCC/MapServer,Landscape Conservation Cooperatives Map Services,73766ea4-9dd7-40ea-9d9c-6cc4e592e191,public
+DOI,http://mrdata.usgs.gov/services/minfac?request=GetCapabilities&service=WMS&version=1.1.1,Mineral operations outside the United States,7d5f4057-6b31-4721-93e9-ceb6c5e55b08,public
+DOI,http://mrdata.usgs.gov/services/agdb2?request=GetCapabilities&service=WMS&version=1.1.1&,"Alaska Geochemical Database (AGDB) - Geochemical Data for Rock, Sediment, Soil, Mineral, and Concentrate Sample Media",813fd05f-3a67-45fa-8c45-86f517c5bf29,public
+DOI,http://mrdata.usgs.gov/services/sedcu?request=getcapabilities&service=WMS&version=1.1.1&,Sediment-hosted copper deposits of the world,831885a8-6743-47cd-ad3f-d6aee322672e,public
+DOI,http://mrdata.usgs.gov/services/gravity?request=getcapabilities&service=WMS&version=1.1.1&,Isostatic residual gravity anomaly data grid for the conterminous US,84ee4a31-895e-442e-b236-fd0b0cf29f74,public
+DOI,http://mrdata.usgs.gov/services/ree?request=GetCapabilities&service=WMS&version=1.1.1,"Rare earth element mines, deposits, and occurrences",8a0058f0-7597-492a-821e-603bdfc82b8e,public
+DOI,http://mrdata.usgs.gov/services/akgeol?request=getcapabilities&service=WMS&version=1.1.1&,Preliminary integrated geologic map data for Alaska,8ef84f96-5f9e-4d7a-8a1b-71572be338b3,public
+DOI,http://mrdata.usgs.gov/services/radiometric?request=getcapabilities&service=WMS&version=1.1.1&,Terrestrial Radioactivity and Gamma-ray Exposure in the United States and Canada: Gridded geographic images,90db924b-f0f4-43ed-a5d6-4d0b3643ff8a,public
+DOI,http://gis1.usgs.gov/arcgis/rest/services/gap/GAP_Land_Cover_Ecological_Systems_Landuse/MapServer,U.S. Geological Survey Gap Analysis Program- Land Cover Data v2.2,a604a59a-a17f-4c77-9b83-a754d9260cce,public
+DOI,http://webqa.coast.noaa.gov/arcgis/rest/services/geoESPIS/AlaskaProgramData/MapServer/1,"Alaska Line Feature GIS Data from COMIDA, ANIMIDA and cANIMIDA Programs",a69e425b-195b-4153-965e-0874ab238437,public
+DOI,http://services1.arcgis.com/Hp6G80Pky0om7QvQ/arcgis/rest/services/2017-2022_Draft_Proposed_Program_for_Oil_and_Gas_Leasing_on_the_OCS_Withdrawal_Areas/FeatureServer/0,2017-2022 Draft Proposed Program - Withdrawal Areas,a7eb4e41-0643-4520-9d6c-eea27eadd6b7,public
+DOI,http://mrdata.usgs.gov/services/sedexmvt?request=getcapabilities&service=WMS&version=1.1.1&,Mineral resource data for Mississippi Valley-Type and clastic-dominated sediment-hosted lead-zinc deposits,aee709f8-40f0-46dd-8623-64a48e4f9785,public
+DOI,http://mrdata.usgs.gov/services/podchrome?request=GetCapabilities&service=WMS&version=1.1.1,Podiform chromite deposits,b27d7d8f-014c-45e8-ac42-875a79fb8276,public
+DOI,http://services1.arcgis.com/Hp6G80Pky0om7QvQ/arcgis/rest/services/2017_2022_Draft_Proposed_Program_for_Oil_and_Gas_Leasing_on_the_OCS/FeatureServer/0,2017-2022 Draft Proposed Program - All Areas,b481f455-cbbf-4e57-a8b8-9f2257f8e26c,public
+DOI,http://mrdata.usgs.gov/services/copper-smelters?request=getcapabilities&service=WMS&version=1.1.1&,Map and table of world copper smelters,b8bf1833-6b2e-46d3-aedd-b1f8941f0a54,public
+DOI,http://mrdata.usgs.gov/services/ardf?request=getcapabilities&service=WFS&version=1.0.0&,REA SNK Alaska Resource Data File (ARDF) - mines,baa358f8-7582-45ee-bd93-98ccf7ad4bb6,public
+DOI,http://gis1.usgs.gov/arcgis/rest/services/nfhap/nfhap_public_coastal/MapServer,National Fish Habitat Partnership Data System,bf91ce18-c8d2-4d36-b4a1-2c4af3b24cf6,public
+DOI,http://gis1.usgs.gov/arcgis/rest/services/NAT_Species_Amphibians,U.S. Geological Survey Gap Analysis Program,c176dfb4-1091-4632-b524-151a13cdf3ae,public
+DOI,http://mrdata.usgs.gov/services/nicrpge?request=GetCapabilities&service=WMS&version=1.1.1,An index to PGE-Ni-Cr deposits and occurrences in selected mineral-occurrence databases,c189736a-27a5-4515-863d-feabcfd1259c,public
+DOI,http://mrdata.usgs.gov/services/pr?service=WMS&request=GetCapabilities&version=1.1.1,"Geology, geochemistry, geophysics, mineral occurrences, and mineral resource assessment for the commonwealth of Puerto Rico",c52e4977-5610-4b44-ab1a-b2c603fd69af,public
+DOI,http://mrdata.usgs.gov/services/ak250?request=GetCapabilities&service=WMS&version=1.1.1,"Alaska map quadrangles at 1:250,000 scale",cb78f22b-e9a4-4b21-ae2c-76fe675178dd,public
+DOI,http://mrdata.usgs.gov/services/alteration?request=GetCapabilities&service=WMS&version=1.1.1&,Hydrothermal Alteration Maps of the Central and Southern Basin and Range Province of the United States Compiled From Advanced Spaceborne Thermal Emission and Reflection Radiometer (ASTER) Data,cdf65644-67c1-49c9-9f94-1da8d43e1571,public
+DOI,http://mrdata.usgs.gov/services/sedau?service=WMS&request=GetCapabilities&version=1.1.1,Sediment-hosted gold deposits of the world,d1f5489e-3f0b-46f8-a302-9f482041d3a3,public
+DOI,"http://cmgds.marine.usgs.gov/geoserver/bathy/wms?service=WMS&version=1.1.0&request=GetMap&layers=bathy:2008-1288_bathy&styles=&bbox=366025.999733,4573362.199733,373517.999563,4578707.626581&srs=EPSG:4326","BATHY_2M_ASC.ASC: Bathymetric data collected by the U.S. Geological Survey off the southern shore of Martha's Vineyard, MA, 2007 (ASCII RASTER)",d88ebcb2-8144-4422-9fce-f8259aeedb75,public
+DOI,http://gis1.usgs.gov/arcgis/rest/services/maris/maris_data_public/MapServer/0,Multistate Aquatic Resources Information System (MARIS),d90295af-5fac-4e6c-9b38-e1e3d5e4dedf,public
+DOI,http://mrdata.usgs.gov/services/active-mines?request=getcapabilities&service=WMS&version=1.1.1&,Active Mines and Mineral Processing Plants in the United States in 2003,e169f2ca-d8d5-447d-81cc-e863903b058e,public
+DOI,http://mrdata.usgs.gov/services/geochron?request=GetCapabilities&service=WMS&version=1.1.1,National Geochronological Database,e608d19f-b30a-4d10-9892-807955e69602,public
+DOI,http://coast.noaa.gov/arcgis/rest/services/MarineCadastre/,Oil and Gas Resource Plays,e67c1a1b-d283-4ac6-ae85-a2c8fefd3566,public
+DOI,http://mrdata.usgs.gov/services/akages?request=getcapabilities&service=WMS&version=1.1.1&,Alaska Radiometric Ages,eac09c7f-da7e-43e4-9eb0-b4ef516ab7dc,public
+DOI,http://gis.fws.gov/arcgis/rest/services/FWS_US_Joint_Ventures/MapServer,US Joint Ventures 2013 revision,eec2ac7c-8ba1-418a-b6ae-62a800a52460,public
+DOI,http://mrdata.usgs.gov/services/soils?service=WMS&request=GetCapabilities&version=1.1.1&,Geochemical and mineralogical maps for soils of the conterminous United States,f0498d5c-fd80-40a7-80bc-698135df6aec,public
+DOI,http://107.20.228.18/ArcGIS/rest/services/Wetlands/MapServer,National Wetlands Inventory - Wetlands,f42b5588-2ad2-4b60-8bf8-b6f0d79554a2,public
+DOI,http://mrdata.usgs.gov/services/nmra?request=GetCapabilities&service=WMS&version=1.1.1,National Mineral Resource Assessment 1998,fb909b97-34c0-4478-8d01-f535c2e99ccf,public
+NASA,http://www.lpi.usra.edu/resources/apollo/search/feature/,Apollo Image Atlas,NASA-0000019__6,public
+NASA,http://www.lpi.usra.edu/resources/cc/ccraters,Callisto Crater Database,NASA-0000026__2,public
+NASA,http://spdf.gsfc.nasa.gov/dev_services.html,Space Physics Data Facility,NASA-0000064__1,public
+NASA,http://neo.sci.gsfc.nasa.gov/about/wms.php,NASA Earth Observations (NEO),NASA-0000087__3,public
