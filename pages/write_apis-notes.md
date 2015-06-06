@@ -22,7 +22,7 @@ Write APIs offer tremendous potential for federal agencies as they unleash the b
 * Pay.gov [Non-public]
 * [Lawrence Berkeley National Laboratory Home Energy Scoring Tool](https://developers.buildingsapi.lbl.gov/)
 * [Grants.gov APIs](http://www.grants.gov/web/grants/s2s/applicant/web-services.html  )
-* [National Archives Catalog API](https://github.com/usnationalarchives/Catalog-API)
+* [National Archives Catalog API](https://github.com/usnationalarchives/Catalog-API/blob/master/posting_contributions.md)
 
 ## Potential Examples
 * [Argonne National Laboratory - PnetCDF API](https://trac.mcs.anl.gov/projects/parallel-netcdf/wiki/Documentation)
