@@ -442,6 +442,8 @@
     url: "https://federation.nih.gov/webServices.asp"
   - name: "BioAssay Research Database"
     url: "https://github.com/ncats/bard/wiki"
+  - name: "3D Print Exchange"
+    url: "http://3dprint.nih.gov/developer"
 
 - name: National Cancer Insitute (Health and Human Services)
   apis:
@@ -1007,6 +1009,8 @@
     url: "https://explore.data.gov/Other/Executive-Orders-from-1994-to-2012/ps37-i6ce?"
   - name: "Federal Register API"
     url: "http://www.federalregister.gov/blog/learn/developers"
+  - name: "Catalog API"
+    url: "https://github.com/usnationalarchives/Catalog-API"
 
 - name: National Science Foundation
   apis:
