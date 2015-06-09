@@ -18,8 +18,8 @@ Within this site, you'll find a collection of tools to help grow your agency's A
 <table style="width: 100%;" border="0" cellpadding="2" cellspacing="2">
     <tr>
         <td style="text-align: center; width: 33%;"><a href="http://api.data.gov">api.data.gov</a></td>
-        <td style="text-align: center; width: 33%;"><a href="http://18f.github.io/API-Usability-Testing">API Usability Testing</a></td>
-        <td style="text-align: center; width: 33%;"><a href="http://18f.github.io/API-All-the-X/pages/support">Agency Support</a></td>
+        <td style="text-align: center; width: 33%;"><a href="http://pages.18f.gov/API-Usability-Testing">API Usability Testing</a></td>
+        <td style="text-align: center; width: 33%;"><a href="http://pages.18f.gov/API-All-the-X/pages/support">Agency Support</a></td>
     </tr>
 </table>
 
