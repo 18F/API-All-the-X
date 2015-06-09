@@ -41,6 +41,7 @@ This model has a range of benefits, discussed in greater detail in the case stud
 * [NIEM Developer Hub](http://niem.github.io/developer-network/)
 * [HHS Pillbox API](https://hhs.github.io/pillbox/)
 * [Blue Button Connector](http://bluebuttonconnector.healthit.gov/developers/)
+* [Census Bureau CitySDK](http://uscensusbureau.github.io/citysdk/)
 
 ## Notes 
 * [Case Study](http://18f.github.io/open-source-program/pages/case_study/CFPB_open_source_documentation/) 

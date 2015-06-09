@@ -7,7 +7,7 @@ The below is a set of requirements that can be applied to a new API project.
 
 ### Design Requirements
 
-* REST Inspired (a.k.a. Not SOAP)
+* REST Inspired (a.k.a. Not SOAP or WSDL)
 * JSON
 * Use [api.data.gov](http://api.data.gov/about).  
 * Create an endpoint that can scale to all future agency use (e.g. https://api.agency.gov/name_of_this_api).  If this already exists, design to be in sync with it to the same end.   
@@ -16,7 +16,7 @@ The below is a set of requirements that can be applied to a new API project.
 ### Documentation Requirements
 * HTML - No Word documents or PDFs
 * Interactive Documentation
-* Fork and repurpose [CFPB's API documentation](http://18f.github.io/API-All-the-X/pages/developer_hub_templates) for this API's documentation. 
+* Fork and repurpose [CFPB's API documentation](http://18f.github.io/API-All-the-X/pages/developer_hub_templates) (or another agency's [open source documentation](http://18f.github.io/API-All-the-X/pages/open_source_documentation)) for this API's documentation. 
 
 ### Process Requirements
 * Include a beta testing phase.
