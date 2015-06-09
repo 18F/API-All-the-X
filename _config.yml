@@ -8,7 +8,7 @@ gems:
 
 #Prose.io editing info
 repo_name: API-All-the-X
-branch: gh-pages
+branch: 18f-pages
 #GitHub organization name *or* username
 gh_org: 18F
 prose_url: https://github.com/
