@@ -1,5 +1,5 @@
 
-* [Add examples of good precedence](http://pages.18f.govo/API-All-the-X/pages/api_highlights)
+* [Add examples of good precedence](http://pages.18f.gov/API-All-the-X/pages/api_highlights)
 * [Add examples of government APIs in the news](http://pages.18f.gov/API-All-the-X/pages/gov_apis_in_the_news)
 * [Add examples of mashups/3rd-party apps consuming government APIs](http://pages.18f.gov/API-All-the-X/pages/examples_of_mashups)
 * [Add anecdotes and metaphors to explain 'What are APIs?'](http://pages.18f.gov/API-All-the-X/pages/what_are_APIs-anecdotes_and_metaphors)
