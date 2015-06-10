@@ -118,14 +118,14 @@ APIs:
 * Share updates on listserve.  
   
 ## Linked Resources
-* [Agency Maturity Model](http://18f.github.io/API-All-the-X/pages/agency_maturity_model)
-* [Agency Program Checklist](http://18f.github.io/API-All-the-X/pages/agency_checklist)
-* [Agency Working Group - A Model](http://18f.github.io/API-All-the-X/pages/agency_working_group-a_model)
-* [API Standards](http://18f.github.io/API-All-the-X/pages/api_standards)
-* [Benefits of APIs](http://18f.github.io/API-All-the-X/pages/benefits_of_apis)
+* [Agency Maturity Model](https://pages.18f.gov/API-All-the-X/pages/agency_maturity_model)
+* [Agency Program Checklist](https://pages.18f.gov/API-All-the-X/pages/agency_checklist)
+* [Agency Working Group - A Model](https://pages.18f.gov/API-All-the-X/pages/agency_working_group-a_model)
+* [API Standards](https://pages.18f.gov/API-All-the-X/pages/api_standards)
+* [Benefits of APIs](https://pages.18f.gov/API-All-the-X/pages/benefits_of_apis)
 * [DC API Meetup](www.meetup.com/DC-Web-API-User-Group/)
 * [Model Developer Terms of Service](https://github.com/GSA/API-Resources/tree/master/developer_tos#readme)
-* [Sample API Requirements](http://18f.github.io/API-All-the-X/pages/sample_api_requirements)
+* [Sample API Requirements](https://pages.18f.gov/API-All-the-X/pages/sample_api_requirements)
 * [US Government API Listserve](https://groups.google.com/forum/#!forum/us-government-apis)
 
   
