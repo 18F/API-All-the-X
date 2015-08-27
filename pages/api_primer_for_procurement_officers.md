@@ -26,6 +26,6 @@ authors: "Gray Brooks"
 6.	Though API's are useful in many ways, the questions, what services enabled are, and to whom the services are available to, need to be carefully considered. Poorly designed and poorly structured services offer minimal benefit and may compel vendor lock in. Poorly targeted user audience and authentication mechanisms can result in overload, under usage and unnecessary complexity in maintenance, and security weaknesses.
 
 7.	Where can additional information on API’s be found?
- * HowTo.gov 
+ * /Developer Program
  * White House API Standards
  * Digital Government Strategy – The White House 
