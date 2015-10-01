@@ -27,7 +27,7 @@ APIs allow the government to:
 
 ## Background
 
-On March 23, 2012, President Obama issued a presidential memorandum (Digital Government Strategy) on building a 21st century digital government. The Digital Government Strategy sets out to accomplish three things: 1) Enable the American people and an increasingly mobile workforce to access high-quality digital government information and services anywhere, anytime, on any device. 2) Ensure that as the government adjusts to this new digital world, we seize the opportunity to procure and manage devices, applications, and data in smart, secure and affordable ways. 3) Unlock the power of government data to spur innovation across our Nation and improve the quality of services for the American people. 
+On March 23, 2012, President Obama issued a presidential memorandum ([Digital Government Strategy](https://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government-strategy.pdf)) on building a 21st century digital government. The Digital Government Strategy sets out to accomplish three things: 1) Enable the American people and an increasingly mobile workforce to access high-quality digital government information and services anywhere, anytime, on any device. 2) Ensure that as the government adjusts to this new digital world, we seize the opportunity to procure and manage devices, applications, and data in smart, secure and affordable ways. 3) Unlock the power of government data to spur innovation across our Nation and improve the quality of services for the American people. 
 
 The memorandum establishes a conceptual model that acknowledges the three “layers” of digital services. The “information layer” contains digital information. The “platform layer” includes all the systems and processes used to manage this information. The “presentation layer” defines the manner in which information is organized and provided to customers. APIs are a crucial part of building the “platform layer” as envisioned in the Digital Government Strategy.
 
@@ -35,9 +35,9 @@ APIs allow systems to share information, both within the government and with the
 
 ## Modular Contracting
 
-The Federal Acquisition Regulation (FAR) requires that agencies control and mitigate risks for IT acquisitions. One risk mitigation technique recommended by the FAR is modular contracting.
+The Federal Acquisition Regulation (FAR) requires that agencies control and mitigate risks for IT acquisitions ([FAR 39.102(a)](https://www.acquisition.gov/sites/default/files/current/far/html/Subpart%2039_1.html)). One risk mitigation technique recommended by the FAR is modular contracting ([FAR 39.102(c)](https://www.acquisition.gov/sites/default/files/current/far/html/Subpart%2039_1.html)).
 
-The FAR highlights several benefits and advantages of modular contracting:
+The FAR highlights several benefits and advantages of modular contracting (([FAR 39.102(b)](https://www.acquisition.gov/sites/default/files/current/far/html/Subpart%2039_1.html))):
 
 - Smaller acquisitions are easier to manage individually than one monolithic acquisition;
 - Addresses complex technology objectives incrementally:
@@ -65,6 +65,6 @@ With a larger pool of potential bidding vendors, APIs can significantly increase
 
 ## Further Reading
 
-- White House Digital Strategy: https://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html
-- 18F’s /Developer Program: https://18f.github.io/API-All-the-X/.
+- [White House Digital Strategy](https://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html)
+- [18F’s /Developer Program](https://18f.github.io/API-All-the-X/)
 
