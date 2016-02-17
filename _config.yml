@@ -1,10 +1,13 @@
 # Base configuration
-permalink: /news/:title 
+permalink: /news/:title
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
-markdown: kramdown
-pygments: true
+markdown: redcarpet
+highlighter: pygments
 gems:
   - jekyll-sitemap
+redcarpet:
+  extensions:
+    - autolink
 
 #Prose.io editing info
 repo_name: API-All-the-X
@@ -46,30 +49,28 @@ navigation:
   internal: true
 - text: Collaboration
   url: pages/collaboration
-  internal: true  
+  internal: true
 - text: Tools
   url: pages/tools
   internal: true
 - text: Resources
   url: pages/resources
-  internal: true  
+  internal: true
 - text: Education
   url: pages/education
-  internal: true 
+  internal: true
 - text: Support
   url: pages/support
   internal: true
 - text: Status
   url: pages/status
-  internal: true  
+  internal: true
 - text: About
   url: pages/about
-  internal: true  
+  internal: true
 - text: Share your Feedback
   url: https://github.com/18F/API-All-the-X/issues
   internal: false
 - text: Contact Us
   url: pages/contact_us
   internal: true
-  
-  
