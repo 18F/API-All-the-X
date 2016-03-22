@@ -6,16 +6,16 @@ title: "Introduction to APIs in Government"
 <table style="width: 80%;" border="0" cellpadding="0" cellspacing="0">
 <ul>
         <tr>
-        <td style="width: 33%;"><li><a href="http://18f.github.io/API-All-the-X/pages/introduction_to_APIs_in_government#what-are-apis">What Are APIs?</a></li></td>
-        <td style="width: 47%;"><li><a href="http://18f.github.io/API-All-the-X/pages/introduction_to_APIs_in_government#how-to-start-an-api-program">How to Start an API Program</a></li></td>
+        <td style="width: 33%;"><li><a href="https://pages.18f.gov/API-All-the-X/pages/introduction_to_APIs_in_government#what-are-apis">What Are APIs?</a></li></td>
+        <td style="width: 47%;"><li><a href="https://pages.18f.gov/API-All-the-X/pages/introduction_to_APIs_in_government#how-to-start-an-api-program">How to Start an API Program</a></li></td>
     </tr>
     <tr>
-        <td style="width: 33%;"><li><a href="http://18f.github.io/API-All-the-X/pages/introduction_to_APIs_in_government#benefits-of-apis">Benefits of APIs</a></li></td>
+        <td style="width: 33%;"><li><a href="https://pages.18f.gov/API-All-the-X/pages/introduction_to_APIs_in_government#benefits-of-apis">Benefits of APIs</a></li></td>
         <td style="width: 47%;"><li><a href="http://18f.github.io/API-All-the-X/pages/introduction_to_APIs_in_government#resources-and-tools-for-building-apis">Resources and Tools</a></li></td>
     </tr>
     <tr>
-        <td style="width: 33%;"><li><a href="http://18f.github.io/API-All-the-X/pages/introduction_to_APIs_in_government#api-basics">API Basics</a></li></td>
-        <td style="width: 47%;"><li><a href="http://18f.github.io/API-All-the-X/pages/introduction_to_APIs_in_government#common-questions-about-apis">Common Questions About APIs</a></li></td>
+        <td style="width: 33%;"><li><a href="https://pages.18f.gov/API-All-the-X/pages/introduction_to_APIs_in_government#api-basics">API Basics</a></li></td>
+        <td style="width: 47%;"><li><a href="https://pages.18f.gov/API-All-the-X/pages/introduction_to_APIs_in_government#common-questions-about-apis">Common Questions About APIs</a></li></td>
     </tr>
 </ul>
 </table>
@@ -46,7 +46,7 @@ APIs help extend agency information to other users. For example, the National We
 
 ### APIs and Data
 
-APIs can support [Open Data initiatives](project-open-data.github.io). Well-designed APIs can make it easier for developers to use government data. APIs are an increasingly important means of publishing content. However, with any dataset which you may make available via API, it's important to first allow access to the entire set via bulk download. APIs should be seen as a complement to bulk access.
+APIs can support [Open Data initiatives](https://project-open-data.cio.gov). Well-designed APIs can make it easier for developers to use government data. APIs are an increasingly important means of publishing content. However, with any dataset which you may make available via API, it's important to first allow access to the entire set via bulk download. APIs should be seen as a complement to bulk access.
 
 ## Benefits of APIs 
 
@@ -60,7 +60,7 @@ APIs:
 * **Speed product development** through improved prototyping and ease of access for internal teams and sister agencies by allowing granular and open access to content. 
 * **Build markets** by improving access to government resources like health, economic, energy, education, environmental resources for entrepreneurs to build upon. 
 
-Learn more about the [benefits of APIs](http://18f.github.io/API-All-the-X/pages/benefits_of_apis). 
+Learn more about the [benefits of APIs](https://pages.18f.gov/API-All-the-X/pages/benefits_of_apis). 
 
 ## API Basics  
 
@@ -74,7 +74,7 @@ API formats are usually either XML ([Extensible Markup Language](http://en.wikip
 
 New APIs are routinely described as RESTful JSON because they follow the REST architectural style and use JSON as its data representation format.
 
-Learn more about [API technical choices](http://18f.github.io/API-All-the-X/pages/api_basics)).
+Learn more about [API technical choices](https://pages.18f.gov/API-All-the-X/pages/api_basics)).
 
 ### API Types
 
@@ -93,28 +93,28 @@ APIs are mostly either read-only or read-write. A general way to differentiate t
 
 APIs need to provide value to your agency and to developers. The best way to make that happen is to tie an API program to your agency mission.
  
-1. **Audit: Investigate what API efforts may already be active at your agency. Assemble a list of the information that your team or agency produces and the services you provide. Decide what material you would like to offer via API. Read more on [auditing APIs](http://18f.github.io/API-All-the-X/pages/how_to_get_started_with_apis). 
+1. **Audit: Investigate what API efforts may already be active at your agency. Assemble a list of the information that your team or agency produces and the services you provide. Decide what material you would like to offer via API. Read more on [auditing APIs](https://pages.18f.gov/API-All-the-X/pages/how_to_get_started_with_apis). 
  
-2. **Assemble Components: Coordinate the creation of the API itself. Assemble the related documentation, components, and rollout plan. Test the API and coordinate with stakeholders. Read more on [assembling the components](http://18f.github.io/API-All-the-X/pages/how_to_get_started_with_apis#assemble-components).
+2. **Assemble Components: Coordinate the creation of the API itself. Assemble the related documentation, components, and rollout plan. Test the API and coordinate with stakeholders. Read more on [assembling the components](https://pages.18f.gov/API-All-the-X/pages/how_to_get_started_with_apis#assemble-components).
  
-3. **Implement: Release the API to the intended audience, announce through marketing and community channels, and engage interested users. Read more on [implementing the API](http://18f.github.io/API-All-the-X/pages/how_to_get_started_with_apis#implement).
+3. **Implement: Release the API to the intended audience, announce through marketing and community channels, and engage interested users. Read more on [implementing the API](https://pages.18f.gov/API-All-the-X/pages/how_to_get_started_with_apis#implement).
  
-4. **Track Progress: Monitor usage statistics, make improvements, and continue to engage with developers using the API. Read more on [tracking the progress](http://18f.github.io/API-All-the-X/pages/how_to_get_started_with_apis#track-progress).
+4. **Track Progress: Monitor usage statistics, make improvements, and continue to engage with developers using the API. Read more on [tracking the progress](https://pages.18f.gov/API-All-the-X/pages/how_to_get_started_with_apis#track-progress).
  
-5. **Repeat: Re-evaluate lessons learned with your agency’s Web presence and consider what material next makes sense as an API. Repeat the above steps. Read more on [repeating the process](http://18f.github.io/API-All-the-X/pages/how_to_get_started_with_apis#repeat).
+5. **Repeat: Re-evaluate lessons learned with your agency’s Web presence and consider what material next makes sense as an API. Repeat the above steps. Read more on [repeating the process](https://pages.18f.gov/API-All-the-X/pages/how_to_get_started_with_apis#repeat).
 
 ## Resources and Tools for Building APIs  
 
-* [Hosted API Tools](http://18f.github.io/API-All-the-X/pages/tools)
+* [Hosted API Tools](https://pages.18f.gov/API-All-the-X/pages/tools)
 * [API Standards](https://github.com/WhiteHouse/api-standards)
-* [Examples of APIs in Government](http://18f.github.io/API-All-the-X/pages/status)
-* [API Education Series](http://18f.github.io/API-All-the-X/pages/education)
-* [Case Studies](http://18f.github.io/API-All-the-X/pages/case_study_lists)
-* [How to Make APIs—An Overview](http://18f.github.io/API-All-the-X/pages/how_to_make_APIs-overview)
-* [API Release Kit](http://18f.github.io/API-All-the-X/pages/api_release_kit)
-* [/Developer Kit](http://18f.github.io/API-All-the-X/pages/developer_hub_kit)
-* [U.S. Government APIs Listserv](groups.google.com/forum/?nomobile=true#!forum/us-government-apis)
-* [Recommended Reading](http://18f.github.io/API-All-the-X/pages/recommended_reading)
+* [Examples of APIs in Government](https://pages.18f.gov/API-All-the-X/pages/status)
+* [API Education Series](https://pages.18f.gov/API-All-the-X/pages/education)
+* [Case Studies](https://pages.18f.gov/API-All-the-X/pages/case_study_lists)
+* [How to Make APIs—An Overview](https://pages.18f.gov/API-All-the-X/pages/how_to_make_APIs-overview)
+* [API Release Kit](https://pages.18f.gov/API-All-the-X/pages/api_release_kit)
+* [/Developer Kit](https://pages.18f.gov/API-All-the-X/pages/developer_hub_kit)
+* [U.S. Government APIs Listserv](http://groups.google.com/forum/?nomobile=true#!forum/us-government-apis)
+* [Recommended Reading](https://pages.18f.gov/API-All-the-X/pages/recommended_reading)
 
 ## Common Questions About APIs
 
