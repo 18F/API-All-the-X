@@ -8,5 +8,5 @@ title: "API Release Checklist"
 * Ensure API functionality
 * Ensure API security
 * Ensure compliance with existing IT policies
-* Ensure feedback mechanism is manned
+* Ensure feedback mechanism is monitored by humans
 * Ensure legal ramifications
