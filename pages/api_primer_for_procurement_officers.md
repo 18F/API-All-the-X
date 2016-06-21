@@ -1,9 +1,7 @@
 ---
 layout: page
-title: "API Primer for COs"
+title: "API Primer for Contracting Officers"
 ---
-
-# API Primer for Contracting Officers
 
 ## Purpose
 
