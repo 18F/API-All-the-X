@@ -1,8 +1,6 @@
 ---
 layout: page
 title: "How to Get Started with APIs"
-authors: "Gray Brooks"
-
 ---
 
 ## Audit 
@@ -54,11 +52,11 @@ As with any addition to an agency’s Web presence, it is important to work with
 
 ### 5. Prepare documentation and other components
 
-Just turning on an API isn’t enough. It’s necessary to create a landing page for the documentation and related resources and to ensure that prospective users can find this material. Consult the [API release kit](http://18f.github.io/API-All-the-X/pages/api_release_kit) for a comprehensive review of these components and open-source options for maintaining them.
+Just turning on an API isn’t enough. It’s necessary to create a landing page for the documentation and related resources and to ensure that prospective users can find this material. Consult the [API release kit](https://pages.18f.gov/API-All-the-X/pages/api_release_kit/) for a comprehensive review of these components and open-source options for maintaining them.
 
 ### 6. Activate the API
 
-There are [several ways to create an API](http://18f.github.io/API-All-the-X/pages/how_to_make_APIs-overview). Your team may have the expertise, but if not, you should be able to collaborate with your IT department and any system owner on high-level requirements and leave the API creation to your agency’s developers. If these opportunities do not exist, some methods of API creation entail useful tools that can be operated without deep technical skills.
+There are [several ways to create an API](https://pages.18f.gov/API-All-the-X/pages/how_to_make_APIs-overview/). Your team may have the expertise, but if not, you should be able to collaborate with your IT department and any system owner on high-level requirements and leave the API creation to your agency’s developers. If these opportunities do not exist, some methods of API creation entail useful tools that can be operated without deep technical skills.
 
 ### 7. Test
 
@@ -70,7 +68,7 @@ Your network operations staff should be able to provide automated tools for load
 
 ### 8. Create /developer hub
 
-Each API should have a landing page. The landing pages should be linked to a main developer hub. Even if your agency is generating its first API, it is not too early to release it as part of a developer hub. If your agency already has launched several APIs but doesn’t yet have a consolidated hub, it’s definitely worth assembling one at this stage and growing it from this point on. Consult the [/Developer kit](http://18f.github.io/API-All-the-X/pages/developer_hub_kit) for a comprehensive review of the developer hub components and open-source options for maintaining them.    
+Each API should have a landing page. The landing pages should be linked to a main developer hub. Even if your agency is generating its first API, it is not too early to release it as part of a developer hub. If your agency already has launched several APIs but doesn’t yet have a consolidated hub, it’s definitely worth assembling one at this stage and growing it from this point on. Consult the [/Developer kit](https://pages.18f.gov/API-All-the-X/pages/developer_hub_kit/) for a comprehensive review of the developer hub components and open-source options for maintaining them.    
 
 ### 9. Plan the launch and follow-up
 
@@ -86,7 +84,7 @@ Then, when any resulting concerns are worked out, even weeks or months later, th
 
 ### 11. Launch developer support program     
 
-In addition to ensuring the health and uptime of the API, there should also be an associated developer support program that is now activated. Two [important ingredients](http://18f.github.io/API-All-the-X/pages/api_release_kit) for any healthy API are: a feedback mechanism that allows developers to communicate with the API producer; and a means of broadcasting news and updates to developers who may be consuming the API. This role will require an owner lest it fall by the wayside. 
+In addition to ensuring the health and uptime of the API, there should also be an associated developer support program that is now activated. Two important ingredients for any healthy API are: a feedback mechanism that allows developers to communicate with the API producer; and a means of broadcasting news and updates to developers who may be consuming the API. This role will require an owner lest it fall by the wayside. 
 
 ## Track progress
 
