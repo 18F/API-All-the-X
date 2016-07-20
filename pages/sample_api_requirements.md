@@ -16,11 +16,11 @@ The below is a set of requirements that can be applied to a new API project.
 ### Documentation Requirements
 * HTML - No Word documents or PDFs
 * Interactive Documentation
-* Fork and repurpose [CFPB's API documentation](http://18f.github.io/API-All-the-X/pages/developer_hub_templates) for this API's documentation. 
+* Fork and repurpose [CFPB's API documentation](https://pages.18f.gov/API-All-the-X/pages/developer_hub_templates/) for this API's documentation. 
 
 ### Process Requirements
 * Include a beta testing phase.
-* Conduct an [API Usability session](http://18f.github.io/API-Usability-Testing/) during the pre-production phase.
+* Conduct an [API Usability session](https://pages.18f.gov/API-Usability-Testing/) during the pre-production phase.
 * Create a public repository in the agency's GitHub account that will be used for managing the project, including:
    * Project Roadmap
    * Issue Tracker used by staff for development of the API as well as for bug-reporting and other engagement with external users.  
