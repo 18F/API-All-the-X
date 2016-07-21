@@ -436,7 +436,7 @@
   - name: "ArcGIS Web Service"
     url: "https://gis.ihs.gov/ArcGIS/rest/services/public/"
 
-- name: National Insitutes of Health (Health and Human Services)
+- name: National Institutes of Health (Health and Human Services)
   apis:
   - name: "NIH Enterprise Web Services"
     url: "https://federation.nih.gov/webServices.asp"
@@ -445,7 +445,7 @@
   - name: "3D Print Exchange"
     url: "http://3dprint.nih.gov/developer"
 
-- name: National Cancer Insitute (Health and Human Services)
+- name: National Cancer Institute (Health and Human Services)
   apis:
   - name: "caIntegrator"
     url: "http://caintegrator-info.nci.nih.gov/developers/"
