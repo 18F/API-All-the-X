@@ -12,7 +12,6 @@ In the cases where a team wants to jumpstart a developer hub but doesn't have AP
 
 ````
 Welcome to the [Agency] Developer Hub!  We'll be adding new datasets, APIs, and code here and asking how we can better support developers who want to build on top of these resources.  We're just getting started and there's a lot to do so please sign up for updates and let us know how we can help.   
-
 ````
 
 4) Have some worthwhile actions, preferably including at least: 
