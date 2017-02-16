@@ -25,7 +25,7 @@ subtitle: API Resources for Federal Agencies
 # When working locally use jekyll serve --baseurl '' so that you can view everything at localhost:4000
 # See http://jekyllrb.com/docs/github-pages/ for more info
 #baseurl: ''
-baseurl: '/API-All-the-X/'
+baseurl: '/API-All-the-X'
 
 # Author/Organization info to be displayed in the templates
 author:
@@ -41,35 +41,35 @@ navigation:
 - text: Home
   url: /
   internal: true
-- text: Communityy
-  url: /pages/community
+- text: Community
+  url: https://pages.18f.gov/API-All-the-X/pages/community
   internal: true
 - text: Collaboration
-  url: pages/collaboration
+  url: https://pages.18f.gov/API-All-the-X/pages/collaboration
   internal: true  
 - text: Tools
-  url: pages/tools
+  url: https://pages.18f.gov/API-All-the-X/pages/tools
   internal: true
 - text: Resources
-  url: pages/resources
+  url: https://pages.18f.gov/API-All-the-X/pages/resources
   internal: true  
 - text: Education
-  url: pages/education
+  url: https://pages.18f.gov/API-All-the-X/pages/education
   internal: true 
 - text: Support
-  url: pages/support
+  url: https://pages.18f.gov/API-All-the-X/pages/support
   internal: true
 - text: Status
-  url: pages/status
+  url: https://pages.18f.gov/API-All-the-X/pages/status
   internal: true  
 - text: About
-  url: pages/about
+  url: https://pages.18f.gov/API-All-the-X/pages/about
   internal: true  
 - text: Share your Feedback
   url: https://github.com/18F/API-All-the-X/issues
   internal: false
 - text: Contact Us
-  url: pages/contact_us
+  url: https://pages.18f.gov/API-All-the-X/pages/contact_us
   internal: true
   
   
