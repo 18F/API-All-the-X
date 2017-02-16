@@ -42,34 +42,34 @@ navigation:
   url: /
   internal: false
 - text: Community
-  url: https://pages.18f.gov/API-All-the-X/pages/community
+  url: https://pages.18f.gov/API-All-the-X/pages/community/
   internal: false
 - text: Collaboration
-  url: https://pages.18f.gov/API-All-the-X/pages/collaboration
+  url: https://pages.18f.gov/API-All-the-X/pages/collaboration/
   internal: false  
 - text: Tools
-  url: https://pages.18f.gov/API-All-the-X/pages/tools
+  url: https://pages.18f.gov/API-All-the-X/pages/tools/
   internal: false
 - text: Resources
-  url: https://pages.18f.gov/API-All-the-X/pages/resources
+  url: https://pages.18f.gov/API-All-the-X/pages/resources/
   internal: false  
 - text: Education
-  url: https://pages.18f.gov/API-All-the-X/pages/education
+  url: https://pages.18f.gov/API-All-the-X/pages/education/
   internal: false 
 - text: Support
-  url: https://pages.18f.gov/API-All-the-X/pages/support
+  url: https://pages.18f.gov/API-All-the-X/pages/support/
   internal: false
 - text: Status
-  url: https://pages.18f.gov/API-All-the-X/pages/status
+  url: https://pages.18f.gov/API-All-the-X/pages/status/
   internal: false  
 - text: About
-  url: https://pages.18f.gov/API-All-the-X/pages/about
+  url: https://pages.18f.gov/API-All-the-X/pages/about/
   internal: false  
 - text: Share your Feedback
   url: https://github.com/18F/API-All-the-X/issues
   internal: false
 - text: Contact Us
-  url: https://pages.18f.gov/API-All-the-X/pages/contact_us
+  url: https://pages.18f.gov/API-All-the-X/pages/contact_us/
   internal: false
   
   
