@@ -39,7 +39,7 @@ author:
 # ------------------------------------------------------------------
 navigation:
 - text: Home
-  url: /
+  url: https://pages.18f.gov/API-All-the-X/
   internal: false
 - text: Community
   url: https://pages.18f.gov/API-All-the-X/pages/community/
