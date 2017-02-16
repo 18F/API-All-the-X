@@ -40,36 +40,36 @@ author:
 navigation:
 - text: Home
   url: /
-  internal: true
+  internal: false
 - text: Community
   url: https://pages.18f.gov/API-All-the-X/pages/community
-  internal: true
+  internal: false
 - text: Collaboration
   url: https://pages.18f.gov/API-All-the-X/pages/collaboration
-  internal: true  
+  internal: false  
 - text: Tools
   url: https://pages.18f.gov/API-All-the-X/pages/tools
-  internal: true
+  internal: false
 - text: Resources
   url: https://pages.18f.gov/API-All-the-X/pages/resources
-  internal: true  
+  internal: false  
 - text: Education
   url: https://pages.18f.gov/API-All-the-X/pages/education
-  internal: true 
+  internal: false 
 - text: Support
   url: https://pages.18f.gov/API-All-the-X/pages/support
-  internal: true
+  internal: false
 - text: Status
   url: https://pages.18f.gov/API-All-the-X/pages/status
-  internal: true  
+  internal: false  
 - text: About
   url: https://pages.18f.gov/API-All-the-X/pages/about
-  internal: true  
+  internal: false  
 - text: Share your Feedback
   url: https://github.com/18F/API-All-the-X/issues
   internal: false
 - text: Contact Us
   url: https://pages.18f.gov/API-All-the-X/pages/contact_us
-  internal: true
+  internal: false
   
   
