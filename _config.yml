@@ -25,7 +25,7 @@ subtitle: API Resources for Federal Agencies
 # When working locally use jekyll serve --baseurl '' so that you can view everything at localhost:4000
 # See http://jekyllrb.com/docs/github-pages/ for more info
 #baseurl: ''
-baseurl: '/API-All-the-X'
+baseurl: '/API-All-the-X/'
 
 # Author/Organization info to be displayed in the templates
 author:
