@@ -41,8 +41,8 @@ navigation:
 - text: Home
   url: /
   internal: true
-- text: Community
-  url: pages/community
+- text: Communityy
+  url: /pages/community
   internal: true
 - text: Collaboration
   url: pages/collaboration
