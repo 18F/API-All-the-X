@@ -352,23 +352,27 @@
   - name: "Grantor Web Services"
     url: "http://www.grants.gov/web/grants/s2s/grantor/web-services.html"
 
-- name: Agency for Healthcare Research and Quality (Health and Human Services)
+- name: Department of Health and Human Services - Agency for Healthcare Research and Quality
   apis:
   - name: "Meaningful Use API"
     url: "http://ushik.ahrq.gov/help/MeaningfulUse/api?system=mu"
 
-- name: Administration on Aging (Health and Human Services)
+- name: Department of Health and Human Services - Administration on Aging
   apis:
   - name: "Eldercare.gov Locator API"
     url: "http://eldercare.gov/Eldercare.NET/Public/Site_Utilities/API_Reg/API_Registration.aspx"
 
-- name: Administration for Children and Families (Health and Human Services)
+- name: Department of Health and Human Services - Administration for Children and Families
   apis:
   - name: "AChecker Web Service"
     url: "https://achecker.grantsolutions.gov/documentation/web_service_api.php"
 
-- name: Centers for Medicare and Medicaid Services (Health and Human Services)
+- name: Department of Health and Human Services - Centers for Medicare and Medicaid Services 
   apis:
+  - name: "Quality Payment Program Submissions API"
+    url: "https://cmsgov.github.io/qpp-submissions-docs/"
+  - name: "Quality Payment Program CMS Web Interface API"
+    url: "https://qpp.cms.gov/developers"
   - name: "Healthcare Associated Infections API"
     url: "https://data.medicare.gov/developers/docs/healthcare-associated-infections"
   - name: "Inpatient Prospective Payment System (IPPS) Provider Summary for the Top 100 Diagnosis-Related Groups (DRG)"
@@ -394,7 +398,7 @@
   - name: "CMS Innovation Center Data And Reports"
     url: "https://data.cms.gov/developers/docs/cms-innovation-center-data-and-reports"
 
-- name: Centers for Disease Control (Health and Human Services)
+- name: Department of Health and Human Services - Centers for Disease Control
   apis:
   - name: "Content API"
     url: "https://tools.cdc.gov/syndication/api.aspx"
@@ -405,7 +409,7 @@
   - name: "Wonder Data"
     url: "http://wonder.cdc.gov/wonder/help/WONDER-API.html"
 
-- name: Food and Drug Administration (Health and Human Services)
+- name: Department of Health and Human Services - Food and Drug Administration
   apis:
   - name: "Content API"
     url: "http://tools.fda.gov/CSStorefront/api.aspx"
@@ -416,7 +420,7 @@
   - name: "Drug Labels API"
     url: "https://open.fda.gov/drug/label/"
 
-- name: Health Resources and Services Administration (Health and Human Services)
+- name: Department of Health and Human Services - Health Resources and Services Administration
   apis:
   - name: "Ryan White HIV/AIDS Medical Care Providers API"
     url: "http://datawarehouse.hrsa.gov/HDWDataServiceExternal/HdwDataWebServiceExternal.asmx?op=FindHIVAIDSCareProvidersAroundALocation"
@@ -431,19 +435,19 @@
   - name: "Data Warehouse Online Map Service"
     url: "http://datawarehouse.hrsa.gov/HGDWFeatureService.aspx"
 
-- name: Indian Health Service (Health and Human Services)
+- name: Department of Health and Human Services - Indian Health Service
   apis:
   - name: "ArcGIS Web Service"
     url: "https://gis.ihs.gov/ArcGIS/rest/services/public/"
 
-- name: National Insitutes of Health (Health and Human Services)
+- name: Department of Health and Human Services - National Insitutes of Health
   apis:
   - name: "NIH Enterprise Web Services"
     url: "https://federation.nih.gov/webServices.asp"
   - name: "BioAssay Research Database"
     url: "https://github.com/ncats/bard/wiki"
 
-- name: National Cancer Insitute (Health and Human Services)
+- name: Department of Health and Human Services - National Cancer Insitute
   apis:
   - name: "caIntegrator"
     url: "http://caintegrator-info.nci.nih.gov/developers/"
@@ -456,24 +460,24 @@
   - name: "Object Cart API"
     url: "https://wiki.nci.nih.gov/display/caDSR/Object+Cart+API"
 
-- name: National Institute of Allergy and Infectious Diseases (Health and Human Services)
+- name: Department of Health and Human Services - National Institute of Allergy and Infectious Diseases
   apis:
   - name: "Content API"
     url: "http://tools.niaid.nih.gov/register/api.aspx"
   - name: "DAVID API"
     url: "http://david.abcc.ncifcrf.gov/content.jsp?file=WS.html"
 
-- name: National Institute on Drug Abuse (Health and Human Services)
+- name: Department of Health and Human Services - National Institute on Drug Abuse
   apis:
   - name: "Drug Use Screening Tool API"
     url: "http://www.drugabuse.gov/developers/nmassist"
 
-- name: National Institute of Neurological Disorders and Stroke (Health and Human Services)
+- name: Department of Health and Human Services - National Institute of Neurological Disorders and Stroke
   apis:
   - name: "Research Services Branch's Developer Resources"
     url: "http://rsb.info.nih.gov/ij/developer/"
 
-- name: National Library of Medicine (Health and Human Services)
+- name: Department of Health and Human Services - National Library of Medicine
   apis:
   - name: "AIDSinfo API"
     url: "http://aidsinfo.nih.gov/api"
@@ -526,7 +530,7 @@
   - name: "Voyager API"
     url: "http://www.nlm.nih.gov/services/lpz3950.html"
 
-- name: Substance Abuse and Mental Health Services Administration (Health and Human Services)
+- name: Department of Health and Human Services - Substance Abuse and Mental Health Services Administration
   apis:
   - name: "Content Repository APIs"
     url: "http://store.samhsa.gov/developer"
@@ -744,25 +748,29 @@
   - name: "Select State.gov Data API"
     url: "http://www.state.gov/api/v1/docs/"
 
-- name: Federal Aviation Administration (Transportation)
+- name: Department of Transportation - Federal Aviation Administration
   apis:
   - name: "Airport Status"
     url: "http://services.faa.gov/docs/services/airport/"
 
-- name: Federal Railroad Administration (Transportation)
+- name: Department of Transportation - Federal Railroad Administration
   apis:
+  - name: "Federal Railroad Administration Public API"
+    url: "https://safetydata.fra.dot.gov/MasterWebService/PublicApi/"
   - name: "Highway-Rail Grade Crossing Accident/Incident Report (Form 57) API"
     url: "https://safetydata.fra.dot.gov/MASTERWEBSERVICE/DatadownloadService.asmx?op=GetAccident57DataByRailroad"
   - name: "Rail Equipment Accident/Incident Report (Form 54) API"
     url: "https://safetydata.fra.dot.gov/MASTERWEBSERVICE/DatadownloadService.asmx?op=GetAccident54DataByRailroad"
 
-- name: Federal Motor Carrier Safety Administration (Transportation)
+- name: Department of Transportation - Federal Motor Carrier Safety Administration
   apis:
   - name: "SaferBus"
     url: "https://mobile.fmcsa.dot.gov/developer/apidoc.page?cid=48"
 
-- name: National Highway Traffic Safety Administration (Transportation)
+- name: Department of Transportation - National Highway Traffic Safety Administration
   apis:
+  - name: "Product Information Catalog Vehicle Listing (VIN) API"
+    url: "https://vpic.nhtsa.dot.gov/api/"
   - name: "Child Safety Seat Inspection Station Locator API"
     url: "http://www.nhtsa.gov/webapi/Default.aspx?CSSIStations/API/80"
   - name: "Civil Penalty Payments API"
@@ -944,6 +952,8 @@
     url: "http://go.usa.gov/api"
   - name: "Jobscenter"
     url: "http://jobcenter.usa.gov/apis"
+  - name: "Login.gov API"
+    url: "https://developers.login.gov/"
   - name: "Mobile App Gallery API"
     url: "http://www.usa.gov/About/developer-resources/mobile-app-gallery/index.shtml"
   - name: "MyUSA Discovery API"
@@ -971,6 +981,8 @@
   apis:
   - name: "Federal Digital System API"
     url: "http://api.fdsys.gov/"
+  - name: "GovInfo Link Service API" 
+    url: "https://www.govinfo.gov/link-docs/"
 
 - name: International Trade Commission
   apis:
