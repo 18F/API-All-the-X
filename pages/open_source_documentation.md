@@ -44,6 +44,7 @@ This model has a range of benefits, discussed in greater detail in the case stud
 * [Blue Button Connector](http://bluebuttonconnector.healthit.gov/developers/)
 * [Census Bureau CitySDK](http://uscensusbureau.github.io/citysdk/)
 * [NASA API docs](https://api.nasa.gov/)
+* [CMS Quality Payment Program API](https://cmsgov.github.io/qpp-submissions-docs/)
 
 
 ## Notes 
