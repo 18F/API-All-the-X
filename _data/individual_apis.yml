@@ -5,7 +5,7 @@
   - name: "We The People API"
     url: "https://petitions.whitehouse.gov/developers"
 
-- name: Office of Management and Budget (EOP)
+- name: White House - Office of Management and Budget
   apis:
   - name: "Performance.gov - Agencies"
     url: "http://www.performance.gov/api"
@@ -20,19 +20,19 @@
   - name: "Performance.gov Permits Developers API"
     url: "http://permits.performance.gov/developers-api"
   - name: "USASpending.gov API"
-    url: "http://www.usaspending.gov/data?tab=API"
+    url: "https://api.usaspending.gov/"
 
-- name: Agricultural Marketing Service (Agriculture)
+- name: Department of Agriculture - Agricultural Marketing Service
   apis:
   - name: "Farmers Market Directory API"
     url: "http://search.ams.usda.gov/farmersmarkets/v1/svcdesc.html"
 
-- name: Animal and Plant Health Inspection Service (Agriculture)
+- name: Department of Agriculture - Animal and Plant Health Inspection Service
   apis:
   - name: "Animal Identification Management System"
     url: "https://nais.aphis.usda.gov/ainmngt/HelpGetAnonymous.do"
 
-- name: Economic Research Service (Agriculture)
+- name: Department of Agriculture - Economic Research Service
   apis:
   - name: "Content API"
     url: "http://ers.usda.gov/developer/website-content-api.aspx"
@@ -45,36 +45,41 @@
   - name: "GeoSpatial APIs"
     url: "http://www.ers.usda.gov/developer/geospatial-apis.aspx#.U7Q-No1dVGU"
 
-- name: Farm Service Agency (Agriculture)
+- name: Department of Agriculture - Farm Service Agency
   apis:
   - name: "National Agriculture Imagery Program Status Web Service"
     url: "http://www.fsa.usda.gov/Internet/FSA_File/usage_guide_naipstatus_final.pdf"
 
-- name: Forest Service (Agriculture)
+- name: Department of Agriculture - Forest Service
   apis:
   - name: "Recreation Information Database"
     url: "https://ridb.recreation.gov/RIDBWeb/Controller.jpf"
 
-- name: National Agricultural Statistics Service (Agriculture)
+- name: Department of Agriculture - National Agricultural Statistics Service
   apis:
   - name: "Cropland Data Layer"
     url: "http://www.nass.usda.gov/research/Cropland/sarsfaqs2.html#_Cropscape1.2"
   - name: "Quick Stats API"
     url: "http://quickstats.nass.usda.gov/api"
 
-- name: National Resources Conservation Service (Agriculture)
+- name: Department of Agriculture - National Resources Conservation Service
   apis:
   - name: "National Water and Climate Center AWDB database"
     url: "http://www.wcc.nrcs.usda.gov/web_service/AWDB_Web_Service_Tutorial.htm"
   - name: "Soil Data Mart"
     url: "http://sdmdataaccess.nrcs.usda.gov/"
 
-- name: Bureau of Economic Analysis (Commerce)
+- name: Department of Commerce
+  apis:
+  - name: "Content API"
+    url: "https://www.commerce.gov/page/api-documentation-commercegov"
+
+- name: Department of Commerce - Bureau of Economic Analysis
   apis:
   - name: "Data API"
     url: "http://www.bea.gov/API/"
 
-- name: Census Bureau (Commerce)
+- name: Department of Commerce - Census Bureau
   apis:
   - name: "Data API"
     url: "http://www.census.gov/data/developers/data-sets.html"
@@ -83,7 +88,7 @@
   - name: "Automated Export System AESWebLink Inquiry API"
     url: "http://aesdirect.census.gov/developers"
 
-- name: International Trade Administration
+- name: Department of Commerce - International Trade Administration
   apis: 
   - name: "Market Research Library API"
     url: "http://developer.trade.gov/market-research-library.html"
@@ -95,12 +100,14 @@
     url: "http://developer.trade.gov/trade-news-articles.html"
     
 
-- name: National Institute of Standards and Technology (Commerce)
+- name: Department of Commerce - National Institute of Standards and Technology
   apis:
   - name: "CDA Guideline Validation Tool"
     url: "http://xreg2.nist.gov/cda-validation/webservice.html"
+  - name: "Randomness Beacon REST API"
+    url: "https://beacon.nist.gov/home"
 
-- name: National Oceanic and Atmospheric Administration (Commerce)
+- name: Department of Commerce - National Oceanic and Atmospheric Administration
   apis:
   - name: "Meteorological Assimilation Data Ingest System"
     url: "http://madis.noaa.gov/madis_api.html"
@@ -133,12 +140,12 @@
   - name: "Center for Operational Oceanographic Products and Services"
     url: "http://tidesandcurrents.noaa.gov/api"
 
-- name: National Telecommunications and Information Administration (Commerce)
+- name: Department of Commerce - National Telecommunications and Information Administration
   apis:
   - name: "Broadband Technology Opportunities Program API"
     url: "http://www2.ntia.doc.gov/BTOPmap/api"
 
-- name: Patent and Trademark Office (Commerce)
+- name: Department of Commerce - Patent and Trademark Office
   apis:
   - name: "Trademark Status & Document Retrieval"
     url: "http://tsdr.uspto.gov/"
@@ -157,8 +164,10 @@
     url: "http://www.acq.osd.mil/dpap/pdi/eb/clause_logic_service.html"
   - name: "Product Service Code (PSC) Tool API"
     url: "https://psctool.us/apidocs"
+  - name: "Federal Voting Assistance Program API"
+    url: "https://www.fvap.gov/xml-api"
 
-- name: US Army Corps of Engineers (Defense)
+- name: Department of Defense - US Army Corps of Engineers
   apis:
   - name: "ARCGIS Services"
     url: "http://maps.usace.army.mil:8399/arcgis/rest/services"
@@ -175,12 +184,12 @@
   - name: "PyADH API"
     url: "https://adh.usace.army.mil/pyadh/api/index.html"
 
-- name: US Navy (Defense)
+- name: Department of Defense - US Navy
   apis: 
   - name: "Common Open Research Emulator IPC API"
     url: "http://downloads.pf.itd.nrl.navy.mil/docs/core/core_api.pdf"
 
-- name: Arlington National Cemetary (Defense)
+- name: Department of Defense - Arlington National Cemetary
   apis:
   - name: "Burial Record Web Services"
     url: "http://www.arlingtoncemetery.mil/Developer/BRPSM.aspx"
@@ -459,6 +468,10 @@
     url: "https://wiki.nci.nih.gov/display/caDSR/caDSR+APIs"
   - name: "Object Cart API"
     url: "https://wiki.nci.nih.gov/display/caDSR/Object+Cart+API"
+  - name: "Clinical Trials API"
+    url: "https://clinicaltrialsapi.cancer.gov/"
+
+
 
 - name: Department of Health and Human Services - National Institute of Allergy and Infectious Diseases
   apis:
@@ -828,7 +841,7 @@
 - name: Consumer Financial Protection Bureau
   apis:
   - name: "Consumer Complaint Database"
-    url: "http://www.consumerfinance.gov/complaintdatabase/technical-documentation/"
+    url: "http://cfpb.github.io/api/ccdb/"
   - name: "Home Mortgage Disclosure Act API"
     url: "http://cfpb.github.io/api/hmda/"
 
@@ -966,16 +979,21 @@
     url: "http://search.digitalgov.gov/developer/recalls.html"
   - name: "Social Media Registry API"
     url: "http://registry.usa.gov"
-  - name: "USA.gov Featured Content"
-    url: "http://answers.usa.gov/system/egss_json.jsp?jsoncallback="
-  - name: "USAJOBS API"
-    url: "http://search.digitalgov.gov/developer/jobs.html"
-  - name: "USASearch"
-    url: "http://search.digitalgov.gov/manual/api.html"
   - name: "Sustainable Facilities Tool API"
     url: "https://sftool.gov/developers"
   - name: "System for Award Management API"
     url: "http://gsa.github.io/sam_api/sam/"
+  - name: "USA.gov Featured Content"
+    url: "http://answers.usa.gov/system/egss_json.jsp?jsoncallback="
+  - name: "USAGov Platform API"
+    url: "https://platform-api.usa.gov/"
+  - name: "USAJOBS API"
+    url: "http://search.digitalgov.gov/developer/jobs.html"
+  - name: "USASearch"
+    url: "http://search.digitalgov.gov/manual/api.html"
+
+
+
 
 - name: Government Printing Office
   apis:
