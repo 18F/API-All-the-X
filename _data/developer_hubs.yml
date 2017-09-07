@@ -4,34 +4,34 @@ White House:
 Department of Agriculture:
   url: http://www.usda.gov/developers
 
-Economic Research Service:
-  url: http://www.ers.usda.gov/developer.aspx
+Department of Agriculture - Economic Research Service:
+  url: https://www.ers.usda.gov/developer/
 
 Department of Commerce:
   url: http://www.commerce.gov/developer
 
-Bureau of Economic Analysis:
+Department of Commerce - Bureau of Economic Analysis:
   url: http://www.bea.gov/api
 
-Census Bureau:
+Department of Commerce - Census Bureau:
   url: http://www.census.gov/developers/
 
-International Trade Administration:
+Department of Commerce - International Trade Administration:
   url: http://developer.trade.gov/
 
-National Weather Service:
+Department of Commerce - National Oceanic and Atmospheric Administration - National Weather Service:
   url: http://graphical.weather.gov/xml/
 
-Center for Operational Oceanographic Products and Services:
+Department of Commerce - National Oceanic and Atmospheric Administration - Center for Operational Oceanographic Products and Services:
   url: http://tidesandcurrents.noaa.gov/api/
 
-National Climate Data Center:
+Department of Commerce - National Oceanic and Atmospheric Administration - National Climate Data Center:
   url: http://www.ncdc.noaa.gov/cdo-web/
 
 Department of Defense:
   url: http://www.defense.gov/developer/
 
-Arlington National Cemetary:
+Department of Defense - Arlington National Cemetary:
   url: http://www.arlingtoncemetery.mil/Developer/
 
 Department of Education:
