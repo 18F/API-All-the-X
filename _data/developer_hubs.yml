@@ -290,7 +290,7 @@ USAJOBS.gov:
   url: https://data.usajobs.gov
 
 USASpending.gov:
-  url: http://www.usaspending.gov/data?tab=API
+  url: https://api.usaspending.gov/
 
 U.S. Courts - PACER:
   url: http://www.pacer.gov/cmecf/developer/
