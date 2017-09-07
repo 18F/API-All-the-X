@@ -524,7 +524,7 @@
   - name: "TOXNET API"
     url: "http://toxnet.nlm.nih.gov/toxnetapi/TOXNETWebService.html"
   - name: "Unified Medical Language System (UMLS) Terminology Services API"
-    url: "https://uts.nlm.nih.gov/home.html#apidocumentation"
+    url: "https://documentation.uts.nlm.nih.gov/rest/home.html"
   - name: "Value Set Authority Center (VSAC) API"
     url: "https://vsac.nlm.nih.gov/"
   - name: "Voyager API"
