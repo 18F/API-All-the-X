@@ -26,6 +26,8 @@
   apis:
   - name: "Farmers Market Directory API"
     url: "http://search.ams.usda.gov/farmersmarkets/v1/svcdesc.html"
+  - name: "Organic INTEGRITY Database API"
+    url: "https://organic.ams.usda.gov/integrity/Developer/APIHelp.aspx"
 
 - name: Department of Agriculture - Animal and Plant Health Inspection Service
   apis:
