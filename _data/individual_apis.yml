@@ -960,6 +960,10 @@
   - name: "Spectrum Dashboard"
     url: "http://www.fcc.gov/developers/spectrum-dashboard-api"
 
+- name: Federal Election Commission
+  apis:
+  - name: "OpenFEC API"
+    url: "https://api.open.fec.gov/developers/"
 
 - name: Federal Reserve
   apis:
