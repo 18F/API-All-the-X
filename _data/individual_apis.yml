@@ -157,6 +157,8 @@
     url: "https://developer.uspto.gov/api-catalog/bulk-search-and-download"
   - name: "Cancer Moonshot Patent Data Set API"
     url: "https://developer.uspto.gov/api-catalog/cancer-moonshot-patent-data-set-api"
+  - name: "EDH API"
+    url: "http://edhapi.uspto.gov/"
   - name: "OCE - Patent Examination Event Codes API"
     url: "https://developer.uspto.gov/api-catalog/oce-patent-examination-event-codes"
   - name: "OCE - Patent Examination Status Codes API"
