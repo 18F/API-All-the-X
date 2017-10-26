@@ -145,6 +145,9 @@ Environmental Protection Agency:
 Federal Communications Commission:
   url: http://www.fcc.gov/developers
 
+Federal Election Commission:
+  url: https://api.open.fec.gov/developers/
+
 Federal Reserve Bank of St. Louis:
   url: http://api.stlouisfed.org/
 
