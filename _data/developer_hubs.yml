@@ -202,6 +202,9 @@ Commerce - Automated Export System:
 Data.gov:
   url: http://developer.data.gov
 
+Commerce - Census - MIDAAS API:
+  url: https://midaas.commerce.gov/developers/
+
 DEA - E-Commerce Program:
   url: http://www.deaecom.gov/developer.html
 
