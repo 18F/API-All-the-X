@@ -83,13 +83,15 @@
 
 - name: Department of Commerce - Census Bureau
   apis:
-  - name: "Data API"
-    url: "http://www.census.gov/data/developers/data-sets.html"
   - name: "Automated Export System AESWebLink Submission API"
     url: "http://aesdirect.census.gov/developers"
   - name: "Automated Export System AESWebLink Inquiry API"
     url: "http://aesdirect.census.gov/developers"
-
+  - name: "Data API"
+    url: "http://www.census.gov/data/developers/data-sets.html"
+  - name: "MIDAAS API"
+    url: "https://midaas.commerce.gov/developers/"
+    
 - name: Department of Commerce - International Trade Administration
   apis: 
   - name: "Market Research Library API"
