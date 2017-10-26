@@ -149,8 +149,30 @@
 
 - name: Department of Commerce - Patent and Trademark Office
   apis:
+  - name: "Bulk Data Storage System (BDSS) API "
+    url: "https://developer.uspto.gov/api-catalog/bdss"
+  - name: "Bulk search and download API"
+    url: "https://developer.uspto.gov/api-catalog/bulk-search-and-download"
+  - name: "Cancer Moonshot Patent Data Set API"
+    url: "https://developer.uspto.gov/api-catalog/cancer-moonshot-patent-data-set-api"
+  - name: "OCE - Patent Examination Event Codes API"
+    url: "https://developer.uspto.gov/api-catalog/oce-patent-examination-event-codes"
+  - name: "OCE - Patent Examination Status Codes API"
+    url: "https://developer.uspto.gov/api-catalog/oce-patent-examination-status-codes"
+  - name: "OCE - Patent Litigation Cases API"
+    url: "https://developer.uspto.gov/api-catalog/oce-patent-litigation-cases"
+  - name: "Patent Assignment Search (Beta) API"
+    url: "https://developer.uspto.gov/api-catalog/patent-assignment-search-beta"
+  - name: "Patent Examination Data System API"
+    url: "https://developer.uspto.gov/api-catalog/pair-bulk-data"
+  - name: "PatentsView API"
+    url: "https://developer.uspto.gov/api-catalog/patentsview"
+  - name: "PTAB API (Beta)"
+    url: "https://developer.uspto.gov/api-catalog/ptab-api"
   - name: "Trademark Status & Document Retrieval"
     url: "http://tsdr.uspto.gov/"
+  - name: "Unified Event API"
+    url: "https://developer.uspto.gov/api-catalog/unified-event-api"
 
 - name: Department of Defense
   apis:
