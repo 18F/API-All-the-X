@@ -968,6 +968,8 @@
 
 - name: General Services Administration
   apis:
+  - name: "Analytics.USA.gov API"
+    url: "https://analytics.usa.gov/developer"
   - name: "Auctions"
     url: "http://gsa.github.io/auctions_api"
   - name: "BusinessUSA"
