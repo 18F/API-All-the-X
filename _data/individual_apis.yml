@@ -1002,6 +1002,8 @@
     url: "https://www.fpds.gov/downloads/FPDS-Specifications-WebServices_Integration_Specifications_V1.4.doc"
   - name: "Federal Procurement Data System - FAADS API"
     url: "https://www.fpds.gov/downloads/FAADS/FAADS-Specifications-WebServices_Integration_Specifications_V2.doc"
+  - name: "GEAR API"
+    url: "https://gsa.github.io/GEAR-Documentation/api-docs/console/"
   - name: ".Gov Domains API"
     url: "https://explore.data.gov/developers/docs/federal-executive-agency-internet-domains"
   - name: "Go.USA.gov"
