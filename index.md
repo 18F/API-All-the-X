@@ -19,7 +19,7 @@ Within this site, you'll find a collection of tools to help grow your agency's A
     <tr>
         <td style="text-align: center; width: 33%;"><a href="http://api.data.gov">api.data.gov</a></td>
         <td style="text-align: center; width: 33%;"><a href="http://pages.18f.gov/API-Usability-Testing">API Usability Testing</a></td>
-        <td style="text-align: center; width: 33%;"><a href="http://pages.18f.gov/API-All-the-X/pages/support">Agency Support</a></td>
+        <td style="text-align: center; width: 33%;"><a href="https://api-all-the-x.18f.gov/pages/support/">Agency Support</a></td>
     </tr>
 </table>
 
