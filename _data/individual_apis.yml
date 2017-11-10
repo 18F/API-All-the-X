@@ -757,6 +757,14 @@
   - name: "E-Commerce API"
     url: "http://www.deaecom.gov/developer.html"
 
+- name: Federal Bureau of Investigation (Justice)
+  apis:
+  - name: "FBI Most Wanted API"
+    url: "https://api.fbi.gov/docs/wanted/index.html"
+  - name: "Crime Data Explorer API"
+    url: "https://api.fbi.gov/docs/wanted/index.html"
+
+
 - name: Office of Justice Programs (Justice)
   apis: 
   - name: "Award Selector API"
