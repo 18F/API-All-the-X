@@ -29,6 +29,11 @@
   - name: "Organic INTEGRITY Database API"
     url: "https://organic.ams.usda.gov/integrity/Developer/APIHelp.aspx"
 
+- name: Department of Agriculture - Agricultural Research Service
+  apis:
+  - name: "Nutrient Database"
+    url: "https://ndb.nal.usda.gov/ndb/doc/index"
+
 - name: Department of Agriculture - Animal and Plant Health Inspection Service
   apis:
   - name: "Animal Identification Management System"
@@ -55,7 +60,19 @@
 - name: Department of Agriculture - Forest Service
   apis:
   - name: "Recreation Information Database"
-    url: "https://ridb.recreation.gov/RIDBWeb/Controller.jpf"
+    url: "http://usda.github.io/RIDB/"
+
+- name: Department of Agriculture - Food and Nutrition Service
+  apis:
+  - name: "Summer Meal Site Finder API"
+    url: "https://www.fns.usda.gov/sfsp/developer-tools"
+
+- name: Department of Agriculture - National Agricultural Library
+  apis:
+  - name: "Data Catalog (DKAN) API"
+    url: "https://data.nal.usda.gov/node/5183/api"
+  - name: "PubAg API"
+    url: "https://pubag.nal.usda.gov/apidocs/"
 
 - name: Department of Agriculture - National Agricultural Statistics Service
   apis:
