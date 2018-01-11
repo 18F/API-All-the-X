@@ -199,9 +199,6 @@ Analytics.USA.gov:
 BusinessUSA:
   url: http://business.usa.gov/apis
 
-Commerce - Automated Export System:
-  url: http://aesdirect.census.gov/developers
-
 Data.gov:
   url: http://developer.data.gov
 
