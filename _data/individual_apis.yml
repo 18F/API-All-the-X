@@ -429,6 +429,8 @@
     url: "https://data.cms.gov/developers/docs/inpatient-charge-data-FY2011"
   - name: "Inpatient Prospective Payment System (IPPS) Provider Summary for the Top 100 Diagnosis-Related Groups (DRG) - 2"
     url: "https://data.cms.gov/developers/docs/ippps"
+  - name: "National Plan and Provider Enumeration System - National Provider Identifier API"
+    url: "https://npiregistry.cms.hhs.gov/registry/help-api"
   - name: "Nursing Home Compare - Provider Ratings API"
     url: "https://data.medicare.gov/developers/docs/nursing-home-compare-provider-ratings"
   - name: "Spending Breakdown by Claim API"
