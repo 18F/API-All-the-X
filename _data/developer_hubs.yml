@@ -93,7 +93,10 @@ Department of Housing and Urban Development:
 
 Department of the Interior:
   url: http://www.doi.gov/developer
-
+ 
+Department of the Interior - National Park Service:
+  url: https://www.nps.gov/developer
+ 
 U.S. Geological Survey:
   url: http://data.usgs.gov/
 
