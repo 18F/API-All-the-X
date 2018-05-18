@@ -200,6 +200,8 @@ By offering visitors the ability to subscribe to emails about your developer out
 * [Environmental Protection Agency](http://www.epa.gov/developer/)
 * [Federal Communications Commission](http://www.fcc.gov/developers)
 * [USA.gov](http://www.usa.gov/About/developer-resources/developers.shtml)
+* [Blue Button API](https://groups.google.com/forum/#!forum/developer-group-for-cms-blue-button-api)
+* [Quality Payment Program API](https://groups.google.com/forum/#!forum/qpp-apis)
  
 ## Forum  
 Providing a public user forum can complement other tools to provide a well-rounded collaboration and feedback environment for developers
