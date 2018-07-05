@@ -154,6 +154,9 @@ Federal Communications Commission:
 Federal Election Commission:
   url: https://api.open.fec.gov/developers/
 
+Federal Trade Commission:
+  url: https://www.ftc.gov/developer
+
 Federal Reserve Bank of St. Louis:
   url: http://api.stlouisfed.org/
 
