@@ -1221,9 +1221,11 @@
 
 - name: Smithsonian Institute
   apis:
-  - name: "EDAN API"
-    url: "http://edan-api.si.edu/welcome.html"
-
+  - name: "American Art API"
+    url: "https://smithsonian.github.io/api-docs/#/SAAM"
+  - name: "Cooper Hewitt API"
+    url: "https://collection.cooperhewitt.org/api/"
+    
 - name: Social Security Administration
   apis:
   - name: "Average Wait Time Until Hearing Held Report"
