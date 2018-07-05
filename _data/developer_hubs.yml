@@ -197,6 +197,9 @@ Recovery Accountability and Transparency Board:
 Small Business Administration:
   url: http://www.sba.gov/about-sba/sba_performance/sba_data_store/web_service_api
 
+Smithsonian Institution:
+  url: https://smithsonian.github.io/api-docs/#/
+
 Social Security Administration:
   url: http://www.ssa.gov/developer
 
