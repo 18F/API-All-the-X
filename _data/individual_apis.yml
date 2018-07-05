@@ -563,6 +563,8 @@
     url: "http://rxnav.nlm.nih.gov/NdfrtAPI.html"
   - name: "Pillbox API"
     url: "http://pillbox.nlm.nih.gov/API-documentation.html"
+  - name: "Data Portal Pilot Project API - unpublished"
+    url: "https://dev.socrata.com/foundry/datadiscovery.nlm.nih.gov/asne-f5uu"
   - name: "PubMed Central Open Access Web Service"
     url: "http://www.ncbi.nlm.nih.gov/pmc/tools/oa-service/"
   - name: "PubMed Central Open Archives Initiative Web Service"
