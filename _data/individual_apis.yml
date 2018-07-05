@@ -1303,3 +1303,10 @@
   apis: 
   - name: "NIEM Web Services API"
     url: "http://reference.niem.gov/niem/specification/web-services-api/1.0/web-services-api-1.0.pdf"
+    
+- name: National Missing and Unidentified Persons System
+  apis: 
+  - name: "NAMUS.gov API"
+    url: "https://www.namus.gov/api/VehicleMakes"
+    
+    
