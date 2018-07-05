@@ -448,7 +448,11 @@
 
 - name: Department of Health and Human Services - Agency for Healthcare Research and Quality
   apis:
-  - name: "Meaningful Use API"
+  - name: "Clinical Decision Support API"
+    url: "https://ushik.ahrq.gov/help/CDS/api?system=cds"  
+  - name: "Electronic Preventive Services Selector (ePSS) API"
+    url: "https://epss.ahrq.gov/PDA/epssjson.jsp"
+  - name: "Quality Reporting Programs API"
     url: "http://ushik.ahrq.gov/help/MeaningfulUse/api?system=mu"
 
 - name: Department of Health and Human Services - Administration on Aging
