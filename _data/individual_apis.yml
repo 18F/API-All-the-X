@@ -994,6 +994,11 @@
   - name: "OpenFEC API"
     url: "https://api.open.fec.gov/developers/"
 
+- name: Federal Trade Commission
+  apis:
+  - name: "HSR Early Termination Notices API"
+    url: "https://www.ftc.gov/developer/api/v0/endpoints/hsr-early-termination-notices"
+
 - name: Federal Reserve
   apis:
   - name: "Federal Reserve Bank of St. Louis - FRED"
