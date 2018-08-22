@@ -1072,6 +1072,8 @@
     url: "https://explore.data.gov/developers/docs/federal-data-center-consolidation-initiative-fdcci-data-center-closings-2010-2013"
   - name: "Digital Signature Solution API"
     url: "https://gsa.github.io/DSSAPIDocumentation/api-docs/"
+ - name: "Discovery API"
+    url: "https://discovery.gsa.gov/api/"
   - name: "FBOpen"
     url: "http://18f.github.io/fbopen/"
   - name: "FedBizOpps Documentation"
