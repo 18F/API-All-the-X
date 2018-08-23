@@ -867,6 +867,26 @@
 
 - name: Department of Veterans Affairs
   apis: 
+  - name: "Benefits Intake API"
+    url: "https://developer.va.gov/explore/benefits/docs/benefits"
+  - name: "Appeals API"
+    url: "https://developer.va.gov/explore/benefits/docs/appeals"
+  - name: "Facilities API"
+    url: "https://developer.va.gov/explore/facilities/docs/facilities"
+  - name: "Veterans Health API"
+    url: "https://developer.va.gov/explore/health/docs/argonaut"
+  - name: "Benefits Intake API"
+    url: "https://developer.va.gov/explore/benefits/docs/benefits"
+  - name: "Benefits Intake API"
+    url: "https://developer.va.gov/explore/benefits/docs/benefits"
+  - name: "Benefits Intake API"
+    url: "https://developer.va.gov/explore/benefits/docs/benefits"
+    
+    
+
+
+
+
   - name: "Email Utilities API"
     url: "http://www1.va.gov/webservices/email/documentation/utilities.cfm"
   - name: "Posttraumatic Stress Disorder Programs API"
@@ -1069,6 +1089,8 @@
   apis:
   - name: "Federal Digital System API"
     url: "http://api.fdsys.gov/"
+  - name: "GovInfo API"
+    url: "https://api.govinfo.gov/docs/"
   - name: "GovInfo Link Service API" 
     url: "https://www.govinfo.gov/link-docs/"
 
