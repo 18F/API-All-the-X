@@ -166,13 +166,15 @@ General Services Administration:
 
 General Services Administration - Technology Transformation Service - Login.gov:
   url: https://developers.login.gov/
-  
 
 General Services Administration - Code.gov:
   url: https://developers.code.gov/
 
 Government Printing Office - Govinfo.gov:
   url: https://www.govinfo.gov/developers
+
+Library of Congress: 
+  url: https://labs.loc.gov/lc-for-robots/
 
 National Aeronautics and Space Administration:
   url: https://open.nasa.gov/
