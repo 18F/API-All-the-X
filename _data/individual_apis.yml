@@ -700,6 +700,8 @@
 
 - name: National Park Service (Interior)
   apis:
+  - name: "Main API"
+    url: "https://www.nps.gov/subjects/developer/api-documentation.htm"
   - name: "ArcGIS Server REST API"
     url: "http://mapservices.nps.gov/arcgis/sdk/rest/index.html?query.html"
   - name: "NPMap"
@@ -1082,9 +1084,6 @@
   - name: "USASearch"
     url: "http://search.digitalgov.gov/manual/api.html"
 
-
-
-
 - name: Government Printing Office
   apis:
   - name: "Federal Digital System API"
@@ -1098,6 +1097,12 @@
   apis:
   - name: "ITC Documents"
     url: "https://edis.usitc.gov/edis3-external/app"
+
+
+- name: Library of Congress
+  apis:
+  - name: "loc.gov API"
+    url: "https://libraryofcongress.github.io/data-exploration/"
 
 - name: Millenium Challenge Corporation
   apis:
