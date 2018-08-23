@@ -140,7 +140,11 @@ Department of the Treasury:
   url: http://www.treasury.gov/developer
 
 Department of Veterans Affairs:
+  url: https://developer.va.gov/
+
+Department of Veterans Affairs - Office of Information and Technology:
   url: http://www.va.gov/developer
+  
 
 Consumer Financial Protection Bureau:
   url: http://www.consumerfinance.gov/developers/
