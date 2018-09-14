@@ -7,6 +7,7 @@ title: "Write APIs"
 Write APIs offer tremendous potential for federal agencies as they unleash the benefits of APIs for the services and functionality that the agency offers.  Constituents usually look to do one of two things at a government website: get information or perform an action.  There's significant progress with agencies offering read-only data APIs, but there remains a need to apply the API model to the activities that are possible on .gov websites.  For instance, every place where an agency has an online equivalent of 'filling out a form' - there's an important question.  Can that only be done on the agency's website?  If so, that's a significant opportunity to employ a write API.  
 
 ## Active Examples
+* [VA Benefits Intake](https://developer.va.gov/explore/benefits/docs/benefits)
 * [Regulations.gov](https://www.federalregister.gov/blog/2014/07/new-submit-a-formal-comment-feature) (non-public)
 * [We The People](http://www.whitehouse.gov/blog/2014/10/23/new-we-people-write-api-and-what-it-means-you)
 * [IRS](http://www.irs.gov/Tax-Professionals/e-File-Providers-&-Partners/Become-an-Authorized-e-file-Provider#phase3)
