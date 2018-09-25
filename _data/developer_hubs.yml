@@ -161,7 +161,7 @@ Federal Reserve Bank of St. Louis:
   url: http://api.stlouisfed.org/
 
 General Services Administration:
-  url: http://www.gsa.gov/developers/
+  url: https://open.gsa.gov
 
 General Services Administration - Technology Transformation Service - Login.gov:
   url: https://developers.login.gov/
