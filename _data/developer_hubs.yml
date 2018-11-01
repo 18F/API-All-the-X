@@ -22,12 +22,6 @@ Department of Commerce - Census Bureau:
 Department of Commerce - International Trade Administration:
   url: https://developer.trade.gov/
 
-Department of Commerce - National Oceanic and Atmospheric Administration - National Weather Service:
-  url: https://graphical.weather.gov/xml/
-
-Department of Commerce - National Oceanic and Atmospheric Administration - Center for Operational Oceanographic Products and Services:
-  url: https://tidesandcurrents.noaa.gov/api/
-
 Department of Commerce - National Oceanic and Atmospheric Administration - National Climate Data Center:
   url: https://www.ncdc.noaa.gov/cdo-web/
   
@@ -48,9 +42,6 @@ Department of Energy:
 
 Energy Information Administration:
   url: https://www.eia.gov/developer/
-
-Argonne National Laboratory - National Environmental Policy Act:
-  url: https://nepanode.anl.gov/developer/
 
 National Renewable Energy Laboratory:
   url: https://developer.nrel.gov/
@@ -73,14 +64,8 @@ Department of Health and Human Services - Food and Drug Administration:
 Department of Health and Human Services - National Institute on Drug Abuse:
   url: https://www.drugabuse.gov/developer
 
-Department of Health and Human Services - National Institutes of Health:
-  url: https://federation.nih.gov/webServices.asp
-
 Department of Health and Human Services - National Library of Medicine:
   url: https://www.nlm.nih.gov/api/
-
-Department of Health and Human Services - Substance Abuse and Mental Health Services Administration:
-  url: https://store.samhsa.gov/developer
 
 Department of Homeland Security:
   url: https://www.dhs.gov/developer
@@ -209,11 +194,8 @@ U.S. Agency for International Development:
 Analytics.USA.gov: 
   url: https://analytics.usa.gov/developer
 
-BusinessUSA:
-  url: https://business.usa.gov/apis
-
 Data.gov:
-  url: https://developer.data.gov
+  url: https://www.data.gov/developers/
 
 Commerce - Census - MIDAAS API:
   url: https://midaas.commerce.gov/developers/
@@ -222,7 +204,7 @@ DEA - E-Commerce Program:
   url: https://www.deaecom.gov/developer.html
 
 DigitalGov Search:
-  url: https://search.digitalgov.gov/developer
+  url: https://search.gov/developer/
 
 EnergyStar.gov:
   url: https://data.energystar.gov/developers
@@ -237,7 +219,7 @@ Federal Digital System:
   url: https://api.fdsys.gov/
 
 FOIA.gov:
-  url: https://www.foia.gov/developer.html
+  url: https://www.foia.gov/developer
 
 ForeignAssistance.gov:
   url: https://www.foreignassistance.gov/web/Developer.aspx
