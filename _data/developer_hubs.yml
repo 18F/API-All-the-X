@@ -1,8 +1,8 @@
 White House:
-  url: http://www.whitehouse.gov/developers
+  url: https://www.whitehouse.gov/developers
 
 Department of Agriculture:
-  url: http://www.usda.gov/developers
+  url: https://www.usda.gov/developers
 
 Department of Agriculture - Economic Research Service:
   url: https://www.ers.usda.gov/developer/
@@ -11,55 +11,55 @@ Department of Agriculture - National Agricultural Statistics Service:
   url: https://www.nass.usda.gov/developer/
 
 Department of Commerce:
-  url: http://www.commerce.gov/developer
+  url: https://www.commerce.gov/developer
 
 Department of Commerce - Bureau of Economic Analysis:
-  url: http://www.bea.gov/api
+  url: https://www.bea.gov/api
 
 Department of Commerce - Census Bureau:
-  url: http://www.census.gov/developers/
+  url: https://www.census.gov/developers/
 
 Department of Commerce - International Trade Administration:
-  url: http://developer.trade.gov/
+  url: https://developer.trade.gov/
 
 Department of Commerce - National Oceanic and Atmospheric Administration - National Weather Service:
-  url: http://graphical.weather.gov/xml/
+  url: https://graphical.weather.gov/xml/
 
 Department of Commerce - National Oceanic and Atmospheric Administration - Center for Operational Oceanographic Products and Services:
-  url: http://tidesandcurrents.noaa.gov/api/
+  url: https://tidesandcurrents.noaa.gov/api/
 
 Department of Commerce - National Oceanic and Atmospheric Administration - National Climate Data Center:
-  url: http://www.ncdc.noaa.gov/cdo-web/
+  url: https://www.ncdc.noaa.gov/cdo-web/
   
 Department of Commerce - US Patent and Trademark Office:
   url: https://developer.uspto.gov/
 
 Department of Defense:
-  url: http://www.defense.gov/developer/
+  url: https://www.defense.gov/developer/
 
 Department of Defense - Arlington National Cemetary:
-  url: http://www.arlingtoncemetery.mil/Developer/
+  url: https://www.arlingtoncemetery.mil/Developer/
 
 Department of Education:
-  url: http://www.ed.gov/developers
+  url: https://www.ed.gov/developers
 
 Department of Energy:
-  url: http://www.energy.gov/developers
+  url: https://www.energy.gov/developers
 
 Energy Information Administration:
-  url: http://www.eia.gov/developer/
+  url: https://www.eia.gov/developer/
 
 Argonne National Laboratory - National Environmental Policy Act:
-  url: http://nepanode.anl.gov/developer/
+  url: https://nepanode.anl.gov/developer/
 
 National Renewable Energy Laboratory:
-  url: http://developer.nrel.gov/
+  url: https://developer.nrel.gov/
 
 Office of Scientific and Technical Information:
-  url: http://www.osti.gov/XMLServices
+  url: https://www.osti.gov/XMLServices
 
 Department of Health and Human Services:
-  url: http://www.hhs.gov/developer
+  url: https://www.hhs.gov/developer
 
 Department of Health and Human Services - Centers for Medicare and Medicaid Services:
   url: https://developer.cms.gov/
@@ -68,101 +68,101 @@ Department of Health and Human Services - Centers for Medicare and Medicaid Serv
   url: https://qpp.cms.gov/developers
   
 Department of Health and Human Services - Food and Drug Administration:
-  url: http://open.fda.gov
+  url: https://open.fda.gov
 
 Department of Health and Human Services - National Institute on Drug Abuse:
-  url: http://www.drugabuse.gov/developer
+  url: https://www.drugabuse.gov/developer
 
 Department of Health and Human Services - National Institutes of Health:
   url: https://federation.nih.gov/webServices.asp
 
 Department of Health and Human Services - National Library of Medicine:
-  url: http://www.nlm.nih.gov/api/
+  url: https://www.nlm.nih.gov/api/
 
 Department of Health and Human Services - Substance Abuse and Mental Health Services Administration:
-  url: http://store.samhsa.gov/developer
+  url: https://store.samhsa.gov/developer
 
 Department of Homeland Security:
-  url: http://www.dhs.gov/developer
+  url: https://www.dhs.gov/developer
 
 Federal Emergency Management Agency:
-  url: http://www.fema.gov/developer-resources
+  url: https://www.fema.gov/developer-resources
  
 Department of Housing and Urban Development:
-  url: http://www.hud.gov/developer
+  url: https://www.hud.gov/developer
 
 Department of the Interior:
-  url: http://www.doi.gov/developer
+  url: https://www.doi.gov/developer
  
 Department of the Interior - National Park Service:
   url: https://www.nps.gov/developer
  
 U.S. Geological Survey:
-  url: http://data.usgs.gov/
+  url: https://data.usgs.gov/
 
 Department of Justice:
-  url: http://www.justice.gov/developer
+  url: https://www.justice.gov/developer
 
 Bureau of Alcohol, Tobacco, Firearms, and Explosives:
   url: https://www.atf.gov/content/About/statistics/developer
 
 Bureau of Justice Statistics:
-  url: http://www.bjs.gov/developer/
+  url: https://www.bjs.gov/developer/
 
 Office of Justice Programs:
-  url: http://data.ojp.gov/developer/
+  url: https://data.ojp.gov/developer/
 
 Department of Labor:
-  url: http://developer.dol.gov/
+  url: https://developer.dol.gov/
 
 Bureau of Labor Statistics:
-  url: http://www.bls.gov/developers/
+  url: https://www.bls.gov/developers/
 
 Department of State:
-  url: http://www.state.gov/developer
+  url: https://www.state.gov/developer
 
 Office of the Historian - State Department:
-  url: http://history.state.gov/developer
+  url: https://history.state.gov/developer
 
 Department of Transportation:
-  url: http://www.dot.gov/developer
+  url: https://www.dot.gov/developer
 
 Federal Aviation Administration:
-  url: http://services.faa.gov/
+  url: https://services.faa.gov/
 
 Federal Motor Carrier Safety Administration:
-  url: http://mobile.fmcsa.dot.gov/developer
+  url: https://mobile.fmcsa.dot.gov/developer
 
 National Highway Traffic Safety Administration:
-  url: http://www.nhtsa.gov/webapi/Default.aspx
+  url: https://www.nhtsa.gov/webapi/Default.aspx
 
 Department of the Treasury:
-  url: http://www.treasury.gov/developer
+  url: https://www.treasury.gov/developer
 
 Department of Veterans Affairs:
   url: https://developer.va.gov/
 
 Department of Veterans Affairs - Office of Information and Technology:
-  url: http://www.va.gov/developer
+  url: https://www.va.gov/developer
   
 
 Consumer Financial Protection Bureau:
-  url: http://www.consumerfinance.gov/developers/
+  url: https://www.consumerfinance.gov/developers/
 
 Environmental Protection Agency:
-  url: http://www.epa.gov/developer/
+  url: https://www.epa.gov/developer/
 
 Federal Communications Commission:
-  url: http://www.fcc.gov/developers
+  url: https://www.fcc.gov/developers
 
 Federal Election Commission:
   url: https://api.open.fec.gov/developers/
 
 Federal Reserve Bank of St. Louis:
-  url: http://api.stlouisfed.org/
+  url: https://api.stlouisfed.org/
 
 General Services Administration:
-  url: http://www.gsa.gov/developers/
+  url: https://www.gsa.gov/developers/
 
 General Services Administration - Technology Transformation Service - Login.gov:
   url: https://developers.login.gov/
@@ -180,49 +180,49 @@ National Aeronautics and Space Administration:
   url: https://open.nasa.gov/
 
 National Archives and Records Administration:
-  url: http://www.archives.gov/developers/
+  url: https://www.archives.gov/developers/
 
 Federal Register:
-  url: http://www.federalregister.gov/blog/learn/developers
+  url: https://www.federalregister.gov/blog/learn/developers
 
 National Science Foundation:
-  url: http://nsf.gov/developer/
+  url: https://nsf.gov/developer/
 
 Nuclear Regulatory Commission:
-  url: http://www.nrc.gov/developer.html
+  url: https://www.nrc.gov/developer.html
 
 Office of Personnel Management:
-  url: http://www.opm.gov/developer
+  url: https://www.opm.gov/developer
 
 Recovery Accountability and Transparency Board:
-  url: http://www.recovery.gov/arra/FAQ/Developer/Pages/default.aspx
+  url: https://www.recovery.gov/arra/FAQ/Developer/Pages/default.aspx
 
 Small Business Administration:
-  url: http://www.sba.gov/about-sba/sba_performance/sba_data_store/web_service_api
+  url: https://www.sba.gov/about-sba/sba_performance/sba_data_store/web_service_api
 
 Social Security Administration:
-  url: http://www.ssa.gov/developer
+  url: https://www.ssa.gov/developer
 
 U.S. Agency for International Development:
-  url: http://www.usaid.gov/developer
+  url: https://www.usaid.gov/developer
 
 Analytics.USA.gov: 
   url: https://analytics.usa.gov/developer
 
 BusinessUSA:
-  url: http://business.usa.gov/apis
+  url: https://business.usa.gov/apis
 
 Data.gov:
-  url: http://developer.data.gov
+  url: https://developer.data.gov
 
 Commerce - Census - MIDAAS API:
   url: https://midaas.commerce.gov/developers/
 
 DEA - E-Commerce Program:
-  url: http://www.deaecom.gov/developer.html
+  url: https://www.deaecom.gov/developer.html
 
 DigitalGov Search:
-  url: http://search.digitalgov.gov/developer
+  url: https://search.digitalgov.gov/developer
 
 EnergyStar.gov:
   url: https://data.energystar.gov/developers
@@ -234,88 +234,88 @@ FCC - Mapping Broadband Health in America:
   url: https://www.fcc.gov/health/maps/developers
 
 Federal Digital System:
-  url: http://api.fdsys.gov/
+  url: https://api.fdsys.gov/
 
 FOIA.gov:
-  url: http://www.foia.gov/developer.html
+  url: https://www.foia.gov/developer.html
 
 ForeignAssistance.gov:
-  url: http://www.foreignassistance.gov/web/Developer.aspx
+  url: https://www.foreignassistance.gov/web/Developer.aspx
 
 FuelEconomy.gov:
-  url: http://www.fueleconomy.gov/ws
+  url: https://www.fueleconomy.gov/ws
 
 Geoplatform.gov:
-  url: http://www.geoplatform.gov/developer-pathway
+  url: https://www.geoplatform.gov/developer-pathway
 
 GlobalChange.gov:
-  url: http://data.globalchange.gov/
+  url: https://data.globalchange.gov/
 
 Healthcare.gov:
-  url: http://www.healthcare.gov/developers
+  url: https://www.healthcare.gov/developers
 
 HealthData.gov:
-  url: http://www.healthdata.gov/developer
+  url: https://www.healthdata.gov/developer
 
 HealthFinder.gov:
-  url: http://healthfinder.gov/developers/
+  url: https://healthfinder.gov/developers/
 
 HHS - Health Indicator Warehouse:
-  url: http://healthindicators.gov/Developers/
+  url: https://healthindicators.gov/Developers/
 
 HHS - Medicare:
-  url: http://data.medicare.gov/
+  url: https://data.medicare.gov/
 
 Information Sharing Environment:
-  url: http://ise.gov/developers
+  url: https://ise.gov/developers
 
 Integrated Taxonomic Information System:
-  url: http://www.itis.gov/ws_description.html
+  url: https://www.itis.gov/ws_description.html
 
 ITDashboard.gov:
-  url: http://www.itdashboard.gov/data_feeds
+  url: https://www.itdashboard.gov/data_feeds
 
 JobCenter:
-  url: http://jobcenter.usa.gov/apis
+  url: https://jobcenter.usa.gov/apis
 
 MyUSA:
-  url: http://my.usa.gov/developer/
+  url: https://my.usa.gov/developer/
 
 National Broadband Map:
-  url: http://www.broadbandmap.gov/developer/
+  url: https://www.broadbandmap.gov/developer/
 
 National Information Exchange Model:
-  url: http://www.niem.gov/developers
+  url: https://www.niem.gov/developers
 
 National Map:
-  url: http://viewer.nationalmap.gov/example/services.html
+  url: https://viewer.nationalmap.gov/example/services.html
 
 National Resource Directory:
-  url: http://www.nrd.gov/home/api
+  url: https://www.nrd.gov/home/api
 
 Performance.gov: 
-  url: http://performance.gov/api
+  url: https://performance.gov/api
 
 Performance.gov Permits:
-  url: http://permits.performance.gov/developers-api
+  url: https://permits.performance.gov/developers-api
 
 Pillbox:
-  url: http://pillbox.nlm.nih.gov/developer.html
+  url: https://pillbox.nlm.nih.gov/developer.html
 
 Regulations.gov:
-  url: http://www.regulations.gov/#!developers
+  url: https://www.regulations.gov/#!developers
 
 Sustainable Facilities Tools:
-  url: http://sftool.gov/developers
+  url: https://sftool.gov/developers
 
 Small Business Innovation Research:
-  url: http://www.sbir.gov/apis
+  url: https://www.sbir.gov/apis
 
 TreasuryDirect.gov:
-  url: http://www.treasurydirect.gov/webapis/webapisindex.htm
+  url: https://www.treasurydirect.gov/webapis/webapisindex.htm
 
 USA.gov:
-  url: http://www.usa.gov/developer
+  url: https://www.usa.gov/developer
 
 USAJOBS.gov:
   url: https://data.usajobs.gov
@@ -324,4 +324,4 @@ USASpending.gov:
   url: https://api.usaspending.gov/
 
 U.S. Courts - PACER:
-  url: http://www.pacer.gov/cmecf/developer/
+  url: https://www.pacer.gov/cmecf/developer/
