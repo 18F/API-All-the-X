@@ -4,7 +4,7 @@
 Description 
 --------
 
-The [official microsite of the /Developer Program](http://18f.github.io/API-All-the-X/), a project of [18F](http://18f.gsa.gov) API Engagement. 
+A project of [18F](http://18f.gsa.gov) API Engagement, the contents of this project [ now be found in this folder](https://github.com/18F/API-All-the-X/tree/master/pages).  
 
 
 How to contribute
