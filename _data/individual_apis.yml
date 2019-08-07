@@ -1,3 +1,8 @@
+This file is now being maintained here - https://github.com/18F/api.data.gov/blob/master/data/apis.yml
+
+Do not add more below, please.  -Gray
+------------------------
+
 - name: White House
   apis:
   - name: "Policy Snapshots"
