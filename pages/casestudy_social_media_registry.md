@@ -54,7 +54,7 @@ And, as I explained above, there are APIs for developers to access the entire li
 
 Personally, I think the idea to allow anyone with a .mil or .gov email address to verify accounts is one of the most remarkable things about the registry. Dozens of public servants have already registered hundreds of social media accounts that otherwise would have taken many hours to seek out and gather.  
 
-While I’m sure the list of accounts in the registry is not perfectly comprehensive, it’s much more comprehensive that any individual or small team of people could make it.  
+While I’m sure the list of accounts in the registry is not perfectly comprehensive, it’s much more comprehensive than any individual or small team of people could make it.  
 
 This approach allows us the benefits of crowdsourcing with the added benefit of knowing that every participant has been vetted and trusted with an official government email address. We call it fedsourcing, and I hope to see the method used in other inter-agency information gathering applications.  
 
