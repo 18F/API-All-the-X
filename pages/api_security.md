@@ -44,8 +44,8 @@ More fundamentally, the API producer must also ensure the role of stakeholder as
 
 ### Resources 
 
-* [API Webinar Series: Advanced Operations—Contracting, Legal, and IT Security](http://www.howto.gov/training/classes/api-advanced-operations)
+* [API Webinar Series: Advanced Operations—Contracting, Legal, and IT Security](https://web.archive.org/web/20160818200904/http://www.howto.gov/training/classes/api-advanced-operations) (archived)
 * [Explanation of API Proxies](http://apievangelist.com/2011/06/11/the-battle-for-your-api-proxy/)
-* [How to Secure an API—Tips for REST + JSON Developers](http://www.stormpath.com/blog/how-secure-api-tips-rest-json-developers)
-* [Designing a Secure REST (Web) API without OAuth](http://www.thebuzzmedia.com/designing-a-secure-rest-api-without-oauth-authentication/)
-* [Cloud API Security Panel at Infosec](http://blog.programmableweb.com/2012/05/07/cloud-api-security-panel-at-infosec/)
+* [Top 10 API Security Best Practices](https://frontegg.com/guides/top-10-api-security-best-practices)
+* [Designing a Secure REST (Web) API without OAuth](https://web.archive.org/web/20151212040735/http://www.thebuzzmedia.com/designing-a-secure-rest-api-without-oauth-authentication/) (archived)
+* [Cloud API Security Panel at Infosec](https://web.archive.org/web/20160104173648/http://blog.programmableweb.com/2012/05/07/cloud-api-security-panel-at-infosec/) (archived)
